@@ -27,6 +27,40 @@ export default defineConfig({
             type: 'image/png'
           }
         ]
+      },
+      workbox: {
+        runtimeCaching: [
+          {
+            // Cache API requests
+            urlPattern: /^https:\/\/pwsecure\.gourav23032009\.workers\.dev\/api\/.*/i,
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'pwx-api-cache',
+              expiration: {
+                maxEntries: 100,
+                maxAgeSeconds: 60 * 60 * 24 // 24 hours
+              },
+              cacheableResponse: {
+                statuses: [0, 200]
+              }
+            }
+          },
+          {
+            // Cache Images from Cloudfront/PW servers
+            urlPattern: /^https:\/\/.*\.cloudfront\.net\/.*/i,
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'pwx-image-cache',
+              expiration: {
+                maxEntries: 200,
+                maxAgeSeconds: 60 * 60 * 24 * 7 // 7 days
+              },
+              cacheableResponse: {
+                statuses: [0, 200]
+              }
+            }
+          }
+        ]
       }
     })
   ]

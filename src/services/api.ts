@@ -65,12 +65,45 @@ export interface TestData {
   sections: TestSection[];
 }
 
+const cache = new Map<string, any>();
+
+async function fetchWithCache(url: string) {
+  // 1. Check RAM Cache (fastest)
+  if (cache.has(url)) return cache.get(url);
+
+  // 2. Check SessionStorage Cache (persists across reloads during the session)
+  try {
+    const stored = sessionStorage.getItem(`pwx_api_${url}`);
+    if (stored) {
+      const parsed = JSON.parse(stored);
+      cache.set(url, parsed); // sync to RAM
+      return parsed;
+    }
+  } catch(e) {
+    console.warn('SessionStorage error:', e);
+  }
+
+  // 3. Network Fetch
+  console.log(`📡 Fetching from API: ${url}`);
+  const response = await fetch(url);
+  if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+  const data = await response.json();
+
+  // Save to Cache
+  cache.set(url, data);
+  try {
+    sessionStorage.setItem(`pwx_api_${url}`, JSON.stringify(data));
+  } catch(e) {
+    console.warn('SessionStorage full or unavailable');
+  }
+
+  return data;
+}
+
 export const api = {
   async getBooks(): Promise<Book[]> {
     try {
-      const response = await fetch(`${BASE_URL}/pw/engagement/ai-ncert/v1/books`);
-      if (!response.ok) throw new Error('Failed to fetch books');
-      const data = await response.json();
+      const data = await fetchWithCache(`${BASE_URL}/pw/engagement/ai-ncert/v1/books`);
       return data.data || [];
     } catch (error) {
       console.error(error);
@@ -80,10 +113,7 @@ export const api = {
 
   async getChapters(bookId: string): Promise<Chapter[]> {
     try {
-      const response = await fetch(`${BASE_URL}/pw/engagement/ai-ncert/v1/books/${bookId}/all-chapters`);
-      if (!response.ok) throw new Error('Failed to fetch chapters');
-      const data = await response.json();
-      // The chapters are returned in data.chapterDetails array based on previous tests
+      const data = await fetchWithCache(`${BASE_URL}/pw/engagement/ai-ncert/v1/books/${bookId}/all-chapters`);
       return data.data?.chapterDetails || [];
     } catch (error) {
       console.error(error);
@@ -98,12 +128,13 @@ export const api = {
     const url = `${BASE_URL}/pw/v3/test-service/tests/${exerciseId}/start-test?batchId=${batchId}&cohortId=${cohortId}&exerciseId=${exerciseId}&testSource=BOOKS_EXERCISE&type=${type}`;
     
     try {
-      const response = await fetch(url, { method: 'GET' });
-      if (!response.ok) throw new Error(`Failed to ${type.toLowerCase()} test`);
-      const data = await response.json();
+      // Test data is large, but static. We cache it to save massive API costs when users reload.
+      const data = await fetchWithCache(url);
       if (data.data) {
-        data.data._id = exerciseId;
-        return data.data;
+        // Deep clone so multiple opens don't mutate the cached object by accident
+        const testData = JSON.parse(JSON.stringify(data.data));
+        testData._id = exerciseId;
+        return testData;
       }
       return null;
     } catch (error) {
