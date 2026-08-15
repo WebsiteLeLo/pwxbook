@@ -64,7 +64,6 @@ export const PrintLayout: React.FC<PrintLayoutProps> = ({ testData, onBack }) =>
 
         <div className="questions-section">
           {allQuestions.map((q, index) => {
-            const hasOptions = q.options && q.options.length > 0;
             return (
               <div key={q._id} style={{ marginBottom: '2rem', pageBreakInside: 'avoid' }}>
                 <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '0.75rem' }}>

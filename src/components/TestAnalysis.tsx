@@ -13,7 +13,7 @@ interface TestAnalysisProps {
   onExit: () => void;
 }
 
-export const TestAnalysis: React.FC<TestAnalysisProps> = ({ testData, selectedAnswers, statuses, timeTaken, timePerQuestion = {}, onExit }) => {
+export const TestAnalysis: React.FC<TestAnalysisProps> = ({ testData, selectedAnswers, timeTaken, timePerQuestion = {}, onExit }) => {
   const [view, setView] = useState<'summary' | 'review'>('summary');
   const [currentIndex, setCurrentIndex] = useState(0);
 

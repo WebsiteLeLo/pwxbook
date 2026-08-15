@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { storage, SpacedEntry } from '../services/storage';
 import { Question, Option } from '../services/api';
-import { BrainCircuit, ArrowLeft, PlayCircle, Check, X, ArrowRight } from 'lucide-react';
+import { BrainCircuit, ArrowLeft, Check, X } from 'lucide-react';
 
 interface ReviewPageProps {
   onBack: () => void;
