@@ -18,7 +18,14 @@ import { Bookmark, BrainCircuit, Activity, Flame, AlertTriangle } from 'lucide-r
 type AppState = 'BOOKS' | 'CHAPTERS' | 'TEST_CONFIG' | 'PRACTICE_TEST' | 'EXAM_TEST' | 'ANALYSIS' | 'BOOKMARKS' | 'REVIEW' | 'DASHBOARD' | 'PRINT_TEST' | 'MISTAKES';
 
 function App() {
-  const [currentState, setCurrentState] = useState<AppState>('BOOKS');
+  const [currentState, setAppState] = useState<AppState>('BOOKS');
+
+  const navigateTo = (newState: AppState, pushHistory = true) => {
+    if (pushHistory) {
+      window.history.pushState({ appState: newState }, '');
+    }
+    setAppState(newState);
+  };
   const [books, setBooks] = useState<Book[]>([]);
   const [chapters, setChapters] = useState<Chapter[]>([]);
   const [testData, setTestData] = useState<TestData | null>(null);
@@ -37,7 +44,18 @@ function App() {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
-  useEffect(() => { loadBooks(); }, []);
+  useEffect(() => { 
+    loadBooks(); 
+    window.history.replaceState({ appState: 'BOOKS' }, '');
+
+    const handlePopState = (event: PopStateEvent) => {
+      if (event.state && event.state.appState) {
+        setAppState(event.state.appState);
+      }
+    };
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
+  }, []);
 
   const loadBooks = async () => {
     setIsLoading(true); setError(null);
@@ -50,7 +68,7 @@ function App() {
     setSelectedBookId(bookId); setIsLoading(true); setError(null);
     try {
       setChapters(await api.getChapters(bookId));
-      setCurrentState('CHAPTERS');
+      navigateTo('CHAPTERS');
       window.scrollTo(0, 0);
     } catch { setError('Failed to load chapters.'); }
     finally { setIsLoading(false); }
@@ -64,7 +82,7 @@ function App() {
     try {
       let data = await api.startTest(testId, false);
       if (!data) data = await api.startTest(testId, true);
-      if (data) { setTestData(data); setCurrentState('TEST_CONFIG'); }
+      if (data) { setTestData(data); navigateTo('TEST_CONFIG'); }
       else { setError('Failed to load test data.'); }
     } catch { setError('Failed to load test.'); }
     finally { setIsLoading(false); }
@@ -72,7 +90,7 @@ function App() {
 
   const handleStartTest = (mode: TestMode, duration?: number) => {
     if (duration) setTestDuration(duration);
-    setCurrentState(mode === 'practice' ? 'PRACTICE_TEST' : 'EXAM_TEST');
+    navigateTo(mode === 'practice' ? 'PRACTICE_TEST' : 'EXAM_TEST');
     window.scrollTo(0, 0);
   };
 
@@ -85,19 +103,19 @@ function App() {
   const handleTestComplete = (completed: boolean) => { 
     if (completed) markProgress(); 
     setTestData(null); 
-    setCurrentState('CHAPTERS'); 
+    navigateTo('CHAPTERS'); 
   };
-  const handleCancelTest = () => { setTestData(null); setCurrentState('CHAPTERS'); };
+  const handleCancelTest = () => { setTestData(null); navigateTo('CHAPTERS'); };
 
   const handleExamFinish = (answers: Record<string, string>, statuses: Record<string, number>, timeTaken: number, timePerQuestion?: Record<string, number>) => {
     setExamAnswers(answers); setExamStatuses(statuses); setExamTimeTaken(timeTaken);
     setExamTimePerQ(timePerQuestion || {});
     markProgress();
-    setCurrentState('ANALYSIS');
+    navigateTo('ANALYSIS');
     window.scrollTo(0, 0);
   };
 
-  const handleBackToBooks = () => { setCurrentState('BOOKS'); setSelectedBookId(''); setChapters([]); };
+  const handleBackToBooks = () => { navigateTo('BOOKS'); setSelectedBookId(''); setChapters([]); };
 
   const hideHeader = currentState === 'PRACTICE_TEST' || currentState === 'EXAM_TEST' || currentState === 'ANALYSIS';
 
@@ -118,11 +136,11 @@ function App() {
                 <Flame size={16} color="#f59e0b" fill="#f59e0b" /> <span className="streak-count">{storage.getProfile().currentStreak}</span>
               </div>
 
-              <button onClick={() => setCurrentState('DASHBOARD')} className="btn btn-secondary nav-btn">
+              <button onClick={() => navigateTo('DASHBOARD')} className="btn btn-secondary nav-btn">
                 <Activity size={16} /> <span className="nav-btn-text">Dashboard</span>
               </button>
 
-              <button onClick={() => setCurrentState('REVIEW')} className="btn btn-secondary nav-btn" style={{ position: 'relative' }}>
+              <button onClick={() => navigateTo('REVIEW')} className="btn btn-secondary nav-btn" style={{ position: 'relative' }}>
                 <BrainCircuit size={16} /> <span className="nav-btn-text">Review</span>
                 {storage.getDueReviews().length > 0 && (
                   <span className="notification-badge">
@@ -130,10 +148,10 @@ function App() {
                   </span>
                 )}
               </button>
-              <button onClick={() => setCurrentState('MISTAKES')} className="btn btn-secondary nav-btn">
+              <button onClick={() => navigateTo('MISTAKES')} className="btn btn-secondary nav-btn">
                 <AlertTriangle size={16} /> <span className="nav-btn-text">Mistakes</span>
               </button>
-              <button onClick={() => setCurrentState('BOOKMARKS')} className="btn btn-secondary nav-btn">
+              <button onClick={() => navigateTo('BOOKMARKS')} className="btn btn-secondary nav-btn">
                 <Bookmark size={16} /> <span className="nav-btn-text">Saved</span>
               </button>
             </div>
@@ -157,7 +175,7 @@ function App() {
         {currentState === 'TEST_CONFIG' && testData && (
           <>
             <ChapterList chapters={chapters} bookId={selectedBookId} onSelectTest={handleSelectTest} onBack={handleBackToBooks} isLoading={false} />
-            <TestConfigModal testName={testData.name} onStart={handleStartTest} onCancel={handleCancelTest} onPrint={() => setCurrentState('PRINT_TEST')} />
+            <TestConfigModal testName={testData.name} onStart={handleStartTest} onCancel={handleCancelTest} onPrint={() => navigateTo('PRINT_TEST')} />
           </>
         )}
 
@@ -188,7 +206,7 @@ function App() {
         )}
 
         {currentState === 'PRINT_TEST' && testData && (
-          <PrintLayout testData={testData} onBack={() => setCurrentState('TEST_CONFIG')} />
+          <PrintLayout testData={testData} onBack={() => navigateTo('TEST_CONFIG')} />
         )}
         {currentState === 'MISTAKES' && (
           <MistakesPage onBack={handleBackToBooks} />

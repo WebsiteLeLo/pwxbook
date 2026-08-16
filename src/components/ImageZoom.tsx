@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { X, ZoomIn } from 'lucide-react';
 
 interface ImageZoomProps {
@@ -9,11 +9,32 @@ interface ImageZoomProps {
 export const ImageZoom: React.FC<ImageZoomProps> = ({ src, alt = "Content" }) => {
   const [isOpen, setIsOpen] = useState(false);
 
+  useEffect(() => {
+    const handlePopState = () => {
+      if (isOpen) setIsOpen(false);
+    };
+    if (isOpen) {
+      window.addEventListener('popstate', handlePopState);
+      return () => window.removeEventListener('popstate', handlePopState);
+    }
+  }, [isOpen]);
+
+  const openZoom = () => {
+    window.history.pushState({ zoom: true }, '');
+    setIsOpen(true);
+  };
+
+  const closeZoom = () => {
+    if (isOpen) {
+      window.history.back(); // will trigger popstate which closes it
+    }
+  };
+
   return (
     <>
       <div 
         style={{ position: 'relative', display: 'inline-block', cursor: 'zoom-in', maxWidth: '100%' }}
-        onClick={() => setIsOpen(true)}
+        onClick={openZoom}
       >
         <img 
           src={src} 
@@ -52,7 +73,7 @@ export const ImageZoom: React.FC<ImageZoomProps> = ({ src, alt = "Content" }) =>
             justifyContent: 'center', 
             padding: '1rem' 
           }}
-          onClick={() => setIsOpen(false)}
+          onClick={closeZoom}
         >
           <button 
             style={{ 
@@ -86,8 +107,8 @@ export const ImageZoom: React.FC<ImageZoomProps> = ({ src, alt = "Content" }) =>
               cursor: 'zoom-out'
             }} 
             onClick={(e) => {
-              e.stopPropagation(); // allow clicking the image without closing if we wanted to add pan/zoom later, but for now clicking closes too
-              setIsOpen(false);
+              e.stopPropagation(); 
+              closeZoom();
             }}
           />
         </div>
