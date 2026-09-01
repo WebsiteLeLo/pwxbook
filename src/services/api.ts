@@ -1,4 +1,4 @@
-const BASE_URL = 'https://pwsecure.gourav23032009.workers.dev/api';
+const BASE_URL = 'https://proxy.streamvideo.co.in/fetch/api.penpencil.co';
 
 export interface Book {
   _id: string;
@@ -103,7 +103,7 @@ async function fetchWithCache(url: string) {
 export const api = {
   async getBooks(): Promise<Book[]> {
     try {
-      const data = await fetchWithCache(`${BASE_URL}/pw/engagement/ai-ncert/v1/books`);
+      const data = await fetchWithCache(`${BASE_URL}/engagement/ai-ncert/v1/books`);
       return data.data || [];
     } catch (error) {
       console.error(error);
@@ -113,7 +113,7 @@ export const api = {
 
   async getChapters(bookId: string): Promise<Chapter[]> {
     try {
-      const data = await fetchWithCache(`${BASE_URL}/pw/engagement/ai-ncert/v1/books/${bookId}/all-chapters`);
+      const data = await fetchWithCache(`${BASE_URL}/engagement/ai-ncert/v1/books/${bookId}/all-chapters`);
       return data.data?.chapterDetails || [];
     } catch (error) {
       console.error(error);
@@ -125,7 +125,7 @@ export const api = {
     const batchId = '676e4dee1ec923bc192f38c9';
     const cohortId = '6a397587774de0a53b5bb862';
     const type = isResume ? 'Resume' : 'Start';
-    const url = `${BASE_URL}/pw/v3/test-service/tests/${exerciseId}/start-test?batchId=${batchId}&cohortId=${cohortId}&exerciseId=${exerciseId}&testSource=BOOKS_EXERCISE&type=${type}`;
+    const url = `${BASE_URL}/v3/test-service/tests/${exerciseId}/start-test?batchId=${batchId}&cohortId=${cohortId}&exerciseId=${exerciseId}&testSource=BOOKS_EXERCISE&type=${type}`;
     
     try {
       // Test data is large, but static. We cache it to save massive API costs when users reload.
