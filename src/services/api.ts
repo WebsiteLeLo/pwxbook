@@ -1,4 +1,4 @@
-const BASE_URL = 'https://proxy.streamvideo.co.in/fetch/api.penpencil.co';
+const BASE_URL = 'https://pwsecure.gourav23032009.workers.dev/api/pw';
 
 export interface Book {
   _id: string;
