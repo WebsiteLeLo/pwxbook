@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Chapter, TestSummary } from '../services/api';
 import { storage } from '../services/storage';
-import { ChevronDown, ChevronUp, BookOpen, PlayCircle, ArrowLeft } from 'lucide-react';
+import { ChevronDown, ChevronUp, BookOpen, PlayCircle, ArrowLeft, Download } from 'lucide-react';
 
 interface ChapterListProps {
   chapters: Chapter[];
@@ -13,6 +13,8 @@ interface ChapterListProps {
 
 export const ChapterList: React.FC<ChapterListProps> = ({ chapters, bookId, onSelectTest, onBack, isLoading }) => {
   const [expandedId, setExpandedId] = useState<string | null>(null);
+  const [isDownloading, setIsDownloading] = useState(false);
+  const [downloadProgress, setDownloadProgress] = useState(0);
 
   if (isLoading) {
     return <div className="spinner"></div>;
@@ -60,15 +62,114 @@ export const ChapterList: React.FC<ChapterListProps> = ({ chapters, bookId, onSe
     return exercises;
   };
 
+  const checkAdminAccess = () => {
+    const accessKey = localStorage.getItem('pwx_admin_access');
+    if (accessKey === 'granted') return true;
+
+    const password = window.prompt("Enter admin password to download book data:");
+    // Setting a default password "gourav@pwx"
+    if (password === 'gourav@pwx') {
+      localStorage.setItem('pwx_admin_access', 'granted');
+      return true;
+    }
+    
+    if (password !== null) {
+      alert("Incorrect password! Access denied.");
+    }
+    return false;
+  };
+
+  const downloadBookData = async () => {
+    if (!checkAdminAccess()) return;
+    
+    try {
+      setIsDownloading(true);
+      setDownloadProgress(0);
+      const JSZip = (await import('jszip')).default;
+      const { saveAs } = (await import('file-saver'));
+      const apiModule = await import('../services/api');
+      
+      const zip = new JSZip();
+      
+      // Calculate total exercises for progress tracking
+      let totalExercises = 0;
+      chapters.forEach(c => {
+        totalExercises += getExercises(c).length;
+      });
+
+      if (totalExercises === 0) {
+        alert("No exercises found to download.");
+        setIsDownloading(false);
+        return;
+      }
+
+      let completed = 0;
+
+      // Fetch and organize all test data
+      for (const chapter of chapters) {
+        // Create a folder for the chapter (sanitize folder name)
+        const chapterFolderName = (chapter.title || 'Untitled Chapter').replace(/[/\\?%*:|"<>]/g, '-');
+        const chapterFolder = zip.folder(chapterFolderName);
+        
+        const exercises = getExercises(chapter);
+        
+        for (const exercise of exercises) {
+          const testId = exercise._id;
+          let testData = await apiModule.api.startTest(testId, false);
+          if (!testData) {
+             testData = await apiModule.api.startTest(testId, true);
+          }
+          if (testData) {
+            // Use the test name for the JSON file (sanitize file name)
+            const rawTestName = exercise.name || testData.name || testId;
+            const testFileName = rawTestName.replace(/[/\\?%*:|"<>]/g, '-');
+            chapterFolder?.file(`${testFileName}.json`, JSON.stringify(testData, null, 2));
+          }
+          
+          completed++;
+          setDownloadProgress(Math.round((completed / totalExercises) * 100));
+        }
+      }
+      
+      const blob = await zip.generateAsync({ type: 'blob' });
+      saveAs(blob, `book_${bookId}_data.zip`);
+    } catch (err) {
+      console.error('Failed to download book data:', err);
+      alert('Error downloading book data. Please check console for details.');
+    } finally {
+      setIsDownloading(false);
+      setDownloadProgress(0);
+    }
+  };
+
   return (
     <div>
       <button onClick={onBack} className="btn btn-secondary mb-8">
         <ArrowLeft size={20} /> Back to Library
       </button>
 
-      <div className="page-header">
-        <h2 className="page-title">Chapters & Exercises</h2>
-        <p className="page-subtitle">Select a chapter to view its available exercises.</p>
+      <div className="page-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: '1rem' }}>
+        <div>
+          <h2 className="page-title">Chapters & Exercises</h2>
+          <p className="page-subtitle">Select a chapter to view its available exercises.</p>
+        </div>
+        <button 
+          className="btn btn-primary"
+          onClick={downloadBookData}
+          disabled={isDownloading}
+          style={{ minWidth: '200px' }}
+        >
+          {isDownloading ? (
+            <span style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+              <span className="spinner" style={{ width: '16px', height: '16px', margin: 0, borderWidth: '2px', borderColor: 'rgba(255,255,255,0.3)', borderTopColor: 'white' }}></span>
+              Downloading {downloadProgress}%
+            </span>
+          ) : (
+            <span style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+              <Download size={18} /> Download Book Data
+            </span>
+          )}
+        </button>
       </div>
 
       {chapters.length === 0 && (
