@@ -230,19 +230,19 @@ export const TestInterface: React.FC<TestInterfaceProps> = ({ testData, onExit }
               })}
             </div>
           ) : (
-            <div className="options-list mt-4">
-              {['A', 'B', 'C', 'D'].map((letter) => {
-                const fid = `fallback_${letter}`;
-                const isSelected = selectedAnswers[currentQuestion._id] === fid;
-                let cls = 'option-item';
-                if (isQuestionAnswered) { cls += ' disabled'; }
-                else if (isSelected) { cls += ' selected'; }
-                return (
-                  <div key={fid} className={cls} onClick={() => handleOptionSelect(currentQuestion._id, fid)}>
-                    <div style={{ flex: 1, fontWeight: 600 }}>Option {letter}</div>
-                  </div>
-                );
-              })}
+            <div className="mt-4">
+              {!isQuestionAnswered ? (
+                <button 
+                  className="btn btn-primary"
+                  onClick={() => setAnsweredQuestions(prev => ({ ...prev, [currentQuestion._id]: true }))}
+                >
+                  View Solution
+                </button>
+              ) : (
+                <div style={{ color: 'var(--primary)', fontWeight: 600, padding: '0.5rem 0' }}>
+                  Subjective Question - Solution Revealed
+                </div>
+              )}
             </div>
           )}
 

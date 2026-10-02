@@ -250,23 +250,9 @@ export const ExamInterface: React.FC<ExamInterfaceProps> = ({ testData, duration
                   );
                 })
               ) : (
-                // Fallback for when options are baked into the question text
-                ['A', 'B', 'C', 'D'].map((letter) => {
-                  // Use the letter as ID for selection
-                  const fallbackId = `fallback_${letter}`;
-                  const isSelected = selectedAnswers[currentQuestion._id] === fallbackId;
-                  return (
-                    <div 
-                      key={fallbackId} 
-                      className={`exam-option-item ${isSelected ? 'selected' : ''}`}
-                      onClick={() => handleOptionSelect(fallbackId)}
-                    >
-                      <div style={{ flex: 1, fontWeight: 600 }}>
-                        Option {letter}
-                      </div>
-                    </div>
-                  );
-                })
+                <div style={{ padding: '1rem', color: 'var(--text-muted)', fontStyle: 'italic' }}>
+                  This is a subjective or non-MCQ question. Please solve it on your own.
+                </div>
               )}
             </div>
           </div>

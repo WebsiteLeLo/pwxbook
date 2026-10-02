@@ -268,8 +268,31 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
 .progress-text { font-size: 0.75rem; color: #64748b; font-weight: 600; white-space: nowrap; }
 
 @media print {
-  body { background: white; color: black; }
+  body { 
+    background: white; 
+    color: black; 
+  }
   .no-print, .app-header { display: none !important; }
-  .print-container { padding: 0 !important; }
+  .print-container { padding: 0 !important; margin: 0 !important; }
+  .printable-document {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+  }
+  
+  /* Normalize rich text sizes, override inline styles, ignore MathJax */
+  .printable-document .questions-section p,
+  .printable-document .questions-section h1,
+  .printable-document .questions-section h2,
+  .printable-document .questions-section h3,
+  .printable-document .questions-section h4,
+  .printable-document .questions-section span:not([class^="mjx"]):not(.MathJax) {
+    font-size: 12pt !important;
+    line-height: 1.5 !important;
+    font-family: serif !important;
+  }
+  
   @page { margin: 1cm; }
+  
+  img { max-width: 100% !important; height: auto !important; }
 }

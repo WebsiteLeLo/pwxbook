@@ -12,7 +12,9 @@ interface BookListProps {
 export const BookList: React.FC<BookListProps> = ({ books, onSelectBook, isLoading }) => {
   const [searchQuery, setSearchQuery] = useState('');
   const [classFilter, setClassFilter] = useState('');
-  const [activeTab, setActiveTab] = useState<'ALL' | 'SHELF'>('ALL');
+  const [activeTab, setActiveTab] = useState<'ALL' | 'SHELF'>(
+    storage.getShelf().length > 0 ? 'SHELF' : 'ALL'
+  );
   const [shelfBooks, setShelfBooks] = useState<string[]>(storage.getShelf());
 
   const toggleShelf = (e: React.MouseEvent, bookId: string) => {
