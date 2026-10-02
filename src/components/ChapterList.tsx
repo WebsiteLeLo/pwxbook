@@ -6,12 +6,13 @@ import { ChevronDown, ChevronUp, BookOpen, PlayCircle, ArrowLeft, Download } fro
 interface ChapterListProps {
   chapters: Chapter[];
   bookId: string;
+  bookName?: string;
   onSelectTest: (testId: string, chapterId: string, totalExercises: number) => void;
   onBack: () => void;
   isLoading: boolean;
 }
 
-export const ChapterList: React.FC<ChapterListProps> = ({ chapters, bookId, onSelectTest, onBack, isLoading }) => {
+export const ChapterList: React.FC<ChapterListProps> = ({ chapters, bookId, bookName, onSelectTest, onBack, isLoading }) => {
   const [expandedId, setExpandedId] = useState<string | null>(null);
   const [isDownloading, setIsDownloading] = useState(false);
   const [downloadProgress, setDownloadProgress] = useState(0);
@@ -132,7 +133,8 @@ export const ChapterList: React.FC<ChapterListProps> = ({ chapters, bookId, onSe
       }
       
       const blob = await zip.generateAsync({ type: 'blob' });
-      saveAs(blob, `book_${bookId}_data.zip`);
+      const safeBookName = (bookName || `book_${bookId}`).replace(/[/\\?%*:|"<>]/g, '-');
+      saveAs(blob, `${safeBookName}_data.zip`);
     } catch (err) {
       console.error('Failed to download book data:', err);
       alert('Error downloading book data. Please check console for details.');
