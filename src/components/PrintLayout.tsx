@@ -34,6 +34,7 @@ export const PrintLayout: React.FC<PrintLayoutProps> = ({ testData, onBack }) =>
   const renderContent = (content: any) => {
     if (!content) return null;
     let html = content.texts?.en || '';
+
     if (content.imageIds?.en?.key && content.imageIds?.en?.baseUrl) {
       html += `<br/><img src="${content.imageIds.en.baseUrl}${content.imageIds.en.key}" style="max-width:300px; max-height:200px" />`;
     }

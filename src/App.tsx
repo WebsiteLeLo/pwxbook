@@ -14,7 +14,6 @@ import { PrintLayout } from './components/PrintLayout';
 import { MistakesPage } from './components/MistakesPage';
 import { Bookmark, BrainCircuit, Activity, Flame, AlertTriangle } from 'lucide-react';
 
-
 type AppState = 'BOOKS' | 'CHAPTERS' | 'TEST_CONFIG' | 'PRACTICE_TEST' | 'EXAM_TEST' | 'ANALYSIS' | 'BOOKMARKS' | 'REVIEW' | 'DASHBOARD' | 'PRINT_TEST' | 'MISTAKES';
 
 function App() {
