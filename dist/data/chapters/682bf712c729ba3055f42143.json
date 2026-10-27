@@ -1,0 +1,1086 @@
+[
+  {
+    "_id": "6835a9bdbf9810593d045227",
+    "bookId": "682bf712c729ba3055f42143",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Integrals",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cd720240-a291-4377-ad25-b4dce10d535e.zip",
+      "_id": "68c7c9449c63f6046673a28c"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "6889c1b3bbb3094ddd80b11a",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf155ace3476bb676804"
+      },
+      {
+        "testId": "6886329bebf79f35d6864f11",
+        "numberOfQuestions": 45,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "691edf155ace3476bb676805"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684c04acd887df49c246dc83",
+        "numberOfQuestions": 15,
+        "_id": "691edf155ace3476bb676803"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf155ace3476bb676802"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68b2fad70101d3dfa053b7cc",
+        "numberOfQuestions": 25,
+        "_id": "691edf155ace3476bb676801"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf4d404a823331204404",
+    "programTopicId": "684bddd25db817869c410b6d",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:43:02.635Z",
+    "updatedAt": "2025-11-20T09:27:49.833Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 290.51,
+    "pageStart": 224.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 7,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "integrals",
+    "seo": {
+      "titleTag": "Integrals - Mathematics Part 2 (Class XII) | PW Books",
+      "coverImageAltText": "Integrals - Mathematics Part 2 (Class XII) | PW Books",
+      "ogTitle": "Integrals - Mathematics Part 2 (Class XII) | PW Books",
+      "shortDescription": "Read Integrals from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Integrals from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Integrals from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7bdeb5af-6288-4e1f-8d67-334dcb35595a.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6889c1b3bbb3094ddd80b11a",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6886329bebf79f35d6864f11",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 45
+      },
+      {
+        "testId": "684c04acd887df49c246dc83",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 65,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684c04acd887df49c246dc83",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6889c1b3bbb3094ddd80b11a",
+      "6886329bebf79f35d6864f11",
+      "684c04acd887df49c246dc83",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a9bdbf9810593d04522d",
+    "bookId": "682bf712c729ba3055f42143",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Application of Integrals",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2acfe316-4d63-4891-ae6a-e6ed42412b90.zip",
+      "_id": "68c3ab11dff826b036ec7d1d"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "688a263596fb0978feaabdb5",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf146b6ee2f9623b5648"
+      },
+      {
+        "testId": "68864d7229194f1490ee0f1b",
+        "numberOfQuestions": 34,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "691edf146b6ee2f9623b5649"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684be4e2490ca39878714208",
+        "numberOfQuestions": 15,
+        "_id": "691edf146b6ee2f9623b5647"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf146b6ee2f9623b5646"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68653abb6e463f75bf2f661d",
+        "numberOfQuestions": 25,
+        "_id": "691edf146b6ee2f9623b5645"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf4d404a823331204404",
+    "programTopicId": "684bde074052b6bd42ec4e2c",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:43:20.950Z",
+    "updatedAt": "2025-11-20T09:27:48.831Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 298.51,
+    "pageStart": 291.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 8,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "application-of-integrals",
+    "seo": {
+      "titleTag": "Application of Integrals - Mathematics Part 2 (Class XII) | PW Books",
+      "coverImageAltText": "Application of Integrals - Mathematics Part 2 (Class XII) | PW Books",
+      "ogTitle": "Application of Integrals - Mathematics Part 2 (Class XII) | PW Books",
+      "shortDescription": "Read Application of Integrals from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Application of Integrals from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Application of Integrals from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7bdeb5af-6288-4e1f-8d67-334dcb35595a.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688a263596fb0978feaabdb5",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "68864d7229194f1490ee0f1b",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 34
+      },
+      {
+        "testId": "684be4e2490ca39878714208",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 54,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684be4e2490ca39878714208",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688a263596fb0978feaabdb5",
+      "68864d7229194f1490ee0f1b",
+      "684be4e2490ca39878714208",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a9bdbf9810593d045233",
+    "bookId": "682bf712c729ba3055f42143",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Differential Equations",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4dca701d-a4e9-44e7-bd5d-af9b107665bc.zip",
+      "_id": "68c3ab2deb254f41c807d385"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "688a26db47429023eb6c3812",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf152a92ef929ef3364c"
+      },
+      {
+        "testId": "6886365049e985129ff29f90",
+        "numberOfQuestions": 30,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "691edf152a92ef929ef3364d"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "688b1ade28ee6e967915ec27",
+        "numberOfQuestions": 15,
+        "_id": "691edf152a92ef929ef3364b"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf152a92ef929ef3364a"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68653b374c69164c0d4c89e8",
+        "numberOfQuestions": 25,
+        "_id": "691edf152a92ef929ef33649"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf4d404a823331204404",
+    "programTopicId": "684bde239a0aac96125cea57",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:43:23.709Z",
+    "updatedAt": "2025-11-20T09:27:49.313Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 336.51,
+    "pageStart": 299.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 9,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "differential-equations",
+    "seo": {
+      "titleTag": "Differential Equations - Mathematics Part 2 (Class XII) | PW Books",
+      "coverImageAltText": "Differential Equations - Mathematics Part 2 (Class XII) | PW Books",
+      "ogTitle": "Differential Equations - Mathematics Part 2 (Class XII) | PW Books",
+      "shortDescription": "Read Differential Equations from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Differential Equations from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Differential Equations from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7bdeb5af-6288-4e1f-8d67-334dcb35595a.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688a26db47429023eb6c3812",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6886365049e985129ff29f90",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 30
+      },
+      {
+        "testId": "688b1ade28ee6e967915ec27",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 50,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "688b1ade28ee6e967915ec27",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688a26db47429023eb6c3812",
+      "6886365049e985129ff29f90",
+      "688b1ade28ee6e967915ec27",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a9bdbf9810593d045239",
+    "bookId": "682bf712c729ba3055f42143",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Vector Algebra",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/731dbe58-19c4-43da-97e9-98436f5302e0.zip",
+      "_id": "68c3ab48d67e5deb830ff1ea"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "688a2879bbb3094ddd81e448",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf15b69104f54591d488"
+      },
+      {
+        "testId": "6886383c61dd7a843eee1fa9",
+        "numberOfQuestions": 25,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "691edf15b69104f54591d489"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "691edf15b69104f54591d487"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf15b69104f54591d486"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68653bef6e463f75bf2f6723",
+        "numberOfQuestions": 25,
+        "_id": "691edf15b69104f54591d485"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf4d404a823331204404",
+    "programTopicId": "684bde3c7af182af2c715f2e",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:43:25.161Z",
+    "updatedAt": "2025-11-20T09:27:49.602Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 375.51,
+    "pageStart": 337.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 10,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "vector-algebra",
+    "seo": {
+      "titleTag": "Vector Algebra - Mathematics Part 2 (Class XII) | PW Books",
+      "coverImageAltText": "Vector Algebra - Mathematics Part 2 (Class XII) | PW Books",
+      "ogTitle": "Vector Algebra - Mathematics Part 2 (Class XII) | PW Books",
+      "shortDescription": "Read Vector Algebra from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Vector Algebra from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Vector Algebra from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7bdeb5af-6288-4e1f-8d67-334dcb35595a.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688a2879bbb3094ddd81e448",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6886383c61dd7a843eee1fa9",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 25
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 45,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688a2879bbb3094ddd81e448",
+      "6886383c61dd7a843eee1fa9",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a9bdbf9810593d04523f",
+    "bookId": "682bf712c729ba3055f42143",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Three Dimensional Geometry",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/20c1f3e2-e98c-486d-b096-69fc35273602.zip",
+      "_id": "68c3ac1780cae715327b0d7c"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "688a2a18a761b0dd6f16ccfa",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf1330f028fbe411fecf"
+      },
+      {
+        "testId": "68863a7c231f2ca23aec7a3f",
+        "numberOfQuestions": 30,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "691edf1330f028fbe411fed0"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684c0dc7a3110c57fad47471",
+        "numberOfQuestions": 15,
+        "_id": "691edf1330f028fbe411fece"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf1330f028fbe411fecd"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68653d011ab6c7c089dc2173",
+        "numberOfQuestions": 25,
+        "_id": "691edf1330f028fbe411fecc"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf4d404a823331204404",
+    "programTopicId": "684bde574052b6bd42ec4e40",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:43:35.185Z",
+    "updatedAt": "2025-11-20T09:27:47.421Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 392.51,
+    "pageStart": 376.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 11,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "three-dimensional-geometry",
+    "seo": {
+      "titleTag": "Three Dimensional Geometry - Mathematics Part 2 (Class XII) | PW Books",
+      "coverImageAltText": "Three Dimensional Geometry - Mathematics Part 2 (Class XII) | PW Books",
+      "ogTitle": "Three Dimensional Geometry - Mathematics Part 2 (Class XII) | PW Books",
+      "shortDescription": "Read Three Dimensional Geometry from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Three Dimensional Geometry from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Three Dimensional Geometry from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7bdeb5af-6288-4e1f-8d67-334dcb35595a.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688a2a18a761b0dd6f16ccfa",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "68863a7c231f2ca23aec7a3f",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 30
+      },
+      {
+        "testId": "684c0dc7a3110c57fad47471",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 50,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684c0dc7a3110c57fad47471",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688a2a18a761b0dd6f16ccfa",
+      "68863a7c231f2ca23aec7a3f",
+      "684c0dc7a3110c57fad47471",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a9bdbf9810593d045245",
+    "bookId": "682bf712c729ba3055f42143",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Linear Programming Problem",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/73360125-00b7-4cf5-8c85-fcb755c81baf.zip",
+      "_id": "68c3abfe3c0ea0b96f972a78"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "688a2b180fb2b931652a2259",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf13ce12429a89d3697c"
+      },
+      {
+        "testId": "68863b5c61dd7a843eeef6e8",
+        "numberOfQuestions": 30,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "691edf13ce12429a89d3697d"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684c0f3c0b9062ff942b3c35",
+        "numberOfQuestions": 15,
+        "_id": "691edf13ce12429a89d3697b"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf13ce12429a89d3697a"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68653e0ce39887ea3fe6d2c3",
+        "numberOfQuestions": 25,
+        "_id": "691edf13ce12429a89d36979"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf4d404a823331204404",
+    "programTopicId": "684bde730ae0eb46717fb1a4",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:43:43.478Z",
+    "updatedAt": "2025-11-20T09:27:47.269Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 404.51,
+    "pageStart": 393.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 12,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "linear-programming-problem",
+    "seo": {
+      "titleTag": "Linear Programming Problem - Mathematics Part 2 (Class XII) | PW Books",
+      "coverImageAltText": "Linear Programming Problem - Mathematics Part 2 (Class XII) | PW Books",
+      "ogTitle": "Linear Programming Problem - Mathematics Part 2 (Class XII) | PW Books",
+      "shortDescription": "Read Linear Programming Problem from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Linear Programming Problem from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Linear Programming Problem from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7bdeb5af-6288-4e1f-8d67-334dcb35595a.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688a2b180fb2b931652a2259",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "68863b5c61dd7a843eeef6e8",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 30
+      },
+      {
+        "testId": "684c0f3c0b9062ff942b3c35",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 50,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684c0f3c0b9062ff942b3c35",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688a2b180fb2b931652a2259",
+      "68863b5c61dd7a843eeef6e8",
+      "684c0f3c0b9062ff942b3c35",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a9bdbf9810593d045275",
+    "bookId": "682bf712c729ba3055f42143",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Probability",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/20e3063d-1b47-466c-b2da-148c0552a0a9.zip",
+      "_id": "68c3abe5d67e5deb830ffbea"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "688a2bca94ff396c3f7012b6",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf15273db9ac3cf7b308"
+      },
+      {
+        "testId": "68863d17231f2ca23aeccb91",
+        "numberOfQuestions": 30,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "691edf15273db9ac3cf7b309"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684c12d7597e0e3c17437494",
+        "numberOfQuestions": 15,
+        "_id": "691edf15273db9ac3cf7b307"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf15273db9ac3cf7b306"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68653f464c69164c0d4cbede",
+        "numberOfQuestions": 25,
+        "_id": "691edf15273db9ac3cf7b305"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf4d404a823331204404",
+    "programTopicId": "684bde8fc26b8e1e5cab651a",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:43:47.036Z",
+    "updatedAt": "2025-11-20T09:27:49.477Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 438.51,
+    "pageStart": 405.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 13,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "probability",
+    "seo": {
+      "titleTag": "Probability - Mathematics Part 2 (Class XII) | PW Books",
+      "coverImageAltText": "Probability - Mathematics Part 2 (Class XII) | PW Books",
+      "ogTitle": "Probability - Mathematics Part 2 (Class XII) | PW Books",
+      "shortDescription": "Read Probability from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Probability from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Probability from Mathematics Part 2 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7bdeb5af-6288-4e1f-8d67-334dcb35595a.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688a2bca94ff396c3f7012b6",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "68863d17231f2ca23aeccb91",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 30
+      },
+      {
+        "testId": "684c12d7597e0e3c17437494",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 50,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684c12d7597e0e3c17437494",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688a2bca94ff396c3f7012b6",
+      "68863d17231f2ca23aeccb91",
+      "684c12d7597e0e3c17437494",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  }
+]

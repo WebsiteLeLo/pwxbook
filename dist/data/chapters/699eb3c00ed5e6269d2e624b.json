@@ -1,0 +1,3376 @@
+[
+  {
+    "_id": "699edbe9db9cfcfe4fcaecb7",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Units and Measurements",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ea36af5494c96a16c7d93",
+        "numberOfQuestions": 65,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a5253691a38358256b53034"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:24:25.738Z",
+    "updatedAt": "2026-07-22T21:37:12.091Z",
+    "__v": 0,
+    "programChapterId": "6998287faf3a42260c087c22",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699ea266be6df6c325d07880",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ea36af5494c96a16c7d93",
+        "numberOfQuestions": 65,
+        "_id": "6a5253691a38358256b53033"
+      }
+    ],
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "units-and-measurements",
+    "seo": {
+      "titleTag": "Units and Measurements - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Units and Measurements - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Units and Measurements - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Units and Measurements from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Units and Measurements from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Units and Measurements from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ea36af5494c96a16c7d93",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 65
+      }
+    ],
+    "pyqQuestions": 65,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ea36af5494c96a16c7d93"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699edb9c0f6889b97636906e",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Motion in a Straight Line",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ea1c3f5494c96a16c7718",
+        "numberOfQuestions": 58,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a5253745bdacc40cdb75933"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:23:08.962Z",
+    "updatedAt": "2026-07-22T21:37:12.499Z",
+    "__v": 0,
+    "programChapterId": "6998287faf3a42260c087c22",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699ea17d5b074ea881e3d88b",
+    "totalPageCount": 8,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ea1c3f5494c96a16c7718",
+        "numberOfQuestions": 58,
+        "_id": "6a5253745bdacc40cdb75932"
+      }
+    ],
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "motion-in-a-straight-line",
+    "seo": {
+      "titleTag": "Motion in a Straight Line - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Motion in a Straight Line - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Motion in a Straight Line - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Motion in a Straight Line from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Motion in a Straight Line from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Motion in a Straight Line from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ea1c3f5494c96a16c7718",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 58
+      }
+    ],
+    "pyqQuestions": 58,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ea1c3f5494c96a16c7718"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ecd638f15ef7f9e56b207",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Motion in a Plane",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e9474c49a63ddbea8a923",
+        "numberOfQuestions": 64,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a52537fd34db0c21c7fff41"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T10:22:27.845Z",
+    "updatedAt": "2026-07-22T21:37:12.799Z",
+    "__v": 0,
+    "programChapterId": "6998287faf3a42260c087c22",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e9354492c5db7f9327467",
+    "totalPageCount": 5,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e9474c49a63ddbea8a923",
+        "numberOfQuestions": 64,
+        "_id": "6a52537fd34db0c21c7fff40"
+      }
+    ],
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "motion-in-a-plane",
+    "seo": {
+      "titleTag": "Motion in a Plane - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Motion in a Plane - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Motion in a Plane - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Motion in a Plane from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Motion in a Plane from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Motion in a Plane from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e9474c49a63ddbea8a923",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 64
+      }
+    ],
+    "pyqQuestions": 64,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e9474c49a63ddbea8a923"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ecc510cb03703d01ac4b9",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Laws of Motion",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e9220e23754f5b1f2631a",
+        "numberOfQuestions": 88,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d2574100d9e50abb4aab"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T10:17:53.930Z",
+    "updatedAt": "2026-07-22T21:37:13.232Z",
+    "__v": 0,
+    "programChapterId": "6998287faf3a42260c087c22",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e90a7be6df6c325d01b9a",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e9220e23754f5b1f2631a",
+        "numberOfQuestions": 88,
+        "_id": "69f1d2574100d9e50abb4aaa"
+      }
+    ],
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "laws-of-motion",
+    "seo": {
+      "titleTag": "Laws of Motion - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Laws of Motion - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Laws of Motion - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Laws of Motion from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Laws of Motion from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Laws of Motion from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e9220e23754f5b1f2631a",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 88
+      }
+    ],
+    "pyqQuestions": 88,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e9220e23754f5b1f2631a"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ecef8f10ff75f8c84846f",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Work, Energy and Power",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e99325321cd3af43a4096",
+        "numberOfQuestions": 88,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d26698cf34fcad33ba14"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T10:29:12.017Z",
+    "updatedAt": "2026-07-22T21:37:13.809Z",
+    "__v": 0,
+    "programChapterId": "6998287faf3a42260c087c22",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e99064b0c65ee4c1ec9a2",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e99325321cd3af43a4096",
+        "numberOfQuestions": 88,
+        "_id": "69f1d26698cf34fcad33ba13"
+      }
+    ],
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "work-energy-and-power",
+    "seo": {
+      "titleTag": "Work, Energy and Power - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Work, Energy and Power - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Work, Energy and Power - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Work, Energy and Power from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Work, Energy and Power from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Work, Energy and Power from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e99325321cd3af43a4096",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 88
+      }
+    ],
+    "pyqQuestions": 88,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e99325321cd3af43a4096"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ecad54e6204b3ec24d6f3",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "System of Particles and Rotational Motion",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e8d719f4f9c6a6f4f1c7c",
+        "numberOfQuestions": 105,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d270e7f7be17e634d1da"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T10:11:33.447Z",
+    "updatedAt": "2026-07-22T21:37:14.505Z",
+    "__v": 0,
+    "programChapterId": "6998287faf3a42260c087c22",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e8bfcff98bc091010ca0d",
+    "totalPageCount": 8,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e8d719f4f9c6a6f4f1c7c",
+        "numberOfQuestions": 105,
+        "_id": "69f1d270e7f7be17e634d1d9"
+      }
+    ],
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "system-of-particles-and-rotational-motion",
+    "seo": {
+      "titleTag": "System of Particles and Rotational Motion - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "System of Particles and Rotational Motion - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "System of Particles and Rotational Motion - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read System of Particles and Rotational Motion from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read System of Particles and Rotational Motion from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read System of Particles and Rotational Motion from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e8d719f4f9c6a6f4f1c7c",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 105
+      }
+    ],
+    "pyqQuestions": 105,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e8d719f4f9c6a6f4f1c7c"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ed175b3ef5dfab909f8f1",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Gravitation",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e9c115321cd3af43a42c8",
+        "numberOfQuestions": 76,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d283262414728f2faaeb"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T10:39:49.864Z",
+    "updatedAt": "2026-07-22T21:37:14.940Z",
+    "__v": 0,
+    "programChapterId": "6998287faf3a42260c087c22",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e9be3207bc28afbff544f",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e9c115321cd3af43a42c8",
+        "numberOfQuestions": 76,
+        "_id": "69f1d283262414728f2faaea"
+      }
+    ],
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "gravitation",
+    "seo": {
+      "titleTag": "Gravitation - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Gravitation - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Gravitation - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Gravitation from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Gravitation from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Gravitation from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e9c115321cd3af43a42c8",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 76
+      }
+    ],
+    "pyqQuestions": 76,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e9c115321cd3af43a42c8"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699edcecdb9cfcfe4fcaf4a5",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Mechanical Properties of Solids",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699eb60cd0a0c7330915272a",
+        "numberOfQuestions": 10,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d299242f84099ee15058"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:28:44.716Z",
+    "updatedAt": "2026-08-11T18:57:03.520Z",
+    "__v": 0,
+    "programChapterId": "6998287faf3a42260c087c22",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699eb5f9a7da6f9c9816ed23",
+    "totalPageCount": 2,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699eb60cd0a0c7330915272a",
+        "numberOfQuestions": 10,
+        "_id": "69f1d299242f84099ee15057"
+      }
+    ],
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "mechanical-properties-of-solids",
+    "seo": {
+      "titleTag": "Mechanical Properties of Solids - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Mechanical Properties of Solids - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Mechanical Properties of Solids - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Mechanical Properties of Solids from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Mechanical Properties of Solids from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Mechanical Properties of Solids from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699eb60cd0a0c7330915272a",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 10,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699eb60cd0a0c7330915272a"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699edc55a7a8bb64b742ae6f",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Mechanical Properties of Fluids",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ea51c0c56b334eb9fe950",
+        "numberOfQuestions": 25,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d2a25143253f954e04bd"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:26:13.596Z",
+    "updatedAt": "2026-07-22T21:37:15.375Z",
+    "__v": 0,
+    "programChapterId": "6998287faf3a42260c087c22",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699ea508a7da6f9c9816987d",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ea51c0c56b334eb9fe950",
+        "numberOfQuestions": 25,
+        "_id": "69f1d2a25143253f954e04bc"
+      }
+    ],
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "mechanical-properties-of-fluids",
+    "seo": {
+      "titleTag": "Mechanical Properties of Fluids - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Mechanical Properties of Fluids - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Mechanical Properties of Fluids - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Mechanical Properties of Fluids from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Mechanical Properties of Fluids from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Mechanical Properties of Fluids from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ea51c0c56b334eb9fe950",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 25
+      }
+    ],
+    "pyqQuestions": 25,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ea51c0c56b334eb9fe950"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ecfbf7f33d4868ab36fdc",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Thermal Properties of Matter",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e9ab123b7ff86a414abf0",
+        "numberOfQuestions": 48,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d2abef350a4905e21e3e"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T10:32:31.091Z",
+    "updatedAt": "2026-07-22T21:37:15.667Z",
+    "__v": 0,
+    "programChapterId": "6998287faf3a42260c087c22",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e9a6f2aba8aaba3b2ab8d",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e9ab123b7ff86a414abf0",
+        "numberOfQuestions": 48,
+        "_id": "69f1d2abef350a4905e21e3d"
+      }
+    ],
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "thermal-properties-of-matter",
+    "seo": {
+      "titleTag": "Thermal Properties of Matter - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Thermal Properties of Matter - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Thermal Properties of Matter - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Thermal Properties of Matter from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Thermal Properties of Matter from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Thermal Properties of Matter from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e9ab123b7ff86a414abf0",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 48
+      }
+    ],
+    "pyqQuestions": 48,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e9ab123b7ff86a414abf0"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699edc1ba3e1c4482f2d4178",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Thermodynamics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ea3f9d2341f368a8724a0",
+        "numberOfQuestions": 45,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d2b51b85ff2b649f79c6"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:25:15.979Z",
+    "updatedAt": "2026-07-22T21:37:16.098Z",
+    "__v": 0,
+    "programChapterId": "6998287faf3a42260c087c22",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699ea3e4207bc28afbff7ba1",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ea3f9d2341f368a8724a0",
+        "numberOfQuestions": 45,
+        "_id": "69f1d2b51b85ff2b649f79c5"
+      }
+    ],
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "thermodynamics",
+    "seo": {
+      "titleTag": "Thermodynamics - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Thermodynamics - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Thermodynamics - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Thermodynamics from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Thermodynamics from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Thermodynamics from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ea3f9d2341f368a8724a0",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 45
+      }
+    ],
+    "pyqQuestions": 45,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ea3f9d2341f368a8724a0"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699edb55ccd2a772e87a78a3",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Kinetic Theory",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ea089250ec69b13398f3a",
+        "numberOfQuestions": 43,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d2c44f00ebe10b016fef"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:21:57.248Z",
+    "updatedAt": "2026-07-22T21:37:16.460Z",
+    "__v": 0,
+    "programChapterId": "6998287faf3a42260c087c22",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e9d93245e8005d533f570",
+    "totalPageCount": 5,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ea089250ec69b13398f3a",
+        "numberOfQuestions": 43,
+        "_id": "69f1d2c44f00ebe10b016fee"
+      }
+    ],
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "kinetic-theory",
+    "seo": {
+      "titleTag": "Kinetic Theory - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Kinetic Theory - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Kinetic Theory - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Kinetic Theory from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Kinetic Theory from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Kinetic Theory from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ea089250ec69b13398f3a",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 43
+      }
+    ],
+    "pyqQuestions": 43,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ea089250ec69b13398f3a"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ece4a664311420ab1deb0",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Oscillations",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e97ccd0a0c7330914dbe4",
+        "numberOfQuestions": 74,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d2cfef350a4905e2211e"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T10:26:18.343Z",
+    "updatedAt": "2026-07-22T21:37:16.871Z",
+    "__v": 0,
+    "programChapterId": "6998287faf3a42260c087c22",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e9773245e8005d533d363",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e97ccd0a0c7330914dbe4",
+        "numberOfQuestions": 74,
+        "_id": "69f1d2cfef350a4905e2211d"
+      }
+    ],
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "oscillations",
+    "seo": {
+      "titleTag": "Oscillations - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Oscillations - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Oscillations - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Oscillations from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Oscillations from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Oscillations from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e97ccd0a0c7330914dbe4",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 74
+      }
+    ],
+    "pyqQuestions": 74,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e97ccd0a0c7330914dbe4"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699edc9120d2009767cb3d0a",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Waves",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ea5dbfe9a182dcdd0dc4f",
+        "numberOfQuestions": 81,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d2d73e823b50e3dd512e"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:27:13.662Z",
+    "updatedAt": "2026-07-22T21:37:17.581Z",
+    "__v": 0,
+    "programChapterId": "6998287faf3a42260c087c22",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699ea5be207bc28afbff86d0",
+    "totalPageCount": 12,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ea5dbfe9a182dcdd0dc4f",
+        "numberOfQuestions": 81,
+        "_id": "69f1d2d73e823b50e3dd512d"
+      }
+    ],
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "waves",
+    "seo": {
+      "titleTag": "Waves - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Waves - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Waves - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Waves from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Waves from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Waves from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ea5dbfe9a182dcdd0dc4f",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 81
+      }
+    ],
+    "pyqQuestions": 81,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ea5dbfe9a182dcdd0dc4f"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ede1d696ae74232904c3d",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "Electric Charges and Fields",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699edb7c250ec69b1339fa34",
+        "numberOfQuestions": 44,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d202e4efa79e484ab914"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:33:49.309Z",
+    "updatedAt": "2026-07-22T21:37:18.093Z",
+    "__v": 0,
+    "programChapterId": "699d8757937dc16b217f3942",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699edb61feaba032359c6409",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699edb7c250ec69b1339fa34",
+        "numberOfQuestions": 44,
+        "_id": "69f1d202e4efa79e484ab913"
+      }
+    ],
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "electric-charges-and-fields",
+    "seo": {
+      "titleTag": "Electric Charges and Fields - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Electric Charges and Fields - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Electric Charges and Fields - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Electric Charges and Fields from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electric Charges and Fields from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electric Charges and Fields from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699edb7c250ec69b1339fa34",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 44
+      }
+    ],
+    "pyqQuestions": 44,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699edb7c250ec69b1339fa34"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699edea9a92d7aaedc7a4b38",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 16,
+    "title": "Electrostatic Potential and Capacitance",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699edd444f7742b885d4b9a9",
+        "numberOfQuestions": 72,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d2ee98cf34fcad33c52b"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 16,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:36:09.170Z",
+    "updatedAt": "2026-07-22T21:37:18.852Z",
+    "__v": 0,
+    "programChapterId": "699d8757937dc16b217f3942",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699edd2ecc894741d57753ca",
+    "totalPageCount": 12,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699edd444f7742b885d4b9a9",
+        "numberOfQuestions": 72,
+        "_id": "69f1d2ee98cf34fcad33c52a"
+      }
+    ],
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "electrostatic-potential-and-capacitance",
+    "seo": {
+      "titleTag": "Electrostatic Potential and Capacitance - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Electrostatic Potential and Capacitance - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Electrostatic Potential and Capacitance - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Electrostatic Potential and Capacitance from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electrostatic Potential and Capacitance from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electrostatic Potential and Capacitance from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699edd444f7742b885d4b9a9",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 72
+      }
+    ],
+    "pyqQuestions": 72,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699edd444f7742b885d4b9a9"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699edf1a1d227cf59c4aec1d",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 17,
+    "title": "Current Electricity",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ed96b250ec69b1339f6f8",
+        "numberOfQuestions": 129,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f1d2f797a552e52c760d97"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 17,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:38:02.098Z",
+    "updatedAt": "2026-07-22T21:37:19.841Z",
+    "__v": 0,
+    "programChapterId": "699d8757937dc16b217f3942",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699ed953a7da6f9c9817a19b",
+    "totalPageCount": 18,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ed96b250ec69b1339f6f8",
+        "numberOfQuestions": 129,
+        "_id": "69f1d2f797a552e52c760d96"
+      }
+    ],
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "current-electricity",
+    "seo": {
+      "titleTag": "Current Electricity - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Current Electricity - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Current Electricity - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Current Electricity from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Current Electricity from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Current Electricity from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ed96b250ec69b1339f6f8",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 129
+      }
+    ],
+    "pyqQuestions": 129,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ed96b250ec69b1339f6f8"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699edfb6b8b84f6bfaac5865",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 18,
+    "title": "Moving Charges and Magnetism",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ee2efd2341f368a885bb9",
+        "numberOfQuestions": 98,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d300cac99da63bced453"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 18,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:40:38.309Z",
+    "updatedAt": "2026-07-22T21:37:20.795Z",
+    "__v": 0,
+    "programChapterId": "699d8757937dc16b217f3942",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699ee2cf2732292665dfffe5",
+    "totalPageCount": 13,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ee2efd2341f368a885bb9",
+        "numberOfQuestions": 98,
+        "_id": "69f1d300cac99da63bced452"
+      }
+    ],
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "moving-charges-and-magnetism",
+    "seo": {
+      "titleTag": "Moving Charges and Magnetism - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Moving Charges and Magnetism - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Moving Charges and Magnetism - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Moving Charges and Magnetism from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Moving Charges and Magnetism from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Moving Charges and Magnetism from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ee2efd2341f368a885bb9",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 98
+      }
+    ],
+    "pyqQuestions": 98,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ee2efd2341f368a885bb9"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ee62cc8413b3fe9109e7e",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 19,
+    "title": "Magnetism and Matter",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ee46b250ec69b133a05c9",
+        "numberOfQuestions": 34,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d3095138c9644fafc26d"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 19,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:08:12.725Z",
+    "updatedAt": "2026-07-22T21:37:21.174Z",
+    "__v": 0,
+    "programChapterId": "699d8757937dc16b217f3942",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699ee4525c0e363f2eed4aa4",
+    "totalPageCount": 5,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ee46b250ec69b133a05c9",
+        "numberOfQuestions": 34,
+        "_id": "69f1d3095138c9644fafc26c"
+      }
+    ],
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "magnetism-and-matter",
+    "seo": {
+      "titleTag": "Magnetism and Matter - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Magnetism and Matter - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Magnetism and Matter - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Magnetism and Matter from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Magnetism and Matter from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Magnetism and Matter from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ee46b250ec69b133a05c9",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 34
+      }
+    ],
+    "pyqQuestions": 34,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ee46b250ec69b133a05c9"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ee5f22b0e17d0b5338475",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 20,
+    "title": "Electromagnetic Induction",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ee3bcf5494c96a16d5710",
+        "numberOfQuestions": 50,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d3124100d9e50abb5a42"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 20,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:07:14.329Z",
+    "updatedAt": "2026-07-22T21:37:21.785Z",
+    "__v": 0,
+    "programChapterId": "699d8757937dc16b217f3942",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699ee3a2799084b514e689a9",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ee3bcf5494c96a16d5710",
+        "numberOfQuestions": 50,
+        "_id": "69f1d3124100d9e50abb5a41"
+      }
+    ],
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "electromagnetic-induction",
+    "seo": {
+      "titleTag": "Electromagnetic Induction - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Electromagnetic Induction - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Electromagnetic Induction - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Electromagnetic Induction from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electromagnetic Induction from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electromagnetic Induction from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ee3bcf5494c96a16d5710",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 50
+      }
+    ],
+    "pyqQuestions": 50,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ee3bcf5494c96a16d5710"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ee3c42be4d971e15e7b2d",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 21,
+    "title": "Alternating Current",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699edc1bd2341f368a884d68",
+        "numberOfQuestions": 66,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d3429c5474ceb5133951"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 21,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:57:56.340Z",
+    "updatedAt": "2026-07-22T21:37:22.388Z",
+    "__v": 0,
+    "programChapterId": "699d8757937dc16b217f3942",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699edc015b074ea881e50b48",
+    "totalPageCount": 9,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699edc1bd2341f368a884d68",
+        "numberOfQuestions": 66,
+        "_id": "69f1d3429c5474ceb5133950"
+      }
+    ],
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "alternating-current",
+    "seo": {
+      "titleTag": "Alternating Current - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Alternating Current - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Alternating Current - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Alternating Current from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Alternating Current from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Alternating Current from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699edc1bd2341f368a884d68",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 66
+      }
+    ],
+    "pyqQuestions": 66,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699edc1bd2341f368a884d68"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ee44414f2886d4ab25ebb",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 22,
+    "title": "Electromagnetic Waves",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699eddd5c49a63ddbeaa30ac",
+        "numberOfQuestions": 48,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d34c3e823b50e3dd5ab7"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 22,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:00:04.419Z",
+    "updatedAt": "2026-07-22T21:37:22.795Z",
+    "__v": 0,
+    "programChapterId": "699d8757937dc16b217f3942",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699eddbe4402e91baeb2003a",
+    "totalPageCount": 5,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699eddd5c49a63ddbeaa30ac",
+        "numberOfQuestions": 48,
+        "_id": "69f1d34c3e823b50e3dd5ab6"
+      }
+    ],
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "electromagnetic-waves",
+    "seo": {
+      "titleTag": "Electromagnetic Waves - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Electromagnetic Waves - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Electromagnetic Waves - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Electromagnetic Waves from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electromagnetic Waves from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electromagnetic Waves from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699eddd5c49a63ddbeaa30ac",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 48
+      }
+    ],
+    "pyqQuestions": 48,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699eddd5c49a63ddbeaa30ac"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ee404664311420ab23258",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 23,
+    "title": "Ray Optics and Optical Instruments",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699edcaae23754f5b1f417c8",
+        "numberOfQuestions": 93,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d3535bea298ee0ea1eac"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 23,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:59:00.371Z",
+    "updatedAt": "2026-07-22T21:37:23.586Z",
+    "__v": 0,
+    "programChapterId": "699d8757937dc16b217f3942",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699edc92d0823a84d8d41df5",
+    "totalPageCount": 13,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699edcaae23754f5b1f417c8",
+        "numberOfQuestions": 93,
+        "_id": "69f1d3535bea298ee0ea1eab"
+      }
+    ],
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "ray-optics-and-optical-instruments",
+    "seo": {
+      "titleTag": "Ray Optics and Optical Instruments - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Ray Optics and Optical Instruments - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Ray Optics and Optical Instruments - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Ray Optics and Optical Instruments from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Ray Optics and Optical Instruments from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Ray Optics and Optical Instruments from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699edcaae23754f5b1f417c8",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 93
+      }
+    ],
+    "pyqQuestions": 93,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699edcaae23754f5b1f417c8"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ee666a9d13f08aa2d5f6c",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 24,
+    "title": "Wave Optics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ee4ecc49a63ddbeaa3d51",
+        "numberOfQuestions": 45,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d35a9eacf181ce5893df"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 24,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:09:10.801Z",
+    "updatedAt": "2026-07-22T21:37:23.971Z",
+    "__v": 0,
+    "programChapterId": "699d8757937dc16b217f3942",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699ee4dafeaba032359c9757",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ee4ecc49a63ddbeaa3d51",
+        "numberOfQuestions": 45,
+        "_id": "69f1d35a9eacf181ce5893de"
+      }
+    ],
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "wave-optics",
+    "seo": {
+      "titleTag": "Wave Optics - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Wave Optics - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Wave Optics - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Wave Optics from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Wave Optics from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Wave Optics from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ee4ecc49a63ddbeaa3d51",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 45
+      }
+    ],
+    "pyqQuestions": 45,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ee4ecc49a63ddbeaa3d51"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ee490dcfd4758762ccb49",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 25,
+    "title": "Dual Nature of Radiation and Matter",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ede7723b7ff86a415f5a8",
+        "numberOfQuestions": 103,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d3625138c9644fafc9bf"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 25,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:01:20.825Z",
+    "updatedAt": "2026-07-22T21:37:24.822Z",
+    "__v": 0,
+    "programChapterId": "699d8757937dc16b217f3942",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699ede61799084b514e67141",
+    "totalPageCount": 11,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ede7723b7ff86a415f5a8",
+        "numberOfQuestions": 103,
+        "_id": "69f1d3625138c9644fafc9be"
+      }
+    ],
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "dual-nature-of-radiation-and-matter",
+    "seo": {
+      "titleTag": "Dual Nature of Radiation and Matter - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Dual Nature of Radiation and Matter - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Dual Nature of Radiation and Matter - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Dual Nature of Radiation and Matter from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Dual Nature of Radiation and Matter from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Dual Nature of Radiation and Matter from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ede7723b7ff86a415f5a8",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 103
+      }
+    ],
+    "pyqQuestions": 103,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ede7723b7ff86a415f5a8"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ee3404e6204b3ec258c34",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 26,
+    "title": "Atoms",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699eda30f5494c96a16d40e5",
+        "numberOfQuestions": 61,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d36ac31e6eefcbc845c0"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 26,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:55:44.118Z",
+    "updatedAt": "2026-07-22T21:37:25.282Z",
+    "__v": 0,
+    "programChapterId": "699d8757937dc16b217f3942",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699eda1c2732292665dfd29c",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699eda30f5494c96a16d40e5",
+        "numberOfQuestions": 61,
+        "_id": "69f1d36ac31e6eefcbc845bf"
+      }
+    ],
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "atoms",
+    "seo": {
+      "titleTag": "Atoms - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Atoms - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Atoms - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Atoms from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Atoms from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Atoms from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699eda30f5494c96a16d40e5",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 61
+      }
+    ],
+    "pyqQuestions": 61,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699eda30f5494c96a16d40e5"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ee56a43e1a1b55cf9ec12",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 27,
+    "title": "Nuclei",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699edf72fe9a182dcdd1b997",
+        "numberOfQuestions": 86,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d374e7f7be17e634e7f6"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 27,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:04:58.649Z",
+    "updatedAt": "2026-07-22T21:37:25.840Z",
+    "__v": 0,
+    "programChapterId": "699d8757937dc16b217f3942",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699edf5d853eee33de2a1b3c",
+    "totalPageCount": 8,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699edf72fe9a182dcdd1b997",
+        "numberOfQuestions": 86,
+        "_id": "69f1d374e7f7be17e634e7f5"
+      }
+    ],
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "nuclei",
+    "seo": {
+      "titleTag": "Nuclei - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Nuclei - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Nuclei - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Nuclei from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Nuclei from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Nuclei from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699edf72fe9a182dcdd1b997",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 86
+      }
+    ],
+    "pyqQuestions": 86,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699edf72fe9a182dcdd1b997"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ee389acae1a126444ea00",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 28,
+    "title": "Semiconductor Electronics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699edadad2341f368a884afc",
+        "numberOfQuestions": 108,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d3841b85ff2b649f8b65"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 28,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:56:57.698Z",
+    "updatedAt": "2026-07-22T21:37:26.752Z",
+    "__v": 0,
+    "programChapterId": "699d8757937dc16b217f3942",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699edac9cc894741d5774827",
+    "totalPageCount": 16,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699edadad2341f368a884afc",
+        "numberOfQuestions": 108,
+        "_id": "69f1d3841b85ff2b649f8b64"
+      }
+    ],
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "semiconductor-electronics",
+    "seo": {
+      "titleTag": "Semiconductor Electronics - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Semiconductor Electronics - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Semiconductor Electronics - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Semiconductor Electronics from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Semiconductor Electronics from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Semiconductor Electronics from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699edadad2341f368a884afc",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 108
+      }
+    ],
+    "pyqQuestions": 108,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699edadad2341f368a884afc"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ee5a69a1240f7a2d4ee4c",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 29,
+    "title": "Experimental Skills",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a1389337a9d1f4fad7f638",
+        "numberOfQuestions": 31,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f1d38d5bea298ee0ea2378"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 29,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:05:58.047Z",
+    "updatedAt": "2026-07-22T21:37:27.129Z",
+    "__v": 0,
+    "totalPageCount": 4,
+    "programChapterId": "699d8757937dc16b217f3942",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a1387e754f6a65d130c6a3",
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "69a1389337a9d1f4fad7f638",
+        "numberOfQuestions": 31,
+        "_id": "69f1d38d5bea298ee0ea2377"
+      }
+    ],
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "experimental-skills",
+    "seo": {
+      "titleTag": "Experimental Skills - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Experimental Skills - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Experimental Skills - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Experimental Skills from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Experimental Skills from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Experimental Skills from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a1389337a9d1f4fad7f638",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 31
+      }
+    ],
+    "pyqQuestions": 31,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a1389337a9d1f4fad7f638"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "69a2c356134936aca01261e1",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 30,
+    "title": "NEET 2025 Paper",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "69a1378e4db979a7873a632e",
+    "programTopicId": "69a1379a634b7d612053f7ac",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 30,
+    "customPracticeSet": [
+      {
+        "name": "NEET 2025 Paper",
+        "testId": "69a137bbd7a092e9616b0627",
+        "numberOfQuestions": 180
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T10:28:38.432Z",
+    "updatedAt": "2026-07-22T21:37:27.816Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "chapterType": "QUESTION_PAPER",
+    "pageSliceVersion": 1,
+    "slug": "neet-2025-paper",
+    "seo": {
+      "titleTag": "NEET 2025 Paper - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "NEET 2025 Paper - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "NEET 2025 Paper - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read NEET 2025 Paper from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read NEET 2025 Paper from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read NEET 2025 Paper from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6ac5e0b042d32f44d672748e",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 31,
+    "title": "Re - NEET 2026",
+    "slug": "re-neet-2026",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "chapterType": "QUESTION_PAPER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "6ac5dddc23796b474993970f",
+    "programTopicId": "6ac5de00ff2de03c806ed37f",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 31,
+    "customPracticeSet": [
+      {
+        "name": "Re - NEET 2026",
+        "testId": "6ac5de7ed76d20886cd7959f",
+        "numberOfQuestions": 45
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-10-07T06:03:28.794Z",
+    "updatedAt": "2026-10-07T06:04:01.652Z",
+    "__v": 0,
+    "pageSliceVersion": 1,
+    "totalPageCount": 23,
+    "seo": {
+      "titleTag": "Re - NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "Re - NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "Re - NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read Re - NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Re - NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Re - NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6ac71e6fb806287ef5155f72",
+    "bookId": "699eb3c00ed5e6269d2e624b",
+    "status": "ACTIVE",
+    "displayOrder": 32,
+    "title": "NEET 2026",
+    "slug": "neet-2026",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "chapterType": "QUESTION_PAPER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "6ac652b52e61792dde9c2809",
+    "programTopicId": "6ac652c2439bbba607b7a811",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 32,
+    "customPracticeSet": [
+      {
+        "name": "NEET 2026",
+        "testId": "6ac653472d0ff4a20cf794b6",
+        "numberOfQuestions": 45
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-10-08T04:39:11.539Z",
+    "updatedAt": "2026-10-08T04:39:12.746Z",
+    "__v": 0,
+    "pageSliceVersion": 1,
+    "totalPageCount": 18,
+    "seo": {
+      "titleTag": "NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "coverImageAltText": "NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "ogTitle": "NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Physics | PW Books",
+      "shortDescription": "Read NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Physics. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce96f1c8-0d6d-45a7-a006-e8fd40bdbfc0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  }
+]

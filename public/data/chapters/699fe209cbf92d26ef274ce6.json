@@ -1,0 +1,648 @@
+[
+  {
+    "_id": "699ff9059973f7880906a541",
+    "bookId": "699fe209cbf92d26ef274ce6",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "The Fundamental Unit of Life",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0d7f356b-07f9-4dce-b8ba-c02ed196199e.pdf",
+      "_id": "69a1574835f1c25fee95c6e7"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": true,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T07:40:53.391Z",
+    "updatedAt": "2026-07-22T21:47:23.612Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "699ff2f877ba4addfa72d796",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "699ff547d293ab3522bd8ff1",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "699ff5fdd7a092e9616910b6",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "699ff65c77ba4addfa72e697",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "MCQs",
+        "testId": "699ff6e037a9d1f4fac51159",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "699fc6f6969be29b6c78edc6",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699ff2c338c57dec77624fa0",
+    "totalPageCount": 48,
+    "pageSliceVersion": 2,
+    "slug": "the-fundamental-unit-of-life",
+    "seo": {
+      "titleTag": "The Fundamental Unit of Life - Neev Biology (Digital Module) | PW Books",
+      "coverImageAltText": "The Fundamental Unit of Life - Neev Biology (Digital Module) | PW Books",
+      "ogTitle": "The Fundamental Unit of Life - Neev Biology (Digital Module) | PW Books",
+      "shortDescription": "Read The Fundamental Unit of Life from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The Fundamental Unit of Life from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The Fundamental Unit of Life from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/32456e28-bfbc-44a8-b810-916cda234bfc.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699ff91d4deaa8f7d9583060",
+    "bookId": "699fe209cbf92d26ef274ce6",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Tissues",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T07:41:17.711Z",
+    "updatedAt": "2026-07-22T21:47:27.383Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "699ffa80e83099b373271571",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "699ffb8af3af2092cde76770",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "699ffbfbe83099b3732718a3",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "699ffc89d293ab3522bd9fe3",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "MCQs",
+        "testId": "699ffd08f3af2092cde769a2",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "699fc6f6969be29b6c78edc6",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699ff2ce8a6581f8b85f38f5",
+    "totalPageCount": 50,
+    "pageSliceVersion": 2,
+    "slug": "tissues",
+    "seo": {
+      "titleTag": "Tissues - Neev Biology (Digital Module) | PW Books",
+      "coverImageAltText": "Tissues - Neev Biology (Digital Module) | PW Books",
+      "ogTitle": "Tissues - Neev Biology (Digital Module) | PW Books",
+      "shortDescription": "Read Tissues from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Tissues from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Tissues from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/32456e28-bfbc-44a8-b810-916cda234bfc.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699ff937cbf92d26ef27ab16",
+    "bookId": "699fe209cbf92d26ef274ce6",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Diversity in Living Organisms",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T07:41:43.249Z",
+    "updatedAt": "2026-07-22T21:47:32.798Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a000f23547b247a348a3f3",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a0015fd7a092e9616933f9",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a002acfbe59364761f29d4",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a00322d293ab3522bdb0b4",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "MCQs",
+        "testId": "69a00586d293ab3522bdb3c7",
+        "numberOfQuestions": 49
+      }
+    ],
+    "programChapterId": "699fc6f6969be29b6c78edc6",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699ff4f32660725f790f6e46",
+    "totalPageCount": 60,
+    "pageSliceVersion": 2,
+    "slug": "diversity-in-living-organisms",
+    "seo": {
+      "titleTag": "Diversity in Living Organisms - Neev Biology (Digital Module) | PW Books",
+      "coverImageAltText": "Diversity in Living Organisms - Neev Biology (Digital Module) | PW Books",
+      "ogTitle": "Diversity in Living Organisms - Neev Biology (Digital Module) | PW Books",
+      "shortDescription": "Read Diversity in Living Organisms from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Diversity in Living Organisms from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Diversity in Living Organisms from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/32456e28-bfbc-44a8-b810-916cda234bfc.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699ff94e16a5153161cf53ac",
+    "bookId": "699fe209cbf92d26ef274ce6",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Why do we Fall ill?",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T07:42:06.970Z",
+    "updatedAt": "2026-07-22T21:47:36.555Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "699ffda637a9d1f4fac52165",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "699ffe11fbe59364761f234a",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "699ffe7ed7a092e961692e3c",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "699fff773547b247a348a08a",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "MCQs",
+        "testId": "699ffffc37a9d1f4fac52a3b",
+        "numberOfQuestions": 40
+      }
+    ],
+    "programChapterId": "699fc6f6969be29b6c78edc6",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699ff4c4d112c4daec20b0f6",
+    "totalPageCount": 52,
+    "pageSliceVersion": 2,
+    "slug": "why-do-we-fall-ill",
+    "seo": {
+      "titleTag": "Why do we Fall ill? - Neev Biology (Digital Module) | PW Books",
+      "coverImageAltText": "Why do we Fall ill? - Neev Biology (Digital Module) | PW Books",
+      "ogTitle": "Why do we Fall ill? - Neev Biology (Digital Module) | PW Books",
+      "shortDescription": "Read Why do we Fall ill? from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Why do we Fall ill? from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Why do we Fall ill? from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/32456e28-bfbc-44a8-b810-916cda234bfc.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699ff970d77f79c65615a1bc",
+    "bookId": "699fe209cbf92d26ef274ce6",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Natural Resources",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T07:42:40.286Z",
+    "updatedAt": "2026-07-22T21:47:39.996Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a0066677ba4addfa73051a",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a007203547b247a348b67e",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a007cbf3af2092cde77b2f",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a0085b77ba4addfa730627",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "MCQs",
+        "testId": "69a00a587d13555fa2d3e397",
+        "numberOfQuestions": 50
+      }
+    ],
+    "programChapterId": "699fc6f6969be29b6c78edc6",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699ff5008c6dfcb7ba29a2d5",
+    "totalPageCount": 54,
+    "pageSliceVersion": 2,
+    "slug": "natural-resources",
+    "seo": {
+      "titleTag": "Natural Resources - Neev Biology (Digital Module) | PW Books",
+      "coverImageAltText": "Natural Resources - Neev Biology (Digital Module) | PW Books",
+      "ogTitle": "Natural Resources - Neev Biology (Digital Module) | PW Books",
+      "shortDescription": "Read Natural Resources from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Natural Resources from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Natural Resources from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/32456e28-bfbc-44a8-b810-916cda234bfc.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699ff988da678d4e05e07cdc",
+    "bookId": "699fe209cbf92d26ef274ce6",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Improvement in Food Resources",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T07:43:04.832Z",
+    "updatedAt": "2026-07-22T21:47:43.256Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a00b0f7d13555fa2d3eb12",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a00bca77ba4addfa7312b3",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a00c123547b247a348d34d",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a00c98d293ab3522bddf74",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "MCQs",
+        "testId": "69a00d02e83099b37327304d",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "699fc6f6969be29b6c78edc6",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699ff50aec8fa70653f4dde7",
+    "totalPageCount": 43,
+    "pageSliceVersion": 2,
+    "slug": "improvement-in-food-resources",
+    "seo": {
+      "titleTag": "Improvement in Food Resources - Neev Biology (Digital Module) | PW Books",
+      "coverImageAltText": "Improvement in Food Resources - Neev Biology (Digital Module) | PW Books",
+      "ogTitle": "Improvement in Food Resources - Neev Biology (Digital Module) | PW Books",
+      "shortDescription": "Read Improvement in Food Resources from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Improvement in Food Resources from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Improvement in Food Resources from Neev Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/32456e28-bfbc-44a8-b810-916cda234bfc.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  }
+]

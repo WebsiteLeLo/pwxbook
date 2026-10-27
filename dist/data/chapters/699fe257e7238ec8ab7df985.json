@@ -1,0 +1,1242 @@
+[
+  {
+    "_id": "69a00a1f46ea4dbc6dcfb27b",
+    "bookId": "699fe257e7238ec8ab7df985",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Number Systems",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/123c1359-194a-4824-819b-9cda1e677d11.pdf",
+      "_id": "69a00a1f46ea4dbc6dcfb27c"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": true,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T08:53:51.151Z",
+    "updatedAt": "2026-07-22T21:47:46.572Z",
+    "__v": 0,
+    "totalPageCount": 69,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a1469077ba4addfa745e3a",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a147583547b247a361390a",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a147e1e83099b3733be6ac",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a14897df2aac02ec7eebd3",
+        "numberOfQuestions": 20
+      }
+    ],
+    "programChapterId": "69a142a5a34ab1906b9e807c",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a145aa7aa1a4c1966fac1f",
+    "pageSliceVersion": 1,
+    "slug": "number-systems",
+    "seo": {
+      "titleTag": "Number Systems - Neev Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Number Systems - Neev Maths (Digital Module) | PW Books",
+      "ogTitle": "Number Systems - Neev Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Number Systems from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Number Systems from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Number Systems from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7aab5c03-fa63-4a8d-a39f-bd936b46851d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a00a38fb95cf03aa69e37a",
+    "bookId": "699fe257e7238ec8ab7df985",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Polynomials",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T08:54:16.146Z",
+    "updatedAt": "2026-07-22T21:47:49.346Z",
+    "__v": 0,
+    "totalPageCount": 58,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a1498c77ba4addfa74691f",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a14a57dc5f9a3716124563",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a14ac2b50a9d6050979fd5",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a14b4ef3af2092cde878a4",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "69a142a5a34ab1906b9e807c",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a145b2d3fce17834397827",
+    "pageSliceVersion": 2,
+    "slug": "polynomials",
+    "seo": {
+      "titleTag": "Polynomials - Neev Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Polynomials - Neev Maths (Digital Module) | PW Books",
+      "ogTitle": "Polynomials - Neev Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Polynomials from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Polynomials from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Polynomials from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7aab5c03-fa63-4a8d-a39f-bd936b46851d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a00a50df6987f806d6149d",
+    "bookId": "699fe257e7238ec8ab7df985",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Co-ordinate Geometry",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T08:54:40.400Z",
+    "updatedAt": "2026-07-22T21:47:50.620Z",
+    "__v": 0,
+    "totalPageCount": 25,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a14bdc77ba4addfa746b78",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a14c587d13555fa2e92698",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a14d673547b247a36145cb",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQs",
+        "testId": "69a2df0002b4e117cbbceae8",
+        "numberOfQuestions": 22
+      }
+    ],
+    "programChapterId": "69a142a5a34ab1906b9e807c",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a145bb4db979a7873aac84",
+    "pageSliceVersion": 2,
+    "slug": "co-ordinate-geometry",
+    "seo": {
+      "titleTag": "Co-ordinate Geometry - Neev Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Co-ordinate Geometry - Neev Maths (Digital Module) | PW Books",
+      "ogTitle": "Co-ordinate Geometry - Neev Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Co-ordinate Geometry from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Co-ordinate Geometry from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Co-ordinate Geometry from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7aab5c03-fa63-4a8d-a39f-bd936b46851d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a00a6f2b0096ce14df8748",
+    "bookId": "699fe257e7238ec8ab7df985",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Linear Equation in Two Variables",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T08:55:11.191Z",
+    "updatedAt": "2026-07-22T21:47:52.302Z",
+    "__v": 0,
+    "totalPageCount": 35,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a14e8c37a9d1f4fada51ba",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a14f293547b247a36150e0",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a14f9b37a9d1f4fada53fb",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a1509ed7a092e9616b41be",
+        "numberOfQuestions": 23
+      }
+    ],
+    "programChapterId": "69a142a5a34ab1906b9e807c",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a14e4172e14cfd1baaede9",
+    "pageSliceVersion": 2,
+    "slug": "linear-equation-in-two-variables",
+    "seo": {
+      "titleTag": "Linear Equation in Two Variables - Neev Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Linear Equation in Two Variables - Neev Maths (Digital Module) | PW Books",
+      "ogTitle": "Linear Equation in Two Variables - Neev Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Linear Equation in Two Variables from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Linear Equation in Two Variables from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Linear Equation in Two Variables from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7aab5c03-fa63-4a8d-a39f-bd936b46851d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a00a95dbed4a1a37b991e4",
+    "bookId": "699fe257e7238ec8ab7df985",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Introduction to Euclid's Geometry",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T08:55:49.127Z",
+    "updatedAt": "2026-07-22T21:47:53.332Z",
+    "__v": 0,
+    "totalPageCount": 24,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a151303547b247a3620b1a",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a151abf5bfc2474508d115",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a151dfb50a9d605097afd5",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a152637d13555fa2e937e7",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "69a142a5a34ab1906b9e807c",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a150d6ab08ad5e210ebb8f",
+    "pageSliceVersion": 2,
+    "slug": "introduction-to-euclid-s-geometry",
+    "seo": {
+      "titleTag": "Introduction to Euclid's Geometry - Neev Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Introduction to Euclid's Geometry - Neev Maths (Digital Module) | PW Books",
+      "ogTitle": "Introduction to Euclid's Geometry - Neev Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Introduction to Euclid's Geometry from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Introduction to Euclid's Geometry from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Introduction to Euclid's Geometry from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7aab5c03-fa63-4a8d-a39f-bd936b46851d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a00aae1f23fd90af9d26dd",
+    "bookId": "699fe257e7238ec8ab7df985",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Lines and Angles",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T08:56:14.837Z",
+    "updatedAt": "2026-07-22T21:47:56.094Z",
+    "__v": 0,
+    "totalPageCount": 52,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a15380dc5f9a3716125238",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a153ebe83099b3733c03ca",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a154addf2aac02ec7f121f",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a15543d7a092e9616b4b1b",
+        "numberOfQuestions": 34
+      }
+    ],
+    "programChapterId": "69a142a5a34ab1906b9e807c",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a1531b7a74345c62691b4c",
+    "pageSliceVersion": 2,
+    "slug": "lines-and-angles",
+    "seo": {
+      "titleTag": "Lines and Angles - Neev Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Lines and Angles - Neev Maths (Digital Module) | PW Books",
+      "ogTitle": "Lines and Angles - Neev Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Lines and Angles from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Lines and Angles from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Lines and Angles from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7aab5c03-fa63-4a8d-a39f-bd936b46851d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a00c3b35f1c25fee923efb",
+    "bookId": "699fe257e7238ec8ab7df985",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Triangles",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T09:02:51.099Z",
+    "updatedAt": "2026-07-22T21:47:59.346Z",
+    "__v": 0,
+    "totalPageCount": 67,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a15f4cd7a092e9616b6877",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a15fc0f5bfc2474508e139",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a16052dc5f9a371612655d",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a16106f3af2092cde8a48b",
+        "numberOfQuestions": 32
+      }
+    ],
+    "programChapterId": "69a142a5a34ab1906b9e807c",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a15ed969592edddc3fca31",
+    "pageSliceVersion": 2,
+    "slug": "triangles",
+    "seo": {
+      "titleTag": "Triangles - Neev Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Triangles - Neev Maths (Digital Module) | PW Books",
+      "ogTitle": "Triangles - Neev Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Triangles from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Triangles from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Triangles from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7aab5c03-fa63-4a8d-a39f-bd936b46851d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a00c5cb9b8b332d68bf686",
+    "bookId": "699fe257e7238ec8ab7df985",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Quadrilaterals",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T09:03:24.757Z",
+    "updatedAt": "2026-07-22T21:48:02.384Z",
+    "__v": 0,
+    "totalPageCount": 66,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a168c3dc5f9a3716136e8f",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a18f0877ba4addfa74d7d6",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a18f8937a9d1f4fadb4cb2",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a18fcc7d13555fa2ea5862",
+        "numberOfQuestions": 32
+      }
+    ],
+    "programChapterId": "69a142a5a34ab1906b9e807c",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a1615b16322e38da45db68",
+    "pageSliceVersion": 2,
+    "slug": "quadrilaterals",
+    "seo": {
+      "titleTag": "Quadrilaterals - Neev Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Quadrilaterals - Neev Maths (Digital Module) | PW Books",
+      "ogTitle": "Quadrilaterals - Neev Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Quadrilaterals from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Quadrilaterals from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Quadrilaterals from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7aab5c03-fa63-4a8d-a39f-bd936b46851d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a00c760cbcb2e24077927c",
+    "bookId": "699fe257e7238ec8ab7df985",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Circle",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T09:03:50.882Z",
+    "updatedAt": "2026-07-22T21:48:06.337Z",
+    "__v": 0,
+    "totalPageCount": 88,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a16a1ab50a9d6050980818",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a16a67b50a9d60509809ce",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a16ac77d13555fa2e98e4f",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a16b2cdc5f9a37161372b6",
+        "numberOfQuestions": 51
+      }
+    ],
+    "programChapterId": "69a142a5a34ab1906b9e807c",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a1697c5f02ea2a428b8965",
+    "pageSliceVersion": 2,
+    "slug": "circle",
+    "seo": {
+      "titleTag": "Circle - Neev Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Circle - Neev Maths (Digital Module) | PW Books",
+      "ogTitle": "Circle - Neev Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Circle from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Circle from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Circle from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7aab5c03-fa63-4a8d-a39f-bd936b46851d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a00c9298799ae940d01638",
+    "bookId": "699fe257e7238ec8ab7df985",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Heron’s Formula",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T09:04:18.870Z",
+    "updatedAt": "2026-07-22T21:48:08.498Z",
+    "__v": 0,
+    "totalPageCount": 43,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a16bb4b50a9d60509811f5",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a19180dc5f9a3716146b98",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a19aebdf2aac02ec80170b",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a19b56f3af2092cde90a35",
+        "numberOfQuestions": 28
+      }
+    ],
+    "programChapterId": "69a142a5a34ab1906b9e807c",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a16b837a74345c62698cf3",
+    "pageSliceVersion": 2,
+    "slug": "heron-s-formula",
+    "seo": {
+      "titleTag": "Heron’s Formula - Neev Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Heron’s Formula - Neev Maths (Digital Module) | PW Books",
+      "ogTitle": "Heron’s Formula - Neev Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Heron’s Formula from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Heron’s Formula from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Heron’s Formula from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7aab5c03-fa63-4a8d-a39f-bd936b46851d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a00cad0ae6222acf1498b3",
+    "bookId": "699fe257e7238ec8ab7df985",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Surface Areas and Volumes",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T09:04:45.029Z",
+    "updatedAt": "2026-07-22T21:48:12.653Z",
+    "__v": 0,
+    "totalPageCount": 84,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a16dc2f5bfc2474509f4f9",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a16e7d37a9d1f4fadacb34",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a16ea877ba4addfa74b259",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a16eeee83099b3733ca1be",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "69a142a5a34ab1906b9e807c",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a16be481ac5459c920b1ba",
+    "pageSliceVersion": 3,
+    "slug": "surface-areas-and-volumes",
+    "seo": {
+      "titleTag": "Surface Areas and Volumes - Neev Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Surface Areas and Volumes - Neev Maths (Digital Module) | PW Books",
+      "ogTitle": "Surface Areas and Volumes - Neev Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Surface Areas and Volumes from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Surface Areas and Volumes from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Surface Areas and Volumes from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7aab5c03-fa63-4a8d-a39f-bd936b46851d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a00cc3da678d4e05e10dc9",
+    "bookId": "699fe257e7238ec8ab7df985",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Statistics",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T09:05:07.407Z",
+    "updatedAt": "2026-07-22T21:48:14.867Z",
+    "__v": 0,
+    "totalPageCount": 51,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a19c8a3547b247a365dce2",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a19cffdc5f9a3716147fe0",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a19d11e83099b3733d9963",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a19d98e83099b3733d9998",
+        "numberOfQuestions": 19
+      }
+    ],
+    "programChapterId": "69a142a5a34ab1906b9e807c",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a16f3f135636891105ffc8",
+    "pageSliceVersion": 2,
+    "slug": "statistics",
+    "seo": {
+      "titleTag": "Statistics - Neev Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Statistics - Neev Maths (Digital Module) | PW Books",
+      "ogTitle": "Statistics - Neev Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Statistics from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Statistics from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Statistics from Neev Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7aab5c03-fa63-4a8d-a39f-bd936b46851d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  }
+]

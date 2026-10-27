@@ -1,0 +1,1422 @@
+[
+  {
+    "_id": "6776ba7fcf7f97b31c8b37ef",
+    "bookId": "677652ada7479393acd73a37",
+    "status": "ACTIVE",
+    "noOfSections": "7",
+    "programChapterId": "67ab0655b199ff5a9fd91bb1",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab0662638492c9aa983ec8",
+    "displayOrder": 1,
+    "title": "Solutions",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5e13424f-b128-44ea-b51a-3867d66a872f.zip",
+      "_id": "68d273224146e8cc228a675f"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-3_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter. Here we got knowledge about various types of solutions that are responsible for various physical processes that occur around us like why salt is added to ice by ice-cream sellers, the lowering of oxygen levels at higher altitudes, etc. Here we got to know about Various processes like osmosis/reverse-osmosis. A good amount of questions arise from this chapter in various examinations.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 21
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 15
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 37
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 23
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 37
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 28
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter. Here we got knowledge about various types of solutions that are responsible for various physical processes that occur around us like why salt is added to ice by ice-cream sellers, the lowering of oxygen levels at higher altitudes, etc. Here we got to know about Various processes like osmosis/reverse-osmosis. A good amount of questions arise from this chapter in various examinations.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter. Here we got knowledge about various types of solutions that are responsible for various physical processes that occur around us like why salt is added to ice by ice-cream sellers, the lowering of oxygen levels at higher altitudes, etc. Here we got to know about Various processes like osmosis/reverse-osmosis. A good amount of questions arise from this chapter in various examinations.</p>\n</body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 33
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 30
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 23
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6828367385310f58f93ea508",
+        "numberOfQuestions": 127,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971de184d8976252f833826"
+      },
+      {
+        "testId": "68863e9c794c4910213f401d",
+        "numberOfQuestions": 161,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971de184d8976252f833827"
+      },
+      {
+        "testId": "68c7de0004b1b1fb2d1d8d3f",
+        "numberOfQuestions": 15,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971de184d8976252f833828"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682ee97d3ede0046be93cce0",
+        "numberOfQuestions": 62,
+        "_id": "6971de184d8976252f833825"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6854ea6806b389eed8f7c220",
+        "numberOfQuestions": 81,
+        "_id": "6971de184d8976252f833824"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68d13bc89519cde6445974e9",
+        "numberOfQuestions": 41,
+        "_id": "6971de184d8976252f833823"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.798Z",
+    "updatedAt": "2026-01-22T08:21:44.007Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 29.51,
+    "pageStart": 0.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "solutions",
+    "seo": {
+      "titleTag": "Solutions - Chemistry Part I (Class XII) | PW Books",
+      "coverImageAltText": "Solutions - Chemistry Part I (Class XII) | PW Books",
+      "ogTitle": "Solutions - Chemistry Part I (Class XII) | PW Books",
+      "shortDescription": "Read Solutions from Chemistry Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Solutions from Chemistry Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Solutions from Chemistry Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/911360c4-476f-448f-b14d-b4440db2e381.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6828367385310f58f93ea508",
+        "type": "Board PYQs",
+        "numberOfQuestions": 127
+      },
+      {
+        "testId": "68863e9c794c4910213f401d",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 161
+      },
+      {
+        "testId": "68c7de0004b1b1fb2d1d8d3f",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "682ee97d3ede0046be93cce0",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 62
+      },
+      {
+        "testId": "6854ea6806b389eed8f7c220",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 81
+      }
+    ],
+    "pyqQuestions": 303,
+    "exemplerQuestions": 62,
+    "mcqQuestions": 81,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682ee97d3ede0046be93cce0",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6854ea6806b389eed8f7c220",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6828367385310f58f93ea508",
+      "68863e9c794c4910213f401d",
+      "68c7de0004b1b1fb2d1d8d3f",
+      "682ee97d3ede0046be93cce0",
+      "6854ea6806b389eed8f7c220"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b37f6",
+    "bookId": "677652ada7479393acd73a37",
+    "status": "ACTIVE",
+    "noOfSections": "8",
+    "programChapterId": "67ab066dcd4d7143323b0fdc",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab067227d18990934fcdf7",
+    "displayOrder": 2,
+    "title": "Electrochemistry",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/12550eb2-0b76-44aa-8a6a-4a3ca67a5b67.zip",
+      "_id": "68d26ffc0978471b779c8321"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-4_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter. Here we got knowledge about how electricity is generated from chemical reactions and also from using electricity to do a chemical reaction. The concepts studied in this chapter have very vast applications like batteries, fuel cells, corrosion and refinement of impure minerals, etc. A very good amount of questions arise from this chapter in various examinations.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 13
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 14
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 18
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 18
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 24
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter. Here we got knowledge about how electricity is generated from chemical reactions and also from using electricity to do a chemical reaction. The concepts studied in this chapter have very vast applications like batteries, fuel cells, corrosion and refinement of impure minerals, etc. A very good amount of questions arise from this chapter in various examinations.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter. Here we got knowledge about how electricity is generated from chemical reactions and also from using electricity to do a chemical reaction. The concepts studied in this chapter have very vast applications like batteries, fuel cells, corrosion and refinement of impure minerals, etc. A very good amount of questions arise from this chapter in various examinations.</p>\n</body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 39
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 28
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 34
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 6
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68d138a93ac7706444714632",
+        "numberOfQuestions": 168,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971df739d7abd587aa1bfe7"
+      },
+      {
+        "testId": "688640469945c8e09ff29b0f",
+        "numberOfQuestions": 115,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971df739d7abd587aa1bfe8"
+      },
+      {
+        "testId": "68862e3449e985129ff29b37",
+        "numberOfQuestions": 17,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971df739d7abd587aa1bfe9"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682eea543a6bdb2cc68daac6",
+        "numberOfQuestions": 68,
+        "_id": "6971df739d7abd587aa1bfe6"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6854ebc68a6bfe426949f053",
+        "numberOfQuestions": 87,
+        "_id": "6971df739d7abd587aa1bfe5"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f11391b5b3dac4b7197fa",
+        "numberOfQuestions": 18,
+        "_id": "6971df739d7abd587aa1bfe4"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.800Z",
+    "updatedAt": "2026-01-22T08:27:31.532Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 59.51,
+    "pageStart": 30.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "electrochemistry",
+    "seo": {
+      "titleTag": "Electrochemistry - Chemistry Part I (Class XII) | PW Books",
+      "coverImageAltText": "Electrochemistry - Chemistry Part I (Class XII) | PW Books",
+      "ogTitle": "Electrochemistry - Chemistry Part I (Class XII) | PW Books",
+      "shortDescription": "Read Electrochemistry from Chemistry Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electrochemistry from Chemistry Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electrochemistry from Chemistry Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/911360c4-476f-448f-b14d-b4440db2e381.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68d138a93ac7706444714632",
+        "type": "Board PYQs",
+        "numberOfQuestions": 168
+      },
+      {
+        "testId": "688640469945c8e09ff29b0f",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 115
+      },
+      {
+        "testId": "68862e3449e985129ff29b37",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 17
+      },
+      {
+        "testId": "682eea543a6bdb2cc68daac6",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 68
+      },
+      {
+        "testId": "6854ebc68a6bfe426949f053",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 87
+      }
+    ],
+    "pyqQuestions": 300,
+    "exemplerQuestions": 68,
+    "mcqQuestions": 87,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682eea543a6bdb2cc68daac6",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6854ebc68a6bfe426949f053",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68d138a93ac7706444714632",
+      "688640469945c8e09ff29b0f",
+      "68862e3449e985129ff29b37",
+      "682eea543a6bdb2cc68daac6",
+      "6854ebc68a6bfe426949f053"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b37fd",
+    "bookId": "677652ada7479393acd73a37",
+    "status": "ACTIVE",
+    "noOfSections": "5",
+    "programChapterId": "67ab067a889f5e624547f278",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab067f5180c22dfd7c41c7",
+    "displayOrder": 3,
+    "title": "Chemical Kinetics",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/275b4799-80f0-4a59-88f7-c70eb96f1759.zip",
+      "_id": "68d26fbe2a3a0842b3a9243c"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-5 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>In Thermodynamics we studied about spontaneity of a reaction based on Gibb's free energy values which is an energytic perspective but how much time that reaction will complete is also an important perspective for the spontaneity of a reaction. In this chapter, we deal with that time perspective of a reaction. Here we got knowledge about the rate and time of completion of a reaction and it has vast applications in various processes like carbon dating, nuclear reactions kinetics, etc. A very good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 13
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 13
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 28
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 23
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 24
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 19
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>In Thermodynamics we studied the spontaneity of a reaction based on Gibb's free energy values which is an energetic perspective but how much time that reaction will complete that is also an important perspective for the spontaneity of a reaction. In this chapter, we deal with that time perspective of a reaction. Here we got knowledge about the rate and time of completion of a reaction and it has vast applications in various processes like carbon dating, nuclear reactions kinetics, etc. A very good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>In Thermodynamics we studied the spontaneity of a reaction based on Gibb's free energy values which is an energetic perspective but how much time that reaction will complete is also an important perspective fo the r the spontaneity of a reaction. In this chapter, we deal with that time perspective of a reaction. Here we got knowledge about the date and time of completion of a reaction and it has vast applications in various processes like carbon dating, nuclear reactions kinetics, etc. A very good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 34
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 20
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 31
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 21
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682b4d085ab93ad6b5a0ca46",
+        "numberOfQuestions": 161,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e038d7ca6d5175c9abdb"
+      },
+      {
+        "testId": "688641d149e985129ff2a8bb",
+        "numberOfQuestions": 120,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971e038d7ca6d5175c9abdc"
+      },
+      {
+        "testId": "68862f434e7a5c65f4d85a9a",
+        "numberOfQuestions": 17,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e038d7ca6d5175c9abdd"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682ef054fefe8ed89362f99c",
+        "numberOfQuestions": 66,
+        "_id": "6971e038d7ca6d5175c9abda"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6854eca41e635a18443dbfdd",
+        "numberOfQuestions": 73,
+        "_id": "6971e038d7ca6d5175c9abd9"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68d135a5c382e5613c6e356a",
+        "numberOfQuestions": 30,
+        "_id": "6971e038d7ca6d5175c9abd8"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.801Z",
+    "updatedAt": "2026-01-22T08:30:48.171Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 87.51,
+    "pageStart": 60.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": false,
+    "isAiExplanationEnabled": true,
+    "slug": "chemical-kinetics",
+    "seo": {
+      "titleTag": "Chemical Kinetics - Chemistry Part I (Class XII) | PW Books",
+      "coverImageAltText": "Chemical Kinetics - Chemistry Part I (Class XII) | PW Books",
+      "ogTitle": "Chemical Kinetics - Chemistry Part I (Class XII) | PW Books",
+      "shortDescription": "Read Chemical Kinetics from Chemistry Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Kinetics from Chemistry Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Kinetics from Chemistry Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/911360c4-476f-448f-b14d-b4440db2e381.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682b4d085ab93ad6b5a0ca46",
+        "type": "Board PYQs",
+        "numberOfQuestions": 161
+      },
+      {
+        "testId": "688641d149e985129ff2a8bb",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 120
+      },
+      {
+        "testId": "68862f434e7a5c65f4d85a9a",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 17
+      },
+      {
+        "testId": "682ef054fefe8ed89362f99c",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 66
+      },
+      {
+        "testId": "6854eca41e635a18443dbfdd",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 73
+      }
+    ],
+    "pyqQuestions": 298,
+    "exemplerQuestions": 66,
+    "mcqQuestions": 73,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682ef054fefe8ed89362f99c",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6854eca41e635a18443dbfdd",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682b4d085ab93ad6b5a0ca46",
+      "688641d149e985129ff2a8bb",
+      "68862f434e7a5c65f4d85a9a",
+      "682ef054fefe8ed89362f99c",
+      "6854eca41e635a18443dbfdd"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3804",
+    "bookId": "677652ada7479393acd73a37",
+    "status": "ACTIVE",
+    "noOfSections": "7",
+    "programChapterId": "67ab068a7e4c1890721afdcb",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab0693c444394223818bf4",
+    "displayOrder": 4,
+    "title": "The d- And f- Block Elements",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f5d8577d-607e-4433-9630-5a8b2c8eec07.zip",
+      "_id": "68d274d11eeb792ef354f639"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-9 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter. In this chapter, we will gain knowledge about transition metals and f-block elements. They have vast applications in the fields of catalysis, electrochemistry, alloy formations, etc. Concepts of magnetic properties will be helpful in the coordination chemistry chapter. A very good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 15
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 35
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 32
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 27
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 44
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter. In this chapter, we will gain knowledge about transition metals and f-block elements. They have vast applications in the fields of catalysis, electrochemistry, alloy formations, etc. Concepts of magnetic properties will be helpful in the coordination chemistry chapter. A very good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter. In this chapter, we will gain knowledge about transition metals and f-block elements. They have vast applications in the fields of catalysis, electrochemistry, alloy formations, etc. Concepts of magnetic properties will be helpful in the coordination chemistry chapter. A very good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 37
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 42
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 35
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 35
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682d99bbcfda4a7a756239c1",
+        "numberOfQuestions": 194,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e055b32b4315b066f39d"
+      },
+      {
+        "testId": "688643214e7a5c65f4d860bd",
+        "numberOfQuestions": 160,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971e055b32b4315b066f39e"
+      },
+      {
+        "testId": "6884e1df40ce47b9f3e7f3a0",
+        "numberOfQuestions": 19,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e055b32b4315b066f39f"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682ef12a42ad11cc622cef49",
+        "numberOfQuestions": 71,
+        "_id": "6971e055b32b4315b066f39c"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6854ed7271682bf1676fc0ea",
+        "numberOfQuestions": 95,
+        "_id": "6971e055b32b4315b066f39b"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68d13d4b9519cde64459c3f5",
+        "numberOfQuestions": 38,
+        "_id": "6971e055b32b4315b066f39a"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.808Z",
+    "updatedAt": "2026-01-22T08:31:17.274Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 116.51,
+    "pageStart": 88.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "the-d-and-f-block-elements",
+    "seo": {
+      "titleTag": "The d- And f- Block Elements - Chemistry Part I (Class XII) | PW Books",
+      "coverImageAltText": "The d- And f- Block Elements - Chemistry Part I (Class XII) | PW Books",
+      "ogTitle": "The d- And f- Block Elements - Chemistry Part I (Class XII) | PW Books",
+      "shortDescription": "Read The d- And f- Block Elements from Chemistry Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The d- And f- Block Elements from Chemistry Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The d- And f- Block Elements from Chemistry Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/911360c4-476f-448f-b14d-b4440db2e381.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682d99bbcfda4a7a756239c1",
+        "type": "Board PYQs",
+        "numberOfQuestions": 194
+      },
+      {
+        "testId": "688643214e7a5c65f4d860bd",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 160
+      },
+      {
+        "testId": "6884e1df40ce47b9f3e7f3a0",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 19
+      },
+      {
+        "testId": "682ef12a42ad11cc622cef49",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 71
+      },
+      {
+        "testId": "6854ed7271682bf1676fc0ea",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 95
+      }
+    ],
+    "pyqQuestions": 373,
+    "exemplerQuestions": 71,
+    "mcqQuestions": 95,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682ef12a42ad11cc622cef49",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6854ed7271682bf1676fc0ea",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682d99bbcfda4a7a756239c1",
+      "688643214e7a5c65f4d860bd",
+      "6884e1df40ce47b9f3e7f3a0",
+      "682ef12a42ad11cc622cef49",
+      "6854ed7271682bf1676fc0ea"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b380b",
+    "bookId": "677652ada7479393acd73a37",
+    "status": "ACTIVE",
+    "noOfSections": "7",
+    "programChapterId": "67ab069a60da46b9f08e9d3d",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab069fc4bd2cd30b0ba68f",
+    "displayOrder": 5,
+    "title": "Coordination Compounds",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/48789c7c-359b-4d2c-b641-3a72b658e660.zip",
+      "_id": "68d26fe4455b9e1b10214b0d"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-10_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter. In this chapter, we gained knowledge about compounds formed by metal ions and ligands which are of a different class of compounds that we had not studied in previous chapters. Here we got to know about how a molecule shows color, magnetism, etc. Coordination compounds have vast applications in various fields. At last from this chapter, a good amount of questions arise in various examinations which makes this chapter the most important chapter.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 28
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 29
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 41
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 26
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 47
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 37
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter. In this chapter, we gained knowledge about compounds formed by metal ions and ligands which are of a different class of compounds that we had not studied in previous chapters. Here we got to know about how a molecule shows color, magnetism, etc. Coordination compounds have vast applications in various fields. At last from this chapter, a good amount of questions arise in various examinations which makes this chapter the most important chapter.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter. In this chapter, we gained knowledge about compounds formed by metal ions and ligands which are of a different class of compounds that we had not studied in previous chapters. Here we got to know about how a molecule shows color, magnetism, etc. Coordination compounds have vast applications in various fields. At last from this chapter, a good amount of questions arise in various examinations which makes this chapter the most important chapter.</p>\n</body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 39
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 30
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68d136e5d9040cd6311771e7",
+        "numberOfQuestions": 163,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e129cd6c5b0cfc345453"
+      },
+      {
+        "testId": "6886441d4e7a5c65f4d860c8",
+        "numberOfQuestions": 208,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971e129cd6c5b0cfc345454"
+      },
+      {
+        "testId": "6884e304c0347ad8414e916a",
+        "numberOfQuestions": 14,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e129cd6c5b0cfc345455"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682ef3653a6bdb2cc68db74b",
+        "numberOfQuestions": 50,
+        "_id": "6971e129cd6c5b0cfc345452"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6854efc07018e83a58646c39",
+        "numberOfQuestions": 117,
+        "_id": "6971e129cd6c5b0cfc345451"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f1399fefe8ed893630d7c",
+        "numberOfQuestions": 32,
+        "_id": "6971e129cd6c5b0cfc345450"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.810Z",
+    "updatedAt": "2026-01-22T08:34:49.635Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 140.5,
+    "pageStart": 117.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "coordination-compounds",
+    "seo": {
+      "titleTag": "Coordination Compounds - Chemistry Part I (Class XII) | PW Books",
+      "coverImageAltText": "Coordination Compounds - Chemistry Part I (Class XII) | PW Books",
+      "ogTitle": "Coordination Compounds - Chemistry Part I (Class XII) | PW Books",
+      "shortDescription": "Read Coordination Compounds from Chemistry Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Coordination Compounds from Chemistry Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Coordination Compounds from Chemistry Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/911360c4-476f-448f-b14d-b4440db2e381.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68d136e5d9040cd6311771e7",
+        "type": "Board PYQs",
+        "numberOfQuestions": 163
+      },
+      {
+        "testId": "6886441d4e7a5c65f4d860c8",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 208
+      },
+      {
+        "testId": "6884e304c0347ad8414e916a",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 14
+      },
+      {
+        "testId": "682ef3653a6bdb2cc68db74b",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 50
+      },
+      {
+        "testId": "6854efc07018e83a58646c39",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 117
+      }
+    ],
+    "pyqQuestions": 385,
+    "exemplerQuestions": 50,
+    "mcqQuestions": 117,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682ef3653a6bdb2cc68db74b",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6854efc07018e83a58646c39",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68d136e5d9040cd6311771e7",
+      "6886441d4e7a5c65f4d860c8",
+      "6884e304c0347ad8414e916a",
+      "682ef3653a6bdb2cc68db74b",
+      "6854efc07018e83a58646c39"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  }
+]

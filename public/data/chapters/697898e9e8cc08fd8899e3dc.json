@@ -1,0 +1,644 @@
+[
+  {
+    "_id": "69789b5a81b9b3e456340737",
+    "bookId": "697898e9e8cc08fd8899e3dc",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Human Reproduction",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-27T11:02:50.140Z",
+    "updatedAt": "2026-07-22T19:35:13.651Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "69804bae7ff3c627154d16c4",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "69804f58b1d65d66b90bced4",
+        "numberOfQuestions": 115
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "69804f16ac60b060f3d71d9e",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "69804e1a7ff3c627154d184c",
+        "numberOfQuestions": 44
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698073d9af0718f9ab4dc069",
+        "numberOfQuestions": 32
+      }
+    ],
+    "programChapterId": "697c775f60030a7260eb8619",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "697c77bfe40dbed0e50f4e2e",
+    "totalPageCount": 62,
+    "pageSliceVersion": 2,
+    "slug": "human-reproduction",
+    "seo": {
+      "titleTag": "Human Reproduction - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "coverImageAltText": "Human Reproduction - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "ogTitle": "Human Reproduction - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "shortDescription": "Read Human Reproduction from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Human Reproduction from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Human Reproduction from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f73a260-906b-44fe-9f92-c92f243acfe5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "69789b9585f1c93e1a18345f",
+    "bookId": "697898e9e8cc08fd8899e3dc",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Reproductive Health",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-27T11:03:49.309Z",
+    "updatedAt": "2026-09-18T03:52:37.471Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698053880271ec00cf0bb911",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "6aacb11177a8c6dcbea0bd3a",
+        "numberOfQuestions": 81
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698054736352dbd6d83395ee",
+        "numberOfQuestions": 35
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "69805422a1290375f3a69778",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698074c47ff3c627154d73d6",
+        "numberOfQuestions": 26
+      }
+    ],
+    "programChapterId": "697c775f60030a7260eb8619",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "697c77cb62828bf224306ec4",
+    "totalPageCount": 43,
+    "pageSliceVersion": 1,
+    "slug": "reproductive-health",
+    "seo": {
+      "titleTag": "Reproductive Health - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "coverImageAltText": "Reproductive Health - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "ogTitle": "Reproductive Health - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "shortDescription": "Read Reproductive Health from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Reproductive Health from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Reproductive Health from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f73a260-906b-44fe-9f92-c92f243acfe5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "69789bc5cb5297169eb335e1",
+    "bookId": "697898e9e8cc08fd8899e3dc",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Evolution",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-27T11:04:37.034Z",
+    "updatedAt": "2026-07-22T19:35:21.631Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "69808c3c7ff3c627154db542",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "69808cf474ddd895d73bcf63",
+        "numberOfQuestions": 113
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "69808cbaaf0718f9ab4dfce2",
+        "numberOfQuestions": 38
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "69808c976352dbd6d836c8d3",
+        "numberOfQuestions": 41
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "6980a3626352dbd6d844ee7c",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "697c775f60030a7260eb8619",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "697c77d7ba76bdf0b8d3cf40",
+    "totalPageCount": 57,
+    "pageSliceVersion": 2,
+    "slug": "evolution",
+    "seo": {
+      "titleTag": "Evolution - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "coverImageAltText": "Evolution - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "ogTitle": "Evolution - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "shortDescription": "Read Evolution from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Evolution from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Evolution from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f73a260-906b-44fe-9f92-c92f243acfe5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6979a071e4fa91dfea673290",
+    "bookId": "697898e9e8cc08fd8899e3dc",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Human Health and Diseases",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-28T05:36:49.710Z",
+    "updatedAt": "2026-07-22T19:35:25.730Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698098fb10bf2ebcaf84be02",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "6980992406a45d327e0e11e5",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "69809948b1d65d66b90d0b2b",
+        "numberOfQuestions": 42
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "6980992406a45d327e0e11e5",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "6980a42c7ff3c627154e42c9",
+        "numberOfQuestions": 41
+      }
+    ],
+    "programChapterId": "697c775f60030a7260eb8619",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "697c77e3002f42fc60f1168c",
+    "totalPageCount": 70,
+    "pageSliceVersion": 1,
+    "slug": "human-health-and-diseases",
+    "seo": {
+      "titleTag": "Human Health and Diseases - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "coverImageAltText": "Human Health and Diseases - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "ogTitle": "Human Health and Diseases - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "shortDescription": "Read Human Health and Diseases from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Human Health and Diseases from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Human Health and Diseases from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f73a260-906b-44fe-9f92-c92f243acfe5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6979a0a83072e57e8f284d8a",
+    "bookId": "697898e9e8cc08fd8899e3dc",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Biotechnology: Principles & Processes",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-28T05:37:44.343Z",
+    "updatedAt": "2026-07-22T19:35:28.080Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "69809e576352dbd6d8411839",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "69809ec312d4ec85f1bfa4e7",
+        "numberOfQuestions": 76
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "69809e980271ec00cf0ccb04",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "69809e74a1290375f3b4a0a3",
+        "numberOfQuestions": 42
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "6980a54c6352dbd6d845cae5",
+        "numberOfQuestions": 46
+      }
+    ],
+    "programChapterId": "697c775f60030a7260eb8619",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "697c77eea4cd915298be99c5",
+    "totalPageCount": 39,
+    "pageSliceVersion": 1,
+    "slug": "biotechnology-principles-processes",
+    "seo": {
+      "titleTag": "Biotechnology: Principles & Processes - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "coverImageAltText": "Biotechnology: Principles & Processes - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "ogTitle": "Biotechnology: Principles & Processes - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "shortDescription": "Read Biotechnology: Principles & Processes from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biotechnology: Principles & Processes from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biotechnology: Principles & Processes from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f73a260-906b-44fe-9f92-c92f243acfe5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "697aedf787e046bee46c9205",
+    "bookId": "697898e9e8cc08fd8899e3dc",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Biotechnology and its Applications",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-29T05:19:51.714Z",
+    "updatedAt": "2026-07-22T19:35:30.038Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "6980a1656352dbd6d84428d0",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "6980a1da06a45d327e14d1f5",
+        "numberOfQuestions": 67
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "6980a1aea1290375f3b81990",
+        "numberOfQuestions": 58
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "6980a187af0718f9ab4e58d4",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "6980a672b1d65d66b90d309f",
+        "numberOfQuestions": 36
+      }
+    ],
+    "programChapterId": "697c775f60030a7260eb8619",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "697c77fba7cba39ad544b8fc",
+    "totalPageCount": 33,
+    "pageSliceVersion": 1,
+    "slug": "biotechnology-and-its-applications",
+    "seo": {
+      "titleTag": "Biotechnology and its Applications - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "coverImageAltText": "Biotechnology and its Applications - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "ogTitle": "Biotechnology and its Applications - Lakshya NEET Zoology (Digital Module) | PW Books",
+      "shortDescription": "Read Biotechnology and its Applications from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biotechnology and its Applications from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biotechnology and its Applications from Lakshya NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f73a260-906b-44fe-9f92-c92f243acfe5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  }
+]

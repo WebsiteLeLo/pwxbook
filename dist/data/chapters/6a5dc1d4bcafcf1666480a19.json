@@ -1,0 +1,738 @@
+[
+  {
+    "_id": "6a79815db72e8c8f319b714d",
+    "bookId": "6a5dc1d4bcafcf1666480a19",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Orienting Yourself The Use of Coordinates",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/546a9566-b8fc-4267-be5a-24577180e29b.zip",
+      "_id": "6a8297e895c527910734e598"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 5,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-10T07:44:29.800Z",
+    "updatedAt": "2026-09-02T09:54:47.666Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a97d224fce3cbc01d1e4539",
+        "numberOfQuestions": 26
+      }
+    ],
+    "programChapterId": "6a95286c89e5aab36019289a",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6a97b0d6a2df449e9a70f5b6",
+    "slug": "orienting-yourself-the-use-of-coordinates",
+    "seo": {
+      "titleTag": "Orienting Yourself The Use of Coordinates - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "coverImageAltText": "Orienting Yourself The Use of Coordinates - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "ogTitle": "Orienting Yourself The Use of Coordinates - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "shortDescription": "Read Orienting Yourself The Use of Coordinates from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Orienting Yourself The Use of Coordinates from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Orienting Yourself The Use of Coordinates from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/06315db5-b9c7-43e3-a2e0-8024fa8575fc.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6a82987a8a1ed79d620e276b",
+    "bookId": "6a5dc1d4bcafcf1666480a19",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Introduction to Linear Polynomials",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9ec2fdbc-f27c-4b3a-b562-cc60cc4c6ae8.zip",
+      "_id": "6a82987a8a1ed79d620e276c"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-17T05:13:30.863Z",
+    "updatedAt": "2026-09-02T09:55:15.655Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a97d29c5e1c34de534333e6",
+        "numberOfQuestions": 27
+      }
+    ],
+    "programChapterId": "6a95286c89e5aab36019289a",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6a97b0e0e2c57f605f5d31e9",
+    "slug": "introduction-to-linear-polynomials",
+    "seo": {
+      "titleTag": "Introduction to Linear Polynomials - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "coverImageAltText": "Introduction to Linear Polynomials - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "ogTitle": "Introduction to Linear Polynomials - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "shortDescription": "Read Introduction to Linear Polynomials from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Introduction to Linear Polynomials from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Introduction to Linear Polynomials from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/06315db5-b9c7-43e3-a2e0-8024fa8575fc.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6a8299fe9f7c15d34f3c1d9e",
+    "bookId": "6a5dc1d4bcafcf1666480a19",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "The World of Numbers",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4667182d-dd1e-4aac-996e-098ef6f96f7a.zip",
+      "_id": "6a8299fe9f7c15d34f3c1d9f"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-17T05:19:58.354Z",
+    "updatedAt": "2026-09-02T09:58:25.445Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a97d3791a5dc6ab28cb84f4",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "6a95286c89e5aab36019289a",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6a97b0ed5e10afcabb495749",
+    "slug": "the-world-of-numbers",
+    "seo": {
+      "titleTag": "The World of Numbers - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "coverImageAltText": "The World of Numbers - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "ogTitle": "The World of Numbers - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "shortDescription": "Read The World of Numbers from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The World of Numbers from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The World of Numbers from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/06315db5-b9c7-43e3-a2e0-8024fa8575fc.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6a829a282d8c886582c03303",
+    "bookId": "6a5dc1d4bcafcf1666480a19",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Exploring Algebraic Identities",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0ad7f655-4208-4d95-b46f-e0c810faef5e.zip",
+      "_id": "6a829a282d8c886582c03304"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-17T05:20:40.767Z",
+    "updatedAt": "2026-09-02T09:58:53.111Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a97d3e80ff5e5651f8c0b6f",
+        "numberOfQuestions": 29
+      }
+    ],
+    "programChapterId": "6a95286c89e5aab36019289a",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6a97b0fbc84da9a86470d614",
+    "slug": "exploring-algebraic-identities",
+    "seo": {
+      "titleTag": "Exploring Algebraic Identities - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "coverImageAltText": "Exploring Algebraic Identities - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "ogTitle": "Exploring Algebraic Identities - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "shortDescription": "Read Exploring Algebraic Identities from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Exploring Algebraic Identities from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Exploring Algebraic Identities from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/06315db5-b9c7-43e3-a2e0-8024fa8575fc.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6a86c01be80f196cc0597607",
+    "bookId": "6a5dc1d4bcafcf1666480a19",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "I’m Up and Down, and Round and Round",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0233512a-f518-4fb3-b8c6-725a9ab5a315.zip",
+      "_id": "6a893b76e737fb2b4a6b1451"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-20T08:51:39.166Z",
+    "updatedAt": "2026-09-02T09:59:19.481Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a97d44b38e9cb64577233c2",
+        "numberOfQuestions": 24
+      }
+    ],
+    "programChapterId": "6a95286c89e5aab36019289a",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6a97b107acfcd2673f235a24",
+    "slug": "i-m-up-and-down-and-round-and-round",
+    "seo": {
+      "titleTag": "I’m Up and Down, and Round and Round - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "coverImageAltText": "I’m Up and Down, and Round and Round - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "ogTitle": "I’m Up and Down, and Round and Round - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "shortDescription": "Read I’m Up and Down, and Round and Round from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read I’m Up and Down, and Round and Round from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read I’m Up and Down, and Round and Round from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/06315db5-b9c7-43e3-a2e0-8024fa8575fc.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6a829ba8853db377caecb13c",
+    "bookId": "6a5dc1d4bcafcf1666480a19",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Measuring Space Perimeter and Area",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7e77efee-ac7f-4e77-bb27-6cc2e1f75f2e.zip",
+      "_id": "6a86c159cf0aa183e4f0c476"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 4,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-17T05:27:04.297Z",
+    "updatedAt": "2026-09-02T09:59:44.386Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a97d4b80ff5e5651f8c0c98",
+        "numberOfQuestions": 34
+      }
+    ],
+    "programChapterId": "6a95286c89e5aab36019289a",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6a97b1146ec210c933014b42",
+    "slug": "measuring-space-perimeter-and-area",
+    "seo": {
+      "titleTag": "Measuring Space Perimeter and Area - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "coverImageAltText": "Measuring Space Perimeter and Area - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "ogTitle": "Measuring Space Perimeter and Area - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "shortDescription": "Read Measuring Space Perimeter and Area from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Measuring Space Perimeter and Area from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Measuring Space Perimeter and Area from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/06315db5-b9c7-43e3-a2e0-8024fa8575fc.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6a829bdfb8c0450176e16b16",
+    "bookId": "6a5dc1d4bcafcf1666480a19",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "The Mathematics of Maybe Introduction to Probability",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/17c7836e-18ee-41a8-877c-be2ff9daf1c8.zip",
+      "_id": "6a829e54bfea678d1f72dc1b"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-17T05:27:59.820Z",
+    "updatedAt": "2026-09-02T10:00:42.037Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a97d5a838e9cb6457723bc4",
+        "numberOfQuestions": 29
+      }
+    ],
+    "programChapterId": "6a95286c89e5aab36019289a",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6a97b1218f90d96ca5732ff2",
+    "slug": "the-mathematics-of-maybe-introduction-to-probability",
+    "seo": {
+      "titleTag": "The Mathematics of Maybe Introduction to Probability - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "coverImageAltText": "The Mathematics of Maybe Introduction to Probability - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "ogTitle": "The Mathematics of Maybe Introduction to Probability - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "shortDescription": "Read The Mathematics of Maybe Introduction to Probability from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The Mathematics of Maybe Introduction to Probability from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The Mathematics of Maybe Introduction to Probability from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/06315db5-b9c7-43e3-a2e0-8024fa8575fc.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6a86c20b54e4e2da36da8f40",
+    "bookId": "6a5dc1d4bcafcf1666480a19",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Predicting What Comes Next Exploring Sequences amd Progressions",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d1d2502c-25e5-4396-8b1d-cacc401b78ef.zip",
+      "_id": "6a893c236e5f53cccee07268"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-20T08:59:55.239Z",
+    "updatedAt": "2026-09-02T10:01:12.211Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a97d678da6358e4b13af381",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "6a95286c89e5aab36019289a",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6a97b1549aeca330608b2c55",
+    "slug": "predicting-what-comes-next-exploring-sequences-amd-progressions",
+    "seo": {
+      "titleTag": "Predicting What Comes Next Exploring Sequences amd Progressions - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "coverImageAltText": "Predicting What Comes Next Exploring Sequences amd Progressions - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "ogTitle": "Predicting What Comes Next Exploring Sequences amd Progressions - Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book) | PW Books",
+      "shortDescription": "Read Predicting What Comes Next Exploring Sequences amd Progressions from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Predicting What Comes Next Exploring Sequences amd Progressions from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Predicting What Comes Next Exploring Sequences amd Progressions from Question and Concept Bank for Class 9 Maths Part _ 01 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/06315db5-b9c7-43e3-a2e0-8024fa8575fc.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  }
+]

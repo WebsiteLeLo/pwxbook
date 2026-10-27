@@ -1,0 +1,1346 @@
+[
+  {
+    "_id": "699dd6cd4df7959193085a0f",
+    "bookId": "699dd31dd971531d43ad1369",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "RTS Set 1_Part Syllabus",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T16:50:21.124Z",
+    "updatedAt": "2026-07-22T21:37:03.866Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 1 (Quiz)",
+        "testId": "6999834b6db030a95cf61477",
+        "numberOfQuestions": 180
+      }
+    ],
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "6996b3b437700fb6fc62126c",
+    "totalPageCount": 9,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "6999834b6db030a95cf61477",
+        "numberOfQuestions": 75,
+        "_id": "6a5254371a38358256b54e06"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-1-part-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 1_Part Syllabus - JEE Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 1_Part Syllabus - JEE Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 1_Part Syllabus - JEE Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 1_Part Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 1_Part Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 1_Part Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8619106-c0b5-4f72-a568-61dbd5effbf9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699dd7f44df7959193085bd8",
+    "bookId": "699dd31dd971531d43ad1369",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "RTS Set 2_Part Syllabus",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T16:55:16.371Z",
+    "updatedAt": "2026-07-22T21:37:04.456Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 2 (Quiz)",
+        "testId": "6999843032b4dc9637165369",
+        "numberOfQuestions": 75
+      }
+    ],
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "699983a4ece3584dd3725803",
+    "totalPageCount": 9,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "6999843032b4dc9637165369",
+        "numberOfQuestions": 75,
+        "_id": "6a525440ab0ec474082ea328"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-2-part-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 2_Part Syllabus - JEE Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 2_Part Syllabus - JEE Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 2_Part Syllabus - JEE Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 2_Part Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 2_Part Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 2_Part Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8619106-c0b5-4f72-a568-61dbd5effbf9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699dd80e58d00dc56092fd21",
+    "bookId": "699dd31dd971531d43ad1369",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "RTS Set 3_Part Syllabus",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T16:55:42.526Z",
+    "updatedAt": "2026-07-22T21:37:04.909Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 3 (Quiz)",
+        "testId": "699ab87d0d09f4eaec89c42e",
+        "numberOfQuestions": 75
+      }
+    ],
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "699ab80beb9b73035fe26155",
+    "totalPageCount": 8,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "699ab87d0d09f4eaec89c42e",
+        "numberOfQuestions": 75,
+        "_id": "6a52544709fd30a9e42e8c93"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-3-part-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 3_Part Syllabus - JEE Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 3_Part Syllabus - JEE Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 3_Part Syllabus - JEE Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 3_Part Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 3_Part Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 3_Part Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8619106-c0b5-4f72-a568-61dbd5effbf9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699dd82c04b83b0610e839fa",
+    "bookId": "699dd31dd971531d43ad1369",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "RTS Set 4_Part Syllabus",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T16:56:12.506Z",
+    "updatedAt": "2026-07-22T21:37:05.599Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 4 (Quiz)",
+        "testId": "699ee7badffb5d21ad91de04",
+        "numberOfQuestions": 75
+      }
+    ],
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "699ab9779f3f30f7ffe1cd52",
+    "totalPageCount": 9,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "699ee7badffb5d21ad91de04",
+        "numberOfQuestions": 75,
+        "_id": "6a435bb22be5bdf1b89f468b"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-4-part-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 4_Part Syllabus - JEE Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 4_Part Syllabus - JEE Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 4_Part Syllabus - JEE Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 4_Part Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 4_Part Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 4_Part Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8619106-c0b5-4f72-a568-61dbd5effbf9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699dd847256b57f5f556522e",
+    "bookId": "699dd31dd971531d43ad1369",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "RTS Set 5_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T16:56:39.305Z",
+    "updatedAt": "2026-07-22T21:37:06.263Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 5 (Quiz)",
+        "testId": "69a03554eb9426a6ed70273c",
+        "numberOfQuestions": 75
+      }
+    ],
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "69a03509a28ba80ff9af53da",
+    "totalPageCount": 9,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "69a03554eb9426a6ed70273c",
+        "numberOfQuestions": 75,
+        "_id": "6a435c3a1ea52d284bcfa947"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-5-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 5_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 5_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 5_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 5_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 5_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 5_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8619106-c0b5-4f72-a568-61dbd5effbf9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699dd86dfb1c9df4e63d2db8",
+    "bookId": "699dd31dd971531d43ad1369",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "RTS Set 6_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T16:57:17.353Z",
+    "updatedAt": "2026-07-22T21:37:06.822Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 6 (Quiz)",
+        "testId": "699abc07b100e3f5870faf81",
+        "numberOfQuestions": 75
+      }
+    ],
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "699abbdd1763135a97e71277",
+    "totalPageCount": 9,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "699abc07b100e3f5870faf81",
+        "numberOfQuestions": 75,
+        "_id": "6a435c555797abf1722ecbc4"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-6-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 6_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 6_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 6_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 6_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 6_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 6_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8619106-c0b5-4f72-a568-61dbd5effbf9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699dd88d58d00dc56092ff5a",
+    "bookId": "699dd31dd971531d43ad1369",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "RTS Set 7_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T16:57:49.600Z",
+    "updatedAt": "2026-07-22T21:37:07.429Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 7 (Quiz)",
+        "testId": "699abcbf428d78c47d40dfde",
+        "numberOfQuestions": 75
+      }
+    ],
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "699abca8a28ba80ff9950244",
+    "totalPageCount": 8,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "699abcbf428d78c47d40dfde",
+        "numberOfQuestions": 75,
+        "_id": "6a435c7d3c28458cf828b58a"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-7-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 7_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 7_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 7_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 7_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 7_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 7_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8619106-c0b5-4f72-a568-61dbd5effbf9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699dd8a54e4d99fd2004e9fd",
+    "bookId": "699dd31dd971531d43ad1369",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "RTS Set 8_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T16:58:13.627Z",
+    "updatedAt": "2026-07-22T21:37:07.973Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 8 (Quiz)",
+        "testId": "699985d26db030a95cf61da7",
+        "numberOfQuestions": 75
+      }
+    ],
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "6999853db8b9d98c4ae90c17",
+    "totalPageCount": 8,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "699985d26db030a95cf61da7",
+        "numberOfQuestions": 75,
+        "_id": "6a435c9de7b59cddb93f81b9"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-8-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 8_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 8_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 8_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 8_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 8_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 8_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8619106-c0b5-4f72-a568-61dbd5effbf9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699dd8c2a0dd8e136a9a00bd",
+    "bookId": "699dd31dd971531d43ad1369",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "RTS Set 9_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T16:58:42.015Z",
+    "updatedAt": "2026-07-22T21:37:08.548Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 9 (Quiz)",
+        "testId": "699986db0072b01e14b557a1",
+        "numberOfQuestions": 75
+      }
+    ],
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "699986aaa45b255507d9a7d0",
+    "totalPageCount": 9,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "699986db0072b01e14b557a1",
+        "numberOfQuestions": 75,
+        "_id": "6a435d8d03273b47b7a052c5"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-9-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 9_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 9_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 9_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 9_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 9_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 9_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8619106-c0b5-4f72-a568-61dbd5effbf9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699dd8e7f9789bacbac258f2",
+    "bookId": "699dd31dd971531d43ad1369",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "RTS Set 10_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T16:59:19.252Z",
+    "updatedAt": "2026-07-22T21:37:09.191Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 10 (Quiz)",
+        "testId": "699988460072b01e14b55efb",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "699987fb18df7c353f0cfb50",
+    "totalPageCount": 9,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "699988460072b01e14b55efb",
+        "numberOfQuestions": 75,
+        "_id": "6a435d7d4225b1870dea14da"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-10-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 10_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 10_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 10_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 10_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 10_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 10_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8619106-c0b5-4f72-a568-61dbd5effbf9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699dd905fb1c9df4e63d32b5",
+    "bookId": "699dd31dd971531d43ad1369",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "RTS Set 11_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T16:59:49.238Z",
+    "updatedAt": "2026-07-22T21:37:09.761Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 11 (Quiz)",
+        "testId": "699bd91ab315c120d83d0c3c",
+        "numberOfQuestions": 75
+      }
+    ],
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "699bd8d173a4153f822471b1",
+    "totalPageCount": 8,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "699bd91ab315c120d83d0c3c",
+        "numberOfQuestions": 75,
+        "_id": "6a435d5bb6a9686150ac178e"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-11-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 11_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 11_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 11_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 11_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 11_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 11_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8619106-c0b5-4f72-a568-61dbd5effbf9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699dd921d43c581ad115bd7e",
+    "bookId": "699dd31dd971531d43ad1369",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "RTS Set 12_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T17:00:17.626Z",
+    "updatedAt": "2026-07-22T21:37:10.361Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 12 (Quiz)",
+        "testId": "699bda410d09f4eaecd5485f",
+        "numberOfQuestions": 75
+      }
+    ],
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "699bda21ac68173cbb6827d7",
+    "totalPageCount": 9,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "699bda410d09f4eaecd5485f",
+        "numberOfQuestions": 75,
+        "_id": "6a435d49f6f5a5ca6abde805"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-12-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 12_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 12_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 12_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 12_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 12_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 12_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8619106-c0b5-4f72-a568-61dbd5effbf9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699dd948f9789bacbac25ce2",
+    "bookId": "699dd31dd971531d43ad1369",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "RTS Set 13_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T17:00:56.803Z",
+    "updatedAt": "2026-07-22T21:37:10.909Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 13 (Quiz)",
+        "testId": "699bdb4a0d09f4eaecd58d29",
+        "numberOfQuestions": 75
+      }
+    ],
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "699bdb1d69d06de9f1ba6a1f",
+    "totalPageCount": 8,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "699bdb4a0d09f4eaecd58d29",
+        "numberOfQuestions": 75,
+        "_id": "6a435d3a582c7fe7e34caa7f"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-13-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 13_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 13_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 13_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 13_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 13_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 13_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8619106-c0b5-4f72-a568-61dbd5effbf9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699dd95e06603f08bcbbbf44",
+    "bookId": "699dd31dd971531d43ad1369",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "RTS Set 14_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T17:01:18.920Z",
+    "updatedAt": "2026-07-22T21:37:11.550Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 14 (Quiz)",
+        "testId": "699bdc513d172286607bc493",
+        "numberOfQuestions": 75
+      }
+    ],
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "699bdc258a164d42523e2756",
+    "totalPageCount": 10,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "699bdc513d172286607bc493",
+        "numberOfQuestions": 75,
+        "_id": "6a435d2e7cde33cc4f1e9da1"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-14-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 14_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 14_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 14_Full Syllabus - JEE Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 14_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 14_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 14_Full Syllabus from JEE Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a8619106-c0b5-4f72-a568-61dbd5effbf9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  }
+]

@@ -1,0 +1,2077 @@
+[
+  {
+    "_id": "6835a116572bc9475e18eb3a",
+    "bookId": "682bf6e0c729ba3055f4213f",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Real Number",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d6cf69ff-72a2-49f0-b586-d7cf3187c8bf.zip",
+      "_id": "68c273e2758bb664adeedb33"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>dummy importance</p>\n</body>\n</html>",
+        "exams": "IIT-JEE",
+        "graphs": []
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68a737629b3fe3f47d5826e1",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6ac8959b22e259395ec044da"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842c3b09c28a3c19bbbec6b",
+        "numberOfQuestions": 15,
+        "_id": "6ac8959b22e259395ec044d9"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "6ac8959b22e259395ec044d8"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "686676125f98cc0ae03bdf73",
+        "numberOfQuestions": 25,
+        "_id": "6ac8959b22e259395ec044d7"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf40c4a9d3c62f23c13c",
+    "programTopicId": "6842c327ee06be8502d26e07",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:37:15.887Z",
+    "updatedAt": "2026-10-09T07:19:55.784Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 8.51,
+    "pageStart": 0.01,
+    "additionalContent": [
+      {
+        "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/03a46573-dcb9-4682-9e29-3db766025396.pdf",
+        "title": "One Shot Real Number",
+        "pageCount": 1,
+        "id": "6ac88dff5b621ecc7f0bb059",
+        "type": "PDF",
+        "tag": "Class Notes",
+        "pdfType": "PDF",
+        "isShareable": false,
+        "isDownloadable": false,
+        "version": 1,
+        "isHighlightEnabled": false,
+        "isNotesEnabled": false,
+        "isAiGuruEnabled": false
+      }
+    ],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "real-number",
+    "pyqToggle": false,
+    "seo": {
+      "titleTag": "Real Number - Mathematics (Class X) | PW Books",
+      "coverImageAltText": "Real Number - Mathematics (Class X) | PW Books",
+      "ogTitle": "Real Number - Mathematics (Class X) | PW Books",
+      "shortDescription": "Read Real Number from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Real Number from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Real Number from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca091232-2be8-4428-bcef-f7872fb918fa.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68a737629b3fe3f47d5826e1",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842c3b09c28a3c19bbbec6b",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842c3b09c28a3c19bbbec6b",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68a737629b3fe3f47d5826e1",
+      "6842c3b09c28a3c19bbbec6b",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a116572bc9475e18eb40",
+    "bookId": "682bf6e0c729ba3055f4213f",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Polynomials",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/abd938f2-5199-4621-8c8a-a8cc60629692.zip",
+      "_id": "68c27446f2ad3c24569c3627"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<p>dummy importance</p>",
+        "exams": "IIT-JEE",
+        "graphs": []
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688cd721a2eab9a9a06c70f8",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf1632008b82eb75ce19"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842c52d0995a6084b2cad46",
+        "numberOfQuestions": 15,
+        "_id": "691edf1632008b82eb75ce18"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf1632008b82eb75ce17"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68667689c5051fcaf2922607",
+        "numberOfQuestions": 25,
+        "_id": "691edf1632008b82eb75ce16"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf40c4a9d3c62f23c13c",
+    "programTopicId": "6842c508428df8b7e34cd009",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:37:19.828Z",
+    "updatedAt": "2025-11-20T09:27:50.526Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 22.51,
+    "pageStart": 9.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "polynomials",
+    "seo": {
+      "titleTag": "Polynomials - Mathematics (Class X) | PW Books",
+      "coverImageAltText": "Polynomials - Mathematics (Class X) | PW Books",
+      "ogTitle": "Polynomials - Mathematics (Class X) | PW Books",
+      "shortDescription": "Read Polynomials from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Polynomials from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Polynomials from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca091232-2be8-4428-bcef-f7872fb918fa.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688cd721a2eab9a9a06c70f8",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842c52d0995a6084b2cad46",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842c52d0995a6084b2cad46",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688cd721a2eab9a9a06c70f8",
+      "6842c52d0995a6084b2cad46",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a116572bc9475e18eb46",
+    "bookId": "682bf6e0c729ba3055f4213f",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Linear equation in two variables",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b546511f-89dc-4ef8-9c49-2a02c4a20482.zip",
+      "_id": "68c2745d737a7c2d4af16cd8"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<p>dummy importance</p>",
+        "exams": "IIT-JEE",
+        "graphs": []
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688cd83d3923fdc2a0d6d977",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf1638ade3ae3a3e3587"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842e7fb9927c42e71626fe9",
+        "numberOfQuestions": 15,
+        "_id": "691edf1638ade3ae3a3e3586"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf1638ade3ae3a3e3585"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "686676ff57ec12dae32c3c77",
+        "numberOfQuestions": 25,
+        "_id": "691edf1638ade3ae3a3e3584"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf40c4a9d3c62f23c13c",
+    "programTopicId": "6842e7be428df8b7e34cdd10",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:37:25.397Z",
+    "updatedAt": "2025-11-20T09:27:50.142Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 36.51,
+    "pageStart": 23.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "linear-equation-in-two-variables",
+    "seo": {
+      "titleTag": "Linear equation in two variables - Mathematics (Class X) | PW Books",
+      "coverImageAltText": "Linear equation in two variables - Mathematics (Class X) | PW Books",
+      "ogTitle": "Linear equation in two variables - Mathematics (Class X) | PW Books",
+      "shortDescription": "Read Linear equation in two variables from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Linear equation in two variables from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Linear equation in two variables from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca091232-2be8-4428-bcef-f7872fb918fa.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688cd83d3923fdc2a0d6d977",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842e7fb9927c42e71626fe9",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842e7fb9927c42e71626fe9",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688cd83d3923fdc2a0d6d977",
+      "6842e7fb9927c42e71626fe9",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a116572bc9475e18eb4c",
+    "bookId": "682bf6e0c729ba3055f4213f",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Quadratic Equation",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/27c7de8a-ad15-4d7a-af0c-a7eb6fefe424.zip",
+      "_id": "68c274744a868d2e8c3ca447"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<p>dummy importance</p>",
+        "exams": "IIT-JEE",
+        "graphs": []
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688cda601fe481ad7916992f",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf13dd0b99cbb713b4c2"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842e92b83cb84edcce28454",
+        "numberOfQuestions": 15,
+        "_id": "691edf13dd0b99cbb713b4c1"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf13dd0b99cbb713b4c0"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6866775c9e7026effa6e3ca0",
+        "numberOfQuestions": 25,
+        "_id": "691edf13dd0b99cbb713b4bf"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf40c4a9d3c62f23c13c",
+    "programTopicId": "6842e79f5c327784f0fcea9e",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:37:29.927Z",
+    "updatedAt": "2025-11-20T09:27:47.876Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 47.51,
+    "pageStart": 37.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "quadratic-equation",
+    "seo": {
+      "titleTag": "Quadratic Equation - Mathematics (Class X) | PW Books",
+      "coverImageAltText": "Quadratic Equation - Mathematics (Class X) | PW Books",
+      "ogTitle": "Quadratic Equation - Mathematics (Class X) | PW Books",
+      "shortDescription": "Read Quadratic Equation from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Quadratic Equation from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Quadratic Equation from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca091232-2be8-4428-bcef-f7872fb918fa.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688cda601fe481ad7916992f",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842e92b83cb84edcce28454",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842e92b83cb84edcce28454",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688cda601fe481ad7916992f",
+      "6842e92b83cb84edcce28454",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a116572bc9475e18eb52",
+    "bookId": "682bf6e0c729ba3055f4213f",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Arithmetic Progression",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/284d71e4-40c5-44b2-90e1-9288bb0cd133.zip",
+      "_id": "68c2748d4f3b8b786acfd169"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<p>dummy importance</p>",
+        "exams": "IIT-JEE",
+        "graphs": []
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688e0aeeebb7478daffb7e6c",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf13d35becdad28b66f3"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "685e3f499ee8baebdcfdc25d",
+        "numberOfQuestions": 15,
+        "_id": "691edf13d35becdad28b66f2"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf13d35becdad28b66f1"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "686677df57ec12dae32c3d35",
+        "numberOfQuestions": 25,
+        "_id": "691edf13d35becdad28b66f0"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf40c4a9d3c62f23c13c",
+    "programTopicId": "685e3ea8658f8edb1b632f96",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:37:32.926Z",
+    "updatedAt": "2025-11-20T09:27:47.846Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 71.51,
+    "pageStart": 48.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "arithmetic-progression",
+    "seo": {
+      "titleTag": "Arithmetic Progression - Mathematics (Class X) | PW Books",
+      "coverImageAltText": "Arithmetic Progression - Mathematics (Class X) | PW Books",
+      "ogTitle": "Arithmetic Progression - Mathematics (Class X) | PW Books",
+      "shortDescription": "Read Arithmetic Progression from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Arithmetic Progression from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Arithmetic Progression from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca091232-2be8-4428-bcef-f7872fb918fa.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688e0aeeebb7478daffb7e6c",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "685e3f499ee8baebdcfdc25d",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "685e3f499ee8baebdcfdc25d",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688e0aeeebb7478daffb7e6c",
+      "685e3f499ee8baebdcfdc25d",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a116572bc9475e18eb58",
+    "bookId": "682bf6e0c729ba3055f4213f",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Triangles",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d9e5a1c2-0904-47f3-9e52-5cd00a971342.zip",
+      "_id": "68c274a5737a7c2d4af171ce"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<p>dummy importance</p>",
+        "exams": "IIT-JEE",
+        "graphs": []
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688e0db22f3e9ee5e171ffa2",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf15620978a1ee211434"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842e9c19927c42e71627154",
+        "numberOfQuestions": 15,
+        "_id": "691edf15620978a1ee211433"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf15620978a1ee211432"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6866789f3066c8ee148aac8a",
+        "numberOfQuestions": 25,
+        "_id": "691edf15620978a1ee211431"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf40c4a9d3c62f23c13c",
+    "programTopicId": "6842e98dffd2b3805b38583e",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:37:38.670Z",
+    "updatedAt": "2025-11-20T09:27:49.638Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 97.51,
+    "pageStart": 72.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 6,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "triangles",
+    "seo": {
+      "titleTag": "Triangles - Mathematics (Class X) | PW Books",
+      "coverImageAltText": "Triangles - Mathematics (Class X) | PW Books",
+      "ogTitle": "Triangles - Mathematics (Class X) | PW Books",
+      "shortDescription": "Read Triangles from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Triangles from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Triangles from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca091232-2be8-4428-bcef-f7872fb918fa.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688e0db22f3e9ee5e171ffa2",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842e9c19927c42e71627154",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842e9c19927c42e71627154",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688e0db22f3e9ee5e171ffa2",
+      "6842e9c19927c42e71627154",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a116572bc9475e18eb5e",
+    "bookId": "682bf6e0c729ba3055f4213f",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Coordinate Geometry",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3dadd4ca-844e-4d99-a90b-9e73fd0a6894.zip",
+      "_id": "68c274c0497ee1a35153d9da"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>dummy importance</p>\n</body>\n</html>",
+        "exams": "IIT-JEE",
+        "graphs": []
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688e0e0037a478be2bdfab29",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf15bce4b93f01b5b314"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "685e40321f23275a5af276fa",
+        "numberOfQuestions": 15,
+        "_id": "691edf15bce4b93f01b5b313"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf15bce4b93f01b5b312"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68667948f6f395fe5f845070",
+        "numberOfQuestions": 25,
+        "_id": "691edf15bce4b93f01b5b311"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf40c4a9d3c62f23c13c",
+    "programTopicId": "685e3fc4bcb14c3a88ec02bb",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:37:44.787Z",
+    "updatedAt": "2025-11-20T09:27:49.902Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 111.51,
+    "pageStart": 98.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 7,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "coordinate-geometry",
+    "seo": {
+      "titleTag": "Coordinate Geometry - Mathematics (Class X) | PW Books",
+      "coverImageAltText": "Coordinate Geometry - Mathematics (Class X) | PW Books",
+      "ogTitle": "Coordinate Geometry - Mathematics (Class X) | PW Books",
+      "shortDescription": "Read Coordinate Geometry from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Coordinate Geometry from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Coordinate Geometry from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca091232-2be8-4428-bcef-f7872fb918fa.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688e0e0037a478be2bdfab29",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "685e40321f23275a5af276fa",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "685e40321f23275a5af276fa",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688e0e0037a478be2bdfab29",
+      "685e40321f23275a5af276fa",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a116572bc9475e18eb64",
+    "bookId": "682bf6e0c729ba3055f4213f",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Introduction to Trigonometry",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/60d9ee5b-e065-4d44-824a-a02ad1932feb.zip",
+      "_id": "694cec0f7ffe5097070163a6"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>dummy importance</p>\n</body>\n</html>",
+        "exams": "IIT-JEE",
+        "graphs": []
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688e0e4be786a7c16bd62fc6",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "694cec0f7ffe5097070163a5"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684300039927c42e71628689",
+        "numberOfQuestions": 15,
+        "_id": "694cec0f7ffe5097070163a4"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "694cec0f7ffe5097070163a3"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "686679a89e7026effa6e45ef",
+        "numberOfQuestions": 25,
+        "_id": "694cec0f7ffe5097070163a2"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "676bf3d64b13857264256872",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf40c4a9d3c62f23c13c",
+    "programTopicId": "6842ffd65f95cda06424a8bf",
+    "chapterVersion": 2,
+    "createdAt": "2025-07-30T07:37:48.062Z",
+    "updatedAt": "2025-12-25T07:47:27.810Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 131.51,
+    "pageStart": 112.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 8,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "introduction-to-trigonometry",
+    "seo": {
+      "titleTag": "Introduction to Trigonometry - Mathematics (Class X) | PW Books",
+      "coverImageAltText": "Introduction to Trigonometry - Mathematics (Class X) | PW Books",
+      "ogTitle": "Introduction to Trigonometry - Mathematics (Class X) | PW Books",
+      "shortDescription": "Read Introduction to Trigonometry from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Introduction to Trigonometry from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Introduction to Trigonometry from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca091232-2be8-4428-bcef-f7872fb918fa.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688e0e4be786a7c16bd62fc6",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "684300039927c42e71628689",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684300039927c42e71628689",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688e0e4be786a7c16bd62fc6",
+      "684300039927c42e71628689",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a116572bc9475e18eb6a",
+    "bookId": "682bf6e0c729ba3055f4213f",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Some applications of Trigonometry",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a7d16f9c-d59c-4fad-b77e-5b5f4a7c881b.zip",
+      "_id": "68c274f61ab28aec44807d86"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<p>dummy importance</p>",
+        "exams": "IIT-JEE",
+        "graphs": []
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688e0e86ebb7478daffb83ca",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf15eff7e01223454f8f"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "685e40e60d7f9abcf020a6e5",
+        "numberOfQuestions": 15,
+        "_id": "691edf15eff7e01223454f8e"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf15eff7e01223454f8d"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68667a0fc5051fcaf29227b9",
+        "numberOfQuestions": 25,
+        "_id": "691edf15eff7e01223454f8c"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf40c4a9d3c62f23c13c",
+    "programTopicId": "685e408852e0e96408f16573",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:37:52.248Z",
+    "updatedAt": "2025-11-20T09:27:49.882Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 142.51,
+    "pageStart": 132.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 9,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "some-applications-of-trigonometry",
+    "seo": {
+      "titleTag": "Some applications of Trigonometry - Mathematics (Class X) | PW Books",
+      "coverImageAltText": "Some applications of Trigonometry - Mathematics (Class X) | PW Books",
+      "ogTitle": "Some applications of Trigonometry - Mathematics (Class X) | PW Books",
+      "shortDescription": "Read Some applications of Trigonometry from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Some applications of Trigonometry from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Some applications of Trigonometry from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca091232-2be8-4428-bcef-f7872fb918fa.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688e0e86ebb7478daffb83ca",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "685e40e60d7f9abcf020a6e5",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "685e40e60d7f9abcf020a6e5",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688e0e86ebb7478daffb83ca",
+      "685e40e60d7f9abcf020a6e5",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a116572bc9475e18eb70",
+    "bookId": "682bf6e0c729ba3055f4213f",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Circles",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/239b47cd-2eef-4f6d-8481-5b08fa412b74.zip",
+      "_id": "68c2751c562883fec465078c"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<p>dummy importance</p>",
+        "exams": "IIT-JEE",
+        "graphs": []
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688e0edf42899cd723f9e00c",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf136df96d1efea3c6ab"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "685e41c89ee8baebdcfdc5fc",
+        "numberOfQuestions": 15,
+        "_id": "691edf136df96d1efea3c6aa"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf136df96d1efea3c6a9"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68667aa0c5051fcaf2922836",
+        "numberOfQuestions": 25,
+        "_id": "691edf136df96d1efea3c6a8"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf40c4a9d3c62f23c13c",
+    "programTopicId": "685e416e52e0e96408f165c2",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:37:54.193Z",
+    "updatedAt": "2025-11-20T09:27:47.639Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 152.51,
+    "pageStart": 143.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 10,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "circles",
+    "seo": {
+      "titleTag": "Circles - Mathematics (Class X) | PW Books",
+      "coverImageAltText": "Circles - Mathematics (Class X) | PW Books",
+      "ogTitle": "Circles - Mathematics (Class X) | PW Books",
+      "shortDescription": "Read Circles from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Circles from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Circles from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca091232-2be8-4428-bcef-f7872fb918fa.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688e0edf42899cd723f9e00c",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "685e41c89ee8baebdcfdc5fc",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "685e41c89ee8baebdcfdc5fc",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688e0edf42899cd723f9e00c",
+      "685e41c89ee8baebdcfdc5fc",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a116572bc9475e18eb76",
+    "bookId": "682bf6e0c729ba3055f4213f",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Area Related to Circles",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0223131e-af02-4e3a-928b-2cf581e42ad4.zip",
+      "_id": "68c2753d497ee1a35153e0ac"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<p>dummy importance</p>",
+        "exams": "IIT-JEE",
+        "graphs": []
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688e270e37c7127db27f12fb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf152e2504b66ea926e4"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684300f283cb84edcce2a05e",
+        "numberOfQuestions": 15,
+        "_id": "691edf152e2504b66ea926e3"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf152e2504b66ea926e2"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68667b0a6e463f75bf307001",
+        "numberOfQuestions": 25,
+        "_id": "691edf152e2504b66ea926e1"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf40c4a9d3c62f23c13c",
+    "programTopicId": "684300a83d390d4091192330",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:37:56.490Z",
+    "updatedAt": "2025-11-20T09:27:49.351Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 159.51,
+    "pageStart": 153.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 11,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "area-related-to-circles",
+    "seo": {
+      "titleTag": "Area Related to Circles - Mathematics (Class X) | PW Books",
+      "coverImageAltText": "Area Related to Circles - Mathematics (Class X) | PW Books",
+      "ogTitle": "Area Related to Circles - Mathematics (Class X) | PW Books",
+      "shortDescription": "Read Area Related to Circles from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Area Related to Circles from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Area Related to Circles from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca091232-2be8-4428-bcef-f7872fb918fa.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688e270e37c7127db27f12fb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "684300f283cb84edcce2a05e",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684300f283cb84edcce2a05e",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688e270e37c7127db27f12fb",
+      "684300f283cb84edcce2a05e",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a116572bc9475e18eb7c",
+    "bookId": "682bf6e0c729ba3055f4213f",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Surface area and Volumes",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ace6b414-a797-47ee-ae2d-37723a50ee38.zip",
+      "_id": "68c2755c497ee1a35153e1c8"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>dummy importance</p>\n</body>\n</html>",
+        "exams": "IIT-JEE",
+        "graphs": []
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688e27b9ebb7478daffba2e8",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "69394eb721c5cfefe31e4cdf"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684301a142952c7cea2e45d0",
+        "numberOfQuestions": 15,
+        "_id": "69394eb721c5cfefe31e4cde"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "69394eb721c5cfefe31e4cdd"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68667b688e0afa1f5382a65a",
+        "numberOfQuestions": 25,
+        "_id": "69394eb721c5cfefe31e4cdc"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "6711f8b687f4b476962d7cbb",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf40c4a9d3c62f23c13c",
+    "programTopicId": "68430148ffd2b3805b386497",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:37:58.542Z",
+    "updatedAt": "2025-12-10T10:43:03.770Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 169.51,
+    "pageStart": 160.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 12,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "surface-area-and-volumes",
+    "seo": {
+      "titleTag": "Surface area and Volumes - Mathematics (Class X) | PW Books",
+      "coverImageAltText": "Surface area and Volumes - Mathematics (Class X) | PW Books",
+      "ogTitle": "Surface area and Volumes - Mathematics (Class X) | PW Books",
+      "shortDescription": "Read Surface area and Volumes from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Surface area and Volumes from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Surface area and Volumes from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca091232-2be8-4428-bcef-f7872fb918fa.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688e27b9ebb7478daffba2e8",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "684301a142952c7cea2e45d0",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684301a142952c7cea2e45d0",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688e27b9ebb7478daffba2e8",
+      "684301a142952c7cea2e45d0",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a116572bc9475e18eb82",
+    "bookId": "682bf6e0c729ba3055f4213f",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Statistics",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce35d534-a7fd-4f1b-844e-d29908fa497e.zip",
+      "_id": "68c2757651fb4f07681b84ed"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<p>dummy importance</p>",
+        "exams": "IIT-JEE",
+        "graphs": []
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688e10052f3e9ee5e17200f7",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf164ec7f0c03ab77949"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "685e42adfc6ee7a9acb00163",
+        "numberOfQuestions": 15,
+        "_id": "691edf164ec7f0c03ab77948"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf164ec7f0c03ab77947"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68667bca57ec12dae32c4198",
+        "numberOfQuestions": 25,
+        "_id": "691edf164ec7f0c03ab77946"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf40c4a9d3c62f23c13c",
+    "programTopicId": "685e4223bcb14c3a88ec0304",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:38:01.039Z",
+    "updatedAt": "2025-11-20T09:27:50.390Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 200.51,
+    "pageStart": 170.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 13,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "statistics",
+    "seo": {
+      "titleTag": "Statistics - Mathematics (Class X) | PW Books",
+      "coverImageAltText": "Statistics - Mathematics (Class X) | PW Books",
+      "ogTitle": "Statistics - Mathematics (Class X) | PW Books",
+      "shortDescription": "Read Statistics from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Statistics from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Statistics from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca091232-2be8-4428-bcef-f7872fb918fa.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688e10052f3e9ee5e17200f7",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "685e42adfc6ee7a9acb00163",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "685e42adfc6ee7a9acb00163",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688e10052f3e9ee5e17200f7",
+      "685e42adfc6ee7a9acb00163",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a116572bc9475e18eb88",
+    "bookId": "682bf6e0c729ba3055f4213f",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Probability",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/06360895-991f-4c4e-a612-59cc4fe231a9.zip",
+      "_id": "694cec4b9e74389760cd5574"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<p>dummy importance</p>",
+        "exams": "IIT-JEE",
+        "graphs": []
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688e109942899cd723f9e0a2",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "694cec4b9e74389760cd5573"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "685e434486e3ab2b1dc8813e",
+        "numberOfQuestions": 15,
+        "_id": "694cec4b9e74389760cd5572"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "694cec4b9e74389760cd5571"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68667c2bf6f395fe5f84525b",
+        "numberOfQuestions": 25,
+        "_id": "694cec4b9e74389760cd5570"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "676bf3d64b13857264256872",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf40c4a9d3c62f23c13c",
+    "programTopicId": "685e4232814092be4077e2cc",
+    "chapterVersion": 2,
+    "createdAt": "2025-07-30T07:38:05.427Z",
+    "updatedAt": "2025-12-25T07:48:27.914Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 217.51,
+    "pageStart": 201.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 14,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "probability",
+    "seo": {
+      "titleTag": "Probability - Mathematics (Class X) | PW Books",
+      "coverImageAltText": "Probability - Mathematics (Class X) | PW Books",
+      "ogTitle": "Probability - Mathematics (Class X) | PW Books",
+      "shortDescription": "Read Probability from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Probability from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Probability from Mathematics (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca091232-2be8-4428-bcef-f7872fb918fa.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688e109942899cd723f9e0a2",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "685e434486e3ab2b1dc8813e",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "685e434486e3ab2b1dc8813e",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688e109942899cd723f9e0a2",
+      "685e434486e3ab2b1dc8813e",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  }
+]

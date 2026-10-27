@@ -1,0 +1,687 @@
+[
+  {
+    "_id": "6835ab1cbf9810593d04529e",
+    "bookId": "682bf535c729ba3055f42129",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "The Rise of Nationalism in Europe",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9c057d67-8984-47d0-afab-748a23db0916.zip",
+      "_id": "694ce8949e74389760cd4770"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "685406af3d9540597ae21d95",
+        "numberOfQuestions": 44,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6980886e40c4900f44ab7dee"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "6980886e40c4900f44ab7ded"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "6980886e40c4900f44ab7dec"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6853e39071682bf1676f1d62",
+        "numberOfQuestions": 13,
+        "_id": "6980886e40c4900f44ab7deb"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "6853e310632f8f91f6843237",
+    "chapterVersion": 3,
+    "createdAt": "2025-06-20T08:30:28.230Z",
+    "updatedAt": "2026-02-02T11:20:14.352Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 27.51,
+    "pageStart": 2.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "the-rise-of-nationalism-in-europe",
+    "seo": {
+      "titleTag": "The Rise of Nationalism in Europe - India and the Contemporary World Part 2 (Class X) | PW Books",
+      "coverImageAltText": "The Rise of Nationalism in Europe - India and the Contemporary World Part 2 (Class X) | PW Books",
+      "ogTitle": "The Rise of Nationalism in Europe - India and the Contemporary World Part 2 (Class X) | PW Books",
+      "shortDescription": "Read The Rise of Nationalism in Europe from India and the Contemporary World Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The Rise of Nationalism in Europe from India and the Contemporary World Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The Rise of Nationalism in Europe from India and the Contemporary World Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ed9d4e69-2d4b-4065-a850-e0b5d5e20651.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "685406af3d9540597ae21d95",
+        "type": "Board PYQs",
+        "numberOfQuestions": 44
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 44,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "685406af3d9540597ae21d95",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835ab1cbf9810593d0452a4",
+    "bookId": "682bf535c729ba3055f42129",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Nationalism in India",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8419be2f-02d1-4d55-a0bc-2640e4796cdd.zip",
+      "_id": "68c3c24a4df6d7b75fb3d8b3"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "68557624c1ad1a3203564e5e",
+        "numberOfQuestions": 135,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "698482464d2370d019803d1c"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "698482464d2370d019803d1b"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "698482464d2370d019803d1a"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68550e1ab6dd2bedd82583f1",
+        "numberOfQuestions": 12,
+        "_id": "698482464d2370d019803d19"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "6853e31f632f8f91f6843241",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:30:34.156Z",
+    "updatedAt": "2026-02-05T11:43:02.760Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 51.51,
+    "pageStart": 28.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": false,
+    "isAiExplanationEnabled": true,
+    "slug": "nationalism-in-india",
+    "seo": {
+      "titleTag": "Nationalism in India - India and the Contemporary World Part 2 (Class X) | PW Books",
+      "coverImageAltText": "Nationalism in India - India and the Contemporary World Part 2 (Class X) | PW Books",
+      "ogTitle": "Nationalism in India - India and the Contemporary World Part 2 (Class X) | PW Books",
+      "shortDescription": "Read Nationalism in India from India and the Contemporary World Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Nationalism in India from India and the Contemporary World Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Nationalism in India from India and the Contemporary World Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ed9d4e69-2d4b-4065-a850-e0b5d5e20651.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68557624c1ad1a3203564e5e",
+        "type": "Board PYQs",
+        "numberOfQuestions": 135
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 135,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68557624c1ad1a3203564e5e",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835ab1cbf9810593d0452aa",
+    "bookId": "682bf535c729ba3055f42129",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "The Making of a Global world",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/03c7796b-9638-4cc7-adbb-f4480c55f90a.zip",
+      "_id": "68c3c2674df6d7b75fb3db11"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "6855774374c52accd6f04402",
+        "numberOfQuestions": 29,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6980888faee803a554da3475"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "6980888faee803a554da3474"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "6980888faee803a554da3473"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6855102efa75892c7325d740",
+        "numberOfQuestions": 13,
+        "_id": "6980888faee803a554da3472"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "6853e332d39264199a65e51e",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:30:37.675Z",
+    "updatedAt": "2026-02-02T11:20:47.719Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 77.51,
+    "pageStart": 52.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "the-making-of-a-global-world",
+    "seo": {
+      "titleTag": "The Making of a Global world - India and the Contemporary World Part 2 (Class X) | PW Books",
+      "coverImageAltText": "The Making of a Global world - India and the Contemporary World Part 2 (Class X) | PW Books",
+      "ogTitle": "The Making of a Global world - India and the Contemporary World Part 2 (Class X) | PW Books",
+      "shortDescription": "Read The Making of a Global world from India and the Contemporary World Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The Making of a Global world from India and the Contemporary World Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The Making of a Global world from India and the Contemporary World Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ed9d4e69-2d4b-4065-a850-e0b5d5e20651.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6855774374c52accd6f04402",
+        "type": "Board PYQs",
+        "numberOfQuestions": 29
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 29,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6855774374c52accd6f04402",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835ab1cbf9810593d0452b0",
+    "bookId": "682bf535c729ba3055f42129",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "The Age of Industrialisation",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9bc0485e-ebfe-4e89-9287-efc4d0d98729.zip",
+      "_id": "68c3c27fef1c507db009a9f6"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "685577a3094846634c047dc6",
+        "numberOfQuestions": 24,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6980889625cc310ef68bb3a7"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "6980889625cc310ef68bb3a6"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "6980889625cc310ef68bb3a5"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685510ee538f453c3067bf77",
+        "numberOfQuestions": 10,
+        "_id": "6980889625cc310ef68bb3a4"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "6853e33f83db181bb38e0c65",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:30:44.022Z",
+    "updatedAt": "2026-02-02T11:20:54.615Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 103.51,
+    "pageStart": 78.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "the-age-of-industrialisation",
+    "seo": {
+      "titleTag": "The Age of Industrialisation - India and the Contemporary World Part 2 (Class X) | PW Books",
+      "coverImageAltText": "The Age of Industrialisation - India and the Contemporary World Part 2 (Class X) | PW Books",
+      "ogTitle": "The Age of Industrialisation - India and the Contemporary World Part 2 (Class X) | PW Books",
+      "shortDescription": "Read The Age of Industrialisation from India and the Contemporary World Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The Age of Industrialisation from India and the Contemporary World Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The Age of Industrialisation from India and the Contemporary World Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ed9d4e69-2d4b-4065-a850-e0b5d5e20651.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "685577a3094846634c047dc6",
+        "type": "Board PYQs",
+        "numberOfQuestions": 24
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 24,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "685577a3094846634c047dc6",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835ab1cbf9810593d0452b6",
+    "bookId": "682bf535c729ba3055f42129",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Print Culture and the Modern World",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8d4d1c7b-da49-488d-bc6c-f59d98460880.zip",
+      "_id": "68c3c2c9dff826b036ed5ff3"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "685578535dda30f5b090d7bf",
+        "numberOfQuestions": 58,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "698088e285dd9749fd8a9434"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "698088e285dd9749fd8a9433"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "698088e285dd9749fd8a9432"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6855117906982dc006b32c91",
+        "numberOfQuestions": 10,
+        "_id": "698088e285dd9749fd8a9431"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "6853e3529b1c5dc1426449c3",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:30:49.684Z",
+    "updatedAt": "2026-02-02T11:22:10.301Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 128.51,
+    "pageStart": 104.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "print-culture-and-the-modern-world",
+    "seo": {
+      "titleTag": "Print Culture and the Modern World - India and the Contemporary World Part 2 (Class X) | PW Books",
+      "coverImageAltText": "Print Culture and the Modern World - India and the Contemporary World Part 2 (Class X) | PW Books",
+      "ogTitle": "Print Culture and the Modern World - India and the Contemporary World Part 2 (Class X) | PW Books",
+      "shortDescription": "Read Print Culture and the Modern World from India and the Contemporary World Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Print Culture and the Modern World from India and the Contemporary World Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Print Culture and the Modern World from India and the Contemporary World Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ed9d4e69-2d4b-4065-a850-e0b5d5e20651.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "685578535dda30f5b090d7bf",
+        "type": "Board PYQs",
+        "numberOfQuestions": 58
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 58,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "685578535dda30f5b090d7bf",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  }
+]

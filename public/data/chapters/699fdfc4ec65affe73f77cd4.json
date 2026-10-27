@@ -1,0 +1,542 @@
+[
+  {
+    "_id": "69a248f21983500fcfd58784",
+    "bookId": "699fdfc4ec65affe73f77cd4",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Chemical Reactions and Equations",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "6a27fe5d8a7f8976af24ceca",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T01:46:26.736Z",
+    "updatedAt": "2026-10-07T11:14:12.860Z",
+    "__v": 0,
+    "totalPageCount": 62,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a131be37a9d1f4fad54b0e",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a143d93547b247a36022aa",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a14430e83099b3733ae041",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a1445eeb9426a6ed80b26d",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a144aed7a092e9616b27cc",
+        "numberOfQuestions": 14
+      }
+    ],
+    "programChapterId": "699fc7e5a52d9e3a19e7f892",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a131a24b1a21ec093a2185",
+    "pageSliceVersion": 2,
+    "slug": "chemical-reactions-and-equations",
+    "seo": {
+      "titleTag": "Chemical Reactions and Equations - Udaan Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Chemical Reactions and Equations - Udaan Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Chemical Reactions and Equations - Udaan Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Chemical Reactions and Equations from Udaan Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Reactions and Equations from Udaan Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Reactions and Equations from Udaan Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/56ff888b-b872-406a-aa3c-264834ad8411.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69a2490a88bd0402738bd4e6",
+    "bookId": "699fdfc4ec65affe73f77cd4",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Acids, Bases and Salts",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T01:46:50.486Z",
+    "updatedAt": "2026-07-22T21:44:04.545Z",
+    "__v": 0,
+    "totalPageCount": 60,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a13bf1d7a092e9616b0fa0",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a145a737a9d1f4fada30f9",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a146103547b247a361350b",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a146fa7d13555fa2e91a66",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a14733df2aac02ec7ee84b",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "699fc7e5a52d9e3a19e7f892",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a13bdad2c0fbd29396eaa8",
+    "pageSliceVersion": 1,
+    "slug": "acids-bases-and-salts",
+    "seo": {
+      "titleTag": "Acids, Bases and Salts - Udaan Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Acids, Bases and Salts - Udaan Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Acids, Bases and Salts - Udaan Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Acids, Bases and Salts from Udaan Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Acids, Bases and Salts from Udaan Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Acids, Bases and Salts from Udaan Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/56ff888b-b872-406a-aa3c-264834ad8411.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69a2492016e63905a8f7821e",
+    "bookId": "699fdfc4ec65affe73f77cd4",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Metals and Non-metals",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T01:47:12.118Z",
+    "updatedAt": "2026-07-22T21:44:08.399Z",
+    "__v": 0,
+    "totalPageCount": 81,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a13c48b4faf0d01e481656",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a147e2e83099b3733be6b0",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a14810dc5f9a3716123e71",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a148707d13555fa2e91c7c",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a14901e4879bd41a0de937",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "699fc7e5a52d9e3a19e7f892",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a13c382cdf8f62d04429c5",
+    "pageSliceVersion": 1,
+    "slug": "metals-and-non-metals",
+    "seo": {
+      "titleTag": "Metals and Non-metals - Udaan Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Metals and Non-metals - Udaan Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Metals and Non-metals - Udaan Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Metals and Non-metals from Udaan Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Metals and Non-metals from Udaan Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Metals and Non-metals from Udaan Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/56ff888b-b872-406a-aa3c-264834ad8411.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69a24940dd70c6e6f2630e90",
+    "bookId": "699fdfc4ec65affe73f77cd4",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Carbon and its Compounds",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T01:47:44.174Z",
+    "updatedAt": "2026-07-22T21:44:12.533Z",
+    "__v": 0,
+    "totalPageCount": 75,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a13cc87d13555fa2e506b9",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a14f1277ba4addfa747045",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a14fe2dc5f9a3716124da6",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a15047df2aac02ec7efb43",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a150917d13555fa2e9336d",
+        "numberOfQuestions": 14
+      }
+    ],
+    "programChapterId": "699fc7e5a52d9e3a19e7f892",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a13cb383c8976fff3fde66",
+    "pageSliceVersion": 1,
+    "slug": "carbon-and-its-compounds",
+    "seo": {
+      "titleTag": "Carbon and its Compounds - Udaan Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Carbon and its Compounds - Udaan Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Carbon and its Compounds - Udaan Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Carbon and its Compounds from Udaan Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Carbon and its Compounds from Udaan Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Carbon and its Compounds from Udaan Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/56ff888b-b872-406a-aa3c-264834ad8411.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69a24958c5b2a5cd4877d719",
+    "bookId": "699fdfc4ec65affe73f77cd4",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Periodic Classification of Elements",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T01:48:08.263Z",
+    "updatedAt": "2026-07-22T21:44:14.852Z",
+    "__v": 0,
+    "totalPageCount": 46,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a13d3fe83099b373395081",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a150fdd7a092e9616b4264",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a1515bdf2aac02ec7efdb9",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a151bfdc5f9a3716124fae",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a1534c3547b247a362107c",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "699fc7e5a52d9e3a19e7f892",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a13d28c91ec70638457d5c",
+    "pageSliceVersion": 1,
+    "slug": "periodic-classification-of-elements",
+    "seo": {
+      "titleTag": "Periodic Classification of Elements - Udaan Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Periodic Classification of Elements - Udaan Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Periodic Classification of Elements - Udaan Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Periodic Classification of Elements from Udaan Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Periodic Classification of Elements from Udaan Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Periodic Classification of Elements from Udaan Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/56ff888b-b872-406a-aa3c-264834ad8411.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  }
+]

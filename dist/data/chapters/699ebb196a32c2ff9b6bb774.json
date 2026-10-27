@@ -1,0 +1,2864 @@
+[
+  {
+    "_id": "699fd41868f0967b63044b29",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Quadratic Equations",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fca8beb9426a6ed6d0acf",
+        "numberOfQuestions": 70,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6a5253f851c3283d099fbcfa"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:03:20.845Z",
+    "updatedAt": "2026-07-22T21:43:00.753Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fca63fc49ad98d4938cde",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fca8beb9426a6ed6d0acf",
+        "numberOfQuestions": 70,
+        "_id": "6a5253f851c3283d099fbcf9"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "quadratic-equations",
+    "seo": {
+      "titleTag": "Quadratic Equations - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Quadratic Equations - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Quadratic Equations - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Quadratic Equations from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Quadratic Equations from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Quadratic Equations from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fca8beb9426a6ed6d0acf",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 70
+      }
+    ],
+    "pyqQuestions": 70,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fca8beb9426a6ed6d0acf"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd42f54984e06833df589",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Complex Numbers",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fcbe57d13555fa2d302d9",
+        "numberOfQuestions": 99,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6a5254038cabd4afe3de5afc"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:03:43.271Z",
+    "updatedAt": "2026-07-22T21:43:01.178Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fcbc59668bf2b1c169212",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fcbe57d13555fa2d302d9",
+        "numberOfQuestions": 99,
+        "_id": "6a5254038cabd4afe3de5afb"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "complex-numbers",
+    "seo": {
+      "titleTag": "Complex Numbers - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Complex Numbers - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Complex Numbers - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Complex Numbers from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Complex Numbers from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Complex Numbers from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fcbe57d13555fa2d302d9",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 99
+      }
+    ],
+    "pyqQuestions": 99,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fcbe57d13555fa2d302d9"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd44fd77f79c65614f62f",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Sequence and Series",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fd3780edbcc3b4f18c474",
+        "numberOfQuestions": 74,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6a52540c1a38358256b547c4"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:04:15.309Z",
+    "updatedAt": "2026-07-22T21:43:01.594Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fd362a7da6f9c981bd63c",
+    "totalPageCount": 5,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fd3780edbcc3b4f18c474",
+        "numberOfQuestions": 74,
+        "_id": "6a52540c1a38358256b547c3"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "sequence-and-series",
+    "seo": {
+      "titleTag": "Sequence and Series - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Sequence and Series - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Sequence and Series - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Sequence and Series from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Sequence and Series from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Sequence and Series from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fd3780edbcc3b4f18c474",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 74
+      }
+    ],
+    "pyqQuestions": 74,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fd3780edbcc3b4f18c474"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd465479d0dfb33680062",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Permutations and Combinations",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fd41bf3af2092cde7107e",
+        "numberOfQuestions": 44,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f98cffe46aac5f39c040f5"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:04:37.244Z",
+    "updatedAt": "2026-07-22T21:43:01.877Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fd4053ddf138911fe5d7c",
+    "totalPageCount": 3,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fd41bf3af2092cde7107e",
+        "numberOfQuestions": 44,
+        "_id": "69f98cffe46aac5f39c040f4"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "permutations-and-combinations",
+    "seo": {
+      "titleTag": "Permutations and Combinations - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Permutations and Combinations - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Permutations and Combinations - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Permutations and Combinations from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Permutations and Combinations from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Permutations and Combinations from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fd41bf3af2092cde7107e",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 44
+      }
+    ],
+    "pyqQuestions": 44,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fd41bf3af2092cde7107e"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd47f56cb2cc7c8771900",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Binomial Theorem",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fda2d2f1d7b039b4fba5f",
+        "numberOfQuestions": 36,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9a9a43925eaf7faf68c59"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:05:03.682Z",
+    "updatedAt": "2026-07-22T21:43:02.186Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fd9fecafd81bcfc60c5a2",
+    "totalPageCount": 3,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fda2d2f1d7b039b4fba5f",
+        "numberOfQuestions": 36,
+        "_id": "69f9a9a43925eaf7faf68c58"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "binomial-theorem",
+    "seo": {
+      "titleTag": "Binomial Theorem - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Binomial Theorem - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Binomial Theorem - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Binomial Theorem from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Binomial Theorem from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Binomial Theorem from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fda2d2f1d7b039b4fba5f",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 36
+      }
+    ],
+    "pyqQuestions": 36,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fda2d2f1d7b039b4fba5f"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd49aa231a8886e549b4a",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Probability",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fdc6cd293ab3522bd53e4",
+        "numberOfQuestions": 131,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9a9b73925eaf7faf68d7a"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:05:30.933Z",
+    "updatedAt": "2026-07-22T21:43:02.851Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fdc525f8c222c7b11dfd0",
+    "totalPageCount": 10,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fdc6cd293ab3522bd53e4",
+        "numberOfQuestions": 131,
+        "_id": "69f9a9b73925eaf7faf68d79"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "probability",
+    "seo": {
+      "titleTag": "Probability - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Probability - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Probability - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Probability from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Probability from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Probability from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fdc6cd293ab3522bd53e4",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 131
+      }
+    ],
+    "pyqQuestions": 131,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fdc6cd293ab3522bd53e4"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd4b155e1703fb607a7ee",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Matrices and Determinants",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fddb53547b247a3484bed",
+        "numberOfQuestions": 90,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9a9cb5c95d950a9dbc478"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:05:53.455Z",
+    "updatedAt": "2026-07-22T21:43:03.452Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fdd9638c57dec7761e0eb",
+    "totalPageCount": 8,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fddb53547b247a3484bed",
+        "numberOfQuestions": 90,
+        "_id": "69f9a9cb5c95d950a9dbc477"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "matrices-and-determinants",
+    "seo": {
+      "titleTag": "Matrices and Determinants - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Matrices and Determinants - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Matrices and Determinants - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Matrices and Determinants from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Matrices and Determinants from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Matrices and Determinants from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fddb53547b247a3484bed",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 90
+      }
+    ],
+    "pyqQuestions": 90,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fddb53547b247a3484bed"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd4ca7a174655da6661f9",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Trigonometric Ratios and Identities",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fdf903547b247a34852ef",
+        "numberOfQuestions": 34,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9a9e5202163f8a478669b"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:06:18.109Z",
+    "updatedAt": "2026-07-22T21:43:03.758Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fdf77d0c77bbb6a6eb3c5",
+    "totalPageCount": 3,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fdf903547b247a34852ef",
+        "numberOfQuestions": 34,
+        "_id": "69f9a9e5202163f8a478669a"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "trigonometric-ratios-and-identities",
+    "seo": {
+      "titleTag": "Trigonometric Ratios and Identities - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Trigonometric Ratios and Identities - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Trigonometric Ratios and Identities - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Trigonometric Ratios and Identities from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Trigonometric Ratios and Identities from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Trigonometric Ratios and Identities from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fdf903547b247a34852ef",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 34
+      }
+    ],
+    "pyqQuestions": 34,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fdf903547b247a34852ef"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd4e18d220b6e47c926d9",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Trigonometric Equations",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fe1d877ba4addfa72b7b4",
+        "numberOfQuestions": 48,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9a9f8e3f34f8270a6e8fe"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:06:41.672Z",
+    "updatedAt": "2026-07-22T21:43:04.306Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fe1c0e7bb7194bbf0adcc",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fe1d877ba4addfa72b7b4",
+        "numberOfQuestions": 48,
+        "_id": "69f9a9f8e3f34f8270a6e8fd"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "trigonometric-equations",
+    "seo": {
+      "titleTag": "Trigonometric Equations - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Trigonometric Equations - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Trigonometric Equations - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Trigonometric Equations from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Trigonometric Equations from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Trigonometric Equations from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fe1d877ba4addfa72b7b4",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 48
+      }
+    ],
+    "pyqQuestions": 48,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fe1d877ba4addfa72b7b4"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd4f90bdf2597b805d029",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Inverse Trigonometric Functions",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fe2fbeb9426a6ed6d3e63",
+        "numberOfQuestions": 25,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9aa0ee3f34f8270a6ea7d"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:07:05.535Z",
+    "updatedAt": "2026-07-22T21:43:04.660Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fe2d92660725f790f0851",
+    "totalPageCount": 3,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fe2fbeb9426a6ed6d3e63",
+        "numberOfQuestions": 25,
+        "_id": "69f9aa0ee3f34f8270a6ea7c"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "inverse-trigonometric-functions",
+    "seo": {
+      "titleTag": "Inverse Trigonometric Functions - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Inverse Trigonometric Functions - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Inverse Trigonometric Functions - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Inverse Trigonometric Functions from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Inverse Trigonometric Functions from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Inverse Trigonometric Functions from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fe2fbeb9426a6ed6d3e63",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 25
+      }
+    ],
+    "pyqQuestions": 25,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fe2fbeb9426a6ed6d3e63"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd514a85d8e23602880f3",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Properties of Triangles",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fe40ff3af2092cde728b0",
+        "numberOfQuestions": 55,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9aa29202163f8a4786b2f"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:07:32.348Z",
+    "updatedAt": "2026-07-22T21:43:05.107Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fe3f4928643b108fb8a04",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fe40ff3af2092cde728b0",
+        "numberOfQuestions": 55,
+        "_id": "69f9aa29202163f8a4786b2e"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "properties-of-triangles",
+    "seo": {
+      "titleTag": "Properties of Triangles - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Properties of Triangles - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Properties of Triangles - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Properties of Triangles from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Properties of Triangles from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Properties of Triangles from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fe40ff3af2092cde728b0",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 55
+      }
+    ],
+    "pyqQuestions": 55,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fe40ff3af2092cde728b0"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd52d59b23c70496233a7",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Straight Line and Pair of Straight Lines",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fe59ceb9426a6ed6d4246",
+        "numberOfQuestions": 68,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9aa3d202163f8a4786cce"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:07:57.694Z",
+    "updatedAt": "2026-07-22T21:43:05.461Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fe57f969be29b6c7993c2",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fe59ceb9426a6ed6d4246",
+        "numberOfQuestions": 68,
+        "_id": "69f9aa3d202163f8a4786ccd"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "straight-line-and-pair-of-straight-lines",
+    "seo": {
+      "titleTag": "Straight Line and Pair of Straight Lines - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Straight Line and Pair of Straight Lines - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Straight Line and Pair of Straight Lines - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Straight Line and Pair of Straight Lines from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Straight Line and Pair of Straight Lines from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Straight Line and Pair of Straight Lines from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fe59ceb9426a6ed6d4246",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 68
+      }
+    ],
+    "pyqQuestions": 68,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fe59ceb9426a6ed6d4246"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd54a8d220b6e47c92a83",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Circle",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fe786f3af2092cde72d55",
+        "numberOfQuestions": 96,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9aa52202163f8a4786e47"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:08:26.041Z",
+    "updatedAt": "2026-07-22T21:43:05.909Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fe76538c57dec776213ea",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fe786f3af2092cde72d55",
+        "numberOfQuestions": 96,
+        "_id": "69f9aa52202163f8a4786e46"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "circle",
+    "seo": {
+      "titleTag": "Circle - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Circle - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Circle - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Circle from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Circle from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Circle from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fe786f3af2092cde72d55",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 96
+      }
+    ],
+    "pyqQuestions": 96,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fe786f3af2092cde72d55"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd56655e1703fb607ad77",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Parabola",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fe90adf2aac02ec7d53bb",
+        "numberOfQuestions": 43,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9aa65bb62bd3d348aa2aa"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:08:54.738Z",
+    "updatedAt": "2026-07-22T21:43:06.183Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fe8f721a6ddb3e42a3246",
+    "totalPageCount": 3,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fe90adf2aac02ec7d53bb",
+        "numberOfQuestions": 43,
+        "_id": "69f9aa65bb62bd3d348aa2a9"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "parabola",
+    "seo": {
+      "titleTag": "Parabola - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Parabola - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Parabola - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Parabola from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Parabola from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Parabola from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fe90adf2aac02ec7d53bb",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 43
+      }
+    ],
+    "pyqQuestions": 43,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fe90adf2aac02ec7d53bb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd580735815b7cb5d1824",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "Ellipse",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699feae2fbe59364761ebf46",
+        "numberOfQuestions": 31,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9aa76948cc8c0e3a71cab"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:09:20.585Z",
+    "updatedAt": "2026-07-22T21:43:06.625Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fea1d81bdb8ee6b583b23",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699feae2fbe59364761ebf46",
+        "numberOfQuestions": 31,
+        "_id": "69f9aa76948cc8c0e3a71caa"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "ellipse",
+    "seo": {
+      "titleTag": "Ellipse - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Ellipse - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Ellipse - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Ellipse from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Ellipse from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Ellipse from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699feae2fbe59364761ebf46",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 31
+      }
+    ],
+    "pyqQuestions": 31,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699feae2fbe59364761ebf46"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd599da678d4e05df3f28",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 16,
+    "title": "Hyperbola",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699feb263547b247a3486ab0",
+        "numberOfQuestions": 22,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9aa8cf262843f25e091d6"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 16,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:09:45.458Z",
+    "updatedAt": "2026-07-22T21:43:06.897Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699feb102738646d8afd49a7",
+    "totalPageCount": 3,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699feb263547b247a3486ab0",
+        "numberOfQuestions": 22,
+        "_id": "69f9aa8cf262843f25e091d5"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "hyperbola",
+    "seo": {
+      "titleTag": "Hyperbola - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Hyperbola - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Hyperbola - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Hyperbola from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Hyperbola from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Hyperbola from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699feb263547b247a3486ab0",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 22
+      }
+    ],
+    "pyqQuestions": 22,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699feb263547b247a3486ab0"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd5b054984e06833e0525",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 17,
+    "title": "Functions",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fec12f3af2092cde73500",
+        "numberOfQuestions": 56,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9aa9c202163f8a47873ae"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 17,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:10:08.625Z",
+    "updatedAt": "2026-07-22T21:43:07.296Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699febf5ec8fa70653f4af0f",
+    "totalPageCount": 5,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fec12f3af2092cde73500",
+        "numberOfQuestions": 56,
+        "_id": "69f9aa9c202163f8a47873ad"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "functions",
+    "seo": {
+      "titleTag": "Functions - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Functions - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Functions - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Functions from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Functions from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Functions from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fec12f3af2092cde73500",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 56
+      }
+    ],
+    "pyqQuestions": 56,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fec12f3af2092cde73500"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd5c78d24042cdafdbf58",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 18,
+    "title": "Limit, Continuity and Differentiability.",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fed6b7d13555fa2d348ae",
+        "numberOfQuestions": 147,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9aaadf4803b1898a021f0"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 18,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:10:31.141Z",
+    "updatedAt": "2026-07-22T21:43:08.127Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fed472738646d8afd54d0",
+    "totalPageCount": 10,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fed6b7d13555fa2d348ae",
+        "numberOfQuestions": 147,
+        "_id": "69f9aaadf4803b1898a021ef"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "limit-continuity-and-differentiability",
+    "seo": {
+      "titleTag": "Limit, Continuity and Differentiability. - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Limit, Continuity and Differentiability. - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Limit, Continuity and Differentiability. - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Limit, Continuity and Differentiability. from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Limit, Continuity and Differentiability. from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Limit, Continuity and Differentiability. from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fed6b7d13555fa2d348ae",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 147
+      }
+    ],
+    "pyqQuestions": 147,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fed6b7d13555fa2d348ae"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd5df34382dac59991ec6",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 19,
+    "title": "Application of Derivatives.",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699feffb77ba4addfa72d00e",
+        "numberOfQuestions": 103,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9aac818f305a8bb06457b"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 19,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:10:55.032Z",
+    "updatedAt": "2026-07-22T21:43:08.608Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699fefda2660725f790f4e70",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699feffb77ba4addfa72d00e",
+        "numberOfQuestions": 103,
+        "_id": "69f9aac818f305a8bb06457a"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "application-of-derivatives",
+    "seo": {
+      "titleTag": "Application of Derivatives. - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Application of Derivatives. - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Application of Derivatives. - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Application of Derivatives. from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Application of Derivatives. from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Application of Derivatives. from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699feffb77ba4addfa72d00e",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 103
+      }
+    ],
+    "pyqQuestions": 103,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699feffb77ba4addfa72d00e"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd5fa9ce9bf5b48c59438",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 20,
+    "title": "Indefinite Integration",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ff14a37a9d1f4fac4e7e0",
+        "numberOfQuestions": 27,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9aae5948cc8c0e3a724a7"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 20,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:11:22.306Z",
+    "updatedAt": "2026-08-12T14:30:54.774Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699ff12881bdb8ee6b585d6f",
+    "totalPageCount": 2,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ff14a37a9d1f4fac4e7e0",
+        "numberOfQuestions": 27,
+        "_id": "69f9aae5948cc8c0e3a724a6"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "indefinite-integration",
+    "seo": {
+      "titleTag": "Indefinite Integration - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Indefinite Integration - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Indefinite Integration - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Indefinite Integration from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Indefinite Integration from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Indefinite Integration from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ff14a37a9d1f4fac4e7e0",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 27
+      }
+    ],
+    "pyqQuestions": 27,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ff14a37a9d1f4fac4e7e0"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd61efeb120bd9b8d50ca",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 21,
+    "title": "Definite Integration.",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ff26fdf2aac02ec7d6f30",
+        "numberOfQuestions": 110,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9be47aacb9e7336b33227"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 21,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:11:58.442Z",
+    "updatedAt": "2026-07-22T21:43:09.400Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699ff24338c57dec77624cfe",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ff26fdf2aac02ec7d6f30",
+        "numberOfQuestions": 110,
+        "_id": "69f9be47aacb9e7336b33226"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "definite-integration",
+    "seo": {
+      "titleTag": "Definite Integration. - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Definite Integration. - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Definite Integration. - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Definite Integration. from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Definite Integration. from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Definite Integration. from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ff26fdf2aac02ec7d6f30",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 110
+      }
+    ],
+    "pyqQuestions": 110,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ff26fdf2aac02ec7d6f30"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd63402c466a029572f8c",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 22,
+    "title": "Application of Integrals",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ff431f3af2092cde74a57",
+        "numberOfQuestions": 54,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9be5b0a817cade8533555"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 22,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:12:20.885Z",
+    "updatedAt": "2026-07-22T21:43:09.752Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699ff415fc49ad98d4946bf1",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ff431f3af2092cde74a57",
+        "numberOfQuestions": 54,
+        "_id": "69f9be5b0a817cade8533554"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "application-of-integrals",
+    "seo": {
+      "titleTag": "Application of Integrals - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Application of Integrals - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Application of Integrals - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Application of Integrals from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Application of Integrals from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Application of Integrals from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ff431f3af2092cde74a57",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 54
+      }
+    ],
+    "pyqQuestions": 54,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ff431f3af2092cde74a57"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd650a6a1bb897f567881",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 23,
+    "title": "Differential Equations",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ff533d293ab3522bd8fe5",
+        "numberOfQuestions": 41,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9be6dc83ce5ad992359ac"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 23,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:12:48.504Z",
+    "updatedAt": "2026-07-22T21:43:10.131Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699ff514af871d9057d4443c",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ff533d293ab3522bd8fe5",
+        "numberOfQuestions": 41,
+        "_id": "69f9be6dc83ce5ad992359ab"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "differential-equations",
+    "seo": {
+      "titleTag": "Differential Equations - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Differential Equations - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Differential Equations - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Differential Equations from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Differential Equations from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Differential Equations from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ff533d293ab3522bd8fe5",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 41
+      }
+    ],
+    "pyqQuestions": 41,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ff533d293ab3522bd8fe5"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd66bddd27aa6350b8e0f",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 24,
+    "title": "Vectors",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ff6783547b247a3488779",
+        "numberOfQuestions": 99,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9be80aacb9e7336b336ad"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 24,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:13:15.652Z",
+    "updatedAt": "2026-07-22T21:43:10.789Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699ff65d8f755b1fd2bef47f",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ff6783547b247a3488779",
+        "numberOfQuestions": 99,
+        "_id": "69f9be80aacb9e7336b336ac"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "vectors",
+    "seo": {
+      "titleTag": "Vectors - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Vectors - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Vectors - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Vectors from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Vectors from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Vectors from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ff6783547b247a3488779",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 99
+      }
+    ],
+    "pyqQuestions": 99,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ff6783547b247a3488779"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd684f761a8cfe92e83f1",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 25,
+    "title": "Three Dimensional Geometry",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ff8bfe83099b37327114e",
+        "numberOfQuestions": 44,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9be9194eec32384c33e60"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 25,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:13:40.957Z",
+    "updatedAt": "2026-07-22T21:43:11.212Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699ff8a032fa1e7e6d85f67e",
+    "totalPageCount": 5,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ff8bfe83099b37327114e",
+        "numberOfQuestions": 44,
+        "_id": "69f9be9194eec32384c33e5f"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "three-dimensional-geometry",
+    "seo": {
+      "titleTag": "Three Dimensional Geometry - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Three Dimensional Geometry - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Three Dimensional Geometry - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Three Dimensional Geometry from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Three Dimensional Geometry from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Three Dimensional Geometry from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ff8bfe83099b37327114e",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 44
+      }
+    ],
+    "pyqQuestions": 44,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ff8bfe83099b37327114e"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "699fd6a2b652b8da699bd0c7",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 26,
+    "title": "Mixed Topic Challenges",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ffa05df2aac02ec7d8113",
+        "numberOfQuestions": 37,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9beaa5f3decc1e6fcf4a5"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 26,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:14:10.622Z",
+    "updatedAt": "2026-07-22T21:43:11.671Z",
+    "__v": 0,
+    "programChapterId": "699fca485f043641367b07fe",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "699ff9e6a7d47b7750c84398",
+    "totalPageCount": 5,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ffa05df2aac02ec7d8113",
+        "numberOfQuestions": 37,
+        "_id": "69f9beaa5f3decc1e6fcf4a4"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "mixed-topic-challenges",
+    "seo": {
+      "titleTag": "Mixed Topic Challenges - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "Mixed Topic Challenges - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "Mixed Topic Challenges - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read Mixed Topic Challenges from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Mixed Topic Challenges from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Mixed Topic Challenges from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ffa05df2aac02ec7d8113",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 37
+      }
+    ],
+    "pyqQuestions": 37,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ffa05df2aac02ec7d8113"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a2bc6d2cb85ebd2aff3157",
+    "bookId": "699ebb196a32c2ff9b6bb774",
+    "status": "ACTIVE",
+    "displayOrder": 27,
+    "title": "JEE Advanced Solved Paper",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programTopicId": "69a011325f8c222c7b12f20b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 27,
+    "customPracticeSet": [
+      {
+        "name": "Solved Paper 1",
+        "testId": "69a012ad7d13555fa2d41985",
+        "numberOfQuestions": 48
+      },
+      {
+        "name": "Solved Paper 2",
+        "testId": "69a015adeb9426a6ed6df4e2",
+        "numberOfQuestions": 48
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T09:59:09.854Z",
+    "updatedAt": "2026-07-22T21:43:12.638Z",
+    "__v": 0,
+    "totalPageCount": 12,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "69a012ad7d13555fa2d41985",
+        "numberOfQuestions": 48,
+        "_id": "69f9bf5c728a0abb490033ba"
+      },
+      {
+        "testId": "69a015adeb9426a6ed6df4e2",
+        "numberOfQuestions": 48,
+        "_id": "69f9bf5c728a0abb490033bb"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "jee-advanced-solved-paper",
+    "seo": {
+      "titleTag": "JEE Advanced Solved Paper - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "coverImageAltText": "JEE Advanced Solved Paper - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "ogTitle": "JEE Advanced Solved Paper - JEE Advanced 48 Years (2025-1978) Maths (Digital Book) | PW Books",
+      "shortDescription": "Read JEE Advanced Solved Paper from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read JEE Advanced Solved Paper from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read JEE Advanced Solved Paper from JEE Advanced 48 Years (2025-1978) Maths (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bb2c9dce-4420-44bb-8b69-bbd6a04bb992.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  }
+]

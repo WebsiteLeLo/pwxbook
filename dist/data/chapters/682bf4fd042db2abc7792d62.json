@@ -1,0 +1,1894 @@
+[
+  {
+    "_id": "68359334572bc9475e18e99a",
+    "bookId": "682bf4fd042db2abc7792d62",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Matter in our Surroundings",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/98d169bf-33d0-4d97-a911-ec0648c44600.zip",
+      "_id": "68d64c1516b3a8c87d4cd393"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6952248a91d2acfe48d7295e"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "683ffd3b3ab6e57c92cdab38",
+        "numberOfQuestions": 27,
+        "_id": "6952248a91d2acfe48d7295d"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "6952248a91d2acfe48d7295c"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685d44b05101a2fbee3db03e",
+        "numberOfQuestions": 9,
+        "_id": "6952248a91d2acfe48d7295b"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "6711f8b687f4b476962d7cbb",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programChapterId": "683edf5e871605da61ac37ef",
+    "programTopicId": "683ffcfd7e469efbb38e6b94",
+    "chapterVersion": 2,
+    "importance": [],
+    "createdAt": "2025-06-20T08:26:18.705Z",
+    "updatedAt": "2025-12-29T06:49:46.647Z",
+    "__v": 0,
+    "additionalContent": [
+      {
+        "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/77439d66-c46f-4687-a4c7-d065daf1da5f.pdf",
+        "title": "Matter in our Surroundings | Handwritten notes by Alakh Sir",
+        "pageCount": 1,
+        "id": "68d50e1ae5e37566869011ac",
+        "type": "PDF",
+        "tag": "NOTES",
+        "size": "4 MB",
+        "pdfType": "PDF",
+        "isShareable": true,
+        "isDownloadable": true,
+        "version": 1,
+        "isHighlightEnabled": false,
+        "isNotesEnabled": false,
+        "isAiGuruEnabled": false
+      },
+      {
+        "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ff1bde7c-83c0-4276-bce5-f8389f0415d3.pdf",
+        "title": "Matter in our Surroundings | Class notes by Alakh Sir",
+        "pageCount": 1,
+        "id": "68d50e1ae5e37566869011ad",
+        "type": "PDF",
+        "tag": "NOTES",
+        "size": "9.3 MB",
+        "pdfType": "PDF",
+        "isShareable": true,
+        "isDownloadable": true,
+        "version": 1,
+        "isHighlightEnabled": false,
+        "isNotesEnabled": false,
+        "isAiGuruEnabled": false
+      }
+    ],
+    "isImportant": 0,
+    "pageEnd": 12.51,
+    "pageStart": 0.01,
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": false,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "matter-in-our-surroundings",
+    "seo": {
+      "titleTag": "Matter in our Surroundings - Science (Class IX) | PW Books",
+      "coverImageAltText": "Matter in our Surroundings - Science (Class IX) | PW Books",
+      "ogTitle": "Matter in our Surroundings - Science (Class IX) | PW Books",
+      "shortDescription": "Read Matter in our Surroundings from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Matter in our Surroundings from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Matter in our Surroundings from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2808e1f1-2e85-4a92-bd60-4545b36f4d59.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "683ffd3b3ab6e57c92cdab38",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 27
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 27,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "683ffd3b3ab6e57c92cdab38",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "683ffd3b3ab6e57c92cdab38"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359334572bc9475e18e9a0",
+    "bookId": "682bf4fd042db2abc7792d62",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Is Matter Around us Pure?",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5e1591b7-2669-4f7c-8d4f-1380f2fa0c97.zip",
+      "_id": "68d64c5329030739f583a338"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf147cfa2d07b8432705"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "68403c4c238508c125ec987c",
+        "numberOfQuestions": 42,
+        "_id": "691edf147cfa2d07b8432704"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf147cfa2d07b8432703"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685d549be11fe582910e939e",
+        "numberOfQuestions": 14,
+        "_id": "691edf147cfa2d07b8432702"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programChapterId": "683edf5e871605da61ac37ef",
+    "programTopicId": "68400b5ed159314a48b6f4eb",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:26:24.819Z",
+    "updatedAt": "2025-11-20T09:27:48.047Z",
+    "__v": 0,
+    "additionalContent": [
+      {
+        "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4b6bfb56-47eb-4dac-bbd6-bd9513bccd69.pdf",
+        "title": "Is Matter Around us Pure? | Handwritten notes by Alakh Sir",
+        "pageCount": 1,
+        "id": "68d532b5d652c16e9f3098c7",
+        "type": "PDF",
+        "tag": "NOTES",
+        "size": "2.9 MB",
+        "pdfType": "PDF",
+        "isShareable": true,
+        "isDownloadable": true,
+        "version": 1,
+        "isHighlightEnabled": false,
+        "isNotesEnabled": false,
+        "isAiGuruEnabled": false
+      },
+      {
+        "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6de8deb1-572e-48fa-8216-1bf7a5f41059.pdf",
+        "title": "Is Matter Around us Pure? | Class notes by Alakh Sir",
+        "pageCount": 1,
+        "id": "68d532b5d652c16e9f3098c8",
+        "type": "PDF",
+        "tag": "NOTES",
+        "size": "61.3 MB",
+        "pdfType": "PDF",
+        "isShareable": true,
+        "isDownloadable": true,
+        "version": 1,
+        "isHighlightEnabled": false,
+        "isNotesEnabled": false,
+        "isAiGuruEnabled": false
+      }
+    ],
+    "isImportant": 0,
+    "pageEnd": 24.51,
+    "pageStart": 13.01,
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "is-matter-around-us-pure",
+    "seo": {
+      "titleTag": "Is Matter Around us Pure? - Science (Class IX) | PW Books",
+      "coverImageAltText": "Is Matter Around us Pure? - Science (Class IX) | PW Books",
+      "ogTitle": "Is Matter Around us Pure? - Science (Class IX) | PW Books",
+      "shortDescription": "Read Is Matter Around us Pure? from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Is Matter Around us Pure? from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Is Matter Around us Pure? from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2808e1f1-2e85-4a92-bd60-4545b36f4d59.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "68403c4c238508c125ec987c",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 42
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 42,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "68403c4c238508c125ec987c",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "68403c4c238508c125ec987c"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359334bf9810593d044f20",
+    "bookId": "682bf4fd042db2abc7792d62",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Atoms and Molecules",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/74deb6e8-94b2-4050-9534-cc6c7bb846f6.zip",
+      "_id": "68d64c7f807634a348cb8eda"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf1409bb254c5da19911"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "68403d418f777ecbde3bb108",
+        "numberOfQuestions": 48,
+        "_id": "691edf1409bb254c5da19910"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf1409bb254c5da1990f"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685e864ed3802d7ff5af7bf6",
+        "numberOfQuestions": 6,
+        "_id": "691edf1409bb254c5da1990e"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programChapterId": "683edf5e871605da61ac37ef",
+    "programTopicId": "68403d06cb4141a808836d04",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:26:30.081Z",
+    "updatedAt": "2025-11-20T09:27:48.880Z",
+    "__v": 0,
+    "additionalContent": [
+      {
+        "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5da3f272-020e-4b82-962d-b04d2e9bf05a.pdf",
+        "title": "Atoms and Molecules | Handwritten notes by Alakh Sir",
+        "pageCount": 1,
+        "id": "68d5380007ae45fd7643dffb",
+        "type": "PDF",
+        "tag": "NOTES",
+        "size": "3.7 MB",
+        "pdfType": "PDF",
+        "isShareable": true,
+        "isDownloadable": true,
+        "version": 1,
+        "isHighlightEnabled": false,
+        "isNotesEnabled": false,
+        "isAiGuruEnabled": false
+      },
+      {
+        "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/32b4d022-5ae3-4ed7-896c-ce7c0d03812d.pdf",
+        "title": "Atoms and Molecules | Class notes by Alakh Sir",
+        "pageCount": 1,
+        "id": "68d5382598f0ae6f680ac356",
+        "type": "PDF",
+        "tag": "NOTES",
+        "size": "19.7 MB",
+        "pdfType": "PDF",
+        "isShareable": true,
+        "isDownloadable": true,
+        "version": 1,
+        "isHighlightEnabled": false,
+        "isNotesEnabled": false,
+        "isAiGuruEnabled": false
+      }
+    ],
+    "isImportant": 0,
+    "pageEnd": 36.51,
+    "pageStart": 25.01,
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "atoms-and-molecules",
+    "seo": {
+      "titleTag": "Atoms and Molecules - Science (Class IX) | PW Books",
+      "coverImageAltText": "Atoms and Molecules - Science (Class IX) | PW Books",
+      "ogTitle": "Atoms and Molecules - Science (Class IX) | PW Books",
+      "shortDescription": "Read Atoms and Molecules from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Atoms and Molecules from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Atoms and Molecules from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2808e1f1-2e85-4a92-bd60-4545b36f4d59.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "68403d418f777ecbde3bb108",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 48
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 48,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "68403d418f777ecbde3bb108",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "68403d418f777ecbde3bb108"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359334bf9810593d044f26",
+    "bookId": "682bf4fd042db2abc7792d62",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Structure of atom",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9f9f1f66-fb87-49a1-bec3-4338f3ed4fcc.zip",
+      "_id": "68c9050996099c0cb064f8a6"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf157cfa2d07b843271a"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "68403ddf3ab6e57c92ce0937",
+        "numberOfQuestions": 43,
+        "_id": "691edf157cfa2d07b8432719"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf157cfa2d07b8432718"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685e86de7f4c3ec1ec8dfaea",
+        "numberOfQuestions": 19,
+        "_id": "691edf157cfa2d07b8432717"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programChapterId": "683edf5e871605da61ac37ef",
+    "programTopicId": "68403dc0c9e87c9a767a93f5",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:26:34.665Z",
+    "updatedAt": "2025-11-20T09:27:49.239Z",
+    "__v": 0,
+    "additionalContent": [],
+    "isImportant": 0,
+    "pageEnd": 47.51,
+    "pageStart": 37.01,
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "structure-of-atom",
+    "seo": {
+      "titleTag": "Structure of atom - Science (Class IX) | PW Books",
+      "coverImageAltText": "Structure of atom - Science (Class IX) | PW Books",
+      "ogTitle": "Structure of atom - Science (Class IX) | PW Books",
+      "shortDescription": "Read Structure of atom from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Structure of atom from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Structure of atom from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2808e1f1-2e85-4a92-bd60-4545b36f4d59.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "68403ddf3ab6e57c92ce0937",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 43
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 43,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "68403ddf3ab6e57c92ce0937",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "68403ddf3ab6e57c92ce0937"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359335572bc9475e18e9a7",
+    "bookId": "682bf4fd042db2abc7792d62",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "The Fundamental  Unit of Life",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a298e77e-2a82-4fb7-b999-c1c165a71e00.zip",
+      "_id": "694ce80c28d4800004944393"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "694ce80c28d4800004944392"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842ad01c7bfdd3d42761512",
+        "numberOfQuestions": 59,
+        "_id": "694ce80c28d4800004944391"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "694ce80c28d4800004944390"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685e876c9457e7c13a21b87b",
+        "numberOfQuestions": 10,
+        "_id": "694ce80c28d480000494438f"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "676bf3d64b13857264256872",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programChapterId": "683edf5e871605da61ac37ef",
+    "programTopicId": "6842a9d807b4ec3e17f9f6cb",
+    "chapterVersion": 3,
+    "createdAt": "2025-06-20T08:26:38.972Z",
+    "updatedAt": "2025-12-25T07:30:20.830Z",
+    "__v": 0,
+    "additionalContent": [
+      {
+        "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d1321f96-3dbb-4e31-be38-70730f8d12dd.pdf",
+        "title": "The Fundamental  Unit of Life | Handwritten notes by Alakh Sir",
+        "pageCount": 1,
+        "id": "68d5338a98f0ae6f680a4994",
+        "type": "PDF",
+        "tag": "NOTES",
+        "size": "4.4 MB",
+        "pdfType": "PDF",
+        "isShareable": true,
+        "isDownloadable": true,
+        "version": 1,
+        "isHighlightEnabled": false,
+        "isNotesEnabled": false,
+        "isAiGuruEnabled": false
+      },
+      {
+        "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a22ce165-7293-4533-b2be-c741117542d3.pdf",
+        "title": "The Fundamental  Unit of Life |  Class notes by Alakh Sir",
+        "pageCount": 1,
+        "id": "68d5338a98f0ae6f680a4995",
+        "type": "PDF",
+        "tag": "NOTES",
+        "size": "57.2 MB",
+        "pdfType": "PDF",
+        "isShareable": true,
+        "isDownloadable": true,
+        "version": 1,
+        "isHighlightEnabled": false,
+        "isNotesEnabled": false,
+        "isAiGuruEnabled": false
+      }
+    ],
+    "isImportant": 0,
+    "pageEnd": 58.51,
+    "pageStart": 48.01,
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "the-fundamental-unit-of-life",
+    "seo": {
+      "titleTag": "The Fundamental  Unit of Life - Science (Class IX) | PW Books",
+      "coverImageAltText": "The Fundamental  Unit of Life - Science (Class IX) | PW Books",
+      "ogTitle": "The Fundamental  Unit of Life - Science (Class IX) | PW Books",
+      "shortDescription": "Read The Fundamental  Unit of Life from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The Fundamental  Unit of Life from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The Fundamental  Unit of Life from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2808e1f1-2e85-4a92-bd60-4545b36f4d59.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842ad01c7bfdd3d42761512",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 59
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 59,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842ad01c7bfdd3d42761512",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842ad01c7bfdd3d42761512"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359335572bc9475e18e9ad",
+    "bookId": "682bf4fd042db2abc7792d62",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Tissues",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4a727258-89c5-4be8-ac4b-608c149bd325.zip",
+      "_id": "68d64ce8e290997237f1e232"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf155ace3476bb6767f6"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842adbd9c28a3c19bbbdc4f",
+        "numberOfQuestions": 55,
+        "_id": "691edf155ace3476bb6767f5"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf155ace3476bb6767f4"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685e8810d0d7e011ab0b90a9",
+        "numberOfQuestions": 15,
+        "_id": "691edf155ace3476bb6767f3"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programChapterId": "683edf5e871605da61ac37ef",
+    "programTopicId": "6842ad88b634918b2a38dd19",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:26:43.945Z",
+    "updatedAt": "2025-11-20T09:27:49.125Z",
+    "__v": 0,
+    "additionalContent": [
+      {
+        "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bda3ae9e-33c5-41b9-8505-b7bf42b9f6b2.pdf",
+        "title": "Tissues | Handwritten notes by Alakh Sir",
+        "pageCount": 1,
+        "id": "68cd4c35d457873fc3de70a4",
+        "type": "PDF",
+        "tag": "NOTES",
+        "size": "4.3 MB",
+        "pdfType": "PDF",
+        "isShareable": true,
+        "isDownloadable": true,
+        "version": 1,
+        "isHighlightEnabled": false,
+        "isNotesEnabled": false,
+        "isAiGuruEnabled": false
+      },
+      {
+        "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7ae210af-4f44-4ce4-9226-f57d7bbc831d.pdf",
+        "title": "Tissues | Class notes by Alakh Sir",
+        "pageCount": 1,
+        "id": "68d53416acadc215dc00ff1f",
+        "type": "PDF",
+        "tag": "NOTES",
+        "size": "53.9",
+        "pdfType": "PDF",
+        "isShareable": true,
+        "isDownloadable": true,
+        "version": 1,
+        "isHighlightEnabled": false,
+        "isNotesEnabled": false,
+        "isAiGuruEnabled": false
+      }
+    ],
+    "isImportant": 0,
+    "pageEnd": 70.51,
+    "pageStart": 59.01,
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 6,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "tissues",
+    "seo": {
+      "titleTag": "Tissues - Science (Class IX) | PW Books",
+      "coverImageAltText": "Tissues - Science (Class IX) | PW Books",
+      "ogTitle": "Tissues - Science (Class IX) | PW Books",
+      "shortDescription": "Read Tissues from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Tissues from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Tissues from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2808e1f1-2e85-4a92-bd60-4545b36f4d59.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842adbd9c28a3c19bbbdc4f",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 55
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 55,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842adbd9c28a3c19bbbdc4f",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842adbd9c28a3c19bbbdc4f"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359335bf9810593d044f2d",
+    "bookId": "682bf4fd042db2abc7792d62",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Motion",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/51b60ff3-462f-483a-a213-91dc55101cff.zip",
+      "_id": "694ce7fc2b8edbed2a578e10"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "694ce7fc2b8edbed2a578e0f"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842ae1a03ee8a27622b5aa1",
+        "numberOfQuestions": 24,
+        "_id": "694ce7fc2b8edbed2a578e0e"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "694ce7fc2b8edbed2a578e0d"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685e8892d0d7e011ab0b9101",
+        "numberOfQuestions": 10,
+        "_id": "694ce7fc2b8edbed2a578e0c"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "676bf3d64b13857264256872",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programChapterId": "683edf5e871605da61ac37ef",
+    "programTopicId": "6842adfba3241c9c9029a36d",
+    "chapterVersion": 3,
+    "createdAt": "2025-06-20T08:26:48.096Z",
+    "updatedAt": "2025-12-25T07:30:04.014Z",
+    "__v": 0,
+    "additionalContent": [
+      {
+        "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/03277c5a-e12a-44e4-acdb-0cf89c71fc97.pdf",
+        "title": "Motion | Class notes by Alakh Sir",
+        "pageCount": 1,
+        "id": "68d534a7acadc215dc010f75",
+        "type": "PDF",
+        "tag": "NOTES",
+        "size": "54.2 MB",
+        "pdfType": "PDF",
+        "isShareable": true,
+        "isDownloadable": true,
+        "version": 1,
+        "isHighlightEnabled": false,
+        "isNotesEnabled": false,
+        "isAiGuruEnabled": false
+      }
+    ],
+    "isImportant": 0,
+    "pageEnd": 85.51,
+    "pageStart": 71.01,
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 7,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "motion",
+    "seo": {
+      "titleTag": "Motion - Science (Class IX) | PW Books",
+      "coverImageAltText": "Motion - Science (Class IX) | PW Books",
+      "ogTitle": "Motion - Science (Class IX) | PW Books",
+      "shortDescription": "Read Motion from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Motion from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Motion from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2808e1f1-2e85-4a92-bd60-4545b36f4d59.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842ae1a03ee8a27622b5aa1",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 24
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 24,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842ae1a03ee8a27622b5aa1",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842ae1a03ee8a27622b5aa1"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359335bf9810593d044f33",
+    "bookId": "682bf4fd042db2abc7792d62",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Force and Laws of Motion",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6bd7c033-5a02-43fa-90e5-ecdf19bd25b5.zip",
+      "_id": "694ce7d7925619cd3b350be6"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "694ce7d7925619cd3b350be5"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842aeb29b162ab35e51974e",
+        "numberOfQuestions": 20,
+        "_id": "694ce7d7925619cd3b350be4"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "694ce7d7925619cd3b350be3"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685e894f9457e7c13a21b9b8",
+        "numberOfQuestions": 21,
+        "_id": "694ce7d7925619cd3b350be2"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "676bf3d64b13857264256872",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programChapterId": "683edf5e871605da61ac37ef",
+    "programTopicId": "6842ae667568605235f34db1",
+    "chapterVersion": 3,
+    "createdAt": "2025-06-20T08:26:55.159Z",
+    "updatedAt": "2025-12-25T07:29:27.941Z",
+    "__v": 0,
+    "additionalContent": [
+      {
+        "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a498fd71-b252-4bce-8e1f-b5428881f35b.pdf",
+        "title": "Force and Laws of Motion | Handwritten notes by Alakh Sir",
+        "pageCount": 1,
+        "id": "68d5354ae5a57ba7f7655ce6",
+        "type": "PDF",
+        "tag": "NOTES",
+        "size": "2.9 MB",
+        "pdfType": "PDF",
+        "isShareable": true,
+        "isDownloadable": true,
+        "version": 1,
+        "isHighlightEnabled": false,
+        "isNotesEnabled": false,
+        "isAiGuruEnabled": false
+      },
+      {
+        "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8b83d8ba-d1dc-4132-b5b9-d2e6f2cb1e83.pdf",
+        "title": "Force and Laws of Motion | Class notes by Alakh Sir",
+        "pageCount": 1,
+        "id": "68d5354ae5a57ba7f7655ce7",
+        "type": "PDF",
+        "tag": "NOTES",
+        "size": "18.9 MB",
+        "pdfType": "PDF",
+        "isShareable": true,
+        "isDownloadable": true,
+        "version": 1,
+        "isHighlightEnabled": false,
+        "isNotesEnabled": false,
+        "isAiGuruEnabled": false
+      }
+    ],
+    "isImportant": 0,
+    "pageEnd": 98.51,
+    "pageStart": 86.01,
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 8,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "force-and-laws-of-motion",
+    "seo": {
+      "titleTag": "Force and Laws of Motion - Science (Class IX) | PW Books",
+      "coverImageAltText": "Force and Laws of Motion - Science (Class IX) | PW Books",
+      "ogTitle": "Force and Laws of Motion - Science (Class IX) | PW Books",
+      "shortDescription": "Read Force and Laws of Motion from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Force and Laws of Motion from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Force and Laws of Motion from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2808e1f1-2e85-4a92-bd60-4545b36f4d59.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842aeb29b162ab35e51974e",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 20,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842aeb29b162ab35e51974e",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842aeb29b162ab35e51974e"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359335572bc9475e18e9b4",
+    "bookId": "682bf4fd042db2abc7792d62",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Gravitation",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/850001d3-ca9c-401a-b9f6-37c301c41fd9.zip",
+      "_id": "68d64d75f2d3bd42fadc417b"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf16c7d08379545aa6c8"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842af7283cb84edcce24534",
+        "numberOfQuestions": 26,
+        "_id": "691edf16c7d08379545aa6c7"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf16c7d08379545aa6c6"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685e89da6db87362ac27385b",
+        "numberOfQuestions": 22,
+        "_id": "691edf16c7d08379545aa6c5"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programChapterId": "683edf5e871605da61ac37ef",
+    "programTopicId": "6842af2ef17f93bf195fddfc",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:26:58.999Z",
+    "updatedAt": "2025-11-20T09:27:50.195Z",
+    "__v": 0,
+    "additionalContent": [
+      {
+        "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3310f92e-211f-4ac1-b05f-ff64450cddfb.pdf",
+        "title": "Gravitation | Handwritten notes by Alakh Sir",
+        "pageCount": 1,
+        "id": "68d535c3acadc215dc012ed1",
+        "type": "PDF",
+        "tag": "NOTES",
+        "size": "4.1 MB",
+        "pdfType": "PDF",
+        "isShareable": true,
+        "isDownloadable": true,
+        "version": 1,
+        "isHighlightEnabled": false,
+        "isNotesEnabled": false,
+        "isAiGuruEnabled": false
+      },
+      {
+        "url": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bc76f332-dd2e-48f9-824b-952c5fef57d7.pdf",
+        "title": "Gravitation | Class notes by Alakh Sir",
+        "pageCount": 1,
+        "id": "68d535c3acadc215dc012ed2",
+        "type": "PDF",
+        "tag": "NOTES",
+        "size": "28.6",
+        "pdfType": "PDF",
+        "isShareable": true,
+        "isDownloadable": true,
+        "version": 1,
+        "isHighlightEnabled": false,
+        "isNotesEnabled": false,
+        "isAiGuruEnabled": false
+      }
+    ],
+    "isImportant": 0,
+    "pageEnd": 111.51,
+    "pageStart": 99.01,
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 9,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "gravitation",
+    "seo": {
+      "titleTag": "Gravitation - Science (Class IX) | PW Books",
+      "coverImageAltText": "Gravitation - Science (Class IX) | PW Books",
+      "ogTitle": "Gravitation - Science (Class IX) | PW Books",
+      "shortDescription": "Read Gravitation from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Gravitation from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Gravitation from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2808e1f1-2e85-4a92-bd60-4545b36f4d59.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842af7283cb84edcce24534",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 26
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 26,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842af7283cb84edcce24534",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842af7283cb84edcce24534"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359335572bc9475e18e9ba",
+    "bookId": "682bf4fd042db2abc7792d62",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Work and Energy",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/df173324-8f32-4aa7-ac19-2c4379ce0a55.zip",
+      "_id": "68c905be96099c0cb0650ba1"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf1442bf8081f39528c6"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842b0ab42952c7cea2dd76f",
+        "numberOfQuestions": 28,
+        "_id": "691edf1442bf8081f39528c5"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf1442bf8081f39528c4"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685e8abf0d7f9abcf02130c0",
+        "numberOfQuestions": 21,
+        "_id": "691edf1442bf8081f39528c3"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programChapterId": "683edf5e871605da61ac37ef",
+    "programTopicId": "6842b0225be064ee930fe491",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:27:04.487Z",
+    "updatedAt": "2025-11-20T09:27:48.717Z",
+    "__v": 0,
+    "additionalContent": [],
+    "isImportant": 0,
+    "pageEnd": 125.51,
+    "pageStart": 112.01,
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 10,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "work-and-energy",
+    "seo": {
+      "titleTag": "Work and Energy - Science (Class IX) | PW Books",
+      "coverImageAltText": "Work and Energy - Science (Class IX) | PW Books",
+      "ogTitle": "Work and Energy - Science (Class IX) | PW Books",
+      "shortDescription": "Read Work and Energy from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Work and Energy from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Work and Energy from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2808e1f1-2e85-4a92-bd60-4545b36f4d59.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842b0ab42952c7cea2dd76f",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 28
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 28,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842b0ab42952c7cea2dd76f",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842b0ab42952c7cea2dd76f"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359335bf9810593d044f3a",
+    "bookId": "682bf4fd042db2abc7792d62",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Sound",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5a87d7c9-3ed9-4a45-b952-9817fcd7d536.zip",
+      "_id": "68c905d513844c2b19ff95ba"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf155ace3476bb6767fd"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842b13183cb84edcce24783",
+        "numberOfQuestions": 20,
+        "_id": "691edf155ace3476bb6767fc"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf155ace3476bb6767fb"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685e8b236db87362ac273953",
+        "numberOfQuestions": 17,
+        "_id": "691edf155ace3476bb6767fa"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programChapterId": "683edf5e871605da61ac37ef",
+    "programTopicId": "6842b04169cf312b0e9055f3",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:27:10.148Z",
+    "updatedAt": "2025-11-20T09:27:49.238Z",
+    "__v": 0,
+    "additionalContent": [],
+    "isImportant": 0,
+    "pageEnd": 138.51,
+    "pageStart": 126.01,
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 11,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "sound",
+    "seo": {
+      "titleTag": "Sound - Science (Class IX) | PW Books",
+      "coverImageAltText": "Sound - Science (Class IX) | PW Books",
+      "ogTitle": "Sound - Science (Class IX) | PW Books",
+      "shortDescription": "Read Sound from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Sound from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Sound from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2808e1f1-2e85-4a92-bd60-4545b36f4d59.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842b13183cb84edcce24783",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 20,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842b13183cb84edcce24783",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842b13183cb84edcce24783"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359335bf9810593d044f40",
+    "bookId": "682bf4fd042db2abc7792d62",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Improvement in Food Resources",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4dbda39f-39f2-4ff6-9671-6cb67f8d24d5.zip",
+      "_id": "694ce7e9162722185552d5ce"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "694ce7e9162722185552d5cd"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842b1b1c6ce3b789d904903",
+        "numberOfQuestions": 49,
+        "_id": "694ce7e9162722185552d5cc"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "694ce7e9162722185552d5cb"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685e8b7520036056ad645fbb",
+        "numberOfQuestions": 9,
+        "_id": "694ce7e9162722185552d5ca"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "676bf3d64b13857264256872",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programChapterId": "683edf5e871605da61ac37ef",
+    "programTopicId": "6842b056a3241c9c9029a3cb",
+    "chapterVersion": 3,
+    "createdAt": "2025-06-20T08:27:14.678Z",
+    "updatedAt": "2025-12-25T07:29:45.773Z",
+    "__v": 0,
+    "additionalContent": [],
+    "isImportant": 0,
+    "pageEnd": 151.5,
+    "pageStart": 139.01,
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 12,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "improvement-in-food-resources",
+    "seo": {
+      "titleTag": "Improvement in Food Resources - Science (Class IX) | PW Books",
+      "coverImageAltText": "Improvement in Food Resources - Science (Class IX) | PW Books",
+      "ogTitle": "Improvement in Food Resources - Science (Class IX) | PW Books",
+      "shortDescription": "Read Improvement in Food Resources from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Improvement in Food Resources from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Improvement in Food Resources from Science (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2808e1f1-2e85-4a92-bd60-4545b36f4d59.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842b1b1c6ce3b789d904903",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 49
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 49,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842b1b1c6ce3b789d904903",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842b1b1c6ce3b789d904903"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  }
+]

@@ -1,0 +1,536 @@
+[
+  {
+    "_id": "699ffb71479d0dfb33695836",
+    "bookId": "699fe17474be177f1a86923c",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Motion",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/06e7d50c-f779-4b66-a6d7-36525f2e9d32.pdf",
+      "_id": "69a155388c194a50d21ce2d2"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": true,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T07:51:13.737Z",
+    "updatedAt": "2026-07-22T21:46:57.056Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a027ddd7a092e96169fd78",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a028a237a9d1f4fac5eb68",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a0290feb9426a6ed6ebabc",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a02845d7a092e96169fed2",
+        "numberOfQuestions": 5
+      }
+    ],
+    "programChapterId": "699fc7a9cc894741d57b4f68",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a0277d38c57dec77635a2c",
+    "totalPageCount": 60,
+    "pageSliceVersion": 2,
+    "slug": "motion",
+    "seo": {
+      "titleTag": "Motion - Neev Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Motion - Neev Physics (Digital Module) | PW Books",
+      "ogTitle": "Motion - Neev Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Motion from Neev Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Motion from Neev Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Motion from Neev Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1e88db05-3be7-4e1a-9e9f-9f1ad5847fcc.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ffc791f23fd90af9cf3c5",
+    "bookId": "699fe17474be177f1a86923c",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Force and Laws of Motion",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T07:55:37.267Z",
+    "updatedAt": "2026-07-22T21:47:00.108Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a02a293547b247a349594b",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a02a8dd7a092e9616a04ae",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a02afcfbe59364761f6592",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a02b64eb9426a6ed6ebfa0",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "MCQs",
+        "testId": "69a02be17d13555fa2d47f81",
+        "numberOfQuestions": 17
+      }
+    ],
+    "programChapterId": "699fc7a9cc894741d57b4f68",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a02786df9d94053351a8a5",
+    "totalPageCount": 42,
+    "pageSliceVersion": 2,
+    "slug": "force-and-laws-of-motion",
+    "seo": {
+      "titleTag": "Force and Laws of Motion - Neev Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Force and Laws of Motion - Neev Physics (Digital Module) | PW Books",
+      "ogTitle": "Force and Laws of Motion - Neev Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Force and Laws of Motion from Neev Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Force and Laws of Motion from Neev Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Force and Laws of Motion from Neev Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1e88db05-3be7-4e1a-9e9f-9f1ad5847fcc.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ffca02b0096ce14df2533",
+    "bookId": "699fe17474be177f1a86923c",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Gravitation",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T07:56:16.442Z",
+    "updatedAt": "2026-07-22T21:47:03.568Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a02c6bfbe59364761f6742",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a02d6ad7a092e9616a0a81",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a02ddddf2aac02ec7dd5f9",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a02d0dd7a092e9616a09d2",
+        "numberOfQuestions": 5
+      }
+    ],
+    "programChapterId": "699fc7a9cc894741d57b4f68",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a027abcafd81bcfc6242c8",
+    "totalPageCount": 48,
+    "pageSliceVersion": 2,
+    "slug": "gravitation",
+    "seo": {
+      "titleTag": "Gravitation - Neev Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Gravitation - Neev Physics (Digital Module) | PW Books",
+      "ogTitle": "Gravitation - Neev Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Gravitation from Neev Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Gravitation from Neev Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Gravitation from Neev Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1e88db05-3be7-4e1a-9e9f-9f1ad5847fcc.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ffcb9aca88cfd253c16ba",
+    "bookId": "699fe17474be177f1a86923c",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Work and Energy",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T07:56:41.848Z",
+    "updatedAt": "2026-07-22T21:47:06.250Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a02f1ffbe59364761f7d86",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a02f827d13555fa2d50db0",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a0328be83099b3732822c7",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a032f477ba4addfa735572",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "MCQs",
+        "testId": "69a03351e83099b373288db6",
+        "numberOfQuestions": 20
+      }
+    ],
+    "programChapterId": "699fc7a9cc894741d57b4f68",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a027b732fa1e7e6d86e279",
+    "totalPageCount": 44,
+    "pageSliceVersion": 2,
+    "slug": "work-and-energy",
+    "seo": {
+      "titleTag": "Work and Energy - Neev Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Work and Energy - Neev Physics (Digital Module) | PW Books",
+      "ogTitle": "Work and Energy - Neev Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Work and Energy from Neev Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Work and Energy from Neev Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Work and Energy from Neev Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1e88db05-3be7-4e1a-9e9f-9f1ad5847fcc.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699ffcd555c95d5f25a4f4fc",
+    "bookId": "699fe17474be177f1a86923c",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Sound",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T07:57:09.233Z",
+    "updatedAt": "2026-07-22T21:47:08.203Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a033c7fbe59364761ff948",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a03491e83099b373296f2b",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a034dd7d13555fa2d6462a",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a03426fbe59364761ffa0f",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "MCQs",
+        "testId": "69a0354f37a9d1f4fac719e6",
+        "numberOfQuestions": 18
+      }
+    ],
+    "programChapterId": "699fc7a9cc894741d57b4f68",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a027c2eeb0d199a3fc5cd4",
+    "totalPageCount": 40,
+    "pageSliceVersion": 2,
+    "slug": "sound",
+    "seo": {
+      "titleTag": "Sound - Neev Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Sound - Neev Physics (Digital Module) | PW Books",
+      "ogTitle": "Sound - Neev Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Sound from Neev Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Sound from Neev Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Sound from Neev Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1e88db05-3be7-4e1a-9e9f-9f1ad5847fcc.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  }
+]

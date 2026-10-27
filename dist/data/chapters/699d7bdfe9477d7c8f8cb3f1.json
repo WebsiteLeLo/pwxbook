@@ -1,0 +1,3834 @@
+[
+  {
+    "_id": "699d916ca38c97b36205825d",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Mathematical Tools",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T11:54:20.849Z",
+    "updatedAt": "2026-07-22T20:06:24.640Z",
+    "__v": 0,
+    "totalPageCount": 7,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a60599dac0243616a503433",
+        "numberOfQuestions": 77
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a2b298890b040347a42d2e",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "mathematical-tools",
+    "seo": {
+      "titleTag": "Mathematical Tools - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Mathematical Tools - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Mathematical Tools - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Mathematical Tools from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Mathematical Tools from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Mathematical Tools from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699d935b9842628b3b42a813",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Units & Dimensions",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T12:02:35.914Z",
+    "updatedAt": "2026-07-22T20:06:25.175Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a5f83d067e87f8d129c5fa3",
+        "numberOfQuestions": 70
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a2c086b538399e9251e240",
+        "numberOfQuestions": 23
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a2c14a32ce3dc1e1c1a91f",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a2c1c1dc5f9a371615d26e",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a2c2aa94328a4136be0e1f",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a2c302b538399e9251e5ff",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a2c3da9ec1472cd36bbb3c",
+        "numberOfQuestions": 18
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a2b2865334945d956ca3af",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "units-dimensions",
+    "seo": {
+      "titleTag": "Units & Dimensions - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Units & Dimensions - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Units & Dimensions - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Units & Dimensions from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Units & Dimensions from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Units & Dimensions from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699d939cff4cf68296d0ffc2",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Motion in a Straight Line",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T12:03:40.016Z",
+    "updatedAt": "2026-07-22T20:06:25.840Z",
+    "__v": 0,
+    "totalPageCount": 12,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a605b123c519931af0b6dcf",
+        "numberOfQuestions": 66
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a2c7539ec1472cd36bcf57",
+        "numberOfQuestions": 23
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a2ca9730cdc090e5054f8a",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a2cb10cefeeb260eb94a2e",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a2cbbe9ec1472cd36be22f",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a2cc3e799c31a43df7b12b",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a2cce8cefeeb260eb95799",
+        "numberOfQuestions": 7
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a2b2a84bf8eb1eb0245190",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "motion-in-a-straight-line",
+    "seo": {
+      "titleTag": "Motion in a Straight Line - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Motion in a Straight Line - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Motion in a Straight Line - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Motion in a Straight Line from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Motion in a Straight Line from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Motion in a Straight Line from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699d93dfe5588135ff3a3a9d",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Motion in a Plane",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T12:04:47.181Z",
+    "updatedAt": "2026-07-22T20:06:26.871Z",
+    "__v": 0,
+    "totalPageCount": 14,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a605dbb6f6ed12071efca74",
+        "numberOfQuestions": 79
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a2ce6e799c31a43df7b8a8",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a2ceed9ec1472cd36bed2d",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a2cf5194328a4136be37c8",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a2cfaf30cdc090e5056175",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a2d10477c1b3e88911efa3",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a2d1e7dc5f9a371615f470",
+        "numberOfQuestions": 11
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a2b2b6592ce6ad61abd697",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "motion-in-a-plane",
+    "seo": {
+      "titleTag": "Motion in a Plane - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Motion in a Plane - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Motion in a Plane - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Motion in a Plane from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Motion in a Plane from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Motion in a Plane from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699d941c845397e8ba3ca0a7",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Laws of Motion",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T12:05:48.853Z",
+    "updatedAt": "2026-07-22T20:06:27.680Z",
+    "__v": 0,
+    "totalPageCount": 12,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a605ed8f4b70b35e2f0dd8f",
+        "numberOfQuestions": 80
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a2d2d894328a4136be3f7f",
+        "numberOfQuestions": 49
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a2d37a94328a4136be4218",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a2d42b9ec1472cd36bfd35",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a947f0c7fb331f5fc090cd",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a2d530b538399e92520d7e",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a2d56232ce3dc1e1c1d0cd",
+        "numberOfQuestions": 12
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a2b2ce0dca3d8c7919a550",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "laws-of-motion",
+    "seo": {
+      "titleTag": "Laws of Motion - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Laws of Motion - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Laws of Motion - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Laws of Motion from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Laws of Motion from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Laws of Motion from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699d9474fad359c07ab3bf63",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Work, Energy and Power",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T12:07:16.281Z",
+    "updatedAt": "2026-07-22T20:06:28.426Z",
+    "__v": 0,
+    "totalPageCount": 11,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6086793c519931af0d5ceb",
+        "numberOfQuestions": 102
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a2bc1930cdc090e5051e97",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a2bc5cdc5f9a371615c6bb",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a2bcde32ce3dc1e1c1a393",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a2bdf294328a4136bdfa84",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a2beb7799c31a43df77789",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a2bf46b538399e9251e156",
+        "numberOfQuestions": 14
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a2b2de5cd94c9518fe8bc9",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "work-energy-and-power",
+    "seo": {
+      "titleTag": "Work, Energy and Power - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Work, Energy and Power - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Work, Energy and Power - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Work, Energy and Power from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Work, Energy and Power from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Work, Energy and Power from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699d94a8e9477d7c8f8d1b6d",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "System of Particles and Rotational Motion",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T12:08:08.981Z",
+    "updatedAt": "2026-07-22T20:06:29.102Z",
+    "__v": 0,
+    "totalPageCount": 11,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6088076fa8f2b50ce5e4b2",
+        "numberOfQuestions": 98
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a2c0ce30cdc090e50530dd",
+        "numberOfQuestions": 33
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a2c20a02b4e117cbbcb398",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a2c28577c1b3e88911c128",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a2c38f30cdc090e5053926",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a2c3f5dc5f9a371615d558",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a2c4a332ce3dc1e1c1af40",
+        "numberOfQuestions": 16
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a2b34a4c4f96227617d557",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "system-of-particles-and-rotational-motion",
+    "seo": {
+      "titleTag": "System of Particles and Rotational Motion - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "System of Particles and Rotational Motion - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "System of Particles and Rotational Motion - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read System of Particles and Rotational Motion from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read System of Particles and Rotational Motion from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read System of Particles and Rotational Motion from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699d94cd6c8e19be40d8b13c",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Gravitation",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T12:08:45.667Z",
+    "updatedAt": "2026-07-22T20:06:29.832Z",
+    "__v": 0,
+    "totalPageCount": 11,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6089c9f0bc452e98bc3641",
+        "numberOfQuestions": 47
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a2c79132ce3dc1e1c1b557",
+        "numberOfQuestions": 34
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a2c86f94328a4136be1fcb",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a2c9d5cefeeb260eb947b8",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a2ca9877c1b3e88911db1f",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a2cb8d9ec1472cd36be164",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a2cc1594328a4136be2bf4",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a2b359b3ad8e6b3fadf60e",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 2,
+    "slug": "gravitation",
+    "seo": {
+      "titleTag": "Gravitation - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Gravitation - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Gravitation - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Gravitation from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Gravitation from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Gravitation from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699d9519f654c3bd35316f3b",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Mechanical Properties of Solids",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T12:10:01.479Z",
+    "updatedAt": "2026-07-22T20:06:30.245Z",
+    "__v": 0,
+    "totalPageCount": 5,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a609501ec689496c9c9d253",
+        "numberOfQuestions": 36
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a2cd7230cdc090e50559ff",
+        "numberOfQuestions": 16
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a2cdf7cefeeb260eb958b9",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a2cea3b538399e9251fed7",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a2cf8102b4e117cbbcce82",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a2d01130cdc090e5056abf",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a2d12d77c1b3e88911effe",
+        "numberOfQuestions": 4
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a2b3694cde8bc63ac16e23",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "mechanical-properties-of-solids",
+    "seo": {
+      "titleTag": "Mechanical Properties of Solids - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Mechanical Properties of Solids - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Mechanical Properties of Solids - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Mechanical Properties of Solids from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Mechanical Properties of Solids from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Mechanical Properties of Solids from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699d956274c509fb9dbf63ba",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Mechanical Properties of Fluids",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T12:11:14.938Z",
+    "updatedAt": "2026-07-22T20:06:31.176Z",
+    "__v": 0,
+    "totalPageCount": 14,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6095de471faf6f6afb8758",
+        "numberOfQuestions": 89
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a2d28640da286c6ebb3e90",
+        "numberOfQuestions": 41
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a2d34402b4e117cbbcd543",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a2d452799c31a43df7caea",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a2d5679ec1472cd36bff72",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a2d61d799c31a43df7cdc7",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a2d697dc5f9a3716160590",
+        "numberOfQuestions": 11
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a2b378ca1d9f0e54479153",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 2,
+    "slug": "mechanical-properties-of-fluids",
+    "seo": {
+      "titleTag": "Mechanical Properties of Fluids - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Mechanical Properties of Fluids - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Mechanical Properties of Fluids - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Mechanical Properties of Fluids from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Mechanical Properties of Fluids from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Mechanical Properties of Fluids from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699d95b88b9e2300dcb68395",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Thermal Properties of Matter",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T12:12:40.575Z",
+    "updatedAt": "2026-07-23T05:07:23.901Z",
+    "__v": 0,
+    "totalPageCount": 6,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a60a07fec689496c9c9eb60",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a2d84c40da286c6ebb4c75",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a2d9a902b4e117cbbce409",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a2d9de77c1b3e889120533",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a2daa6dc5f9a3716160bcd",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a2db4a77c1b3e8891207dc",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a2dc1802b4e117cbbce8f0",
+        "numberOfQuestions": 6
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a2b3859eeeea4164e516c3",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "thermal-properties-of-matter",
+    "seo": {
+      "titleTag": "Thermal Properties of Matter - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Thermal Properties of Matter - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Thermal Properties of Matter - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Thermal Properties of Matter from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Thermal Properties of Matter from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Thermal Properties of Matter from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699d973f845397e8ba3cb8c7",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Thermodynamics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T12:19:11.990Z",
+    "updatedAt": "2026-07-23T05:07:53.621Z",
+    "__v": 0,
+    "totalPageCount": 8,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a619f351b03ea5831f23342",
+        "numberOfQuestions": 34
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a57bb0b911abc4fc2379fa",
+        "numberOfQuestions": 21
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a57c21c0dd35b50874346a",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a57cc11383cdd08c92e382",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a57de6b911abc4fc237c00",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a57e21ebbe6e2b30f9795d",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a57e9fa3ecf081dc294937",
+        "numberOfQuestions": 6
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a57aaaa1735908d67b7110",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "thermodynamics",
+    "seo": {
+      "titleTag": "Thermodynamics - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Thermodynamics - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Thermodynamics - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Thermodynamics from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Thermodynamics from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Thermodynamics from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699d9776a6156f539abd5b8d",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Kinetic Theory",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T12:20:06.455Z",
+    "updatedAt": "2026-07-23T06:14:43.054Z",
+    "__v": 0,
+    "totalPageCount": 5,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61af7758a877dd202a936c",
+        "numberOfQuestions": 46
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a6a481dd3ffbedbcfef981",
+        "numberOfQuestions": 22
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a6a5076c4ab0db04825690",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a6a65d4896f6ab0fbf7e12",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a6aeabbae9a0ee9fef1eaa",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a6af0c2954036525302015",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a6af6ad73eb459ca389ff0",
+        "numberOfQuestions": 11
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a6a3cc0520bbf806c8960d",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "kinetic-theory",
+    "seo": {
+      "titleTag": "Kinetic Theory - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Kinetic Theory - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Kinetic Theory - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Kinetic Theory from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Kinetic Theory from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Kinetic Theory from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699d97c44cacffcd0b19b25f",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Oscillations",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T12:21:24.846Z",
+    "updatedAt": "2026-07-23T06:14:58.003Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61b047ac0243616a52bdbb",
+        "numberOfQuestions": 44
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a6b11577949283b76a91b2",
+        "numberOfQuestions": 28
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a6b185bae9a0ee9fef4e53",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a6b1ffb911abc4fc24c60a",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a6b255bae9a0ee9fef57d7",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a6b2af0e993630d900b9ca",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a6b35dd73eb459ca38da55",
+        "numberOfQuestions": 12
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a6b050a186c78c7d39198c",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "oscillations",
+    "seo": {
+      "titleTag": "Oscillations - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Oscillations - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Oscillations - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Oscillations from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Oscillations from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Oscillations from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699d980852dd4ee3a6cdda72",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "Waves",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T12:22:32.071Z",
+    "updatedAt": "2026-07-23T05:08:16.614Z",
+    "__v": 0,
+    "totalPageCount": 8,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61a09aec4f1c28980484ef",
+        "numberOfQuestions": 62
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a580cbdf78675d144505d5",
+        "numberOfQuestions": 25
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a58108cfad3ce967360c79",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a581911383cdd08c92f55d",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a58259df78675d144506a8",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a58307df78675d14450764",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a5839f1383cdd08c92f8f0",
+        "numberOfQuestions": 5
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a57f1da783dc9f806d2a48",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "waves",
+    "seo": {
+      "titleTag": "Waves - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Waves - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Waves - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Waves from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Waves from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Waves from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699f02e4ccd2a772e87b1eb1",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 16,
+    "title": "Electric Charges and Fields",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 16,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:10:44.617Z",
+    "updatedAt": "2026-07-23T06:32:53.467Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61b319ffb3ea2f28dc4533",
+        "numberOfQuestions": 56
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a6c9db80df2c6d9111f796",
+        "numberOfQuestions": 42
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a6cfb46ca694a512bea166",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a6d2096a84202a247d5e0d",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a6d3446ca694a512bea667",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a6d4039f0fa36a49f1badf",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a6e8d528ea6a8ab05918ef",
+        "numberOfQuestions": 8
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a6c43620000b90be13d882",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "electric-charges-and-fields",
+    "seo": {
+      "titleTag": "Electric Charges and Fields - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Electric Charges and Fields - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Electric Charges and Fields - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Electric Charges and Fields from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electric Charges and Fields from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electric Charges and Fields from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699f02fb0f6889b97637d6be",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 17,
+    "title": "Electrostatic Potential and Capacitance",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 17,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:11:07.189Z",
+    "updatedAt": "2026-07-23T06:50:41.401Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61b920ec4f1c289804b6b4",
+        "numberOfQuestions": 73
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a6edb18e5ee6f903abdf9b",
+        "numberOfQuestions": 53
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a6ee4e80df2c6d91124462",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a6ef09527b58b0e5d5d514",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a6f0436075499e3af92c0c",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a6f10f6ca694a512c1dda0",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a6f1df6ca694a512c1ddc4",
+        "numberOfQuestions": 19
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a6ebf750bc9b6ff8e6cb5b",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "electrostatic-potential-and-capacitance",
+    "seo": {
+      "titleTag": "Electrostatic Potential and Capacitance - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Electrostatic Potential and Capacitance - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Electrostatic Potential and Capacitance - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Electrostatic Potential and Capacitance from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electrostatic Potential and Capacitance from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electrostatic Potential and Capacitance from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699f0310696ae7423290f81b",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 18,
+    "title": "Current Electricity",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 18,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:11:28.387Z",
+    "updatedAt": "2026-07-23T08:33:14.062Z",
+    "__v": 0,
+    "totalPageCount": 14,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61ced3ffb3ea2f28dc8c9f",
+        "numberOfQuestions": 52
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a6f3e78e5ee6f903abe41d",
+        "numberOfQuestions": 51
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a6f4ac57bb44527d68fa9b",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a6f53f879665f2f1ee38bd",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a6f5dbded8610f6a746ae8",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a6f6a928ea6a8ab059282b",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a6f7676a84202a247d74dc",
+        "numberOfQuestions": 29
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a6f23ba424d584880cf410",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "current-electricity",
+    "seo": {
+      "titleTag": "Current Electricity - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Current Electricity - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Current Electricity - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Current Electricity from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Current Electricity from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Current Electricity from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699f032855b9617590a37ed3",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 19,
+    "title": "Moving Charges and Magnetism",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 19,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:11:52.234Z",
+    "updatedAt": "2026-07-23T08:33:34.887Z",
+    "__v": 0,
+    "totalPageCount": 13,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61cfdd6f6ed12071f29d7b",
+        "numberOfQuestions": 49
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a6f8d8527b58b0e5d5d9f5",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a6f9586075499e3af93496",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a6f9e39f0fa36a49f5ba22",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a6fa8480df2c6d91125349",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a6fb466075499e3af93597",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a6fc1280df2c6d91125423",
+        "numberOfQuestions": 13
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a6f7b9424d9ec4d33f5fa8",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "moving-charges-and-magnetism",
+    "seo": {
+      "titleTag": "Moving Charges and Magnetism - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Moving Charges and Magnetism - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Moving Charges and Magnetism - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Moving Charges and Magnetism from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Moving Charges and Magnetism from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Moving Charges and Magnetism from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699f0349031bd4ef6777c454",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 20,
+    "title": "Magnetism and Matter",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 20,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:12:25.016Z",
+    "updatedAt": "2026-07-23T08:33:51.610Z",
+    "__v": 0,
+    "totalPageCount": 5,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61d1254dab665a54816f2f",
+        "numberOfQuestions": 38
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a6fdd66a84202a247d77bb",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a6fe666ca694a512c1dff5",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a6ff019f0fa36a49f5c02b",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a6ffb7879665f2f1ee4185",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a70055879665f2f1ee41d8",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a700f46075499e3af936c0",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a6fc7b62a37385fbf51105",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "magnetism-and-matter",
+    "seo": {
+      "titleTag": "Magnetism and Matter - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Magnetism and Matter - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Magnetism and Matter - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Magnetism and Matter from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Magnetism and Matter from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Magnetism and Matter from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699f0363ba2a35cf243f191a",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 21,
+    "title": "Electromagnetic Induction",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 21,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:12:51.006Z",
+    "updatedAt": "2026-07-23T06:33:37.577Z",
+    "__v": 0,
+    "totalPageCount": 8,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61b525f232e7d2c0252a35",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a6e4d78e5ee6f903a9a774",
+        "numberOfQuestions": 33
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a6e5a3879665f2f1ed3d3b",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a6e674ded8610f6a73b05c",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a6e7abded8610f6a73b0b1",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a6e834527b58b0e5d5cea3",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a6e8c4527b58b0e5d5cf74",
+        "numberOfQuestions": 8
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a6cfb8c57569373ce62d1b",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "electromagnetic-induction",
+    "seo": {
+      "titleTag": "Electromagnetic Induction - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Electromagnetic Induction - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Electromagnetic Induction - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Electromagnetic Induction from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electromagnetic Induction from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electromagnetic Induction from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699f037cfd72b0eca55657a5",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 22,
+    "title": "Alternating Current",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 22,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:13:16.603Z",
+    "updatedAt": "2026-07-23T09:44:25.629Z",
+    "__v": 0,
+    "totalPageCount": 7,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61de521abcf120ce877660",
+        "numberOfQuestions": 87
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a6eb199f0fa36a49f5ab50",
+        "numberOfQuestions": 32
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a9462f376040ad7ba4fe33",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a6ee2cded8610f6a746674",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a6eea757bb44527d68f58a",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a6fab8ded8610f6a746be7",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a6fb5a9f0fa36a49f5bb13",
+        "numberOfQuestions": 16
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a6ea92c57569373ce67825",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "alternating-current",
+    "seo": {
+      "titleTag": "Alternating Current - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Alternating Current - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Alternating Current - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Alternating Current from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Alternating Current from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Alternating Current from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699f039b0149d179bee2145d",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 23,
+    "title": "Electromagnetic Waves",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 23,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:13:47.381Z",
+    "updatedAt": "2026-07-23T09:44:43.017Z",
+    "__v": 0,
+    "totalPageCount": 4,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61dfd817af7de721c02165",
+        "numberOfQuestions": 49
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a6fc7d28ea6a8ab0592bac",
+        "numberOfQuestions": 16
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a6fd56ded8610f6a746c21",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a6fdd4ded8610f6a746c24",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a6fe4528ea6a8ab0592d16",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a6ff2457bb44527d690837",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a6ff9a879665f2f1ee4181",
+        "numberOfQuestions": 14
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a6fbd40520bbf806c97876",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "electromagnetic-waves",
+    "seo": {
+      "titleTag": "Electromagnetic Waves - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Electromagnetic Waves - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Electromagnetic Waves - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Electromagnetic Waves from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electromagnetic Waves from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electromagnetic Waves from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699f03baea5f462165a8a773",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 24,
+    "title": "Ray Optics and Optical Instruments",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 24,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:14:18.465Z",
+    "updatedAt": "2026-07-23T09:44:59.682Z",
+    "__v": 0,
+    "totalPageCount": 11,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61e0c817af7de721c022b8",
+        "numberOfQuestions": 98
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a700e2879665f2f1ee41f4",
+        "numberOfQuestions": 41
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a701c9879665f2f1ee4210",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a7023f80df2c6d91125c48",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a702b857bb44527d690a30",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a7032b6a84202a247d78d2",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a7039a80df2c6d91125d03",
+        "numberOfQuestions": 19
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a700374a265927f8679ed6",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "ray-optics-and-optical-instruments",
+    "seo": {
+      "titleTag": "Ray Optics and Optical Instruments - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Ray Optics and Optical Instruments - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Ray Optics and Optical Instruments - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Ray Optics and Optical Instruments from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Ray Optics and Optical Instruments from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Ray Optics and Optical Instruments from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699f03d80466b2a7e1cbfedd",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 25,
+    "title": "Wave Optics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 25,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:14:48.258Z",
+    "updatedAt": "2026-07-23T09:45:19.124Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61e1dd4dab665a54818b9c",
+        "numberOfQuestions": 68
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a706b96ca694a512c1e174",
+        "numberOfQuestions": 26
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a70732cc8eff7f5805adf4",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a7077c28ea6a8ab059324a",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a707f36075499e3af937b2",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a7087b39ca010d916b2b9b",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a708ea28ea6a8ab05933c6",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a7040789752ab828ff736f",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "wave-optics",
+    "seo": {
+      "titleTag": "Wave Optics - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Wave Optics - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Wave Optics - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Wave Optics from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Wave Optics from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Wave Optics from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699f03f40149d179bee21637",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 26,
+    "title": "Dual Nature of Radiation and Matter",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 26,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:15:16.927Z",
+    "updatedAt": "2026-07-23T11:09:34.804Z",
+    "__v": 0,
+    "totalPageCount": 5,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61f427ac0243616a533c34",
+        "numberOfQuestions": 68
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a70ad12b74a26780855eef",
+        "numberOfQuestions": 46
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a70ba06ca694a512c1e28a",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a70c0ec4886b557afa2465",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a70cae490303ac23514eb8",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a70d257d54aa48d44f05b5",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a70d997d54aa48d44f05e6",
+        "numberOfQuestions": 14
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a709e029e2d22ae2500777",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "dual-nature-of-radiation-and-matter",
+    "seo": {
+      "titleTag": "Dual Nature of Radiation and Matter - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Dual Nature of Radiation and Matter - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Dual Nature of Radiation and Matter - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Dual Nature of Radiation and Matter from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Dual Nature of Radiation and Matter from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Dual Nature of Radiation and Matter from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699f04130765e97e4001f499",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 27,
+    "title": "Atoms",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 27,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:15:47.308Z",
+    "updatedAt": "2026-07-23T11:11:36.895Z",
+    "__v": 0,
+    "totalPageCount": 5,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61f50258a877dd202b4e07",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a70ea4490303ac23514fd8",
+        "numberOfQuestions": 22
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a70f126ca694a512c1e4a2",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a70f9b29adcdf2caa0bc25",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a70ff86ca694a512c1e520",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a7110fd4a04293409bd170",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a711a3605d7d345dd7d9a0",
+        "numberOfQuestions": 9
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a70e0edc75fa115e12c5eb",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "atoms",
+    "seo": {
+      "titleTag": "Atoms - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Atoms - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Atoms - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Atoms from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Atoms from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Atoms from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699f042e26c69d5fc3c38ee3",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 28,
+    "title": "Nuclei",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 28,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:16:14.951Z",
+    "updatedAt": "2026-07-23T11:10:03.587Z",
+    "__v": 0,
+    "totalPageCount": 5,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61f5d417af7de721c06456",
+        "numberOfQuestions": 67
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a712d37d54aa48d44f09f4",
+        "numberOfQuestions": 21
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a7134b7d54aa48d44f0a16",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a713b5ded8610f6a747675",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a7140aded8610f6a74767b",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a71463c4886b557afa2a36",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a714c17d54aa48d44f0a9f",
+        "numberOfQuestions": 11
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a7122455284615088c1fb3",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "nuclei",
+    "seo": {
+      "titleTag": "Nuclei - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Nuclei - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Nuclei - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Nuclei from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Nuclei from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Nuclei from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699f044d0ed5e6269d30c634",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 29,
+    "title": "Semiconductor Electronics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 29,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:16:45.098Z",
+    "updatedAt": "2026-07-23T11:31:26.624Z",
+    "__v": 0,
+    "totalPageCount": 8,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61fa6a58a877dd202b61d2",
+        "numberOfQuestions": 85
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a715eed4a04293409bd301",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a7166f57a9da2e98395fc4",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a717de6a84202a247d7f0c",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a718396ca694a512c1e6d5",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a7189b57a9da2e983960fe",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a718fb7d54aa48d44f0c23",
+        "numberOfQuestions": 21
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a7153bc2d68a3e5441e465",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "semiconductor-electronics",
+    "seo": {
+      "titleTag": "Semiconductor Electronics - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Semiconductor Electronics - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Semiconductor Electronics - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Semiconductor Electronics from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Semiconductor Electronics from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Semiconductor Electronics from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699f046c1d227cf59c4c1c63",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 30,
+    "title": "Experiment Skills in Physics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 30,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:17:16.481Z",
+    "updatedAt": "2026-07-23T11:31:41.304Z",
+    "__v": 0,
+    "totalPageCount": 14,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61fb1b7989fa4b552c11e5",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a71a09490303ac235155fa",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a71a76d4a04293409bd404",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a71ad129adcdf2caa0c4e4",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a71b229e4fae1848872369",
+        "numberOfQuestions": 4
+      }
+    ],
+    "programChapterId": "69a2b205e76242611e05f1a7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a7194adc75fa115e12df7c",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "experiment-skills-in-physics",
+    "seo": {
+      "titleTag": "Experiment Skills in Physics - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Experiment Skills in Physics - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Experiment Skills in Physics - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Experiment Skills in Physics from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Experiment Skills in Physics from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Experiment Skills in Physics from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6a1e956318a609c1b6912d57",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 32,
+    "title": "NEET 2025 Paper",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "chapterType": "QUESTION_PAPER",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "69a1378e4db979a7873a632e",
+    "programTopicId": "69a1379a634b7d612053f7ac",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 32,
+    "customPracticeSet": [
+      {
+        "name": "NEET 2025 Paper",
+        "testId": "69a137bbd7a092e9616b0627",
+        "numberOfQuestions": 180
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-06-02T08:33:39.468Z",
+    "updatedAt": "2026-07-22T20:06:44.055Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "pageSliceVersion": 1,
+    "slug": "neet-2025-paper",
+    "seo": {
+      "titleTag": "NEET 2025 Paper - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "NEET 2025 Paper - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "NEET 2025 Paper - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read NEET 2025 Paper from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read NEET 2025 Paper from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read NEET 2025 Paper from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6ac5e8f3f138c79ae5be6de3",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 32,
+    "title": "Re - NEET 2026",
+    "slug": "re-neet-2026",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "chapterType": "QUESTION_PAPER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "6ac5dddc23796b474993970f",
+    "programTopicId": "6ac5de00ff2de03c806ed37f",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 32,
+    "customPracticeSet": [
+      {
+        "name": "Re - NEET 2026",
+        "testId": "6ac5de7ed76d20886cd7959f",
+        "numberOfQuestions": 45
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-10-07T06:38:43.915Z",
+    "updatedAt": "2026-10-07T06:38:44.948Z",
+    "__v": 0,
+    "pageSliceVersion": 1,
+    "totalPageCount": 13,
+    "seo": {
+      "titleTag": "Re - NEET 2026 - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Re - NEET 2026 - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "Re - NEET 2026 - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Re - NEET 2026 from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Re - NEET 2026 from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Re - NEET 2026 from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6ac71cfb1463a3d35b151ddf",
+    "bookId": "699d7bdfe9477d7c8f8cb3f1",
+    "status": "ACTIVE",
+    "displayOrder": 33,
+    "title": "NEET 2026",
+    "slug": "neet-2026",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "chapterType": "QUESTION_PAPER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "6ac652b52e61792dde9c2809",
+    "programTopicId": "6ac652c2439bbba607b7a811",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 33,
+    "customPracticeSet": [
+      {
+        "name": "NEET 2026",
+        "testId": "6ac653472d0ff4a20cf794b6",
+        "numberOfQuestions": 45
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-10-08T04:32:59.253Z",
+    "updatedAt": "2026-10-08T04:33:00.545Z",
+    "__v": 0,
+    "pageSliceVersion": 1,
+    "totalPageCount": 18,
+    "seo": {
+      "titleTag": "NEET 2026 - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "coverImageAltText": "NEET 2026 - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "ogTitle": "NEET 2026 - NCERT Punch 5.0 Physics (Digital Book) | PW Books",
+      "shortDescription": "Read NEET 2026 from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read NEET 2026 from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read NEET 2026 from NCERT Punch 5.0 Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8cd463d-78c0-49c5-bd2c-aa50bc9c079d.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  }
+]

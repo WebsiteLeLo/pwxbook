@@ -1,0 +1,1406 @@
+[
+  {
+    "_id": "69896b4ace6635bdb67ff149",
+    "bookId": "69870eb9123eba0dda4b63a4",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Structure of Atom",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T05:06:18.539Z",
+    "updatedAt": "2026-07-22T19:37:51.200Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698ac4becf6e724fb8df9b3f",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698ac9687e780f5733e03c12",
+        "numberOfQuestions": 71
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698ac899d96a5ebef16d5058",
+        "numberOfQuestions": 17
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698ac73140e7d613c2cb0ac7",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698aca202bf64ef228ea8302",
+        "numberOfQuestions": 19
+      }
+    ],
+    "programChapterId": "698ac37f393eb1a9e4dafe6d",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "698ac478f7128bb416bb98e5",
+    "totalPageCount": 57,
+    "pageSliceVersion": 1,
+    "slug": "structure-of-atom",
+    "seo": {
+      "titleTag": "Structure of Atom - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Structure of Atom - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Structure of Atom - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Structure of Atom from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Structure of Atom from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Structure of Atom from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5a1e4453-3bf2-4a88-ba1e-b9fc7d0ae1a2.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69896b6ab2945d63923c1cba",
+    "bookId": "69870eb9123eba0dda4b63a4",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Some Basic Concepts Of Chemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T05:06:50.862Z",
+    "updatedAt": "2026-07-22T19:37:53.944Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698acc7b2bf64ef228ea8ef0",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698ace837e780f5733e04cd0",
+        "numberOfQuestions": 79
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698acd4640a02cf87025f565",
+        "numberOfQuestions": 28
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698c46ae43c533ad2fa664dc",
+        "numberOfQuestions": 32
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698acf65812dcc72300a7bf1",
+        "numberOfQuestions": 13
+      }
+    ],
+    "programChapterId": "698ac37f393eb1a9e4dafe6d",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "698acc434efcda9a86bb5b99",
+    "totalPageCount": 47,
+    "pageSliceVersion": 1,
+    "slug": "some-basic-concepts-of-chemistry",
+    "seo": {
+      "titleTag": "Some Basic Concepts Of Chemistry - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Some Basic Concepts Of Chemistry - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Some Basic Concepts Of Chemistry - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Some Basic Concepts Of Chemistry from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Some Basic Concepts Of Chemistry from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Some Basic Concepts Of Chemistry from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5a1e4453-3bf2-4a88-ba1e-b9fc7d0ae1a2.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69896ba6fa6530f5fdc01eda",
+    "bookId": "69870eb9123eba0dda4b63a4",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Classification of Elements & Periodicity in Properties (Periodic table)",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T05:07:50.608Z",
+    "updatedAt": "2026-07-22T19:37:56.759Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698ad154cf6e724fb8dfc3be",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698ad45e40e7d613c2cb3c2f",
+        "numberOfQuestions": 44
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698ad3b440e7d613c2cb38c2",
+        "numberOfQuestions": 25
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698ad302bbcfb66e0df16a8c",
+        "numberOfQuestions": 36
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698ad560a04fdeb3698041f5",
+        "numberOfQuestions": 11
+      }
+    ],
+    "programChapterId": "698ac37f393eb1a9e4dafe6d",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "698ad0951e6c0daa358cb55c",
+    "totalPageCount": 51,
+    "pageSliceVersion": 1,
+    "slug": "classification-of-elements-periodicity-in-properties-periodic-table",
+    "seo": {
+      "titleTag": "Classification of Elements & Periodicity in Properties (Periodic table) - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Classification of Elements & Periodicity in Properties (Periodic table) - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Classification of Elements & Periodicity in Properties (Periodic table) - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Classification of Elements & Periodicity in Properties (Periodic table) from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Classification of Elements & Periodicity in Properties (Periodic table) from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Classification of Elements & Periodicity in Properties (Periodic table) from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5a1e4453-3bf2-4a88-ba1e-b9fc7d0ae1a2.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69896bc725c19f060cc454e4",
+    "bookId": "69870eb9123eba0dda4b63a4",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Chemical Bonding & Molecular Structure",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T05:08:23.216Z",
+    "updatedAt": "2026-07-22T19:38:00.813Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698ad6eff511980dd479283d",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698ad9f82bf64ef228eac6be",
+        "numberOfQuestions": 115
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698ad8bf2919bee57a96d707",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698ad7e62bf64ef228eabe5f",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698adac740e7d613c2cb54de",
+        "numberOfQuestions": 32
+      }
+    ],
+    "programChapterId": "698ac37f393eb1a9e4dafe6d",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "698ad692f7128bb416bc0746",
+    "totalPageCount": 75,
+    "pageSliceVersion": 1,
+    "slug": "chemical-bonding-molecular-structure",
+    "seo": {
+      "titleTag": "Chemical Bonding & Molecular Structure - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Chemical Bonding & Molecular Structure - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Chemical Bonding & Molecular Structure - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Chemical Bonding & Molecular Structure from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Bonding & Molecular Structure from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Bonding & Molecular Structure from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5a1e4453-3bf2-4a88-ba1e-b9fc7d0ae1a2.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69896be6683bd2c03f66f571",
+    "bookId": "69870eb9123eba0dda4b63a4",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Thermodynamics & Thermochemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T05:08:54.459Z",
+    "updatedAt": "2026-07-22T19:38:05.034Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698add332919bee57a96ed8e",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698adfe1812dcc72300b1159",
+        "numberOfQuestions": 87
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698adedf7e780f5733e09b33",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698adde6cf6e724fb8dff2ba",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698ae5442bf64ef228eaf026",
+        "numberOfQuestions": 19
+      }
+    ],
+    "programChapterId": "698ac37f393eb1a9e4dafe6d",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "698adcf86ec1f409b5959167",
+    "totalPageCount": 73,
+    "pageSliceVersion": 1,
+    "slug": "thermodynamics-thermochemistry",
+    "seo": {
+      "titleTag": "Thermodynamics & Thermochemistry - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Thermodynamics & Thermochemistry - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Thermodynamics & Thermochemistry - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Thermodynamics & Thermochemistry from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Thermodynamics & Thermochemistry from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Thermodynamics & Thermochemistry from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5a1e4453-3bf2-4a88-ba1e-b9fc7d0ae1a2.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69896c03457b79cceb3f788d",
+    "bookId": "69870eb9123eba0dda4b63a4",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Redox Reaction",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T05:09:23.700Z",
+    "updatedAt": "2026-07-22T19:38:07.517Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698aedad7e780f5733e0c7b7",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698b19bfcf6e724fb8e0e140",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698aef7fcf6e724fb8e00fcc",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698aeec740e7d613c2cb91ee",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698b1a537e780f5733e1cf4f",
+        "numberOfQuestions": 11
+      }
+    ],
+    "programChapterId": "698ac37f393eb1a9e4dafe6d",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "698aec21aae248ee86740a52",
+    "totalPageCount": 47,
+    "pageSliceVersion": 1,
+    "slug": "redox-reaction",
+    "seo": {
+      "titleTag": "Redox Reaction - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Redox Reaction - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Redox Reaction - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Redox Reaction from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Redox Reaction from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Redox Reaction from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5a1e4453-3bf2-4a88-ba1e-b9fc7d0ae1a2.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69896c1f93477c13c9a1d4a0",
+    "bookId": "69870eb9123eba0dda4b63a4",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Equilibrium",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T05:09:51.349Z",
+    "updatedAt": "2026-07-22T19:38:11.450Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698c0ed3b77722029eede128",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698c10691efe584d8e78928d",
+        "numberOfQuestions": 113
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698c0fe6f1aefc613ca63875",
+        "numberOfQuestions": 37
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698c0f49a04fdeb36993f951",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c10ee43c533ad2fa5d819",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "698ac37f393eb1a9e4dafe6d",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "698c0ea3100b6f4684a4aa5a",
+    "totalPageCount": 75,
+    "pageSliceVersion": 1,
+    "slug": "equilibrium",
+    "seo": {
+      "titleTag": "Equilibrium - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Equilibrium - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Equilibrium - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Equilibrium from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Equilibrium from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Equilibrium from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5a1e4453-3bf2-4a88-ba1e-b9fc7d0ae1a2.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69896c4793477c13c9a1d620",
+    "bookId": "69870eb9123eba0dda4b63a4",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "P-block Element (Group 13 and 14)",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T05:10:31.242Z",
+    "updatedAt": "2026-07-22T19:38:12.753Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698c12d52dc74030ca5a4c4e",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698c15da68c4851bc0d99d1c",
+        "numberOfQuestions": 37
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698c151a26282c14dc7d9374",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698c14611efe584d8e789ce8",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c16f31efe584d8e78a229",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "698ac37f393eb1a9e4dafe6d",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "698c11bc9a0c210309a43e38",
+    "totalPageCount": 25,
+    "pageSliceVersion": 1,
+    "slug": "p-block-element-group-13-and-14",
+    "seo": {
+      "titleTag": "P-block Element (Group 13 and 14) - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "P-block Element (Group 13 and 14) - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "P-block Element (Group 13 and 14) - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read P-block Element (Group 13 and 14) from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read P-block Element (Group 13 and 14) from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read P-block Element (Group 13 and 14) from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5a1e4453-3bf2-4a88-ba1e-b9fc7d0ae1a2.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69896c822437b2a59cc4a832",
+    "bookId": "69870eb9123eba0dda4b63a4",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Organic Chemistry: Some Basic Principles and Techniques- IUPAC",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T05:11:30.083Z",
+    "updatedAt": "2026-07-22T19:38:15.438Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698c18601efe584d8e78a4fc",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698c1aa80f255962253590af",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698c19e343c533ad2fa5e727",
+        "numberOfQuestions": 19
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698c190e17adaa2b6b12af60",
+        "numberOfQuestions": 17
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c1e8d2dc74030ca5a5cdf",
+        "numberOfQuestions": 7
+      }
+    ],
+    "programChapterId": "698ac37f393eb1a9e4dafe6d",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "698c182fdc70da6673096fd3",
+    "totalPageCount": 53,
+    "pageSliceVersion": 1,
+    "slug": "organic-chemistry-some-basic-principles-and-techniques-iupac",
+    "seo": {
+      "titleTag": "Organic Chemistry: Some Basic Principles and Techniques- IUPAC - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Organic Chemistry: Some Basic Principles and Techniques- IUPAC - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Organic Chemistry: Some Basic Principles and Techniques- IUPAC - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Organic Chemistry: Some Basic Principles and Techniques- IUPAC from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Organic Chemistry: Some Basic Principles and Techniques- IUPAC from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Organic Chemistry: Some Basic Principles and Techniques- IUPAC from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5a1e4453-3bf2-4a88-ba1e-b9fc7d0ae1a2.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69896c9eb4a233a810e69f4d",
+    "bookId": "69870eb9123eba0dda4b63a4",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Organic Chemistry: Some Basic Principles and Techniques- Isomerism",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T05:11:58.969Z",
+    "updatedAt": "2026-07-22T19:38:17.640Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698c1fff2dc74030ca5a5d52",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698c223b68c4851bc0d9b744",
+        "numberOfQuestions": 35
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698c21acb77722029eeecb11",
+        "numberOfQuestions": 28
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698c209568c4851bc0d9b3d0",
+        "numberOfQuestions": 28
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c23280f25596225359631",
+        "numberOfQuestions": 8
+      }
+    ],
+    "programChapterId": "698ac37f393eb1a9e4dafe6d",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "698c1f9cf3d289cc4b63e542",
+    "totalPageCount": 47,
+    "pageSliceVersion": 1,
+    "slug": "organic-chemistry-some-basic-principles-and-techniques-isomerism",
+    "seo": {
+      "titleTag": "Organic Chemistry: Some Basic Principles and Techniques- Isomerism - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Organic Chemistry: Some Basic Principles and Techniques- Isomerism - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Organic Chemistry: Some Basic Principles and Techniques- Isomerism - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Organic Chemistry: Some Basic Principles and Techniques- Isomerism from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Organic Chemistry: Some Basic Principles and Techniques- Isomerism from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Organic Chemistry: Some Basic Principles and Techniques- Isomerism from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5a1e4453-3bf2-4a88-ba1e-b9fc7d0ae1a2.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69896cc52d5a73cd2e8fefd2",
+    "bookId": "69870eb9123eba0dda4b63a4",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Organic Chemistry: Some Basic Principles and Techniques- GOC",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T05:12:37.487Z",
+    "updatedAt": "2026-07-22T19:38:19.887Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698c248d68c4851bc0d9ba2b",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698c268717adaa2b6b12b9b5",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698c25ccf1aefc613ca73e47",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698c25240f2559622535e585",
+        "numberOfQuestions": 25
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c274b6fde19b4f3df26f4",
+        "numberOfQuestions": 13
+      }
+    ],
+    "programChapterId": "698ac37f393eb1a9e4dafe6d",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "698c2427dc70da667309bb2f",
+    "totalPageCount": 43,
+    "pageSliceVersion": 1,
+    "slug": "organic-chemistry-some-basic-principles-and-techniques-goc",
+    "seo": {
+      "titleTag": "Organic Chemistry: Some Basic Principles and Techniques- GOC - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Organic Chemistry: Some Basic Principles and Techniques- GOC - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Organic Chemistry: Some Basic Principles and Techniques- GOC - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Organic Chemistry: Some Basic Principles and Techniques- GOC from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Organic Chemistry: Some Basic Principles and Techniques- GOC from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Organic Chemistry: Some Basic Principles and Techniques- GOC from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5a1e4453-3bf2-4a88-ba1e-b9fc7d0ae1a2.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69896ce2b4a233a810e6a015",
+    "bookId": "69870eb9123eba0dda4b63a4",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Hydrocarbon",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T05:13:06.241Z",
+    "updatedAt": "2026-07-22T19:38:23.107Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698c285b2dc74030ca5acaa7",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698c2ab52dc74030ca5acef2",
+        "numberOfQuestions": 96
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698c29fb17adaa2b6b12bd69",
+        "numberOfQuestions": 21
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698c292df1aefc613ca7435d",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c2b4da04fdeb3699547eb",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "698ac37f393eb1a9e4dafe6d",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "698c2828df707b21d2cafa6f",
+    "totalPageCount": 69,
+    "pageSliceVersion": 1,
+    "slug": "hydrocarbon",
+    "seo": {
+      "titleTag": "Hydrocarbon - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Hydrocarbon - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Hydrocarbon - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Hydrocarbon from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Hydrocarbon from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Hydrocarbon from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5a1e4453-3bf2-4a88-ba1e-b9fc7d0ae1a2.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69896d0293477c13c9a1dd10",
+    "bookId": "69870eb9123eba0dda4b63a4",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Purification and  Analysis of Organic Compounds",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T05:13:38.417Z",
+    "updatedAt": "2026-07-22T19:38:24.609Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698c2cb46fde19b4f3df303a",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698c2ed343c533ad2fa619de",
+        "numberOfQuestions": 29
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698c2df526282c14dc7e4c0a",
+        "numberOfQuestions": 17
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698c2d6f1efe584d8e78db76",
+        "numberOfQuestions": 18
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c2f522dc74030ca5adcbb",
+        "numberOfQuestions": 8
+      }
+    ],
+    "programChapterId": "698ac37f393eb1a9e4dafe6d",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "698c2c4d100b6f4684a55cc5",
+    "totalPageCount": 31,
+    "pageSliceVersion": 1,
+    "slug": "purification-and-analysis-of-organic-compounds",
+    "seo": {
+      "titleTag": "Purification and  Analysis of Organic Compounds - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Purification and  Analysis of Organic Compounds - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Purification and  Analysis of Organic Compounds - Arjuna NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Purification and  Analysis of Organic Compounds from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Purification and  Analysis of Organic Compounds from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Purification and  Analysis of Organic Compounds from Arjuna NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5a1e4453-3bf2-4a88-ba1e-b9fc7d0ae1a2.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  }
+]

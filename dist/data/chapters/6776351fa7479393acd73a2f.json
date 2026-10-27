@@ -1,0 +1,1583 @@
+[
+  {
+    "_id": "6776ba7fcf7f97b31c8b3716",
+    "bookId": "6776351fa7479393acd73a2f",
+    "status": "ACTIVE",
+    "noOfSections": "6",
+    "programChapterId": "67ac6e9082afc331b00b99d2",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac6e9b93f6bf31a68e6971",
+    "displayOrder": 8,
+    "title": "Mechanical Properties Of Solids",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f416ad94-8a31-4935-b3d6-b6e37c077fa7.zip",
+      "_id": "68bfd4103975768733982c83"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter 9_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This chapter explains how solids behave under different forces. It covers concepts like elasticity, stress, strain, and Young's modulus, which are crucial for understanding the strength and deformation of materials. These principles are widely applied in engineering, construction, and material science. Learning this chapter helps build a foundation for understanding real-world structures and their mechanical stability.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 9
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6886671961dd7a843ef2c249",
+        "numberOfQuestions": 20,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6ad09e56773085762c0f3f6f"
+      },
+      {
+        "testId": "688522a27db6370a6504081a",
+        "numberOfQuestions": 20,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6ad09e56773085762c0f3f70"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d93b3cfda4a7a756237f5",
+        "numberOfQuestions": 29,
+        "_id": "6ad09e56773085762c0f3f6e"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684fe349febca78b91dcb63d",
+        "numberOfQuestions": 44,
+        "_id": "6ad09e56773085762c0f3f6d"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682ec7cb1b5b3dac4b714c76",
+        "numberOfQuestions": 16,
+        "_id": "6ad09e56773085762c0f3f6c"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "6a27fe5d8a7f8976af24ceca",
+    "createdAt": "2025-01-02T16:10:39.681Z",
+    "updatedAt": "2026-10-15T09:35:18.903Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 178.51,
+    "pageStart": 166.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 8,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "mechanical-properties-of-solids",
+    "seo": {
+      "titleTag": "Mechanical Properties Of Solids - Physics Part II (Class XI) | PW Books",
+      "coverImageAltText": "Mechanical Properties Of Solids - Physics Part II (Class XI) | PW Books",
+      "ogTitle": "Mechanical Properties Of Solids - Physics Part II (Class XI) | PW Books",
+      "shortDescription": "Read Mechanical Properties Of Solids from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Mechanical Properties Of Solids from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Mechanical Properties Of Solids from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7dc87832-2ed6-4016-9105-f14c9210ff32.jpg",
+      "indexable": true,
+      "breadcrumb": []
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6886671961dd7a843ef2c249",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "688522a27db6370a6504081a",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "682d93b3cfda4a7a756237f5",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 29
+      },
+      {
+        "testId": "684fe349febca78b91dcb63d",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 44
+      }
+    ],
+    "pyqQuestions": 40,
+    "exemplerQuestions": 29,
+    "mcqQuestions": 44,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d93b3cfda4a7a756237f5",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684fe349febca78b91dcb63d",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6886671961dd7a843ef2c249",
+      "688522a27db6370a6504081a",
+      "682d93b3cfda4a7a756237f5",
+      "684fe349febca78b91dcb63d"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3724",
+    "bookId": "6776351fa7479393acd73a2f",
+    "status": "ACTIVE",
+    "noOfSections": "6",
+    "programChapterId": "67ac6f3edee968ac2cc08276",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac6f50d0de15a9292dbb58",
+    "displayOrder": 9,
+    "title": "Mechanical Properties Of Fluids",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f46e5a96-208d-4ac1-9d04-2685bd1509ea.zip",
+      "_id": "68bfd41ec9c7f94ac6d981bf"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter 9 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>Mechanical properties of fluids are important as they explain how liquids and gases behave under different conditions. It covers concepts like pressure, buoyancy, viscosity, and Bernoulli's principle, which are essential in understanding natural phenomena like flight, weather, and fluid flow. These principles are widely applied in fields like engineering, medicine, and environmental science, making this chapter fundamental for practical applications in daily life and technology.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 12
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 18
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>Mechanical properties of fluids are important as they explain how liquids and gases behave under different conditions. It covers concepts like pressure, buoyancy, viscosity, and Bernoulli's principle, which are essential in understanding natural phenomena like flight, weather, and fluid flow. These principles are widely applied in fields like engineering, medicine, and environmental science, making this chapter fundamental for practical applications in daily life and technology.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6886684d794c4910213f608a",
+        "numberOfQuestions": 83,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847c4f609b1cb57224ef61"
+      },
+      {
+        "testId": "6885239e84e5a6b37bd09e52",
+        "numberOfQuestions": 8,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847c4f609b1cb57224ef62"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d92e40255280764bc4b7d",
+        "numberOfQuestions": 23,
+        "_id": "69847c4f609b1cb57224ef60"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684fe50797e8d43046536e7a",
+        "numberOfQuestions": 89,
+        "_id": "69847c4f609b1cb57224ef5f"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682ec8573a6bdb2cc68d8b55",
+        "numberOfQuestions": 20,
+        "_id": "69847c4f609b1cb57224ef5e"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.692Z",
+    "updatedAt": "2026-02-05T11:17:35.831Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 200.51,
+    "pageStart": 179.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 9,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "mechanical-properties-of-fluids",
+    "seo": {
+      "titleTag": "Mechanical Properties Of Fluids - Physics Part II (Class XI) | PW Books",
+      "coverImageAltText": "Mechanical Properties Of Fluids - Physics Part II (Class XI) | PW Books",
+      "ogTitle": "Mechanical Properties Of Fluids - Physics Part II (Class XI) | PW Books",
+      "shortDescription": "Read Mechanical Properties Of Fluids from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Mechanical Properties Of Fluids from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Mechanical Properties Of Fluids from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7dc87832-2ed6-4016-9105-f14c9210ff32.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6886684d794c4910213f608a",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 83
+      },
+      {
+        "testId": "6885239e84e5a6b37bd09e52",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 8
+      },
+      {
+        "testId": "682d92e40255280764bc4b7d",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 23
+      },
+      {
+        "testId": "684fe50797e8d43046536e7a",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 89
+      }
+    ],
+    "pyqQuestions": 91,
+    "exemplerQuestions": 23,
+    "mcqQuestions": 89,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d92e40255280764bc4b7d",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684fe50797e8d43046536e7a",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6886684d794c4910213f608a",
+      "6885239e84e5a6b37bd09e52",
+      "682d92e40255280764bc4b7d",
+      "684fe50797e8d43046536e7a"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3732",
+    "bookId": "6776351fa7479393acd73a2f",
+    "status": "ACTIVE",
+    "noOfSections": "10",
+    "programChapterId": "67ac6ff08633c220395551b3",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac700133e777e8133722e8",
+    "displayOrder": 10,
+    "title": "Thermal Properties Of Matter",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b680d091-5c90-49f2-a57f-7e88a09369b0.zip",
+      "_id": "68bfd42c62d2c0ba0ced9026"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter 10_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter is important as it helps us understand how materials respond to heat and temperature changes. It explains concepts like heat transfer, thermal expansion, and specific heat capacity, which are essential in daily life, such as in cooking, building design, and weather patterns. This chapter also forms the foundation for advanced studies in thermodynamics and energy systems.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter is important as it helps us understand how materials respond to heat and temperature changes. It explains concepts like heat transfer, thermal expansion, and specific heat capacity, which are essential in daily life, such as in cooking, building design, and weather patterns. This chapter also forms the foundation for advanced studies in thermodynamics and energy systems.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68866928231f2ca23aefe9da",
+        "numberOfQuestions": 45,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847c578eb6abd833e7087a"
+      },
+      {
+        "testId": "688524b72f01145dde692c98",
+        "numberOfQuestions": 4,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847c578eb6abd833e7087b"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d91e0f8819792af5f2d1b",
+        "numberOfQuestions": 29,
+        "_id": "69847c578eb6abd833e70879"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684fe6a1febca78b91dcb745",
+        "numberOfQuestions": 55,
+        "_id": "69847c578eb6abd833e70878"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682ec8e64897b8dbfdd89497",
+        "numberOfQuestions": 20,
+        "_id": "69847c578eb6abd833e70877"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.698Z",
+    "updatedAt": "2026-02-05T11:17:43.071Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 224.51,
+    "pageStart": 201.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 10,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "thermal-properties-of-matter",
+    "seo": {
+      "titleTag": "Thermal Properties Of Matter - Physics Part II (Class XI) | PW Books",
+      "coverImageAltText": "Thermal Properties Of Matter - Physics Part II (Class XI) | PW Books",
+      "ogTitle": "Thermal Properties Of Matter - Physics Part II (Class XI) | PW Books",
+      "shortDescription": "Read Thermal Properties Of Matter from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Thermal Properties Of Matter from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Thermal Properties Of Matter from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7dc87832-2ed6-4016-9105-f14c9210ff32.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68866928231f2ca23aefe9da",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 45
+      },
+      {
+        "testId": "688524b72f01145dde692c98",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 4
+      },
+      {
+        "testId": "682d91e0f8819792af5f2d1b",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 29
+      },
+      {
+        "testId": "684fe6a1febca78b91dcb745",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 55
+      }
+    ],
+    "pyqQuestions": 49,
+    "exemplerQuestions": 29,
+    "mcqQuestions": 55,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d91e0f8819792af5f2d1b",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684fe6a1febca78b91dcb745",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68866928231f2ca23aefe9da",
+      "688524b72f01145dde692c98",
+      "682d91e0f8819792af5f2d1b",
+      "684fe6a1febca78b91dcb745"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b372b",
+    "bookId": "6776351fa7479393acd73a2f",
+    "status": "ACTIVE",
+    "noOfSections": "11",
+    "programChapterId": "67ac70648633c220395551d5",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac707012a2fd05b9e777d6",
+    "displayOrder": 11,
+    "title": "Thermodynamics",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9b12143c-fa42-46bb-a10b-d40c1673751d.zip",
+      "_id": "68bfd44130b4122758db7279"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-11_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>Thermodynamics helps us understand how heat and energy interact in different processes. It explains the laws of thermodynamics, how engines work, and what entropy means. These ideas are used in things like making electricity, running refrigerators, and understanding natural processes. This chapter also links physics and chemistry, making it important for future studies and practical applications.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 18
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 14
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 11
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>Thermodynamics helps us understand how heat and energy interact in different processes. It explains the laws of thermodynamics, how engines work, and what entropy means. These ideas are used in things like making electricity, running refrigerators, and understanding natural processes. This chapter also links physics and chemistry, making it important for future studies and practical applications.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68866a85afdfe85db236169e",
+        "numberOfQuestions": 73,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6ad5e0e6c0ef06ccbb13d75c"
+      },
+      {
+        "testId": "688525807db6370a65041745",
+        "numberOfQuestions": 8,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6ad5e0e6c0ef06ccbb13d75d"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d90d42b5ff80b7818bbce",
+        "numberOfQuestions": 27,
+        "_id": "6ad5e0e6c0ef06ccbb13d75b"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684fe782bf41c3e9076622e2",
+        "numberOfQuestions": 41,
+        "_id": "6ad5e0e6c0ef06ccbb13d75a"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682ec96a1b5b3dac4b714d56",
+        "numberOfQuestions": 8,
+        "_id": "6ad5e0e6c0ef06ccbb13d759"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "6a27fe5d8a7f8976af24ceca",
+    "createdAt": "2025-01-02T16:10:39.694Z",
+    "updatedAt": "2026-10-19T09:20:38.438Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 242.51,
+    "pageStart": 225.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 11,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": false,
+    "slug": "thermodynamics",
+    "seo": {
+      "coverImageAltText": "Thermodynamics - Physics Part II (Class XI) | PW Books",
+      "shortDescription": "Read Thermodynamics from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "titleTag": "Thermodynamics - Physics Part II (Class XI) | PW Books",
+      "metaDescription": "Read Thermodynamics from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogTitle": "Thermodynamics - Physics Part II (Class XI) | PW Books",
+      "ogDescription": "Read Thermodynamics from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7dc87832-2ed6-4016-9105-f14c9210ff32.jpg",
+      "indexable": true,
+      "breadcrumb": []
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68866a85afdfe85db236169e",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 73
+      },
+      {
+        "testId": "688525807db6370a65041745",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 8
+      },
+      {
+        "testId": "682d90d42b5ff80b7818bbce",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 27
+      },
+      {
+        "testId": "684fe782bf41c3e9076622e2",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 41
+      }
+    ],
+    "pyqQuestions": 81,
+    "exemplerQuestions": 27,
+    "mcqQuestions": 41,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d90d42b5ff80b7818bbce",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684fe782bf41c3e9076622e2",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68866a85afdfe85db236169e",
+      "688525807db6370a65041745",
+      "682d90d42b5ff80b7818bbce",
+      "684fe782bf41c3e9076622e2"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3740",
+    "bookId": "6776351fa7479393acd73a2f",
+    "status": "ACTIVE",
+    "noOfSections": "7",
+    "programChapterId": "67ac70b8ab7dedd14c657752",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac70c293f6bf31a68e69e6",
+    "displayOrder": 12,
+    "title": "Kinetic Theory",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/add4fe3c-96a9-47b6-833e-adba26d7f156.zip",
+      "_id": "68bfd450372f7d7d914b1d5c"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-12_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This chapter is important as it explains the behavior of gases based on the motion of their molecules. It introduces concepts like pressure, temperature, and the laws of gases, linking them to molecular motion. The chapter provides a microscopic understanding of macroscopic properties like heat and energy. This foundation is essential for understanding thermodynamics and various real-world applications in science and engineering.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 18
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 15
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 18
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This chapter is important as it explains the behavior of gases based on the motion of their molecules. It introduces concepts like pressure, temperature, and the laws of gases, linking them to molecular motion. The chapter provides a microscopic understanding of macroscopic properties like heat and energy. This foundation is essential for understanding thermodynamics and various real-world applications in science and engineering.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68866d3afe8a24df3bed7098",
+        "numberOfQuestions": 92,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6ad5e0156f6318ca030b9715"
+      },
+      {
+        "testId": "688527a27db6370a65041795",
+        "numberOfQuestions": 10,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6ad5e0156f6318ca030b9716"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d9033cfda4a7a75623711",
+        "numberOfQuestions": 31,
+        "_id": "6ad5e0156f6318ca030b9714"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684fec98bec1d30db30fdebd",
+        "numberOfQuestions": 49,
+        "_id": "6ad5e0156f6318ca030b9713"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682ec9f19b68e1e3308a23c8",
+        "numberOfQuestions": 10,
+        "_id": "6ad5e0156f6318ca030b9712"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "6a27fe5d8a7f8976af24ceca",
+    "createdAt": "2025-01-02T16:10:39.708Z",
+    "updatedAt": "2026-10-19T09:17:09.675Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 257.51,
+    "pageStart": 243.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 12,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "kinetic-theory",
+    "seo": {
+      "coverImageAltText": "Kinetic Theory - Physics Part II (Class XI) | PW Books",
+      "shortDescription": "Read Kinetic Theory from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "titleTag": "Kinetic Theory - Physics Part II (Class XI) | PW Books",
+      "metaDescription": "Read Kinetic Theory from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogTitle": "Kinetic Theory - Physics Part II (Class XI) | PW Books",
+      "ogDescription": "Read Kinetic Theory from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7dc87832-2ed6-4016-9105-f14c9210ff32.jpg",
+      "indexable": true,
+      "breadcrumb": []
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68866d3afe8a24df3bed7098",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 92
+      },
+      {
+        "testId": "688527a27db6370a65041795",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 10
+      },
+      {
+        "testId": "682d9033cfda4a7a75623711",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 31
+      },
+      {
+        "testId": "684fec98bec1d30db30fdebd",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 49
+      }
+    ],
+    "pyqQuestions": 102,
+    "exemplerQuestions": 31,
+    "mcqQuestions": 49,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d9033cfda4a7a75623711",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684fec98bec1d30db30fdebd",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68866d3afe8a24df3bed7098",
+      "688527a27db6370a65041795",
+      "682d9033cfda4a7a75623711",
+      "684fec98bec1d30db30fdebd"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3739",
+    "bookId": "6776351fa7479393acd73a2f",
+    "status": "ACTIVE",
+    "noOfSections": "8",
+    "programChapterId": "67ac710e93f6bf31a68e69f6",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac711f97de4734c9469f2f",
+    "displayOrder": 13,
+    "title": "Oscillations",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f45aa18-e7c9-4cc2-a01c-533e4fd0b4b8.zip",
+      "_id": "68bfd4613e28480c99b0ca06"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter-14_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Oscillations explain periodic motion, like the swinging of a pendulum or vibrating strings. It introduces key concepts such as simple harmonic motion (SHM), period, frequency, and energy in oscillations. These ideas are essential for understanding waves, sound, and many natural phenomena. The chapter also lays the foundation for advanced topics like resonance and mechanical systems in higher studies.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 26
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 11
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Oscillations explain periodic motion, like the swinging of a pendulum or vibrating strings. It introduces key concepts such as simple harmonic motion (SHM), period, frequency, and energy in oscillations. These ideas are essential for understanding waves, sound, and many natural phenomena. The chapter also lays the foundation for advanced topics like resonance and mechanical systems in higher studies.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 3
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68866e03231f2ca23aefea36",
+        "numberOfQuestions": 72,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847c76792fda242314daef"
+      },
+      {
+        "testId": "6885287e2f01145dde692d84",
+        "numberOfQuestions": 10,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847c76792fda242314daf0"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d8f70e65d5574ecc500fe",
+        "numberOfQuestions": 40,
+        "_id": "69847c76792fda242314daee"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852974da5f3e6e96a11f885",
+        "numberOfQuestions": 42,
+        "_id": "69847c76792fda242314daed"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682eca8d4616dba630c0cfc7",
+        "numberOfQuestions": 18,
+        "_id": "69847c76792fda242314daec"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.706Z",
+    "updatedAt": "2026-02-05T11:18:14.489Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 276.51,
+    "pageStart": 258.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 13,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "oscillations",
+    "seo": {
+      "titleTag": "Oscillations - Physics Part II (Class XI) | PW Books",
+      "coverImageAltText": "Oscillations - Physics Part II (Class XI) | PW Books",
+      "ogTitle": "Oscillations - Physics Part II (Class XI) | PW Books",
+      "shortDescription": "Read Oscillations from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Oscillations from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Oscillations from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7dc87832-2ed6-4016-9105-f14c9210ff32.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68866e03231f2ca23aefea36",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 72
+      },
+      {
+        "testId": "6885287e2f01145dde692d84",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 10
+      },
+      {
+        "testId": "682d8f70e65d5574ecc500fe",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 40
+      },
+      {
+        "testId": "6852974da5f3e6e96a11f885",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 42
+      }
+    ],
+    "pyqQuestions": 82,
+    "exemplerQuestions": 40,
+    "mcqQuestions": 42,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d8f70e65d5574ecc500fe",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852974da5f3e6e96a11f885",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68866e03231f2ca23aefea36",
+      "6885287e2f01145dde692d84",
+      "682d8f70e65d5574ecc500fe",
+      "6852974da5f3e6e96a11f885"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3747",
+    "bookId": "6776351fa7479393acd73a2f",
+    "status": "ACTIVE",
+    "noOfSections": "7",
+    "programChapterId": "67ac71d3fa9b33ea0724c805",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac71e1114416e81fd45ec3",
+    "displayOrder": 14,
+    "title": "Waves",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/eee3c4b0-f2ad-42ca-9dbc-4c289da1dbe8.zip",
+      "_id": "68bfd46f454b16901cf8fb8b"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter 14_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter explains the behavior of waves and their applications. It covers transverse and longitudinal waves, helping us understand different types of wave motion. The displacement relation in progressive waves and the formula for the speed of a traveling wave are essential for analyzing wave properties. Concepts like the principle of superposition, reflection of waves, and beats provide insights into wave interactions, which are vital in understanding sound, light, and various technologies.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter explains the behavior of waves and their applications. It covers transverse and longitudinal waves, helping us understand different types of wave motion. The displacement relation in progressive waves and the formula for the speed of a traveling wave are essential for analyzing wave properties. Concepts like the principle of superposition, reflection of waves, and beats provide insights into wave interactions, which are vital in understanding sound, light, and various technologies.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2020",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68866f49e7d654a1eb96ae6f",
+        "numberOfQuestions": 63,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847c7d2badf8d9b571a7b3"
+      },
+      {
+        "testId": "6885292440ce47b9f3e825a2",
+        "numberOfQuestions": 4,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847c7d2badf8d9b571a7b4"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d8e7f05ffdbf647443571",
+        "numberOfQuestions": 33,
+        "_id": "69847c7d2badf8d9b571a7b2"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "685298aa332c9a98d7aa2bf3",
+        "numberOfQuestions": 67,
+        "_id": "69847c7d2badf8d9b571a7b1"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682ecbfc4897b8dbfdd89628",
+        "numberOfQuestions": 19,
+        "_id": "69847c7d2badf8d9b571a7b0"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.713Z",
+    "updatedAt": "2026-02-05T11:18:21.813Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 299.5,
+    "pageStart": 277.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 14,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "waves",
+    "seo": {
+      "titleTag": "Waves - Physics Part II (Class XI) | PW Books",
+      "coverImageAltText": "Waves - Physics Part II (Class XI) | PW Books",
+      "ogTitle": "Waves - Physics Part II (Class XI) | PW Books",
+      "shortDescription": "Read Waves from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Waves from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Waves from Physics Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7dc87832-2ed6-4016-9105-f14c9210ff32.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68866f49e7d654a1eb96ae6f",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 63
+      },
+      {
+        "testId": "6885292440ce47b9f3e825a2",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 4
+      },
+      {
+        "testId": "682d8e7f05ffdbf647443571",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 33
+      },
+      {
+        "testId": "685298aa332c9a98d7aa2bf3",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 67
+      }
+    ],
+    "pyqQuestions": 67,
+    "exemplerQuestions": 33,
+    "mcqQuestions": 67,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d8e7f05ffdbf647443571",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "685298aa332c9a98d7aa2bf3",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68866f49e7d654a1eb96ae6f",
+      "6885292440ce47b9f3e825a2",
+      "682d8e7f05ffdbf647443571",
+      "685298aa332c9a98d7aa2bf3"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  }
+]

@@ -1,0 +1,774 @@
+[
+  {
+    "_id": "6aa92efac649fe58fdaf1e58",
+    "bookId": "6aa92db52bc9fca6e82a99b1",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Understanding Social Science",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c0a6b11e-119b-4ac8-bfb8-39389d157fca.zip",
+      "_id": "6aa92efac649fe58fdaf1e59"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-09-15T11:41:46.200Z",
+    "updatedAt": "2026-09-15T11:58:15.831Z",
+    "__v": 0,
+    "slug": "understanding-social-science",
+    "seo": {
+      "titleTag": "Understanding Social Science - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "coverImageAltText": "Understanding Social Science - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "ogTitle": "Understanding Social Science - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "shortDescription": "Read Understanding Social Science from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Understanding Social Science from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Understanding Social Science from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/421445c2-f126-4eee-9c0d-f8e8d9bebb6d.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6aa9312e1de5d7885ea2db93",
+    "bookId": "6aa92db52bc9fca6e82a99b1",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Shaping of the Earth’s Surface",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/28d12f0e-a6ab-401e-850d-1170d7929d88.zip",
+      "_id": "6aa9312e1de5d7885ea2db94"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-09-15T11:51:10.007Z",
+    "updatedAt": "2026-09-22T07:45:06.450Z",
+    "__v": 0,
+    "slug": "shaping-of-the-earth-s-surface",
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6ab21730cbce19fc81bc0f8a",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "6ab215ae5b7aae96479d8af7",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programTopicId": "6ab215d5e4aa24034720b989",
+    "seo": {
+      "titleTag": "Shaping of the Earth’s Surface - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "coverImageAltText": "Shaping of the Earth’s Surface - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "ogTitle": "Shaping of the Earth’s Surface - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "shortDescription": "Read Shaping of the Earth’s Surface from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Shaping of the Earth’s Surface from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Shaping of the Earth’s Surface from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/421445c2-f126-4eee-9c0d-f8e8d9bebb6d.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6aa93153b5eea9d9eb9cad64",
+    "bookId": "6aa92db52bc9fca6e82a99b1",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Atmosphere and Climate",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/de722f20-8c2e-42cc-814f-496b3fab2618.zip",
+      "_id": "6aa93153b5eea9d9eb9cad65"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-09-15T11:51:47.125Z",
+    "updatedAt": "2026-09-22T07:45:26.901Z",
+    "__v": 0,
+    "slug": "atmosphere-and-climate",
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6ab2181def03be0f79428013",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "6ab215ae5b7aae96479d8af7",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programTopicId": "6ab215e33a060178f95c58e5",
+    "seo": {
+      "titleTag": "Atmosphere and Climate - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "coverImageAltText": "Atmosphere and Climate - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "ogTitle": "Atmosphere and Climate - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "shortDescription": "Read Atmosphere and Climate from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Atmosphere and Climate from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Atmosphere and Climate from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/421445c2-f126-4eee-9c0d-f8e8d9bebb6d.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6aa9317a464048427e3d237c",
+    "bookId": "6aa92db52bc9fca6e82a99b1",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Early Humans and Beginning of Civilisation",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2af16433-49a9-4017-b532-5eb35b1544d6.zip",
+      "_id": "6aa9317a464048427e3d237d"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-09-15T11:52:26.651Z",
+    "updatedAt": "2026-09-15T11:52:26.651Z",
+    "__v": 0,
+    "slug": "early-humans-and-beginning-of-civilisation",
+    "seo": {
+      "titleTag": "Early Humans and Beginning of Civilisation - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "coverImageAltText": "Early Humans and Beginning of Civilisation - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "ogTitle": "Early Humans and Beginning of Civilisation - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "shortDescription": "Read Early Humans and Beginning of Civilisation from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Early Humans and Beginning of Civilisation from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Early Humans and Beginning of Civilisation from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/421445c2-f126-4eee-9c0d-f8e8d9bebb6d.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6aa931a9464048427e3d293c",
+    "bookId": "6aa92db52bc9fca6e82a99b1",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "State and Society up to 1000 CE",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b0fd8888-f0b6-470b-82b9-4457488d64c8.zip",
+      "_id": "6aa9506270692d0c7040b22c"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-09-15T11:53:13.125Z",
+    "updatedAt": "2026-09-22T07:46:16.106Z",
+    "__v": 0,
+    "slug": "state-and-society-up-to-1000-ce",
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6ab21985186f6157325fa6b4",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "6ab215ae5b7aae96479d8af7",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programTopicId": "6ab215fbd9b71df982a1364a",
+    "seo": {
+      "titleTag": "State and Society up to 1000 CE - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "coverImageAltText": "State and Society up to 1000 CE - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "ogTitle": "State and Society up to 1000 CE - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "shortDescription": "Read State and Society up to 1000 CE from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read State and Society up to 1000 CE from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read State and Society up to 1000 CE from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/421445c2-f126-4eee-9c0d-f8e8d9bebb6d.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6aa931cdaee8cfc6988acb74",
+    "bookId": "6aa92db52bc9fca6e82a99b1",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Democracy",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/08f79a17-4f07-486b-a680-165893626ffb.zip",
+      "_id": "6aa931cdaee8cfc6988acb75"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-09-15T11:53:49.659Z",
+    "updatedAt": "2026-09-22T07:46:44.927Z",
+    "__v": 0,
+    "slug": "democracy",
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6ab21a232f384ece59a3008e",
+        "numberOfQuestions": 45
+      }
+    ],
+    "programChapterId": "6ab215ae5b7aae96479d8af7",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programTopicId": "6ab2160741e50850d4508e38",
+    "seo": {
+      "titleTag": "Democracy - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "coverImageAltText": "Democracy - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "ogTitle": "Democracy - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "shortDescription": "Read Democracy from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Democracy from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Democracy from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/421445c2-f126-4eee-9c0d-f8e8d9bebb6d.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6aa931f30f42a528f8953855",
+    "bookId": "6aa92db52bc9fca6e82a99b1",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Elections",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/91b201f3-8f4a-44bc-97de-e43750c7e9ad.zip",
+      "_id": "6aa931f30f42a528f8953856"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-09-15T11:54:27.722Z",
+    "updatedAt": "2026-09-22T07:47:07.695Z",
+    "__v": 0,
+    "slug": "elections",
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6ab21becaa3b205213507501",
+        "numberOfQuestions": 45
+      }
+    ],
+    "programChapterId": "6ab215ae5b7aae96479d8af7",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programTopicId": "6ab216123d688a1f68f82617",
+    "seo": {
+      "titleTag": "Elections - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "coverImageAltText": "Elections - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "ogTitle": "Elections - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "shortDescription": "Read Elections from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Elections from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Elections from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/421445c2-f126-4eee-9c0d-f8e8d9bebb6d.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6aa9321f0f42a528f8953de5",
+    "bookId": "6aa92db52bc9fca6e82a99b1",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Building Blocks in Economics: The Problem of Choice",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/69610174-e16a-4ce5-b622-182b3538373c.zip",
+      "_id": "6aa9321f0f42a528f8953de6"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-09-15T11:55:11.548Z",
+    "updatedAt": "2026-09-22T07:47:53.738Z",
+    "__v": 0,
+    "slug": "building-blocks-in-economics-the-problem-of-choice",
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6ab22c9fff19970d2fcb60ba",
+        "numberOfQuestions": 42
+      }
+    ],
+    "programChapterId": "6ab215ae5b7aae96479d8af7",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programTopicId": "6ab2161dfb45c70b5af72bef",
+    "seo": {
+      "titleTag": "Building Blocks in Economics: The Problem of Choice - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "coverImageAltText": "Building Blocks in Economics: The Problem of Choice - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "ogTitle": "Building Blocks in Economics: The Problem of Choice - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "shortDescription": "Read Building Blocks in Economics: The Problem of Choice from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Building Blocks in Economics: The Problem of Choice from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Building Blocks in Economics: The Problem of Choice from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/421445c2-f126-4eee-9c0d-f8e8d9bebb6d.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6aa93249d74c3e29ee45ec76",
+    "bookId": "6aa92db52bc9fca6e82a99b1",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "The Price Puzzle: What Drives the Market",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b1f5a859-b255-43dd-ad98-5e13f48e8c72.zip",
+      "_id": "6aa93249d74c3e29ee45ec77"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-09-15T11:55:53.942Z",
+    "updatedAt": "2026-09-22T07:48:17.321Z",
+    "__v": 0,
+    "slug": "the-price-puzzle-what-drives-the-market",
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6ab22fb3996e35bc19d061a0",
+        "numberOfQuestions": 46
+      }
+    ],
+    "programChapterId": "6ab215ae5b7aae96479d8af7",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programTopicId": "6ab21627e64c3b0d7414911b",
+    "seo": {
+      "titleTag": "The Price Puzzle: What Drives the Market - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "coverImageAltText": "The Price Puzzle: What Drives the Market - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "ogTitle": "The Price Puzzle: What Drives the Market - Question and Concept Bank for Class 9 Social Science (Digital Book) | PW Books",
+      "shortDescription": "Read The Price Puzzle: What Drives the Market from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The Price Puzzle: What Drives the Market from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The Price Puzzle: What Drives the Market from Question and Concept Bank for Class 9 Social Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/421445c2-f126-4eee-9c0d-f8e8d9bebb6d.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  }
+]

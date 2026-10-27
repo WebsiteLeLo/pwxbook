@@ -1,0 +1,2933 @@
+[
+  {
+    "_id": "6776ba7fcf7f97b31c8b38b3",
+    "bookId": "677653b9a7479393acd73a3d",
+    "status": "ACTIVE",
+    "noOfSections": "6",
+    "programChapterId": "67aaffa9c10b39b11dfe3c58",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aaffcf689a64f8585263ba",
+    "displayOrder": 1,
+    "title": "Sexual Reproduction In Flowering Plants",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/827a63ef-236d-4a8a-a6d5-e79968e23ea1.zip",
+      "_id": "68bfd306c085b1756a55c038"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter-2_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter \"Sexual Reproduction in Flowering Plants\" explains the process of reproduction in angiosperms, including topics like flower structure, pollination, fertilization, seed formation, and fruit development. This chapter aims to help you understand the reproductive strategies of flowering plants, providing a strong foundation for advanced topics in plant biology and emphasizing the importance of sexual reproduction in maintaining genetic diversity and plant survival.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter \"Sexual Reproduction in Flowering Plants\" explains the process of reproduction in angiosperms, including topics like flower structure, pollination, fertilization, seed formation, and fruit development. This chapter aims to help you understand the reproductive strategies of flowering plants, providing a strong foundation for advanced topics in plant biology and emphasizing the importance of sexual reproduction in maintaining genetic diversity and plant survival.</p>\n</body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 13
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 31
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 36
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682c55f0b9a03f6c28c1d2c2",
+        "numberOfQuestions": 130,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6960bce50464cb5885761106"
+      },
+      {
+        "testId": "68850d3a7db6370a65040273",
+        "numberOfQuestions": 20,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6960bce50464cb5885761107"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c8a12db7d1651c40f2973",
+        "numberOfQuestions": 53,
+        "_id": "6960bce50464cb5885761105"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852c8d0537996cdb5c23be0",
+        "numberOfQuestions": 119,
+        "_id": "6960bce50464cb5885761104"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dcb58ab86f46e382dd57d",
+        "numberOfQuestions": 18,
+        "_id": "6960bce50464cb5885761103"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "68405475450edb732ac28b03",
+    "createdAt": "2025-01-02T16:10:39.899Z",
+    "updatedAt": "2026-01-09T08:31:33.717Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 24.51,
+    "pageStart": 2.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "sexual-reproduction-in-flowering-plants",
+    "seo": {
+      "titleTag": "Sexual Reproduction In Flowering Plants - Biology (Class XII) | PW Books",
+      "coverImageAltText": "Sexual Reproduction In Flowering Plants - Biology (Class XII) | PW Books",
+      "ogTitle": "Sexual Reproduction In Flowering Plants - Biology (Class XII) | PW Books",
+      "shortDescription": "Read Sexual Reproduction In Flowering Plants from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Sexual Reproduction In Flowering Plants from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Sexual Reproduction In Flowering Plants from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8e2d887f-f9bc-4d63-9ebc-58f9cccf6c1b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682c55f0b9a03f6c28c1d2c2",
+        "type": "Board PYQs",
+        "numberOfQuestions": 130
+      },
+      {
+        "testId": "68850d3a7db6370a65040273",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "682c8a12db7d1651c40f2973",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 53
+      },
+      {
+        "testId": "6852c8d0537996cdb5c23be0",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 119
+      }
+    ],
+    "pyqQuestions": 150,
+    "exemplerQuestions": 53,
+    "mcqQuestions": 119,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c8a12db7d1651c40f2973",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852c8d0537996cdb5c23be0",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682c55f0b9a03f6c28c1d2c2",
+      "68850d3a7db6370a65040273",
+      "682c8a12db7d1651c40f2973",
+      "6852c8d0537996cdb5c23be0"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b38ba",
+    "bookId": "677653b9a7479393acd73a3d",
+    "status": "ACTIVE",
+    "noOfSections": "8",
+    "programChapterId": "67aaffc0457201ac585fd249",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aaffedcbd2ac583d13543b",
+    "displayOrder": 2,
+    "title": "Human Reproduction",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3e362fbd-3249-4245-9fca-0e9ec54d8918.zip",
+      "_id": "69295fe9aa5d03704fa3eddb"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter-3 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter \"Human Reproduction\" will explain the reproductive system in humans, including the structure and function of male and female reproductive organs, gametogenesis, fertilization, pregnancy, and childbirth. This chapter aims to help you understand the biological processes involved in human reproduction, providing a strong foundation for advanced topics in human physiology and highlighting the significance of reproduction in the continuity of life.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter \"Human Reproduction\" will explain the reproductive system in humans, including the structure and function of male and female reproductive organs, gametogenesis, fertilization, pregnancy, and childbirth. This chapter aims to help you understand the biological processes involved in human reproduction, providing a strong foundation for advanced topics in human physiology and highlighting the significance of reproduction in the continuity of life.</p>\n</body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 27
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 16
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682c57c47f420a6e782e9929",
+        "numberOfQuestions": 89,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e33b9cb80bce6d6391c3"
+      },
+      {
+        "testId": "68850e662f01145dde691b48",
+        "numberOfQuestions": 23,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e33b9cb80bce6d6391c4"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c8ae0b9a03f6c28c21b8b",
+        "numberOfQuestions": 48,
+        "_id": "6971e33b9cb80bce6d6391c2"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852c94383f39c2006de77ab",
+        "numberOfQuestions": 132,
+        "_id": "6971e33b9cb80bce6d6391c1"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dcd6d0255280764bc8814",
+        "numberOfQuestions": 21,
+        "_id": "6971e33b9cb80bce6d6391c0"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.900Z",
+    "updatedAt": "2026-01-22T08:43:39.162Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 39.51,
+    "pageStart": 25.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "human-reproduction",
+    "seo": {
+      "titleTag": "Human Reproduction - Biology (Class XII) | PW Books",
+      "coverImageAltText": "Human Reproduction - Biology (Class XII) | PW Books",
+      "ogTitle": "Human Reproduction - Biology (Class XII) | PW Books",
+      "shortDescription": "Read Human Reproduction from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Human Reproduction from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Human Reproduction from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8e2d887f-f9bc-4d63-9ebc-58f9cccf6c1b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682c57c47f420a6e782e9929",
+        "type": "Board PYQs",
+        "numberOfQuestions": 89
+      },
+      {
+        "testId": "68850e662f01145dde691b48",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 23
+      },
+      {
+        "testId": "682c8ae0b9a03f6c28c21b8b",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 48
+      },
+      {
+        "testId": "6852c94383f39c2006de77ab",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 132
+      }
+    ],
+    "pyqQuestions": 112,
+    "exemplerQuestions": 48,
+    "mcqQuestions": 132,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c8ae0b9a03f6c28c21b8b",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852c94383f39c2006de77ab",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682c57c47f420a6e782e9929",
+      "68850e662f01145dde691b48",
+      "682c8ae0b9a03f6c28c21b8b",
+      "6852c94383f39c2006de77ab"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b38c8",
+    "bookId": "677653b9a7479393acd73a3d",
+    "status": "ACTIVE",
+    "noOfSections": "6",
+    "programChapterId": "67ab0008cbd2ac583d13544c",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67ab00115d7988ea26406d79",
+    "displayOrder": 3,
+    "title": "Reproductive Health",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ea2f96ac-1ccd-45cc-9e8b-4133a40474ef.zip",
+      "_id": "68c7c756805376273f8b93b8"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter-4 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Reproductive Health\" explores important topics like family planning, prevention of sexually transmitted infections (STIs), and understanding reproductive disorders. It aims to raise awareness about taking care of reproductive health, giving you the knowledge to make informed decisions and live a healthy life. This chapter will help you understand how to stay safe and healthy, while also providing a foundation for future studies in human health and well-being.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Reproductive Health\" explores important topics like family planning, prevention of sexually transmitted infections (STIs), and understanding reproductive disorders. It aims to raise awareness about taking care of reproductive health, giving you the knowledge to make informed decisions and live a healthy life. This chapter will help you understand how to stay safe and healthy, while also providing a foundation for future studies in human health and well-being.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 7
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682adbd5ca8d76662236acfe",
+        "numberOfQuestions": 46,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "698190820958f9e7208050fe"
+      },
+      {
+        "testId": "68850fe02f01145dde691b94",
+        "numberOfQuestions": 19,
+        "type": [
+          "NEET"
+        ],
+        "_id": "698190820958f9e7208050ff"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c8c1db9a03f6c28c21bc4",
+        "numberOfQuestions": 37,
+        "_id": "698190820958f9e7208050fd"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852cce971682bf1676ea3f6",
+        "numberOfQuestions": 56,
+        "_id": "698190820958f9e7208050fc"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dcf0d0ef496e707d6473a",
+        "numberOfQuestions": 12,
+        "_id": "698190820958f9e7208050fb"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.906Z",
+    "updatedAt": "2026-02-03T06:06:58.819Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 49.51,
+    "pageStart": 40.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "reproductive-health",
+    "seo": {
+      "titleTag": "Reproductive Health - Biology (Class XII) | PW Books",
+      "coverImageAltText": "Reproductive Health - Biology (Class XII) | PW Books",
+      "ogTitle": "Reproductive Health - Biology (Class XII) | PW Books",
+      "shortDescription": "Read Reproductive Health from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Reproductive Health from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Reproductive Health from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8e2d887f-f9bc-4d63-9ebc-58f9cccf6c1b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682adbd5ca8d76662236acfe",
+        "type": "Board PYQs",
+        "numberOfQuestions": 46
+      },
+      {
+        "testId": "68850fe02f01145dde691b94",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 19
+      },
+      {
+        "testId": "682c8c1db9a03f6c28c21bc4",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 37
+      },
+      {
+        "testId": "6852cce971682bf1676ea3f6",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 56
+      }
+    ],
+    "pyqQuestions": 65,
+    "exemplerQuestions": 37,
+    "mcqQuestions": 56,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c8c1db9a03f6c28c21bc4",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852cce971682bf1676ea3f6",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682adbd5ca8d76662236acfe",
+      "68850fe02f01145dde691b94",
+      "682c8c1db9a03f6c28c21bc4",
+      "6852cce971682bf1676ea3f6"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b38cf",
+    "bookId": "677653b9a7479393acd73a3d",
+    "status": "ACTIVE",
+    "noOfSections": "9",
+    "programChapterId": "67ab00234b5362961cca323c",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67ab002d093f9e9b034df919",
+    "displayOrder": 4,
+    "title": "Principles of Inheritance and Variation",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/66526ed5-4dd2-4478-905b-4775f974593f.zip",
+      "_id": "6929601dfb49fcaa56ea1bf1"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter-4 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Principles of Inheritance and Variation\" explains the fundamental concepts of genetic inheritance, including Mendel's laws, deviations from Mendelian ratios, and the chromosomal basis of inheritance. This chapter aims to help you understand how traits are passed from one generation to the next and the role of genes in variation. This chapter provides a strong foundation for understanding genetics, which is crucial for advanced topics in biology and its applications in fields like medicine and agriculture.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Principles of Inheritance and Variation\" explains the fundamental concepts of genetic inheritance, including Mendel's laws, deviations from Mendelian ratios, and the chromosomal basis of inheritance. This chapter aims to help you understand how traits are passed from one generation to the next and the role of genes in variation. This chapter provides a strong foundation for understanding genetics, which is crucial for advanced topics in biology and its applications in fields like medicine and agriculture.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 14
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 13
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 31
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 30
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682c2cc965d1ecbd1dcfe853",
+        "numberOfQuestions": 134,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6981908e4f90c1b7ea9d5d3f"
+      },
+      {
+        "testId": "688510d1c0347ad8414ea946",
+        "numberOfQuestions": 33,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6981908e4f90c1b7ea9d5d40"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c8d020255280764bc06a3",
+        "numberOfQuestions": 53,
+        "_id": "6981908e4f90c1b7ea9d5d3e"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "685e40135d654754c6e141cd",
+        "numberOfQuestions": 147,
+        "_id": "6981908e4f90c1b7ea9d5d3d"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dcfdb3de21a2ab6144975",
+        "numberOfQuestions": 16,
+        "_id": "6981908e4f90c1b7ea9d5d3c"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.910Z",
+    "updatedAt": "2026-02-03T06:07:10.134Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 77.51,
+    "pageStart": 52.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "principles-of-inheritance-and-variation",
+    "seo": {
+      "titleTag": "Principles of Inheritance and Variation - Biology (Class XII) | PW Books",
+      "coverImageAltText": "Principles of Inheritance and Variation - Biology (Class XII) | PW Books",
+      "ogTitle": "Principles of Inheritance and Variation - Biology (Class XII) | PW Books",
+      "shortDescription": "Read Principles of Inheritance and Variation from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Principles of Inheritance and Variation from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Principles of Inheritance and Variation from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8e2d887f-f9bc-4d63-9ebc-58f9cccf6c1b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682c2cc965d1ecbd1dcfe853",
+        "type": "Board PYQs",
+        "numberOfQuestions": 134
+      },
+      {
+        "testId": "688510d1c0347ad8414ea946",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 33
+      },
+      {
+        "testId": "682c8d020255280764bc06a3",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 53
+      },
+      {
+        "testId": "685e40135d654754c6e141cd",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 147
+      }
+    ],
+    "pyqQuestions": 167,
+    "exemplerQuestions": 53,
+    "mcqQuestions": 147,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c8d020255280764bc06a3",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "685e40135d654754c6e141cd",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682c2cc965d1ecbd1dcfe853",
+      "688510d1c0347ad8414ea946",
+      "682c8d020255280764bc06a3",
+      "685e40135d654754c6e141cd"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b38d6",
+    "bookId": "677653b9a7479393acd73a3d",
+    "status": "ACTIVE",
+    "noOfSections": "11",
+    "programChapterId": "67ab003e093f9e9b034df926",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67ab004cba368a8027c72c88",
+    "displayOrder": 5,
+    "title": "Molecular Basis Of Inheritance",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/95eb70d5-3739-4e40-a5f6-bccf826eb986.zip",
+      "_id": "68bfd34708c7d1d069c62b02"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter-5_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Molecular Basis of Inheritance\" explains how genetic information is passed from one generation to the next through DNA. It covers the structure of DNA, the process of replication, transcription, translation, and how genes control traits. This chapter helps students understand the molecular mechanisms of inheritance, linking genetics with evolution and biotechnology. It enhances their understanding of heredity, disease transmission, and the application of genetic principles in fields like medicine and agriculture.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 5
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682c366d28de05ea0f2d98ac",
+        "numberOfQuestions": 143,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "69819097f0a235df748f13a0"
+      },
+      {
+        "testId": "6885127c2f01145dde691c23",
+        "numberOfQuestions": 44,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69819097f0a235df748f13a1"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c8ded847a14912fd506a4",
+        "numberOfQuestions": 71,
+        "_id": "69819097f0a235df748f139f"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "685e4174d0d7e011ab0b0cfd",
+        "numberOfQuestions": 124,
+        "_id": "69819097f0a235df748f139e"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dd4252b5ff80b781939b1",
+        "numberOfQuestions": 14,
+        "_id": "69819097f0a235df748f139d"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.913Z",
+    "updatedAt": "2026-02-03T06:07:19.480Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 108.51,
+    "pageStart": 78.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "molecular-basis-of-inheritance",
+    "seo": {
+      "titleTag": "Molecular Basis Of Inheritance - Biology (Class XII) | PW Books",
+      "coverImageAltText": "Molecular Basis Of Inheritance - Biology (Class XII) | PW Books",
+      "ogTitle": "Molecular Basis Of Inheritance - Biology (Class XII) | PW Books",
+      "shortDescription": "Read Molecular Basis Of Inheritance from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Molecular Basis Of Inheritance from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Molecular Basis Of Inheritance from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8e2d887f-f9bc-4d63-9ebc-58f9cccf6c1b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682c366d28de05ea0f2d98ac",
+        "type": "Board PYQs",
+        "numberOfQuestions": 143
+      },
+      {
+        "testId": "6885127c2f01145dde691c23",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 44
+      },
+      {
+        "testId": "682c8ded847a14912fd506a4",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 71
+      },
+      {
+        "testId": "685e4174d0d7e011ab0b0cfd",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 124
+      }
+    ],
+    "pyqQuestions": 187,
+    "exemplerQuestions": 71,
+    "mcqQuestions": 124,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c8ded847a14912fd506a4",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "685e4174d0d7e011ab0b0cfd",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682c366d28de05ea0f2d98ac",
+      "6885127c2f01145dde691c23",
+      "682c8ded847a14912fd506a4",
+      "685e4174d0d7e011ab0b0cfd"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b38e4",
+    "bookId": "677653b9a7479393acd73a3d",
+    "status": "ACTIVE",
+    "noOfSections": "10",
+    "programChapterId": "67ab0063cbd2ac583d135459",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67ab006ec444394223818ab9",
+    "displayOrder": 6,
+    "title": "Evolution",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/139ece84-3d33-47a6-ab07-a296ba95fdb4.zip",
+      "_id": "68c7c776b4417e7c1d77ff84"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter-6_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter \"Evolution\" explores the process by which species change over time through natural selection and adaptation to their environments. It covers key concepts like genetic variation, mutations, and the evidence supporting the theory of evolution. This chapter helps students understand the mechanisms driving biodiversity and the interconnectedness of all life forms. It fosters critical thinking about the origins of species and the impact of evolutionary processes on modern biology and ecosystems.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter \"Evolution\" explores the process by which species change over time through natural selection and adaptation to their environments. It covers key concepts like genetic variation, mutations, and the evidence supporting the theory of evolution. This chapter helps students understand the mechanisms driving biodiversity and the interconnectedness of all life forms. It fosters critical thinking about the origins of species and the impact of evolutionary processes on modern biology and ecosystems.</p>\n</body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 23
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 20
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682c41b965d1ecbd1dcff642",
+        "numberOfQuestions": 80,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "698190a32ac8ffc280c75371"
+      },
+      {
+        "testId": "688513c1f7e8d60cb227775c",
+        "numberOfQuestions": 25,
+        "type": [
+          "NEET"
+        ],
+        "_id": "698190a32ac8ffc280c75372"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c8ee9b9a03f6c28c21e1f",
+        "numberOfQuestions": 52,
+        "_id": "698190a32ac8ffc280c75370"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852cf34316323e672a892e6",
+        "numberOfQuestions": 133,
+        "_id": "698190a32ac8ffc280c7536f"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dd4fece28f27f0a006ffe",
+        "numberOfQuestions": 10,
+        "_id": "698190a32ac8ffc280c7536e"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.918Z",
+    "updatedAt": "2026-02-03T06:07:31.592Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 126.51,
+    "pageStart": 109.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 6,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "evolution",
+    "seo": {
+      "titleTag": "Evolution - Biology (Class XII) | PW Books",
+      "coverImageAltText": "Evolution - Biology (Class XII) | PW Books",
+      "ogTitle": "Evolution - Biology (Class XII) | PW Books",
+      "shortDescription": "Read Evolution from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Evolution from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Evolution from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8e2d887f-f9bc-4d63-9ebc-58f9cccf6c1b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682c41b965d1ecbd1dcff642",
+        "type": "Board PYQs",
+        "numberOfQuestions": 80
+      },
+      {
+        "testId": "688513c1f7e8d60cb227775c",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 25
+      },
+      {
+        "testId": "682c8ee9b9a03f6c28c21e1f",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 52
+      },
+      {
+        "testId": "6852cf34316323e672a892e6",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 133
+      }
+    ],
+    "pyqQuestions": 105,
+    "exemplerQuestions": 52,
+    "mcqQuestions": 133,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c8ee9b9a03f6c28c21e1f",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852cf34316323e672a892e6",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682c41b965d1ecbd1dcff642",
+      "688513c1f7e8d60cb227775c",
+      "682c8ee9b9a03f6c28c21e1f",
+      "6852cf34316323e672a892e6"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b38dd",
+    "bookId": "677653b9a7479393acd73a3d",
+    "status": "ACTIVE",
+    "noOfSections": "6",
+    "programChapterId": "67ab007dba368a8027c72c9c",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67ab00882947c78638de04c8",
+    "displayOrder": 7,
+    "title": "Human Health and Disease",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9f506b05-7391-4164-bfbb-2d949491e224.zip",
+      "_id": "68bfd36bf5c01a474056dcee"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter-7 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Human Health and Diseases\" focuses on the causes, symptoms, and prevention of various diseases affecting humans, including infectious, genetic, and lifestyle-related diseases. It helps students understand the importance of maintaining good health and the role of immunity in disease prevention. This chapter provides a solid foundation for understanding human health, which is essential for future studies in medicine and healthcare.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Human Health and Diseases\" focuses on the causes, symptoms, and prevention of various diseases affecting humans, including infectious, genetic, and lifestyle-related diseases. It helps students understand the importance of maintaining good health and the role of immunity in disease prevention. This chapter provides a solid foundation for understanding human health, which is essential for future studies in medicine and healthcare.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 14
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 37
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 40
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 34
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682c46fd28de05ea0f2da28e",
+        "numberOfQuestions": 181,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "698190ae7026d5839e9effb3"
+      },
+      {
+        "testId": "68851531f7e8d60cb2277787",
+        "numberOfQuestions": 21,
+        "type": [
+          "NEET"
+        ],
+        "_id": "698190ae7026d5839e9effb4"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c8fcd65d1ecbd1dd04c32",
+        "numberOfQuestions": 70,
+        "_id": "698190ae7026d5839e9effb2"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852cfa19609831dc9ac9545",
+        "numberOfQuestions": 94,
+        "_id": "698190ae7026d5839e9effb1"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dd5de05ffdbf64744afad",
+        "numberOfQuestions": 17,
+        "_id": "698190ae7026d5839e9effb0"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.916Z",
+    "updatedAt": "2026-02-03T06:07:42.465Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 147.51,
+    "pageStart": 128.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 7,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "human-health-and-disease",
+    "seo": {
+      "titleTag": "Human Health and Disease - Biology (Class XII) | PW Books",
+      "coverImageAltText": "Human Health and Disease - Biology (Class XII) | PW Books",
+      "ogTitle": "Human Health and Disease - Biology (Class XII) | PW Books",
+      "shortDescription": "Read Human Health and Disease from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Human Health and Disease from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Human Health and Disease from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8e2d887f-f9bc-4d63-9ebc-58f9cccf6c1b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682c46fd28de05ea0f2da28e",
+        "type": "Board PYQs",
+        "numberOfQuestions": 181
+      },
+      {
+        "testId": "68851531f7e8d60cb2277787",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 21
+      },
+      {
+        "testId": "682c8fcd65d1ecbd1dd04c32",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 70
+      },
+      {
+        "testId": "6852cfa19609831dc9ac9545",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 94
+      }
+    ],
+    "pyqQuestions": 202,
+    "exemplerQuestions": 70,
+    "mcqQuestions": 94,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c8fcd65d1ecbd1dd04c32",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852cfa19609831dc9ac9545",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682c46fd28de05ea0f2da28e",
+      "68851531f7e8d60cb2277787",
+      "682c8fcd65d1ecbd1dd04c32",
+      "6852cfa19609831dc9ac9545"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b38eb",
+    "bookId": "677653b9a7479393acd73a3d",
+    "status": "ACTIVE",
+    "noOfSections": "7",
+    "programChapterId": "67ab0095106100bdaf3598b0",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67ab009e61f6fd6da55cdce8",
+    "displayOrder": 8,
+    "title": "Microbes In Human Welfare",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c28a07e9-ab68-4ddf-a8da-36bf3d17b40f.zip",
+      "_id": "68c7c79bdb72343bd3fa082e"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter-8_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter \"Microbes in Human Welfare\" explores the diverse roles of microorganisms in various industries, including food production, antibiotics, biofertilizers, and biocontrol agents. This chapter aims to help you understand how microbes contribute to human welfare and environmental sustainability. It provides a strong foundation for appreciating the applications of microbiology in improving health, agriculture, and industry.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter \"Microbes in Human Welfare\" explores the diverse roles of microorganisms in various industries, including food production, antibiotics, biofertilizers, and biocontrol agents. This chapter aims to help you understand how microbes contribute to human welfare and environmental sustainability. It provides a strong foundation for appreciating the applications of microbiology in improving health, agriculture, and industry.</p>\n</body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 20
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 20
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 19
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "67b446b0a4a282262a0d56ab",
+        "numberOfQuestions": 93,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "698190c00905d7322c0c47b7"
+      },
+      {
+        "testId": "688516fef7e8d60cb2277874",
+        "numberOfQuestions": 14,
+        "type": [
+          "NEET"
+        ],
+        "_id": "698190c00905d7322c0c47b8"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "698190c00905d7322c0c47b6"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852cffc3b011fc20a4cb94f",
+        "numberOfQuestions": 90,
+        "_id": "698190c00905d7322c0c47b5"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dd668d36017ff6bd6ceef",
+        "numberOfQuestions": 15,
+        "_id": "698190c00905d7322c0c47b4"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.919Z",
+    "updatedAt": "2026-02-03T06:08:00.370Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 159.51,
+    "pageStart": 148.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 8,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "microbes-in-human-welfare",
+    "seo": {
+      "titleTag": "Microbes In Human Welfare - Biology (Class XII) | PW Books",
+      "coverImageAltText": "Microbes In Human Welfare - Biology (Class XII) | PW Books",
+      "ogTitle": "Microbes In Human Welfare - Biology (Class XII) | PW Books",
+      "shortDescription": "Read Microbes In Human Welfare from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Microbes In Human Welfare from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Microbes In Human Welfare from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8e2d887f-f9bc-4d63-9ebc-58f9cccf6c1b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "67b446b0a4a282262a0d56ab",
+        "type": "Board PYQs",
+        "numberOfQuestions": 93
+      },
+      {
+        "testId": "688516fef7e8d60cb2277874",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 14
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "6852cffc3b011fc20a4cb94f",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 90
+      }
+    ],
+    "pyqQuestions": 107,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 90,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852cffc3b011fc20a4cb94f",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "67b446b0a4a282262a0d56ab",
+      "688516fef7e8d60cb2277874",
+      "60d0fe4f5311236168a109cb",
+      "6852cffc3b011fc20a4cb94f"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b38f9",
+    "bookId": "677653b9a7479393acd73a3d",
+    "status": "ACTIVE",
+    "noOfSections": "4",
+    "programChapterId": "67ab00ac689a64f8585263ef",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67ab00bac4bd2cd30b0ba4c9",
+    "displayOrder": 9,
+    "title": "Biotechnology: Principles and Processes",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9426a01f-f325-4d2b-ad40-e181c0aa6fca.zip",
+      "_id": "68bfd3bbf00358fa72eb8307"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter-9 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Biotechnology: Principles and Processes\" introduces students to the methods and techniques used in biotechnology, such as genetic engineering, PCR, and fermentation. It explains how these tools are applied in fields like medicine, agriculture, and industry. This chapter helps students understand how biotechnology can solve real-world problems, from producing medicines to improving crop yields. It also encourages an understanding of ethical issues and the potential for biotechnology to impact society and the environment.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Biotechnology: Principles and Processes\" introduces students to the methods and techniques used in biotechnology, such as genetic engineering, PCR, and fermentation. It explains how these tools are applied in fields like medicine, agriculture, and industry. This chapter helps students understand how biotechnology can solve real-world problems, from producing medicines to improving crop yields. It also encourages an understanding of ethical issues and the potential for biotechnology to impact society and the environment.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 24
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 29
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 26
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682c4ab87f420a6e782e8f6e",
+        "numberOfQuestions": 129,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "698190ce182ced070c359d80"
+      },
+      {
+        "testId": "6885182c17d8f819e9d7bba1",
+        "numberOfQuestions": 39,
+        "type": [
+          "NEET"
+        ],
+        "_id": "698190ce182ced070c359d81"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c91b40255280764bc0d18",
+        "numberOfQuestions": 44,
+        "_id": "698190ce182ced070c359d7f"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852d05c537996cdb5c24324",
+        "numberOfQuestions": 98,
+        "_id": "698190ce182ced070c359d7e"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dd76f94fcae443037c251",
+        "numberOfQuestions": 12,
+        "_id": "698190ce182ced070c359d7d"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.921Z",
+    "updatedAt": "2026-02-03T06:08:14.328Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 175.51,
+    "pageStart": 162.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 9,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "biotechnology-principles-and-processes",
+    "seo": {
+      "titleTag": "Biotechnology: Principles and Processes - Biology (Class XII) | PW Books",
+      "coverImageAltText": "Biotechnology: Principles and Processes - Biology (Class XII) | PW Books",
+      "ogTitle": "Biotechnology: Principles and Processes - Biology (Class XII) | PW Books",
+      "shortDescription": "Read Biotechnology: Principles and Processes from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biotechnology: Principles and Processes from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biotechnology: Principles and Processes from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8e2d887f-f9bc-4d63-9ebc-58f9cccf6c1b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682c4ab87f420a6e782e8f6e",
+        "type": "Board PYQs",
+        "numberOfQuestions": 129
+      },
+      {
+        "testId": "6885182c17d8f819e9d7bba1",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 39
+      },
+      {
+        "testId": "682c91b40255280764bc0d18",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 44
+      },
+      {
+        "testId": "6852d05c537996cdb5c24324",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 98
+      }
+    ],
+    "pyqQuestions": 168,
+    "exemplerQuestions": 44,
+    "mcqQuestions": 98,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c91b40255280764bc0d18",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852d05c537996cdb5c24324",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682c4ab87f420a6e782e8f6e",
+      "6885182c17d8f819e9d7bba1",
+      "682c91b40255280764bc0d18",
+      "6852d05c537996cdb5c24324"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b38f2",
+    "bookId": "677653b9a7479393acd73a3d",
+    "status": "ACTIVE",
+    "noOfSections": "5",
+    "programChapterId": "67ab00c5638492c9aa983733",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67ab00d1e20ea4a56eb2c7f8",
+    "displayOrder": 10,
+    "title": "Biotechnology And Its Applications",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a683b813-cea6-4226-93e8-dc7b9593b3d0.zip",
+      "_id": "68c7c7b2189c08846f6df7da"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter-10_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Biotechnology and Its Applications\" explores the practical uses of biotechnology in various fields, including medicine, agriculture, and environmental management. It covers the production of genetically modified organisms (GMOs), biopharmaceuticals, and biofuels. This chapter helps students understand how biotechnology improves human life by addressing challenges like disease treatment, food security, and sustainability. It also fosters awareness of ethical considerations and the potential impact of biotechnological advancements on society and the environment.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Biotechnology and Its Applications\" explores the practical uses of biotechnology in various fields, including medicine, agriculture, and environmental management. It covers the production of genetically modified organisms (GMOs), biopharmaceuticals, and biofuels. This chapter helps students understand how biotechnology improves human life by addressing challenges like disease treatment, food security, and sustainability. It also fosters awareness of ethical considerations and the potential impact of biotechnological advancements on society and the environment.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 14
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 23
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 14
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682c4bfa523b2b5fc5d2c4d0",
+        "numberOfQuestions": 85,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e6d68abb96a8b2c142a6"
+      },
+      {
+        "testId": "6885195417d8f819e9d7bc22",
+        "numberOfQuestions": 29,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e6d68abb96a8b2c142a7"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c92770255280764bc0d33",
+        "numberOfQuestions": 57,
+        "_id": "6971e6d68abb96a8b2c142a5"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852d0cd71682bf1676eac1b",
+        "numberOfQuestions": 66,
+        "_id": "6971e6d68abb96a8b2c142a4"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dd8ee0ef496e707d64b5b",
+        "numberOfQuestions": 13,
+        "_id": "6971e6d68abb96a8b2c142a3"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.920Z",
+    "updatedAt": "2026-01-22T08:59:02.471Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 186.51,
+    "pageStart": 176.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 10,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": false,
+    "isAiExplanationEnabled": true,
+    "slug": "biotechnology-and-its-applications",
+    "seo": {
+      "titleTag": "Biotechnology And Its Applications - Biology (Class XII) | PW Books",
+      "coverImageAltText": "Biotechnology And Its Applications - Biology (Class XII) | PW Books",
+      "ogTitle": "Biotechnology And Its Applications - Biology (Class XII) | PW Books",
+      "shortDescription": "Read Biotechnology And Its Applications from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biotechnology And Its Applications from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biotechnology And Its Applications from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8e2d887f-f9bc-4d63-9ebc-58f9cccf6c1b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682c4bfa523b2b5fc5d2c4d0",
+        "type": "Board PYQs",
+        "numberOfQuestions": 85
+      },
+      {
+        "testId": "6885195417d8f819e9d7bc22",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 29
+      },
+      {
+        "testId": "682c92770255280764bc0d33",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 57
+      },
+      {
+        "testId": "6852d0cd71682bf1676eac1b",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 66
+      }
+    ],
+    "pyqQuestions": 114,
+    "exemplerQuestions": 57,
+    "mcqQuestions": 66,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c92770255280764bc0d33",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852d0cd71682bf1676eac1b",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682c4bfa523b2b5fc5d2c4d0",
+      "6885195417d8f819e9d7bc22",
+      "682c92770255280764bc0d33",
+      "6852d0cd71682bf1676eac1b"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3900",
+    "bookId": "677653b9a7479393acd73a3d",
+    "status": "ACTIVE",
+    "noOfSections": "2",
+    "programChapterId": "67ab00defab721007481a23b",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67ab00e75d7988ea26406dd8",
+    "displayOrder": 11,
+    "title": "Organisms and Population",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a66a106b-c41d-4885-8c94-8fb64fd7156c.zip",
+      "_id": "68d26c138a005c6349b709a3"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter-11_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Organisms and Populations\" explores the interactions between individual organisms and their environment, as well as the dynamics of populations within ecosystems. It covers topics such as population growth, density, distribution, and the factors that affect these, like climate and resource availability. This chapter helps students understand ecological relationships, species adaptation, and the balance within ecosystems. It also enhances their understanding of conservation, biodiversity, and the factors influencing the survival of species.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Organisms and Populations\" explores the interactions between individual organisms and their environment, as well as the dynamics of populations within ecosystems. It covers topics such as population growth, density, distribution, and the factors that affect these, like climate and resource availability. This chapter helps students understand ecological relationships, species adaptation, and the balance within ecosystems. It also enhances their understanding of conservation, biodiversity, and the factors influencing the survival of species.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 13
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 22
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 19
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682c5126523b2b5fc5d2c695",
+        "numberOfQuestions": 88,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "698190da5fb67cfc25dfe1fb"
+      },
+      {
+        "testId": "68c7e0ff13105dac22cc557b",
+        "numberOfQuestions": 10,
+        "type": [
+          "NEET"
+        ],
+        "_id": "698190da5fb67cfc25dfe1fc"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c9d1db9a03f6c28c22302",
+        "numberOfQuestions": 35,
+        "_id": "698190da5fb67cfc25dfe1fa"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6862e9d5a4c52c80e40bd41d",
+        "numberOfQuestions": 38,
+        "_id": "698190da5fb67cfc25dfe1f9"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dd9a494fcae443037c2e3",
+        "numberOfQuestions": 10,
+        "_id": "698190da5fb67cfc25dfe1f8"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.922Z",
+    "updatedAt": "2026-02-03T06:08:26.078Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 203.51,
+    "pageStart": 189.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 11,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "organisms-and-population",
+    "seo": {
+      "titleTag": "Organisms and Population - Biology (Class XII) | PW Books",
+      "coverImageAltText": "Organisms and Population - Biology (Class XII) | PW Books",
+      "ogTitle": "Organisms and Population - Biology (Class XII) | PW Books",
+      "shortDescription": "Read Organisms and Population from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Organisms and Population from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Organisms and Population from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8e2d887f-f9bc-4d63-9ebc-58f9cccf6c1b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682c5126523b2b5fc5d2c695",
+        "type": "Board PYQs",
+        "numberOfQuestions": 88
+      },
+      {
+        "testId": "68c7e0ff13105dac22cc557b",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 10
+      },
+      {
+        "testId": "682c9d1db9a03f6c28c22302",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 35
+      },
+      {
+        "testId": "6862e9d5a4c52c80e40bd41d",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 38
+      }
+    ],
+    "pyqQuestions": 98,
+    "exemplerQuestions": 35,
+    "mcqQuestions": 38,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c9d1db9a03f6c28c22302",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6862e9d5a4c52c80e40bd41d",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682c5126523b2b5fc5d2c695",
+      "68c7e0ff13105dac22cc557b",
+      "682c9d1db9a03f6c28c22302",
+      "6862e9d5a4c52c80e40bd41d"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3907",
+    "bookId": "677653b9a7479393acd73a3d",
+    "status": "ACTIVE",
+    "noOfSections": "6",
+    "programChapterId": "67ab00f3e841ca64f6e27ba6",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67ab00ff5180c22dfd7bfc5f",
+    "displayOrder": 12,
+    "title": "Ecosystem",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3c38c92f-ab89-4a11-98e2-6d6f36dbacd8.zip",
+      "_id": "68bfd3dd597eda3e1cb40958"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter-12_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Ecosystem\" focuses on the structure and functioning of ecosystems, including biotic and abiotic components and their interactions. It covers topics such as energy flow, food chains, food webs, and nutrient cycles. This chapter helps students understand how ecosystems maintain balance and support life. It also fosters awareness of environmental issues, conservation, and the importance of sustainable practices to preserve ecosystems for future generations.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Ecosystem\" focuses on the structure and functioning of ecosystems, including biotic and abiotic components and their interactions. It covers topics such as energy flow, food chains, food webs, and nutrient cycles. This chapter helps students understand how ecosystems maintain balance and support life. It also fosters awareness of environmental issues, conservation, and the importance of sustainable practices to preserve ecosystems for future generations.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 16
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 14
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682c540565d1ecbd1dd0011d",
+        "numberOfQuestions": 50,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "698190e704f41af0cdc93980"
+      },
+      {
+        "testId": "68851f0fc80eed15fbe8431a",
+        "numberOfQuestions": 15,
+        "type": [
+          "NEET"
+        ],
+        "_id": "698190e704f41af0cdc93981"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c9ec828de05ea0f2df1c8",
+        "numberOfQuestions": 42,
+        "_id": "698190e704f41af0cdc9397f"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852d1dd9609831dc9ac986c",
+        "numberOfQuestions": 73,
+        "_id": "698190e704f41af0cdc9397e"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dda383de21a2ab6144e40",
+        "numberOfQuestions": 11,
+        "_id": "698190e704f41af0cdc9397d"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.923Z",
+    "updatedAt": "2026-02-03T06:08:39.296Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 214.51,
+    "pageStart": 204.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 12,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "ecosystem",
+    "seo": {
+      "titleTag": "Ecosystem - Biology (Class XII) | PW Books",
+      "coverImageAltText": "Ecosystem - Biology (Class XII) | PW Books",
+      "ogTitle": "Ecosystem - Biology (Class XII) | PW Books",
+      "shortDescription": "Read Ecosystem from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Ecosystem from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Ecosystem from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8e2d887f-f9bc-4d63-9ebc-58f9cccf6c1b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682c540565d1ecbd1dd0011d",
+        "type": "Board PYQs",
+        "numberOfQuestions": 50
+      },
+      {
+        "testId": "68851f0fc80eed15fbe8431a",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "682c9ec828de05ea0f2df1c8",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 42
+      },
+      {
+        "testId": "6852d1dd9609831dc9ac986c",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 73
+      }
+    ],
+    "pyqQuestions": 65,
+    "exemplerQuestions": 42,
+    "mcqQuestions": 73,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c9ec828de05ea0f2df1c8",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852d1dd9609831dc9ac986c",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682c540565d1ecbd1dd0011d",
+      "68851f0fc80eed15fbe8431a",
+      "682c9ec828de05ea0f2df1c8",
+      "6852d1dd9609831dc9ac986c"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b390e",
+    "bookId": "677653b9a7479393acd73a3d",
+    "status": "ACTIVE",
+    "noOfSections": "3",
+    "programChapterId": "67ab010f642acc860d773469",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67ab011bcbd2ac583d135491",
+    "displayOrder": 13,
+    "title": "Biodiversity And Conservation",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/04a2e589-62bf-454e-a73c-d89e7a404b8d.zip",
+      "_id": "68bfd3ea30b4122758db7097"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter-13_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Biodiversity and Conservation\" explores the variety of life on Earth, including species diversity, genetic diversity, and ecosystem diversity. It discusses the importance of preserving biodiversity and the threats it faces, such as habitat loss and climate change. This chapter helps students understand the value of biodiversity for ecosystem stability and human well-being. It also encourages awareness of conservation strategies and the role individuals and societies play in protecting the natural world.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Biodiversity and Conservation\" explores the variety of life on Earth, including species diversity, genetic diversity, and ecosystem diversity. It discusses the importance of preserving biodiversity and the threats it faces, such as habitat loss and climate change. This chapter helps students understand the value of biodiversity for ecosystem stability and human well-being. It also encourages awareness of conservation strategies and the role individuals and societies play in protecting the natural world.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 25
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 16
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 12
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682c54ef7f420a6e782e96db",
+        "numberOfQuestions": 79,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "698190ee0905d7322c0c489d"
+      },
+      {
+        "testId": "688522151cdb3bcddb75aa19",
+        "numberOfQuestions": 22,
+        "type": [
+          "NEET"
+        ],
+        "_id": "698190ee0905d7322c0c489e"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c9ffdb9a03f6c28c223be",
+        "numberOfQuestions": 55,
+        "_id": "698190ee0905d7322c0c489c"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852d244434628372c9f4d01",
+        "numberOfQuestions": 102,
+        "_id": "698190ee0905d7322c0c489b"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682ddb1ee65d5574ecc578fc",
+        "numberOfQuestions": 10,
+        "_id": "698190ee0905d7322c0c489a"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.927Z",
+    "updatedAt": "2026-02-03T06:08:46.871Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 226.5,
+    "pageStart": 215.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 13,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "biodiversity-and-conservation",
+    "seo": {
+      "titleTag": "Biodiversity And Conservation - Biology (Class XII) | PW Books",
+      "coverImageAltText": "Biodiversity And Conservation - Biology (Class XII) | PW Books",
+      "ogTitle": "Biodiversity And Conservation - Biology (Class XII) | PW Books",
+      "shortDescription": "Read Biodiversity And Conservation from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biodiversity And Conservation from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biodiversity And Conservation from Biology (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8e2d887f-f9bc-4d63-9ebc-58f9cccf6c1b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682c54ef7f420a6e782e96db",
+        "type": "Board PYQs",
+        "numberOfQuestions": 79
+      },
+      {
+        "testId": "688522151cdb3bcddb75aa19",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 22
+      },
+      {
+        "testId": "682c9ffdb9a03f6c28c223be",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 55
+      },
+      {
+        "testId": "6852d244434628372c9f4d01",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 102
+      }
+    ],
+    "pyqQuestions": 101,
+    "exemplerQuestions": 55,
+    "mcqQuestions": 102,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c9ffdb9a03f6c28c223be",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852d244434628372c9f4d01",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682c54ef7f420a6e782e96db",
+      "688522151cdb3bcddb75aa19",
+      "682c9ffdb9a03f6c28c223be",
+      "6852d244434628372c9f4d01"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  }
+]

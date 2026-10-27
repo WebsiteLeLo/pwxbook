@@ -1,0 +1,3767 @@
+[
+  {
+    "_id": "699fcf6e4986ec31ff2eb5ef",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "The Living World",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f517afe9a182dcdd285fc",
+        "numberOfQuestions": 30,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a525409ae4b98206e086dcc"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T04:43:26.296Z",
+    "updatedAt": "2026-07-22T21:37:42.165Z",
+    "__v": 0,
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f516fcc894741d579f947",
+    "totalPageCount": 3,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f517afe9a182dcdd285fc",
+        "numberOfQuestions": 30,
+        "_id": "6a525409ae4b98206e086dcb"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "the-living-world",
+    "seo": {
+      "titleTag": "The Living World - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "The Living World - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "The Living World - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read The Living World from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The Living World from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The Living World from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f517afe9a182dcdd285fc",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 30
+      }
+    ],
+    "pyqQuestions": 30,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f517afe9a182dcdd285fc"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fcfb855c95d5f25a3713a",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Biological Classification",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f51cd23b7ff86a416fcf9",
+        "numberOfQuestions": 128,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a525411d5f0e666d57d758c"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T04:44:40.264Z",
+    "updatedAt": "2026-07-22T21:37:42.646Z",
+    "__v": 0,
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f51bbcc894741d579fb88",
+    "totalPageCount": 10,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f51cd23b7ff86a416fcf9",
+        "numberOfQuestions": 128,
+        "_id": "6a525411d5f0e666d57d758b"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "biological-classification",
+    "seo": {
+      "titleTag": "Biological Classification - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Biological Classification - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Biological Classification - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Biological Classification from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biological Classification from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biological Classification from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f51cd23b7ff86a416fcf9",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 128
+      }
+    ],
+    "pyqQuestions": 128,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f51cd23b7ff86a416fcf9"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fd38cf90eba06c7281280",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Plant Kingdom",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": false,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f52d623b7ff86a416fcff",
+        "numberOfQuestions": 129,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a52541a2f5519ddcbee87e1"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:01:00.145Z",
+    "updatedAt": "2026-07-22T21:37:43.969Z",
+    "__v": 0,
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f52c83e9233e19e3a73b8",
+    "totalPageCount": 11,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f52d623b7ff86a416fcff",
+        "numberOfQuestions": 129,
+        "_id": "6a52541a2f5519ddcbee87e0"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "plant-kingdom",
+    "seo": {
+      "titleTag": "Plant Kingdom - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Plant Kingdom - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Plant Kingdom - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Plant Kingdom from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Plant Kingdom from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Plant Kingdom from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f52d623b7ff86a416fcff",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 129
+      }
+    ],
+    "pyqQuestions": 129,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f52d623b7ff86a416fcff"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fcf118ca945d5aca32336",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Animal Kingdom",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5103c49a63ddbeab38c4",
+        "numberOfQuestions": 169,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f9846da03f96eac369a662"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T04:41:53.459Z",
+    "updatedAt": "2026-07-22T21:37:45.231Z",
+    "__v": 0,
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f50eb67e5d3db4ecc3c62",
+    "totalPageCount": 14,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f5103c49a63ddbeab38c4",
+        "numberOfQuestions": 169,
+        "_id": "69f9846da03f96eac369a661"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "animal-kingdom",
+    "seo": {
+      "titleTag": "Animal Kingdom - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Animal Kingdom - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Animal Kingdom - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Animal Kingdom from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Animal Kingdom from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Animal Kingdom from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5103c49a63ddbeab38c4",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 169
+      }
+    ],
+    "pyqQuestions": 169,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5103c49a63ddbeab38c4"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fcf4540a7151958f9dcca",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Morphology of Flowering Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5149e23754f5b1f4c975",
+        "numberOfQuestions": 124,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f984939af9d31a53fd2309"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T04:42:45.186Z",
+    "updatedAt": "2026-07-22T21:37:45.873Z",
+    "__v": 0,
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f51387f3ba3af1c18ff1e",
+    "totalPageCount": 10,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f5149e23754f5b1f4c975",
+        "numberOfQuestions": 124,
+        "_id": "69f984939af9d31a53fd2308"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "morphology-of-flowering-plants",
+    "seo": {
+      "titleTag": "Morphology of Flowering Plants - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Morphology of Flowering Plants - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Morphology of Flowering Plants - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Morphology of Flowering Plants from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Morphology of Flowering Plants from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Morphology of Flowering Plants from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5149e23754f5b1f4c975",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 124
+      }
+    ],
+    "pyqQuestions": 124,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5149e23754f5b1f4c975"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fdab2da678d4e05df71d5",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Anatomy of Flowering Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f53c7e23754f5b1f4c997",
+        "numberOfQuestions": 114,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f984ffe46aac5f39bfadfe"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:31:30.108Z",
+    "updatedAt": "2026-07-22T21:37:46.417Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f53b8c7e1507cbdeccee0",
+    "readSet": [
+      {
+        "testId": "699f53c7e23754f5b1f4c997",
+        "numberOfQuestions": 114,
+        "_id": "69f984ffe46aac5f39bfadfd"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "anatomy-of-flowering-plants",
+    "seo": {
+      "titleTag": "Anatomy of Flowering Plants - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Anatomy of Flowering Plants - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Anatomy of Flowering Plants - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Anatomy of Flowering Plants from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Anatomy of Flowering Plants from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Anatomy of Flowering Plants from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f53c7e23754f5b1f4c997",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 114
+      }
+    ],
+    "pyqQuestions": 114,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f53c7e23754f5b1f4c997"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fd97931aca5aeff7c4c31",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Structural Organisation in Animals",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5387250ec69b133a3b50",
+        "numberOfQuestions": 102,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f9859e457479f5c9ddde61"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:26:17.442Z",
+    "updatedAt": "2026-07-22T21:37:47.577Z",
+    "__v": 0,
+    "totalPageCount": 11,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f5377e0e05b96301e8c2d",
+    "readSet": [
+      {
+        "testId": "699f5387250ec69b133a3b50",
+        "numberOfQuestions": 102,
+        "_id": "69f9859e457479f5c9ddde60"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "structural-organisation-in-animals",
+    "seo": {
+      "titleTag": "Structural Organisation in Animals - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Structural Organisation in Animals - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Structural Organisation in Animals - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Structural Organisation in Animals from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Structural Organisation in Animals from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Structural Organisation in Animals from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5387250ec69b133a3b50",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 102
+      }
+    ],
+    "pyqQuestions": 102,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5387250ec69b133a3b50"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fdb7a1c88d800f3186bbc",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Cell The Unit of Life",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f54a4f5494c96a16dd730",
+        "numberOfQuestions": 169,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f985e23bac1122ef1c1ab9"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:34:50.475Z",
+    "updatedAt": "2026-07-22T21:37:48.483Z",
+    "__v": 0,
+    "totalPageCount": 14,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f5493969be29b6c77bcc7",
+    "readSet": [
+      {
+        "testId": "699f54a4f5494c96a16dd730",
+        "numberOfQuestions": 169,
+        "_id": "69f985e23bac1122ef1c1ab8"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "cell-the-unit-of-life",
+    "seo": {
+      "titleTag": "Cell The Unit of Life - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Cell The Unit of Life - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Cell The Unit of Life - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Cell The Unit of Life from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Cell The Unit of Life from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Cell The Unit of Life from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f54a4f5494c96a16dd730",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 169
+      }
+    ],
+    "pyqQuestions": 169,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f54a4f5494c96a16dd730"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fdcef40a7151958fa5db1",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Biomolecules",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f55b348ab6ff5e95e3fd6",
+        "numberOfQuestions": 126,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f98622e46aac5f39bfc2d6"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:41:03.534Z",
+    "updatedAt": "2026-07-22T21:37:49.149Z",
+    "__v": 0,
+    "totalPageCount": 12,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f5589bbfe07f4729a0238",
+    "readSet": [
+      {
+        "testId": "699f55b348ab6ff5e95e3fd6",
+        "numberOfQuestions": 126,
+        "_id": "69f98622e46aac5f39bfc2d5"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "biomolecules",
+    "seo": {
+      "titleTag": "Biomolecules - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Biomolecules - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Biomolecules - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Biomolecules from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biomolecules from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biomolecules from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f55b348ab6ff5e95e3fd6",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 126
+      }
+    ],
+    "pyqQuestions": 126,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f55b348ab6ff5e95e3fd6"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fdbab6ac89938f1c7704f",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Cell Cycle and Cell Division",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a03242d293ab3522be7f1c",
+        "numberOfQuestions": 96,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f9866b479cf9c6e1eda3ec"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:35:39.890Z",
+    "updatedAt": "2026-07-22T21:37:50.235Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a0323238c57dec77638e5e",
+    "readSet": [
+      {
+        "testId": "69a03242d293ab3522be7f1c",
+        "numberOfQuestions": 96,
+        "_id": "69f9866b479cf9c6e1eda3eb"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "cell-cycle-and-cell-division",
+    "seo": {
+      "titleTag": "Cell Cycle and Cell Division - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Cell Cycle and Cell Division - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Cell Cycle and Cell Division - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Cell Cycle and Cell Division from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Cell Cycle and Cell Division from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Cell Cycle and Cell Division from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a03242d293ab3522be7f1c",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 96
+      }
+    ],
+    "pyqQuestions": 96,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a03242d293ab3522be7f1c"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fd04ea85d8e2360287078",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Photosynthesis in Higher Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": false,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5217d2341f368a89adc8",
+        "numberOfQuestions": 111,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f986a45cf397f5969ab65e"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T04:47:10.314Z",
+    "updatedAt": "2026-07-22T21:37:53.346Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f5207bbfe07f47299f520",
+    "readSet": [
+      {
+        "testId": "699f5217d2341f368a89adc8",
+        "numberOfQuestions": 111,
+        "_id": "69f986a45cf397f5969ab65d"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "photosynthesis-in-higher-plants",
+    "seo": {
+      "titleTag": "Photosynthesis in Higher Plants - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Photosynthesis in Higher Plants - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Photosynthesis in Higher Plants - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Photosynthesis in Higher Plants from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Photosynthesis in Higher Plants from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Photosynthesis in Higher Plants from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5217d2341f368a89adc8",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 111
+      }
+    ],
+    "pyqQuestions": 111,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5217d2341f368a89adc8"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fdb087f530f4b021042ca",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Respiration in Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": false,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f545148ab6ff5e95e3fce",
+        "numberOfQuestions": 70,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f986d53a47998bcd4de95a"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:32:56.201Z",
+    "updatedAt": "2026-07-22T21:37:53.771Z",
+    "__v": 0,
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f5445207bc28afb035a18",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f545148ab6ff5e95e3fce",
+        "numberOfQuestions": 70,
+        "_id": "69f986d53a47998bcd4de959"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "respiration-in-plants",
+    "seo": {
+      "titleTag": "Respiration in Plants - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Respiration in Plants - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Respiration in Plants - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Respiration in Plants from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Respiration in Plants from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Respiration in Plants from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f545148ab6ff5e95e3fce",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 70
+      }
+    ],
+    "pyqQuestions": 70,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f545148ab6ff5e95e3fce"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fd351233a1265a39cc3a1",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Plant Growth and Development",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f52a3c49a63ddbeab38ce",
+        "numberOfQuestions": 79,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f986f0a701fc177b796c80"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:00:01.250Z",
+    "updatedAt": "2026-07-22T21:37:54.235Z",
+    "__v": 0,
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f5293be6df6c325d43394",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f52a3c49a63ddbeab38ce",
+        "numberOfQuestions": 79,
+        "_id": "69f986f0a701fc177b796c7f"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "plant-growth-and-development",
+    "seo": {
+      "titleTag": "Plant Growth and Development - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Plant Growth and Development - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Plant Growth and Development - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Plant Growth and Development from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Plant Growth and Development from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Plant Growth and Development from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f52a3c49a63ddbeab38ce",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 79
+      }
+    ],
+    "pyqQuestions": 79,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f52a3c49a63ddbeab38ce"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fdddc4deaa8f7d9573ff2",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Breathing and Exchange of Gases",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f56cfc49a63ddbeab3cb8",
+        "numberOfQuestions": 58,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f98709ddf82fda631dbeee"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:45:00.894Z",
+    "updatedAt": "2026-07-22T21:37:55.006Z",
+    "__v": 0,
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f56bfe0e05b96301e9acd",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f56cfc49a63ddbeab3cb8",
+        "numberOfQuestions": 58,
+        "_id": "69f98709ddf82fda631dbeed"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "breathing-and-exchange-of-gases",
+    "seo": {
+      "titleTag": "Breathing and Exchange of Gases - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Breathing and Exchange of Gases - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Breathing and Exchange of Gases - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Breathing and Exchange of Gases from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Breathing and Exchange of Gases from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Breathing and Exchange of Gases from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f56cfc49a63ddbeab3cb8",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 58
+      }
+    ],
+    "pyqQuestions": 58,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f56cfc49a63ddbeab3cb8"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fdd3e1c88d800f3187447",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "Body Fluids and Circulation",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5640d2341f368a89b2de",
+        "numberOfQuestions": 99,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f9873baab729099793ba2c"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:42:22.922Z",
+    "updatedAt": "2026-07-22T21:37:55.522Z",
+    "__v": 0,
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f5623e0e05b96301e985b",
+    "totalPageCount": 10,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f5640d2341f368a89b2de",
+        "numberOfQuestions": 99,
+        "_id": "69f9873baab729099793ba2b"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "body-fluids-and-circulation",
+    "seo": {
+      "titleTag": "Body Fluids and Circulation - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Body Fluids and Circulation - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Body Fluids and Circulation - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Body Fluids and Circulation from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Body Fluids and Circulation from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Body Fluids and Circulation from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5640d2341f368a89b2de",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 99
+      }
+    ],
+    "pyqQuestions": 99,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5640d2341f368a89b2de"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fdbfb2b0096ce14de01ea",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 16,
+    "title": "Excretory Products and their Elimination",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f54f9f5494c96a16dddd4",
+        "numberOfQuestions": 64,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f9875c457479f5c9ddfee3"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 16,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:36:59.456Z",
+    "updatedAt": "2026-07-22T21:37:56.046Z",
+    "__v": 0,
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f54e9c765e837c53a29f7",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f54f9f5494c96a16dddd4",
+        "numberOfQuestions": 64,
+        "_id": "69f9875c457479f5c9ddfee2"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "excretory-products-and-their-elimination",
+    "seo": {
+      "titleTag": "Excretory Products and their Elimination - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Excretory Products and their Elimination - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Excretory Products and their Elimination - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Excretory Products and their Elimination from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Excretory Products and their Elimination from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Excretory Products and their Elimination from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f54f9f5494c96a16dddd4",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 64
+      }
+    ],
+    "pyqQuestions": 64,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f54f9f5494c96a16dddd4"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fddb0e6b1d3e54eb5eaa0",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 17,
+    "title": "Locomotion and Movement",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f56864f7742b885d50925",
+        "numberOfQuestions": 53,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f98774ddf82fda631dc6e8"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 17,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:44:16.732Z",
+    "updatedAt": "2026-07-22T21:37:56.532Z",
+    "__v": 0,
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f5677be6df6c325d444d0",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f56864f7742b885d50925",
+        "numberOfQuestions": 53,
+        "_id": "69f98774ddf82fda631dc6e7"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "locomotion-and-movement",
+    "seo": {
+      "titleTag": "Locomotion and Movement - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Locomotion and Movement - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Locomotion and Movement - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Locomotion and Movement from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Locomotion and Movement from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Locomotion and Movement from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f56864f7742b885d50925",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 53
+      }
+    ],
+    "pyqQuestions": 53,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f56864f7742b885d50925"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fdc966da15f7de1a6b7a5",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 18,
+    "title": "Neural Control and Coordination",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f556523b7ff86a416fd89",
+        "numberOfQuestions": 40,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f9878fca3b08d459b04d49"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 18,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:39:34.704Z",
+    "updatedAt": "2026-07-22T21:37:56.960Z",
+    "__v": 0,
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f5559c765e837c53a2c2b",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f556523b7ff86a416fd89",
+        "numberOfQuestions": 40,
+        "_id": "69f9878fca3b08d459b04d48"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "neural-control-and-coordination",
+    "seo": {
+      "titleTag": "Neural Control and Coordination - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Neural Control and Coordination - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Neural Control and Coordination - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Neural Control and Coordination from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Neural Control and Coordination from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Neural Control and Coordination from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f556523b7ff86a416fd89",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 40
+      }
+    ],
+    "pyqQuestions": 40,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f556523b7ff86a416fd89"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fdc5a735815b7cb5d5b30",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 19,
+    "title": "Chemical Coordination and Integration",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5531e23754f5b1f4ce17",
+        "numberOfQuestions": 97,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f987cd415a356930e039bf"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 19,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:38:34.782Z",
+    "updatedAt": "2026-07-22T21:37:57.513Z",
+    "__v": 0,
+    "programChapterId": "699f5068be6df6c325d42a7e",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "699f5520245e8005d537eaa7",
+    "totalPageCount": 10,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f5531e23754f5b1f4ce17",
+        "numberOfQuestions": 97,
+        "_id": "69f987cd415a356930e039be"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "chemical-coordination-and-integration",
+    "seo": {
+      "titleTag": "Chemical Coordination and Integration - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Chemical Coordination and Integration - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Chemical Coordination and Integration - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Chemical Coordination and Integration from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Coordination and Integration from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Coordination and Integration from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5531e23754f5b1f4ce17",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 97
+      }
+    ],
+    "pyqQuestions": 97,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5531e23754f5b1f4ce17"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "69a2cd1c621d50673ad72dfc",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 20,
+    "title": "Sexual Reproduction in Flowering Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a03679f3af2092cde7b107",
+        "numberOfQuestions": 135,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f987e76642414235bf2b2a"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programChapterId": "699f5074c7e1507cbdecbf41",
+    "programTopicId": "69a0365fcafd81bcfc62916d",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 20,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T11:10:20.771Z",
+    "updatedAt": "2026-07-22T21:37:58.081Z",
+    "__v": 0,
+    "totalPageCount": 11,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "69a03679f3af2092cde7b107",
+        "numberOfQuestions": 135,
+        "_id": "69f987e76642414235bf2b29"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "sexual-reproduction-in-flowering-plants",
+    "seo": {
+      "titleTag": "Sexual Reproduction in Flowering Plants - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Sexual Reproduction in Flowering Plants - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Sexual Reproduction in Flowering Plants - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Sexual Reproduction in Flowering Plants from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Sexual Reproduction in Flowering Plants from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Sexual Reproduction in Flowering Plants from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a03679f3af2092cde7b107",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 135
+      }
+    ],
+    "pyqQuestions": 135,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a03679f3af2092cde7b107"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fdf1caca88cfd253b9b3b",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 21,
+    "title": "Human Reproduction",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a034a9eb9426a6ed6ff3f9",
+        "numberOfQuestions": 108,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f9886921d2a45d4099b061"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 21,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:50:20.349Z",
+    "updatedAt": "2026-07-22T21:37:58.990Z",
+    "__v": 0,
+    "programChapterId": "699f5074c7e1507cbdecbf41",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a034035f8c222c7b13a457",
+    "totalPageCount": 11,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "69a034a9eb9426a6ed6ff3f9",
+        "numberOfQuestions": 108,
+        "_id": "69f9886921d2a45d4099b060"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "human-reproduction",
+    "seo": {
+      "titleTag": "Human Reproduction - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Human Reproduction - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Human Reproduction - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Human Reproduction from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Human Reproduction from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Human Reproduction from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a034a9eb9426a6ed6ff3f9",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 108
+      }
+    ],
+    "pyqQuestions": 108,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a034a9eb9426a6ed6ff3f9"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fdea946ea4dbc6dcf03c5",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 22,
+    "title": "Reproductive Health",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a033a8d293ab3522be84c9",
+        "numberOfQuestions": 62,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f988f64d8012f480529bff"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 22,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:48:25.176Z",
+    "updatedAt": "2026-07-22T21:37:59.452Z",
+    "__v": 0,
+    "programChapterId": "699f5074c7e1507cbdecbf41",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a03384eeb0d199a3fc9c10",
+    "totalPageCount": 8,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "69a033a8d293ab3522be84c9",
+        "numberOfQuestions": 62,
+        "_id": "69f988f64d8012f480529bfe"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "reproductive-health",
+    "seo": {
+      "titleTag": "Reproductive Health - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Reproductive Health - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Reproductive Health - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Reproductive Health from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Reproductive Health from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Reproductive Health from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a033a8d293ab3522be84c9",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 62
+      }
+    ],
+    "pyqQuestions": 62,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a033a8d293ab3522be84c9"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fe00a16a5153161ce7c34",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 23,
+    "title": "Principles of Inheritance and Variation",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a125b9dc5f9a371611eb48",
+        "numberOfQuestions": 222,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f9891156a325ad2bb09058"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 23,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:54:18.973Z",
+    "updatedAt": "2026-07-22T21:38:00.768Z",
+    "__v": 0,
+    "programChapterId": "699f5074c7e1507cbdecbf41",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a125a8115941c80ec7590a",
+    "totalPageCount": 22,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "69a125b9dc5f9a371611eb48",
+        "numberOfQuestions": 222,
+        "_id": "69f9891156a325ad2bb09057"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "principles-of-inheritance-and-variation",
+    "seo": {
+      "titleTag": "Principles of Inheritance and Variation - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Principles of Inheritance and Variation - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Principles of Inheritance and Variation - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Principles of Inheritance and Variation from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Principles of Inheritance and Variation from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Principles of Inheritance and Variation from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a125b9dc5f9a371611eb48",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 222
+      }
+    ],
+    "pyqQuestions": 222,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a125b9dc5f9a371611eb48"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fdf6cadc9365bfeea586d",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 24,
+    "title": "Molecular Basis of Inheritance",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a03590f3af2092cde7afb3",
+        "numberOfQuestions": 227,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f9892afaef5e79bde4c32e"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 24,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:51:40.950Z",
+    "updatedAt": "2026-07-22T21:38:01.775Z",
+    "__v": 0,
+    "programChapterId": "699f5074c7e1507cbdecbf41",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a0357dd0c77bbb6a7070c6",
+    "totalPageCount": 20,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "69a03590f3af2092cde7afb3",
+        "numberOfQuestions": 227,
+        "_id": "69f9892afaef5e79bde4c32d"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "molecular-basis-of-inheritance",
+    "seo": {
+      "titleTag": "Molecular Basis of Inheritance - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Molecular Basis of Inheritance - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Molecular Basis of Inheritance - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Molecular Basis of Inheritance from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Molecular Basis of Inheritance from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Molecular Basis of Inheritance from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a03590f3af2092cde7afb3",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 227
+      }
+    ],
+    "pyqQuestions": 227,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a03590f3af2092cde7afb3"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "69a2ced762ab0f503f8ce95e",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 25,
+    "title": "Evolution",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a123c5df2aac02ec7e90e0",
+        "numberOfQuestions": 168,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f9895856a325ad2bb0951d"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programChapterId": "699f5074c7e1507cbdecbf41",
+    "programTopicId": "69a123af7eae6e3161da05e0",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 25,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T11:17:43.374Z",
+    "updatedAt": "2026-07-22T21:38:02.659Z",
+    "__v": 0,
+    "totalPageCount": 16,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "69a123c5df2aac02ec7e90e0",
+        "numberOfQuestions": 168,
+        "_id": "69f9895856a325ad2bb0951c"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "evolution",
+    "seo": {
+      "titleTag": "Evolution - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Evolution - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Evolution - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Evolution from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Evolution from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Evolution from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a123c5df2aac02ec7e90e0",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 168
+      }
+    ],
+    "pyqQuestions": 168,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a123c5df2aac02ec7e90e0"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fe0ea287fafa54cf63a38",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 26,
+    "title": "Human Health and Diseases",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a127887d13555fa2e40d01",
+        "numberOfQuestions": 151,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f98976a70d5e6bb8aa3456"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 26,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:58:02.800Z",
+    "updatedAt": "2026-07-22T21:38:03.342Z",
+    "__v": 0,
+    "programChapterId": "699f5074c7e1507cbdecbf41",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a12773ab08ad5e210de860",
+    "totalPageCount": 14,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "69a127887d13555fa2e40d01",
+        "numberOfQuestions": 151,
+        "_id": "69f98976a70d5e6bb8aa3455"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "human-health-and-diseases",
+    "seo": {
+      "titleTag": "Human Health and Diseases - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Human Health and Diseases - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Human Health and Diseases - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Human Health and Diseases from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Human Health and Diseases from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Human Health and Diseases from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a127887d13555fa2e40d01",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 151
+      }
+    ],
+    "pyqQuestions": 151,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a127887d13555fa2e40d01"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fe13d6da15f7de1a6cd01",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 27,
+    "title": "Microbes in Human Welfare",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a12bc3dc5f9a371611fa9d",
+        "numberOfQuestions": 82,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f989a4ee4a61b6c7202128"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 27,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:59:25.993Z",
+    "updatedAt": "2026-07-22T21:38:03.812Z",
+    "__v": 0,
+    "programChapterId": "699f5074c7e1507cbdecbf41",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a12ba77aa1a4c1966f19d8",
+    "totalPageCount": 8,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "69a12bc3dc5f9a371611fa9d",
+        "numberOfQuestions": 82,
+        "_id": "69f989a4ee4a61b6c7202127"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "microbes-in-human-welfare",
+    "seo": {
+      "titleTag": "Microbes in Human Welfare - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Microbes in Human Welfare - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Microbes in Human Welfare - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Microbes in Human Welfare from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Microbes in Human Welfare from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Microbes in Human Welfare from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a12bc3dc5f9a371611fa9d",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 82
+      }
+    ],
+    "pyqQuestions": 82,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a12bc3dc5f9a371611fa9d"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fdfb6fb95cf03aa68923c",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 28,
+    "title": "Biotechnology Principles and Processes",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a1247177ba4addfa740eb4",
+        "numberOfQuestions": 122,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f989c0457479f5c9de2b10"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 28,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:52:54.091Z",
+    "updatedAt": "2026-07-22T21:38:04.493Z",
+    "__v": 0,
+    "programChapterId": "699f5074c7e1507cbdecbf41",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a12460fa1c31b10d141406",
+    "totalPageCount": 12,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "69a1247177ba4addfa740eb4",
+        "numberOfQuestions": 112,
+        "_id": "69f989c0457479f5c9de2b0f"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "biotechnology-principles-and-processes",
+    "seo": {
+      "titleTag": "Biotechnology Principles and Processes - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Biotechnology Principles and Processes - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Biotechnology Principles and Processes - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Biotechnology Principles and Processes from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biotechnology Principles and Processes from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biotechnology Principles and Processes from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a1247177ba4addfa740eb4",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 122
+      }
+    ],
+    "pyqQuestions": 122,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a1247177ba4addfa740eb4"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fe05a0b13c9370cd316c6",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 29,
+    "title": "Biotechnology and Its Applications",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a1269ad7a092e9616ad541",
+        "numberOfQuestions": 75,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f989d61a6b749c79f89f6a"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 29,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T05:55:38.474Z",
+    "updatedAt": "2026-07-22T21:38:04.973Z",
+    "__v": 0,
+    "programChapterId": "699f5074c7e1507cbdecbf41",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a1268cc91ec70638450a6c",
+    "totalPageCount": 9,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "69a1269ad7a092e9616ad541",
+        "numberOfQuestions": 75,
+        "_id": "69f989d61a6b749c79f89f69"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "biotechnology-and-its-applications",
+    "seo": {
+      "titleTag": "Biotechnology and Its Applications - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Biotechnology and Its Applications - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Biotechnology and Its Applications - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Biotechnology and Its Applications from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biotechnology and Its Applications from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biotechnology and Its Applications from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a1269ad7a092e9616ad541",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 75
+      }
+    ],
+    "pyqQuestions": 75,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a1269ad7a092e9616ad541"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "69a2cfc18375809afbeeb116",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 30,
+    "title": "Organisms and Populations",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a12cdedf2aac02ec7ea146",
+        "numberOfQuestions": 117,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f989f975e96c7195fe7017"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programChapterId": "699f5074c7e1507cbdecbf41",
+    "programTopicId": "69a12ccb4db979a7873a2a10",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 30,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T11:21:37.092Z",
+    "updatedAt": "2026-07-22T21:38:05.695Z",
+    "__v": 0,
+    "totalPageCount": 13,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "69a12cdedf2aac02ec7ea146",
+        "numberOfQuestions": 117,
+        "_id": "69f989f975e96c7195fe7016"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "organisms-and-populations-2",
+    "seo": {
+      "titleTag": "Organisms and Populations - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Organisms and Populations - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Organisms and Populations - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Organisms and Populations from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Organisms and Populations from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Organisms and Populations from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a12cdedf2aac02ec7ea146",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 117
+      }
+    ],
+    "pyqQuestions": 117,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a12cdedf2aac02ec7ea146"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fe20fb652b8da699c3de5",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 31,
+    "title": "Ecosystem",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a12ebee83099b37338b685",
+        "numberOfQuestions": 67,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f98a1431ed6fb41d4f9316"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 31,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T06:02:55.150Z",
+    "updatedAt": "2026-07-22T21:38:06.128Z",
+    "__v": 0,
+    "programChapterId": "699f5074c7e1507cbdecbf41",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a12eb072e14cfd1baa443c",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "69a12ebee83099b37338b685",
+        "numberOfQuestions": 67,
+        "_id": "69f98a1431ed6fb41d4f9315"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "ecosystem",
+    "seo": {
+      "titleTag": "Ecosystem - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Ecosystem - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Ecosystem - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Ecosystem from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Ecosystem from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Ecosystem from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a12ebee83099b37338b685",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 67
+      }
+    ],
+    "pyqQuestions": 67,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a12ebee83099b37338b685"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fe1d9c63c6ae52cfaa5dd",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 32,
+    "title": "Biodiversity and Conservation",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a12dfddf2aac02ec7ea342",
+        "numberOfQuestions": 84,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f98a490a271887c060d77b"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 32,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T06:02:01.802Z",
+    "updatedAt": "2026-07-22T21:38:06.644Z",
+    "__v": 0,
+    "programChapterId": "699f5074c7e1507cbdecbf41",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a12ddc769e17bfd95fab0a",
+    "totalPageCount": 9,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "69a12dfddf2aac02ec7ea342",
+        "numberOfQuestions": 84,
+        "_id": "69f98a490a271887c060d77a"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "biodiversity-and-conservation",
+    "seo": {
+      "titleTag": "Biodiversity and Conservation - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Biodiversity and Conservation - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Biodiversity and Conservation - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Biodiversity and Conservation from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biodiversity and Conservation from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biodiversity and Conservation from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a12dfddf2aac02ec7ea342",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 84
+      }
+    ],
+    "pyqQuestions": 84,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a12dfddf2aac02ec7ea342"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "69a2c3b7cc7ee0e774703111",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 32,
+    "title": "NEET 2025 Paper",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "69a1378e4db979a7873a632e",
+    "programTopicId": "69a1379a634b7d612053f7ac",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 32,
+    "customPracticeSet": [
+      {
+        "name": "NEET 2025 Paper",
+        "testId": "69a137bbd7a092e9616b0627",
+        "numberOfQuestions": 180
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T10:30:15.791Z",
+    "updatedAt": "2026-07-22T21:38:07.489Z",
+    "__v": 0,
+    "totalPageCount": 14,
+    "chapterType": "QUESTION_PAPER",
+    "pageSliceVersion": 1,
+    "slug": "neet-2025-paper",
+    "seo": {
+      "titleTag": "NEET 2025 Paper - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "NEET 2025 Paper - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "NEET 2025 Paper - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read NEET 2025 Paper from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read NEET 2025 Paper from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read NEET 2025 Paper from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699fe2490ae6222acf13ea41",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 34,
+    "title": "New NEET Essentials",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a137013547b247a35cdf0b",
+        "numberOfQuestions": 35,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f98a9dee4a61b6c7203376"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 34,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T06:03:53.526Z",
+    "updatedAt": "2026-07-22T21:38:08.029Z",
+    "__v": 0,
+    "programChapterId": "699f5074c7e1507cbdecbf41",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a136edd2c0fbd29396d311",
+    "totalPageCount": 5,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "69a137013547b247a35cdf0b",
+        "numberOfQuestions": 35,
+        "_id": "69f98a9dee4a61b6c7203375"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "new-neet-essentials",
+    "seo": {
+      "titleTag": "New NEET Essentials - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "New NEET Essentials - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "New NEET Essentials - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read New NEET Essentials from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read New NEET Essentials from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read New NEET Essentials from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a137013547b247a35cdf0b",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 35
+      }
+    ],
+    "pyqQuestions": 35,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a137013547b247a35cdf0b"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6ac5e3cd54a19dbfc5c8bb81",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 35,
+    "title": "Re - NEET 2026",
+    "slug": "re-neet-2026",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "chapterType": "QUESTION_PAPER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "6ac5dddc23796b474993970f",
+    "programTopicId": "6ac5de00ff2de03c806ed37f",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 35,
+    "customPracticeSet": [
+      {
+        "name": "Re - NEET 2026",
+        "testId": "6ac5dec8b1f078061d9709a5",
+        "numberOfQuestions": 90
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-10-07T06:16:45.070Z",
+    "updatedAt": "2026-10-07T06:16:45.783Z",
+    "__v": 0,
+    "pageSliceVersion": 1,
+    "totalPageCount": 11,
+    "seo": {
+      "titleTag": "Re - NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "Re - NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "Re - NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read Re - NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Re - NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Re - NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6ac71ef2b806287ef515709d",
+    "bookId": "699eb482ade254587cd75fb4",
+    "status": "ACTIVE",
+    "displayOrder": 36,
+    "title": "NEET 2026",
+    "slug": "neet-2026",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "chapterType": "QUESTION_PAPER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "6ac652b52e61792dde9c2809",
+    "programTopicId": "6ac652c2439bbba607b7a811",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 36,
+    "customPracticeSet": [
+      {
+        "name": "NEET 2026",
+        "testId": "6ac6553db5dfd2bc956efcd4",
+        "numberOfQuestions": 90
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-10-08T04:41:22.219Z",
+    "updatedAt": "2026-10-08T04:41:24.438Z",
+    "__v": 0,
+    "pageSliceVersion": 1,
+    "totalPageCount": 38,
+    "seo": {
+      "titleTag": "NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "coverImageAltText": "NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "ogTitle": "NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Biology | PW Books",
+      "shortDescription": "Read NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Biology. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/345fd5c3-a509-4ed6-af95-802711f483f5.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  }
+]

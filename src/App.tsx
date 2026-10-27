@@ -165,15 +165,15 @@ function App() {
           </div>
         )}
 
-        {currentState === 'BOOKS' && <BookList books={books} onSelectBook={handleSelectBook} isLoading={isLoading} />}
+        {currentState === 'BOOKS' && <BookList books={books} onSelectBook={handleSelectBook} isLoading={isLoading} onRefreshBooks={loadBooks} />}
 
         {currentState === 'CHAPTERS' && (
-          <ChapterList chapters={chapters} bookId={selectedBookId} bookName={books.find(b => b._id === selectedBookId)?.title} onSelectTest={handleSelectTest} onBack={handleBackToBooks} isLoading={isLoading} />
+          <ChapterList chapters={chapters} bookId={selectedBookId} bookName={books.find(b => b._id === selectedBookId)?.title} book={books.find(b => b._id === selectedBookId)} onSelectTest={handleSelectTest} onBack={handleBackToBooks} isLoading={isLoading} />
         )}
 
         {currentState === 'TEST_CONFIG' && testData && (
           <>
-            <ChapterList chapters={chapters} bookId={selectedBookId} bookName={books.find(b => b._id === selectedBookId)?.title} onSelectTest={handleSelectTest} onBack={handleBackToBooks} isLoading={false} />
+            <ChapterList chapters={chapters} bookId={selectedBookId} bookName={books.find(b => b._id === selectedBookId)?.title} book={books.find(b => b._id === selectedBookId)} onSelectTest={handleSelectTest} onBack={handleBackToBooks} isLoading={false} />
             <TestConfigModal testName={testData.name} onStart={handleStartTest} onCancel={handleCancelTest} onPrint={() => navigateTo('PRINT_TEST')} />
           </>
         )}

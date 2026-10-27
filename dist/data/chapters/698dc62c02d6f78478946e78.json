@@ -1,0 +1,2275 @@
+[
+  {
+    "_id": "698dc6a5ee7876fa740e9958",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Basic Maths",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-12T12:25:09.442Z",
+    "updatedAt": "2026-07-22T19:40:47.812Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6992b9098f924373ef00ca90",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6992b96c9f0651a6ad98c502",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6992b9a91467e81c82b70955",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6992b9ed1467e81c82b7de06",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "699689aee556adac13a8eea0",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6992ba3f05c7e6b28253d87f",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b3e190eafc73fd96b624",
+    "totalPageCount": 36,
+    "pageSliceVersion": 1,
+    "slug": "basic-maths",
+    "seo": {
+      "titleTag": "Basic Maths - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Basic Maths - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Basic Maths - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Basic Maths from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Basic Maths from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Basic Maths from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698dc6bddc021af402716815",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Sets",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-12T12:25:33.538Z",
+    "updatedAt": "2026-07-22T19:40:48.868Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6992ba9905c7e6b2825462e6",
+        "numberOfQuestions": 41
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6992bae6058464476b39bf3b",
+        "numberOfQuestions": 22
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "699d9b095c2320df00196aa0",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "699408068df8137e1de50940",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "69968cb6e556adac13a8f450",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69940846bb70fff465f48177",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b4d3d1f6623cfc926f17",
+    "totalPageCount": 22,
+    "pageSliceVersion": 1,
+    "slug": "sets",
+    "seo": {
+      "titleTag": "Sets - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Sets - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Sets - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Sets from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Sets from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Sets from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698dc6dbe2f8e2cdd50e49f2",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Trigonometric Functions",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-12T12:26:03.887Z",
+    "updatedAt": "2026-07-22T19:40:51.518Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69968e36962954bf341dc47a",
+        "numberOfQuestions": 65
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "69941b2cbf810d16a52faa83",
+        "numberOfQuestions": 51
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69941b498df8137e1de52f4a",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69941b6a8df8137e1de52fb7",
+        "numberOfQuestions": 57
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "69968fc4a62851039c2f2000",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69941b8b5539bb501465884e",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b4eb64d65c70b57271fa",
+    "totalPageCount": 54,
+    "pageSliceVersion": 1,
+    "slug": "trigonometric-functions",
+    "seo": {
+      "titleTag": "Trigonometric Functions - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Trigonometric Functions - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Trigonometric Functions - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Trigonometric Functions from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Trigonometric Functions from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Trigonometric Functions from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698dc6f2565e12207350ff9c",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Trigonometric Equation",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-12T12:26:26.537Z",
+    "updatedAt": "2026-07-22T19:40:52.626Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "699420eebb70fff465f5484d",
+        "numberOfQuestions": 46
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6994210bbf810d16a52fb306",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6994212c8b7b8b9f84a83736",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69942149bb70fff465f548bf",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6996a03b44af8b15abd7abcc",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "699421635539bb5014659355",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b539755918e7787035d9",
+    "totalPageCount": 25,
+    "pageSliceVersion": 1,
+    "slug": "trigonometric-equation",
+    "seo": {
+      "titleTag": "Trigonometric Equation - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Trigonometric Equation - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Trigonometric Equation - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Trigonometric Equation from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Trigonometric Equation from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Trigonometric Equation from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698dc72fdc021af402716be4",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Quadratic Equations",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-12T12:27:27.351Z",
+    "updatedAt": "2026-07-22T19:40:54.059Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69942d9c5539bb501465a481",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "69942dbf8b7b8b9f84a872ca",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69942deebb70fff465f55543",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69942e14bf810d16a52fbbee",
+        "numberOfQuestions": 56
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6996a2069538f1208b625b8e",
+        "numberOfQuestions": 69
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69942e40ed66c83500febc80",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b595231db54cbda5609d",
+    "totalPageCount": 31,
+    "pageSliceVersion": 1,
+    "slug": "quadratic-equations",
+    "seo": {
+      "titleTag": "Quadratic Equations - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Quadratic Equations - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Quadratic Equations - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Quadratic Equations from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Quadratic Equations from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Quadratic Equations from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698dc755475b2f235caed4eb",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Sequence & Series",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-12T12:28:05.552Z",
+    "updatedAt": "2026-07-22T19:40:55.184Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6994476e5539bb5014661ac5",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "699447979db3c1bb0a2aecc6",
+        "numberOfQuestions": 51
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "699447d0e7066a69d7a559ec",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "699447f69db3c1bb0a2aedd6",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6996ad99973eb80b5ea343f0",
+        "numberOfQuestions": 90
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "699448168b7b8b9f84a8f5ec",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b5d02bfeb4bfd8122523",
+    "totalPageCount": 25,
+    "pageSliceVersion": 1,
+    "slug": "sequence-series",
+    "seo": {
+      "titleTag": "Sequence & Series - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Sequence & Series - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Sequence & Series - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Sequence & Series from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Sequence & Series from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Sequence & Series from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698dc779fddb9f918b0bec0d",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Relations and Functions",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-12T12:28:41.520Z",
+    "updatedAt": "2026-07-22T19:40:56.678Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6994486f9db3c1bb0a2aee79",
+        "numberOfQuestions": 25
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "69944891bf810d16a52fe7e1",
+        "numberOfQuestions": 25
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "699448ba9db3c1bb0a2aeece",
+        "numberOfQuestions": 25
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "699448df8b7b8b9f84a8f6dc",
+        "numberOfQuestions": 25
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6996af1e039e66ade374fa22",
+        "numberOfQuestions": 28
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6994490be7066a69d7a55bb2",
+        "numberOfQuestions": 19
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b5f912b744bb615ca54a",
+    "totalPageCount": 35,
+    "pageSliceVersion": 1,
+    "slug": "relations-and-functions",
+    "seo": {
+      "titleTag": "Relations and Functions - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Relations and Functions - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Relations and Functions - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Relations and Functions from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Relations and Functions from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Relations and Functions from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698ecdcff944007cb0b711cc",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Permutations and Combinations",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-13T07:07:59.826Z",
+    "updatedAt": "2026-07-22T19:40:58.239Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69944942ed66c83500ffd66d",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "69944967146ebe9ebd3cfb5c",
+        "numberOfQuestions": 48
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6994498fcda1c6ff041c3be3",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "699449b9ed66c83500ffd7c1",
+        "numberOfQuestions": 56
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6996b236039e66ade375044c",
+        "numberOfQuestions": 68
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "699449d6ed66c83500ffd7de",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b626298b24e4c9b694cb",
+    "totalPageCount": 34,
+    "pageSliceVersion": 1,
+    "slug": "permutations-and-combinations",
+    "seo": {
+      "titleTag": "Permutations and Combinations - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Permutations and Combinations - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Permutations and Combinations - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Permutations and Combinations from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Permutations and Combinations from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Permutations and Combinations from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698ecdf1f2b42bfe0515010d",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Binomial Theorem",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-13T07:08:33.379Z",
+    "updatedAt": "2026-07-22T19:40:59.657Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69944a05bf810d16a52fe9c8",
+        "numberOfQuestions": 43
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "69944a2c5539bb5014662239",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69944dff146ebe9ebd3d0012",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69944e2c8b7b8b9f84a9684a",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6997e3f13211c84db96c0927",
+        "numberOfQuestions": 77
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69944e585539bb5014662a24",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b6406cd9e3fa9b1eec6d",
+    "totalPageCount": 27,
+    "pageSliceVersion": 1,
+    "slug": "binomial-theorem",
+    "seo": {
+      "titleTag": "Binomial Theorem - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Binomial Theorem - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Binomial Theorem - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Binomial Theorem from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Binomial Theorem from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Binomial Theorem from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698ece2240c778560e23d21a",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Straight Lines",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-13T07:09:22.776Z",
+    "updatedAt": "2026-07-22T19:41:02.851Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "699d41beec81a882e50eac6c",
+        "numberOfQuestions": 49
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "699d422167129bb0385352ef",
+        "numberOfQuestions": 47
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "699d424151a9559b7f43cabd",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "699d426467129bb038535337",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "699d3cbe6db030a95c7d7f1e",
+        "numberOfQuestions": 75
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "699d4287e9add3c32f7c6738",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b6565c97be5a92445a3c",
+    "totalPageCount": 60,
+    "pageSliceVersion": 1,
+    "slug": "straight-lines",
+    "seo": {
+      "titleTag": "Straight Lines - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Straight Lines - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Straight Lines - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Straight Lines from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Straight Lines from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Straight Lines from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698eb386ca513f0b70447597",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Circles",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-13T05:15:50.893Z",
+    "updatedAt": "2026-07-22T19:41:06.443Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "699455b5146ebe9ebd3d09a4",
+        "numberOfQuestions": 53
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "699455db8df8137e1de5ae5f",
+        "numberOfQuestions": 34
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6994560cbf810d16a52ffc17",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69945647cda1c6ff041c57a0",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6996b9559538f1208b62b312",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69945667bb70fff465f7ba65",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b66dc70b8544bcc61ec9",
+    "totalPageCount": 68,
+    "pageSliceVersion": 1,
+    "slug": "circles",
+    "seo": {
+      "titleTag": "Circles - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Circles - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Circles - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Circles from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Circles from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Circles from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698eb3a8d4350021c7d446a7",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Conic Sections _ Parabola",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-13T05:16:24.910Z",
+    "updatedAt": "2026-07-22T19:41:09.240Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69958b746faa4cee400943f5",
+        "numberOfQuestions": 46
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "69958b9edd6728e0d78a3c55",
+        "numberOfQuestions": 36
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69958bbb05c0b52bd1f687a1",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69958be4b25b6502a15b4ba5",
+        "numberOfQuestions": 61
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6996b13f039e66ade374ff0e",
+        "numberOfQuestions": 52
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69958c0695727981ba6ef383",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b69639257840713c1428",
+    "totalPageCount": 52,
+    "pageSliceVersion": 1,
+    "slug": "conic-sections-parabola",
+    "seo": {
+      "titleTag": "Conic Sections _ Parabola - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Conic Sections _ Parabola - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Conic Sections _ Parabola - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Conic Sections _ Parabola from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Conic Sections _ Parabola from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Conic Sections _ Parabola from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698eb3c804063ba60e3d9f1d",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Conic Sections _ Ellipse",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-13T05:16:56.205Z",
+    "updatedAt": "2026-07-22T19:41:11.597Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69958eac6faa4cee400946b9",
+        "numberOfQuestions": 47
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "69958ed1980a1ecfa1a5c4b3",
+        "numberOfQuestions": 29
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69958f2495727981ba6efb15",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69958f4205c0b52bd1f69431",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6996b434039e66ade3750b04",
+        "numberOfQuestions": 48
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69958f67980a1ecfa1a5c6aa",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b6cf40a0dbcc15a45c76",
+    "totalPageCount": 45,
+    "pageSliceVersion": 1,
+    "slug": "conic-sections-ellipse",
+    "seo": {
+      "titleTag": "Conic Sections _ Ellipse - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Conic Sections _ Ellipse - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Conic Sections _ Ellipse - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Conic Sections _ Ellipse from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Conic Sections _ Ellipse from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Conic Sections _ Ellipse from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698eb3e83982ce2a76fc1fac",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Conic sections_ Hyperbola",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-13T05:17:28.105Z",
+    "updatedAt": "2026-07-22T19:41:14.296Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6995917d95727981ba6effee",
+        "numberOfQuestions": 48
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6995919ddd6728e0d78a5604",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "699591ba02f14a3c69fcd1e8",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "699591e56faa4cee40094d9b",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6996b68c962954bf341e2d78",
+        "numberOfQuestions": 52
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69959206b25b6502a15b54d1",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b6e944194c8b16e48ece",
+    "totalPageCount": 49,
+    "pageSliceVersion": 1,
+    "slug": "conic-sections-hyperbola",
+    "seo": {
+      "titleTag": "Conic sections_ Hyperbola - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Conic sections_ Hyperbola - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Conic sections_ Hyperbola - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Conic sections_ Hyperbola from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Conic sections_ Hyperbola from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Conic sections_ Hyperbola from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698eb41405e3d45245a9ed97",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "Complex Number I & II",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-13T05:18:12.712Z",
+    "updatedAt": "2026-07-22T19:41:16.173Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "699594587f8bd42b9d5c592f",
+        "numberOfQuestions": 71
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6995947702f14a3c69fcd666",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "699594a07f8bd42b9d5c59cd",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "699594ff6faa4cee400952a3",
+        "numberOfQuestions": 61
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6996badb37e8ea2e2d0c965b",
+        "numberOfQuestions": 81
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69959529dd6728e0d78a5ef5",
+        "numberOfQuestions": 19
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b71491f55323d61af43f",
+    "totalPageCount": 38,
+    "pageSliceVersion": 1,
+    "slug": "complex-number-i-ii",
+    "seo": {
+      "titleTag": "Complex Number I & II - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Complex Number I & II - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Complex Number I & II - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Complex Number I & II from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Complex Number I & II from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Complex Number I & II from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698eb4323982ce2a76fc225f",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 16,
+    "title": "Limits and derivatives",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 16,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-13T05:18:42.356Z",
+    "updatedAt": "2026-07-22T19:41:17.197Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6996cc17973eb80b5ea3df37",
+        "numberOfQuestions": 49
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b72ad0fb7ec628b3a1e4",
+    "totalPageCount": 18,
+    "pageSliceVersion": 1,
+    "slug": "limits-and-derivatives",
+    "seo": {
+      "titleTag": "Limits and derivatives - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Limits and derivatives - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Limits and derivatives - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Limits and derivatives from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Limits and derivatives from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Limits and derivatives from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698eb44ef0f653820a6a23c2",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 17,
+    "title": "Statistics",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 17,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-13T05:19:10.025Z",
+    "updatedAt": "2026-07-22T19:41:18.460Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6995974295727981ba6f0d48",
+        "numberOfQuestions": 29
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6995976705c0b52bd1f6aa55",
+        "numberOfQuestions": 26
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "699597b3b25b6502a15b5ef0",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "699597d4980a1ecfa1a5da1c",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6996c00ec4c7033115b629a3",
+        "numberOfQuestions": 55
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b73b5d9b1d527febae20",
+    "totalPageCount": 24,
+    "pageSliceVersion": 1,
+    "slug": "statistics",
+    "seo": {
+      "titleTag": "Statistics - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Statistics - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Statistics - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Statistics from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Statistics from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Statistics from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698eb46c7905706afdbfd1e9",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 18,
+    "title": "Probability",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 18,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-13T05:19:40.990Z",
+    "updatedAt": "2026-07-22T19:41:19.458Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69959cbf02f14a3c69fce0d4",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "69959ce302f14a3c69fce1a8",
+        "numberOfQuestions": 24
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6996c27744af8b15abd84514",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69959d4e95727981ba6f1c0f",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b75544194c8b16e490ff",
+    "totalPageCount": 16,
+    "pageSliceVersion": 1,
+    "slug": "probability",
+    "seo": {
+      "titleTag": "Probability - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Probability - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Probability - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Probability from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Probability from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Probability from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698eb487f944007cb0b628f9",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 19,
+    "title": "Introduction to Three Dimensional Geometry",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 19,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-13T05:20:07.823Z",
+    "updatedAt": "2026-07-22T19:41:20.434Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6997e633c642d0754162e48d",
+        "numberOfQuestions": 39
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b784231db54cbda56ca1",
+    "totalPageCount": 25,
+    "pageSliceVersion": 1,
+    "slug": "introduction-to-three-dimensional-geometry",
+    "seo": {
+      "titleTag": "Introduction to Three Dimensional Geometry - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Introduction to Three Dimensional Geometry - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Introduction to Three Dimensional Geometry - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Introduction to Three Dimensional Geometry from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Introduction to Three Dimensional Geometry from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Introduction to Three Dimensional Geometry from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698eceae05e3d45245aae4de",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 20,
+    "title": "Linear Inequalities",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 20,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-13T07:11:42.180Z",
+    "updatedAt": "2026-07-22T19:41:20.756Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6997e6ffed1984e85681b914",
+        "numberOfQuestions": 40
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b79c976b8fda5606b2e5",
+    "totalPageCount": 5,
+    "pageSliceVersion": 1,
+    "slug": "linear-inequalities",
+    "seo": {
+      "titleTag": "Linear Inequalities - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Linear Inequalities - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Linear Inequalities - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Linear Inequalities from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Linear Inequalities from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Linear Inequalities from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "698ecec4685a030d0a9ecb35",
+    "bookId": "698dc62c02d6f78478946e78",
+    "status": "ACTIVE",
+    "displayOrder": 21,
+    "title": "Solution of Triangle",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 21,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-13T07:12:04.015Z",
+    "updatedAt": "2026-07-22T19:41:22.522Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69959fe295727981ba6f21e4",
+        "numberOfQuestions": 44
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6995a0322ccf092a08a97537",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "Exercise-3 Parikshit (JEE Advanced Level)",
+        "testId": "6995a06105c0b52bd1f6be99",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "Exercise-4 PYQ’s (Past Year Questions)",
+        "testId": "6996c39b37e8ea2e2d0cb71f",
+        "numberOfQuestions": 22
+      }
+    ],
+    "programChapterId": "6992b38dd89a6f501689fcb6",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6992b7b6976b8fda5606b343",
+    "totalPageCount": 35,
+    "pageSliceVersion": 1,
+    "slug": "solution-of-triangle",
+    "seo": {
+      "titleTag": "Solution of Triangle - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Solution of Triangle - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Solution of Triangle - Arjuna JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Solution of Triangle from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Solution of Triangle from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Solution of Triangle from Arjuna JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8cc8adae-0256-410b-9e42-8acad631b704.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  }
+]

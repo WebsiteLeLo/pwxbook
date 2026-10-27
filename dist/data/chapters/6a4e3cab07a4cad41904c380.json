@@ -1,0 +1,1161 @@
+[
+  {
+    "_id": "6a4e6d4d19dddacd8575fda3",
+    "bookId": "6a4e3cab07a4cad41904c380",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Exploration Entering the World of Secondary Science",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fdde1708-1973-49c7-a244-49e3736afeda.zip",
+      "_id": "6a4e6d4d19dddacd8575fda4"
+    },
+    "entryFilePath": "/Exploration Entering the World of Secondary Science.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-07-08T15:31:25.194Z",
+    "updatedAt": "2026-07-09T09:47:26.531Z",
+    "__v": 0,
+    "class": "9",
+    "slug": "exploration-entering-the-world-of-secondary-science",
+    "seo": {
+      "titleTag": "Exploration Entering the World of Secondary Science - New NCERT Science 2026 Edition | PW Books",
+      "coverImageAltText": "Exploration Entering the World of Secondary Science - New NCERT Science 2026 Edition | PW Books",
+      "ogTitle": "Exploration Entering the World of Secondary Science - New NCERT Science 2026 Edition | PW Books",
+      "shortDescription": "Read Exploration Entering the World of Secondary Science from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Exploration Entering the World of Secondary Science from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Exploration Entering the World of Secondary Science from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/da0f50ec-bdd0-481a-8137-2affbeaa3ade.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a4e548d17b484d9e437d04d",
+    "bookId": "6a4e3cab07a4cad41904c380",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Cell The Building Block of Life",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0dfbbc6c-2df7-4a78-bc50-aca25f55f49a.zip",
+      "_id": "6a73079740ef481aba677049"
+    },
+    "entryFilePath": "/Ch-02_Cell The Building Block of Life_Vijay.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 7,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": true,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-08T13:45:49.296Z",
+    "updatedAt": "2026-08-05T09:51:19.918Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a55e4d6a175ba4de58e01b2",
+        "numberOfQuestions": 16
+      }
+    ],
+    "programChapterId": "6a55db10214ffe142667065b",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a55dbb794f39bf3de413ce1",
+    "slug": "cell-the-building-block-of-life",
+    "seo": {
+      "titleTag": "Cell The Building Block of Life - New NCERT Science 2026 Edition | PW Books",
+      "coverImageAltText": "Cell The Building Block of Life - New NCERT Science 2026 Edition | PW Books",
+      "ogTitle": "Cell The Building Block of Life - New NCERT Science 2026 Edition | PW Books",
+      "shortDescription": "Read Cell The Building Block of Life from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Cell The Building Block of Life from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Cell The Building Block of Life from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/da0f50ec-bdd0-481a-8137-2affbeaa3ade.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a4e6e2573bcc0e2432bcca2",
+    "bookId": "6a4e3cab07a4cad41904c380",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Tissues in Action",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ecb09784-80a3-4fdc-82b8-78c8c89bba0b.zip",
+      "_id": "6a4e6e2573bcc0e2432bcca3"
+    },
+    "entryFilePath": "/Ch-03_Tissues in Action.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-08T15:35:01.337Z",
+    "updatedAt": "2026-07-14T09:16:03.791Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a55f9787e9a52ea3f7ee1d4",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "6a55db10214ffe142667065b",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a55f825ae530a94aa7b1712",
+    "slug": "tissues-in-action",
+    "seo": {
+      "titleTag": "Tissues in Action - New NCERT Science 2026 Edition | PW Books",
+      "coverImageAltText": "Tissues in Action - New NCERT Science 2026 Edition | PW Books",
+      "ogTitle": "Tissues in Action - New NCERT Science 2026 Edition | PW Books",
+      "shortDescription": "Read Tissues in Action from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Tissues in Action from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Tissues in Action from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/da0f50ec-bdd0-481a-8137-2affbeaa3ade.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a4e6ed20eb33580c915c34a",
+    "bookId": "6a4e3cab07a4cad41904c380",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Describing Motion Around Us",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e2e1a0f4-4d6f-4398-b033-96185ce8004c.zip",
+      "_id": "6a4e6ed20eb33580c915c34b"
+    },
+    "entryFilePath": "/Describing Motion Around Us.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-08T15:37:54.089Z",
+    "updatedAt": "2026-07-14T09:16:32.902Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a55fb0c693cd4b9f882cbcc",
+        "numberOfQuestions": 16
+      }
+    ],
+    "programChapterId": "6a55db10214ffe142667065b",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a55f83166f45bcdb55a9c9c",
+    "slug": "describing-motion-around-us",
+    "seo": {
+      "titleTag": "Describing Motion Around Us - New NCERT Science 2026 Edition | PW Books",
+      "coverImageAltText": "Describing Motion Around Us - New NCERT Science 2026 Edition | PW Books",
+      "ogTitle": "Describing Motion Around Us - New NCERT Science 2026 Edition | PW Books",
+      "shortDescription": "Read Describing Motion Around Us from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Describing Motion Around Us from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Describing Motion Around Us from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/da0f50ec-bdd0-481a-8137-2affbeaa3ade.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a4f27651d45e9b6412243ef",
+    "bookId": "6a4e3cab07a4cad41904c380",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Exploring Mixtures and their Separation",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d4579a62-b454-4dd5-85ae-b1127d52b7f8.zip",
+      "_id": "6a75bb72fa39ae28b45ffae3"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T04:45:25.382Z",
+    "updatedAt": "2026-08-07T11:03:14.410Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a55fc90f5582b155cfe6de0",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "6a55db10214ffe142667065b",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a55f83c214ffe1426682b80",
+    "slug": "exploring-mixtures-and-their-separation",
+    "seo": {
+      "titleTag": "Exploring Mixtures and their Separation - New NCERT Science 2026 Edition | PW Books",
+      "coverImageAltText": "Exploring Mixtures and their Separation - New NCERT Science 2026 Edition | PW Books",
+      "ogTitle": "Exploring Mixtures and their Separation - New NCERT Science 2026 Edition | PW Books",
+      "shortDescription": "Read Exploring Mixtures and their Separation from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Exploring Mixtures and their Separation from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Exploring Mixtures and their Separation from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/da0f50ec-bdd0-481a-8137-2affbeaa3ade.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a4f27bd8da3c40d21bd15e0",
+    "bookId": "6a4e3cab07a4cad41904c380",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "How Forces Affect Motion",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7a6544ec-4577-4fc2-a35b-23a43b638ce2.zip",
+      "_id": "6a4f27bd8da3c40d21bd15e1"
+    },
+    "entryFilePath": "/Ch-06_How Forces Affect Motion.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T04:46:53.038Z",
+    "updatedAt": "2026-07-14T09:17:28.746Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a55fddcaa910bb53dc36fee",
+        "numberOfQuestions": 16
+      }
+    ],
+    "programChapterId": "6a55db10214ffe142667065b",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a55f847710f4116d0725ec4",
+    "slug": "how-forces-affect-motion",
+    "seo": {
+      "titleTag": "How Forces Affect Motion - New NCERT Science 2026 Edition | PW Books",
+      "coverImageAltText": "How Forces Affect Motion - New NCERT Science 2026 Edition | PW Books",
+      "ogTitle": "How Forces Affect Motion - New NCERT Science 2026 Edition | PW Books",
+      "shortDescription": "Read How Forces Affect Motion from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read How Forces Affect Motion from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read How Forces Affect Motion from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/da0f50ec-bdd0-481a-8137-2affbeaa3ade.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a4f281d0f9310644a362080",
+    "bookId": "6a4e3cab07a4cad41904c380",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Work, Energy, and Simple Machines",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7484a044-92d7-407c-9bbe-0c1d2563b1b2.zip",
+      "_id": "6a4f281d0f9310644a362081"
+    },
+    "entryFilePath": "/Chapter 7 -- Work, Energy, and Simple Machines.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T04:48:29.674Z",
+    "updatedAt": "2026-07-15T05:21:07.354Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a566fe5a385e26132671791",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "6a55db10214ffe142667065b",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a55f85161d2d241728c461e",
+    "slug": "work-energy-and-simple-machines",
+    "seo": {
+      "titleTag": "Work, Energy, and Simple Machines - New NCERT Science 2026 Edition | PW Books",
+      "coverImageAltText": "Work, Energy, and Simple Machines - New NCERT Science 2026 Edition | PW Books",
+      "ogTitle": "Work, Energy, and Simple Machines - New NCERT Science 2026 Edition | PW Books",
+      "shortDescription": "Read Work, Energy, and Simple Machines from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Work, Energy, and Simple Machines from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Work, Energy, and Simple Machines from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/da0f50ec-bdd0-481a-8137-2affbeaa3ade.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a4f287ae7c25989782b36db",
+    "bookId": "6a4e3cab07a4cad41904c380",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Journey Inside the Atom",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a9eb47ed-ce91-4ace-bb9b-7dcaaec0fff8.zip",
+      "_id": "6a4f287ae7c25989782b36dc"
+    },
+    "entryFilePath": "/Ch-08-journey-inside-the-atom.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-07-09T04:50:02.446Z",
+    "updatedAt": "2026-07-15T05:21:58.015Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a5670d4f3a7942bb6c831c8",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "6a55db10214ffe142667065b",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a55f85bb81fac976f5542c0",
+    "slug": "journey-inside-the-atom",
+    "seo": {
+      "titleTag": "Journey Inside the Atom - New NCERT Science 2026 Edition | PW Books",
+      "coverImageAltText": "Journey Inside the Atom - New NCERT Science 2026 Edition | PW Books",
+      "ogTitle": "Journey Inside the Atom - New NCERT Science 2026 Edition | PW Books",
+      "shortDescription": "Read Journey Inside the Atom from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Journey Inside the Atom from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Journey Inside the Atom from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/da0f50ec-bdd0-481a-8137-2affbeaa3ade.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a4f28e551642896ad7cd0de",
+    "bookId": "6a4e3cab07a4cad41904c380",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Atomic Foundations of Matter",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6bd78494-426f-4e82-b4b3-6393448b2fca.zip",
+      "_id": "6a4f28e551642896ad7cd0df"
+    },
+    "entryFilePath": "/chapter-09.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T04:51:49.445Z",
+    "updatedAt": "2026-07-15T05:22:50.163Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a57127bf3a7942bb6c87043",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "6a55db10214ffe142667065b",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a55f866ac0999cf3827119f",
+    "slug": "atomic-foundations-of-matter",
+    "seo": {
+      "titleTag": "Atomic Foundations of Matter - New NCERT Science 2026 Edition | PW Books",
+      "coverImageAltText": "Atomic Foundations of Matter - New NCERT Science 2026 Edition | PW Books",
+      "ogTitle": "Atomic Foundations of Matter - New NCERT Science 2026 Edition | PW Books",
+      "shortDescription": "Read Atomic Foundations of Matter from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Atomic Foundations of Matter from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Atomic Foundations of Matter from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/da0f50ec-bdd0-481a-8137-2affbeaa3ade.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a4f2933887b9d6f1819a1dd",
+    "bookId": "6a4e3cab07a4cad41904c380",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Sound Waves Characteristics and Applications",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bd9e5a2c-6e5d-451b-9e57-f3fc96caf811.zip",
+      "_id": "6a4f2933887b9d6f1819a1de"
+    },
+    "entryFilePath": "/Sound Waves Characteristics and Applications.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T04:53:07.798Z",
+    "updatedAt": "2026-07-15T05:23:35.320Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a571364f96976cec81e9757",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "6a55db10214ffe142667065b",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a55f8734e6a6183229f09c2",
+    "slug": "sound-waves-characteristics-and-applications",
+    "seo": {
+      "titleTag": "Sound Waves Characteristics and Applications - New NCERT Science 2026 Edition | PW Books",
+      "coverImageAltText": "Sound Waves Characteristics and Applications - New NCERT Science 2026 Edition | PW Books",
+      "ogTitle": "Sound Waves Characteristics and Applications - New NCERT Science 2026 Edition | PW Books",
+      "shortDescription": "Read Sound Waves Characteristics and Applications from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Sound Waves Characteristics and Applications from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Sound Waves Characteristics and Applications from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/da0f50ec-bdd0-481a-8137-2affbeaa3ade.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a4f2993e7c25989782b54d7",
+    "bookId": "6a4e3cab07a4cad41904c380",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Reproduction How Life Continues",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c0b269c1-23d2-4960-9d63-b7e12a22a6a6.zip",
+      "_id": "6a4f2993e7c25989782b54d8"
+    },
+    "entryFilePath": "/Reproduction How Life Continues.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T04:54:43.371Z",
+    "updatedAt": "2026-07-15T05:24:22.691Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a571526f96976cec81e99f8",
+        "numberOfQuestions": 13
+      }
+    ],
+    "programChapterId": "6a55db10214ffe142667065b",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a55f87ef1f26a0347f4efd1",
+    "slug": "reproduction-how-life-continues",
+    "seo": {
+      "titleTag": "Reproduction How Life Continues - New NCERT Science 2026 Edition | PW Books",
+      "coverImageAltText": "Reproduction How Life Continues - New NCERT Science 2026 Edition | PW Books",
+      "ogTitle": "Reproduction How Life Continues - New NCERT Science 2026 Edition | PW Books",
+      "shortDescription": "Read Reproduction How Life Continues from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Reproduction How Life Continues from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Reproduction How Life Continues from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/da0f50ec-bdd0-481a-8137-2affbeaa3ade.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a4f29f2bf3987ede14b0bed",
+    "bookId": "6a4e3cab07a4cad41904c380",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Patterns in Life Diversity and Classification",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/60da44a7-b6ec-4384-9712-2a6c3b586107.zip",
+      "_id": "6a4f29f2bf3987ede14b0bee"
+    },
+    "entryFilePath": "/ch12-patterns-in-life-diversity-and-classification.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T04:56:18.250Z",
+    "updatedAt": "2026-07-15T05:25:05.226Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a5716530607dffe197da3fb",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "6a55db10214ffe142667065b",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a55f888214ffe1426682d8d",
+    "slug": "patterns-in-life-diversity-and-classification",
+    "seo": {
+      "titleTag": "Patterns in Life Diversity and Classification - New NCERT Science 2026 Edition | PW Books",
+      "coverImageAltText": "Patterns in Life Diversity and Classification - New NCERT Science 2026 Edition | PW Books",
+      "ogTitle": "Patterns in Life Diversity and Classification - New NCERT Science 2026 Edition | PW Books",
+      "shortDescription": "Read Patterns in Life Diversity and Classification from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Patterns in Life Diversity and Classification from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Patterns in Life Diversity and Classification from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/da0f50ec-bdd0-481a-8137-2affbeaa3ade.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a4f2a643f6ca2d1458facd3",
+    "bookId": "6a4e3cab07a4cad41904c380",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Earth as a System Energy, Matter and Life",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/35f69d12-2501-4605-aa76-3f7120842b7a.zip",
+      "_id": "6a4f2a643f6ca2d1458facd4"
+    },
+    "entryFilePath": "/ch13-earth-as-a-system-energy-matter-and-life.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T04:58:12.284Z",
+    "updatedAt": "2026-07-15T05:25:59.373Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a5717b30607dffe197da58f",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "6a55db10214ffe142667065b",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a55f89194f39bf3de427b90",
+    "slug": "earth-as-a-system-energy-matter-and-life",
+    "seo": {
+      "titleTag": "Earth as a System Energy, Matter and Life - New NCERT Science 2026 Edition | PW Books",
+      "coverImageAltText": "Earth as a System Energy, Matter and Life - New NCERT Science 2026 Edition | PW Books",
+      "ogTitle": "Earth as a System Energy, Matter and Life - New NCERT Science 2026 Edition | PW Books",
+      "shortDescription": "Read Earth as a System Energy, Matter and Life from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Earth as a System Energy, Matter and Life from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Earth as a System Energy, Matter and Life from New NCERT Science 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/da0f50ec-bdd0-481a-8137-2affbeaa3ade.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  }
+]

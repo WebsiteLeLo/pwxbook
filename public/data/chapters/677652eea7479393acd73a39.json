@@ -1,0 +1,1422 @@
+[
+  {
+    "_id": "6776ba7fcf7f97b31c8b3812",
+    "bookId": "677652eea7479393acd73a39",
+    "status": "ACTIVE",
+    "noOfSections": "8",
+    "programChapterId": "67ab06a7106100bdaf359a63",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab06acc10b39b11dfe3d7c",
+    "displayOrder": 6,
+    "title": "Haloalkanes And Haloarenes",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c528c84f-a650-4acc-9cf1-0b2a961c4744.zip",
+      "_id": "68d26e949f3c39643ccbad96"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-26_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter. Here we got knowledge about organic compounds containing halogens their IUPAC names, and SN1, and SN2 reaction mechanisms which are very important for this chapter and also in whole organic chemistry. In this chapter we study stereoisomeism which is also important and polyhalogen compounds like DDT, Chloroform, and CFCs have various applications. A good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 18
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 16
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 15
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 24
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter. Here we got knowledge about organic compounds containing halogens their IUPAC names, and SN1, and SN2 reaction mechanisms which are very important for this chapter and also in whole organic chemistry. In this chapter we study stereoisomeism which is also important and polyhalogen compounds like DDT, Chloroform, and CFCs have various applications. A good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter. Here we got knowledge about organic compounds containing halogens their IUPAC names, and SN1, and SN2 reaction mechanisms which are very important for this chapter and also in whole organic chemistry. In this chapter we study stereoisomeism which is also important and polyhalogen compounds like DDT, Chloroform, and CFCs have various applications. A good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 15
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 21
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68d13986d9040cd631177580",
+        "numberOfQuestions": 104,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971c546d7773b92b9016533"
+      },
+      {
+        "testId": "688644e6231f2ca23aede5cf",
+        "numberOfQuestions": 93,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971c546d7773b92b9016534"
+      },
+      {
+        "testId": "6884e90bf7e8d60cb2275f28",
+        "numberOfQuestions": 9,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971c546d7773b92b9016535"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682ef47642ad11cc622cf0ee",
+        "numberOfQuestions": 97,
+        "_id": "6971c546d7773b92b9016532"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6854f1ed1e635a18443dc3fa",
+        "numberOfQuestions": 66,
+        "_id": "6971c546d7773b92b9016531"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f140a4897b8dbfdd8d6c1",
+        "numberOfQuestions": 22,
+        "_id": "6971c546d7773b92b9016530"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "676bf3d64b13857264256872",
+    "createdAt": "2025-01-02T16:10:39.814Z",
+    "updatedAt": "2026-01-22T06:35:50.086Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 191.51,
+    "pageStart": 158.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 6,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "haloalkanes-and-haloarenes",
+    "seo": {
+      "titleTag": "Haloalkanes And Haloarenes - Chemistry Part II (Class XII) | PW Books",
+      "coverImageAltText": "Haloalkanes And Haloarenes - Chemistry Part II (Class XII) | PW Books",
+      "ogTitle": "Haloalkanes And Haloarenes - Chemistry Part II (Class XII) | PW Books",
+      "shortDescription": "Read Haloalkanes And Haloarenes from Chemistry Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Haloalkanes And Haloarenes from Chemistry Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Haloalkanes And Haloarenes from Chemistry Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9e8be95b-2b57-4bdb-aea1-cd1a31121268.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68d13986d9040cd631177580",
+        "type": "Board PYQs",
+        "numberOfQuestions": 104
+      },
+      {
+        "testId": "688644e6231f2ca23aede5cf",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 93
+      },
+      {
+        "testId": "6884e90bf7e8d60cb2275f28",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 9
+      },
+      {
+        "testId": "682ef47642ad11cc622cf0ee",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 97
+      },
+      {
+        "testId": "6854f1ed1e635a18443dc3fa",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 66
+      }
+    ],
+    "pyqQuestions": 206,
+    "exemplerQuestions": 97,
+    "mcqQuestions": 66,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682ef47642ad11cc622cf0ee",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6854f1ed1e635a18443dc3fa",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68d13986d9040cd631177580",
+      "688644e6231f2ca23aede5cf",
+      "6884e90bf7e8d60cb2275f28",
+      "682ef47642ad11cc622cf0ee",
+      "6854f1ed1e635a18443dc3fa"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3819",
+    "bookId": "677652eea7479393acd73a39",
+    "status": "ACTIVE",
+    "noOfSections": "6",
+    "programChapterId": "67ab06b5b199ff5a9fd91bc2",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab06c4cbd2ac583d1356bc",
+    "displayOrder": 7,
+    "title": "Alcohols, Phenols And Ethers",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/383cf9f1-b8d8-4260-bad6-8770f5342961.zip",
+      "_id": "68bfd4ec861c3d5868573a98"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-27 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter. Here we got knowledge about a new class of organic compounds alcohol, phenol, and ethers. These chemicals have vast applications in the laboratory such as solvents and precursors of many organic compounds. Ethers are used in various reactions like the wurtz reaction etc. A very good amount of questions arise in various examinations.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 23
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 22
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 23
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter. Here we got knowledge about a new class of organic compounds alcohol, phenol, and ethers. These chemicals have vast applications in the laboratory such as solvents and precursors of many organic compounds. Ethers are used in various reactions like the wurtz reaction etc. A very good amount of questions arise in various examinations.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter. Here we got knowledge about a new class of organic compounds alcohol, phenol, and ethers. These chemicals have vast applications in the laboratory such as solvents and precursors of many organic compounds. Ethers are used in various reactions like the wurtz reaction etc. A very good amount of questions arise in various examinations.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 32
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 16
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 21
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682b5bfbb6ca4312c52ebb6e",
+        "numberOfQuestions": 130,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e1b2e9592558c21afc5e"
+      },
+      {
+        "testId": "688645e8997522fb0b9b75b8",
+        "numberOfQuestions": 133,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971e1b2e9592558c21afc5f"
+      },
+      {
+        "testId": "6884e858d41801453dc8cda4",
+        "numberOfQuestions": 16,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e1b2e9592558c21afc60"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682ef648fefe8ed89362fc96",
+        "numberOfQuestions": 74,
+        "_id": "6971e1b2e9592558c21afc5d"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6854f2bd71682bf1676fc64c",
+        "numberOfQuestions": 68,
+        "_id": "6971e1b2e9592558c21afc5c"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f14dc4897b8dbfdd8d737",
+        "numberOfQuestions": 33,
+        "_id": "6971e1b2e9592558c21afc5b"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.820Z",
+    "updatedAt": "2026-01-22T08:37:06.759Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 225.51,
+    "pageStart": 192.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 7,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "alcohols-phenols-and-ethers",
+    "seo": {
+      "titleTag": "Alcohols, Phenols And Ethers - Chemistry Part II (Class XII) | PW Books",
+      "coverImageAltText": "Alcohols, Phenols And Ethers - Chemistry Part II (Class XII) | PW Books",
+      "ogTitle": "Alcohols, Phenols And Ethers - Chemistry Part II (Class XII) | PW Books",
+      "shortDescription": "Read Alcohols, Phenols And Ethers from Chemistry Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Alcohols, Phenols And Ethers from Chemistry Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Alcohols, Phenols And Ethers from Chemistry Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9e8be95b-2b57-4bdb-aea1-cd1a31121268.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682b5bfbb6ca4312c52ebb6e",
+        "type": "Board PYQs",
+        "numberOfQuestions": 130
+      },
+      {
+        "testId": "688645e8997522fb0b9b75b8",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 133
+      },
+      {
+        "testId": "6884e858d41801453dc8cda4",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 16
+      },
+      {
+        "testId": "682ef648fefe8ed89362fc96",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 74
+      },
+      {
+        "testId": "6854f2bd71682bf1676fc64c",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 68
+      }
+    ],
+    "pyqQuestions": 279,
+    "exemplerQuestions": 74,
+    "mcqQuestions": 68,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682ef648fefe8ed89362fc96",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6854f2bd71682bf1676fc64c",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682b5bfbb6ca4312c52ebb6e",
+      "688645e8997522fb0b9b75b8",
+      "6884e858d41801453dc8cda4",
+      "682ef648fefe8ed89362fc96",
+      "6854f2bd71682bf1676fc64c"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b382e",
+    "bookId": "677652eea7479393acd73a39",
+    "status": "ACTIVE",
+    "noOfSections": "10",
+    "programChapterId": "67ab06d1fab721007481a354",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab06d7889f5e624547f294",
+    "displayOrder": 8,
+    "title": "Aldehydes, Ketones And Carboxylic Acids",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/79061b9d-5ece-4227-9884-6052e112851c.zip",
+      "_id": "68bfd4fd0d6634ca1fd7309f"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-1 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter. Here we got knowledge about a new chemical class of carbonyl compounds. In this chapter, we study important name reactions like aldol condensation, Cannizzaro reaction, Haloform reaction, Tollen's test, etc. They are very important reactions of organic chemistry and also direct question arises from these reactions. They have vast applications in various fields like acetone is used as solvent in many reactions. A very good amount of questions arise from this chapter in various examinations.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 33
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 19
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 46
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 33
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 34
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter. Here we got knowledge about a new chemical class of carbonyl compounds. In this chapter, we study important name reactions like aldol condensation, Cannizzaro reaction, Haloform reaction, Tollen's test, etc. They are very important reactions of organic chemistry and also direct questions arise from these reactions. They have vast applications in various fields like acetone is used as solvent in many reactions. A very good amount of questions arise from this chapter in various examinations.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter. Here we got knowledge about a new chemical class of carbonyl compounds. In this chapter, we study important name reactions like aldol condensation, Cannizzaro reaction, Haloform reaction, Tollen's test, etc. They are very important reactions of organic chemistry and also direct questions arise from these reactions. They have vast applications in various fields like acetone is used as solvent in many reactions. A very good amount of questions arise from this chapter in various examinations.</p>\n</body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 45
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 59
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 25
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 54
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682cb15937cc65e9f90cf4c7",
+        "numberOfQuestions": 241,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e239e0b17aa8f33251e8"
+      },
+      {
+        "testId": "6886476961dd7a843ef10c34",
+        "numberOfQuestions": 191,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971e239e0b17aa8f33251e9"
+      },
+      {
+        "testId": "6884e76d84e5a6b37bd06bf0",
+        "numberOfQuestions": 24,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e239e0b17aa8f33251ea"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682ef7174897b8dbfdd8b68c",
+        "numberOfQuestions": 50,
+        "_id": "6971e239e0b17aa8f33251e7"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6854f3872e4a71241ba1aec3",
+        "numberOfQuestions": 71,
+        "_id": "6971e239e0b17aa8f33251e6"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f15ba4616dba630c112f2",
+        "numberOfQuestions": 20,
+        "_id": "6971e239e0b17aa8f33251e5"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.829Z",
+    "updatedAt": "2026-01-22T08:39:21.614Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 257.51,
+    "pageStart": 226.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 8,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "aldehydes-ketones-and-carboxylic-acids",
+    "seo": {
+      "titleTag": "Aldehydes, Ketones And Carboxylic Acids - Chemistry Part II (Class XII) | PW Books",
+      "coverImageAltText": "Aldehydes, Ketones And Carboxylic Acids - Chemistry Part II (Class XII) | PW Books",
+      "ogTitle": "Aldehydes, Ketones And Carboxylic Acids - Chemistry Part II (Class XII) | PW Books",
+      "shortDescription": "Read Aldehydes, Ketones And Carboxylic Acids from Chemistry Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Aldehydes, Ketones And Carboxylic Acids from Chemistry Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Aldehydes, Ketones And Carboxylic Acids from Chemistry Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9e8be95b-2b57-4bdb-aea1-cd1a31121268.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682cb15937cc65e9f90cf4c7",
+        "type": "Board PYQs",
+        "numberOfQuestions": 241
+      },
+      {
+        "testId": "6886476961dd7a843ef10c34",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 191
+      },
+      {
+        "testId": "6884e76d84e5a6b37bd06bf0",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 24
+      },
+      {
+        "testId": "682ef7174897b8dbfdd8b68c",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 50
+      },
+      {
+        "testId": "6854f3872e4a71241ba1aec3",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 71
+      }
+    ],
+    "pyqQuestions": 456,
+    "exemplerQuestions": 50,
+    "mcqQuestions": 71,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682ef7174897b8dbfdd8b68c",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6854f3872e4a71241ba1aec3",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682cb15937cc65e9f90cf4c7",
+      "6886476961dd7a843ef10c34",
+      "6884e76d84e5a6b37bd06bf0",
+      "682ef7174897b8dbfdd8b68c",
+      "6854f3872e4a71241ba1aec3"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3820",
+    "bookId": "677652eea7479393acd73a39",
+    "status": "ACTIVE",
+    "noOfSections": "10",
+    "programChapterId": "67ab06decd4d7143323b0ff9",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab06e3eb9cbb4665f9e4da",
+    "displayOrder": 9,
+    "title": "Amines",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/93ba21ad-541c-4c9d-bb85-4d88dcc7dec6.zip",
+      "_id": "68d26dd4927c96944dd8c7ab"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-2 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter. Here we encounter a new class of organic compounds of amines. In this chapter, we got knowledge about various name reactions like Hoffmann Bromamide degradation reaction, arylamine reaction, said Meyer reaction, etc. Basicity of amines is also important from where direct questions arise in various examinations. At last, a very good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 22
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 12
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 47
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 18
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 25
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 21
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter. Here we encounter a new class of organic compounds of amines. In this chapter, we got knowledge about various name reactions like Hoffmann Bromamide degradation reaction, arylamine reaction, said Meyerr reaction, etc. Basicity of amines is also important from where direct questions arise in various examinations. At last, a very good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter. Here we encounter a class of organic compounds of amines. In this chapter, we got knowledge about various name reactions like Hoffmann Bromamide degradation reaction, etc. Basicity of amines is also important from where direct questions arise in various examinations. At last, a very good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 30
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 25
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 12
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 17
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682c557d28de05ea0f2dabf0",
+        "numberOfQuestions": 172,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e292ddc97733f9dd9797"
+      },
+      {
+        "testId": "68d134ad3ac7706444703358",
+        "numberOfQuestions": 145,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971e292ddc97733f9dd9798"
+      },
+      {
+        "testId": "6884e697d41801453dc8cafc",
+        "numberOfQuestions": 8,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e292ddc97733f9dd9799"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d9fa2ab86f46e382d6fc4",
+        "numberOfQuestions": 77,
+        "_id": "6971e292ddc97733f9dd9796"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6854f5491884ed6e5b615589",
+        "numberOfQuestions": 87,
+        "_id": "6971e292ddc97733f9dd9795"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f17a31b5b3dac4b719a27",
+        "numberOfQuestions": 14,
+        "_id": "6971e292ddc97733f9dd9794"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.823Z",
+    "updatedAt": "2026-01-22T08:40:50.851Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 279.51,
+    "pageStart": 258.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 9,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "amines",
+    "seo": {
+      "titleTag": "Amines - Chemistry Part II (Class XII) | PW Books",
+      "coverImageAltText": "Amines - Chemistry Part II (Class XII) | PW Books",
+      "ogTitle": "Amines - Chemistry Part II (Class XII) | PW Books",
+      "shortDescription": "Read Amines from Chemistry Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Amines from Chemistry Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Amines from Chemistry Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9e8be95b-2b57-4bdb-aea1-cd1a31121268.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682c557d28de05ea0f2dabf0",
+        "type": "Board PYQs",
+        "numberOfQuestions": 172
+      },
+      {
+        "testId": "68d134ad3ac7706444703358",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 145
+      },
+      {
+        "testId": "6884e697d41801453dc8cafc",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 8
+      },
+      {
+        "testId": "682d9fa2ab86f46e382d6fc4",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 77
+      },
+      {
+        "testId": "6854f5491884ed6e5b615589",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 87
+      }
+    ],
+    "pyqQuestions": 325,
+    "exemplerQuestions": 77,
+    "mcqQuestions": 87,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d9fa2ab86f46e382d6fc4",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6854f5491884ed6e5b615589",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682c557d28de05ea0f2dabf0",
+      "68d134ad3ac7706444703358",
+      "6884e697d41801453dc8cafc",
+      "682d9fa2ab86f46e382d6fc4",
+      "6854f5491884ed6e5b615589"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3827",
+    "bookId": "677652eea7479393acd73a39",
+    "status": "ACTIVE",
+    "noOfSections": "6",
+    "programChapterId": "67ab06eaeb9cbb4665f9e4e5",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab06efc4bd2cd30b0ba6a7",
+    "displayOrder": 10,
+    "title": "Biomolecules",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ae4961f3-9f60-4ecf-aa67-9ca666e96a75.zip",
+      "_id": "68bfd51a08c7d1d069c64219"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-3 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter. Here we encounter a new type of complex molecules that are essential for our survival like carbohydrates, proteins, vitamins enzymes, etc. How they are formed and their chemical properties are explored here. A very good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 12
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 26
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 22
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 20
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 21
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter. H Here encounters new types of complex molecules that are essential for our survival like carbohydrates, proteins, vitamins, enzymes, etc. How they are formed and their chemical properties are explored here. A very good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter. Here we encounter a new type of complex molecules that are essential for our survival carbohydrates, proteins, vitamins enzymes, etc. How they are formed and their chemical properties are explored here. A very good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 28
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 30
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682c5756d7420f308f9fea84",
+        "numberOfQuestions": 154,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e2bb5eafd0ba87684531"
+      },
+      {
+        "testId": "688649de61dd7a843ef11199",
+        "numberOfQuestions": 116,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971e2bb5eafd0ba87684532"
+      },
+      {
+        "testId": "6884e5c484e5a6b37bd06a1d",
+        "numberOfQuestions": 9,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e2bb5eafd0ba87684533"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682ef8ee9b68e1e3308a4a18",
+        "numberOfQuestions": 71,
+        "_id": "6971e2bb5eafd0ba87684530"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6854f6889c10067c14be8d0a",
+        "numberOfQuestions": 82,
+        "_id": "6971e2bb5eafd0ba8768452f"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f180bab6d6b3b36833111",
+        "numberOfQuestions": 25,
+        "_id": "6971e2bb5eafd0ba8768452e"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.824Z",
+    "updatedAt": "2026-01-22T08:41:31.412Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 302.5,
+    "pageStart": 280.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 10,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "biomolecules",
+    "seo": {
+      "titleTag": "Biomolecules - Chemistry Part II (Class XII) | PW Books",
+      "coverImageAltText": "Biomolecules - Chemistry Part II (Class XII) | PW Books",
+      "ogTitle": "Biomolecules - Chemistry Part II (Class XII) | PW Books",
+      "shortDescription": "Read Biomolecules from Chemistry Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biomolecules from Chemistry Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biomolecules from Chemistry Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9e8be95b-2b57-4bdb-aea1-cd1a31121268.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682c5756d7420f308f9fea84",
+        "type": "Board PYQs",
+        "numberOfQuestions": 154
+      },
+      {
+        "testId": "688649de61dd7a843ef11199",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 116
+      },
+      {
+        "testId": "6884e5c484e5a6b37bd06a1d",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 9
+      },
+      {
+        "testId": "682ef8ee9b68e1e3308a4a18",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 71
+      },
+      {
+        "testId": "6854f6889c10067c14be8d0a",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 82
+      }
+    ],
+    "pyqQuestions": 279,
+    "exemplerQuestions": 71,
+    "mcqQuestions": 82,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682ef8ee9b68e1e3308a4a18",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6854f6889c10067c14be8d0a",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682c5756d7420f308f9fea84",
+      "688649de61dd7a843ef11199",
+      "6884e5c484e5a6b37bd06a1d",
+      "682ef8ee9b68e1e3308a4a18",
+      "6854f6889c10067c14be8d0a"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  }
+]

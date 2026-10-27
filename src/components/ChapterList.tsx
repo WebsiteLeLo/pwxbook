@@ -1,21 +1,24 @@
 import React, { useState } from 'react';
-import { Chapter, TestSummary } from '../services/api';
+import { Chapter, TestSummary, Book } from '../services/api';
 import { storage } from '../services/storage';
 import { ChevronDown, ChevronUp, BookOpen, PlayCircle, ArrowLeft, Download } from 'lucide-react';
+import { pwxPackageManager } from '../services/pwxPackageManager';
 
 interface ChapterListProps {
   chapters: Chapter[];
   bookId: string;
   bookName?: string;
+  book?: Book;
   onSelectTest: (testId: string, chapterId: string, totalExercises: number) => void;
   onBack: () => void;
   isLoading: boolean;
 }
 
-export const ChapterList: React.FC<ChapterListProps> = ({ chapters, bookId, bookName, onSelectTest, onBack, isLoading }) => {
+export const ChapterList: React.FC<ChapterListProps> = ({ chapters, bookId, bookName, book, onSelectTest, onBack, isLoading }) => {
   const [expandedId, setExpandedId] = useState<string | null>(null);
   const [isDownloading, setIsDownloading] = useState(false);
   const [downloadProgress, setDownloadProgress] = useState(0);
+  const [downloadStatus, setDownloadStatus] = useState('');
 
   if (isLoading) {
     return <div className="spinner"></div>;
@@ -86,61 +89,30 @@ export const ChapterList: React.FC<ChapterListProps> = ({ chapters, bookId, book
     try {
       setIsDownloading(true);
       setDownloadProgress(0);
-      const JSZip = (await import('jszip')).default;
-      const { saveAs } = (await import('file-saver'));
-      const apiModule = await import('../services/api');
-      
-      const zip = new JSZip();
-      
-      // Calculate total exercises for progress tracking
-      let totalExercises = 0;
-      chapters.forEach(c => {
-        totalExercises += getExercises(c).length;
-      });
+      setDownloadStatus('Starting download...');
 
-      if (totalExercises === 0) {
-        alert("No exercises found to download.");
-        setIsDownloading(false);
-        return;
-      }
+      const currentBook: Book = book || {
+        _id: bookId,
+        title: bookName || 'Untitled Book',
+        author: 'PW',
+        displayClass: ''
+      };
 
-      let completed = 0;
-
-      // Fetch and organize all test data
-      for (const chapter of chapters) {
-        // Create a folder for the chapter (sanitize folder name)
-        const chapterFolderName = (chapter.title || 'Untitled Chapter').replace(/[/\\?%*:|"<>]/g, '-');
-        const chapterFolder = zip.folder(chapterFolderName);
-        
-        const exercises = getExercises(chapter);
-        
-        for (const exercise of exercises) {
-          const testId = exercise._id;
-          let testData = await apiModule.api.startTest(testId, false);
-          if (!testData) {
-             testData = await apiModule.api.startTest(testId, true);
-          }
-          if (testData) {
-            // Use the test name for the JSON file (sanitize file name)
-            const rawTestName = exercise.name || testData.name || testId;
-            const testFileName = rawTestName.replace(/[/\\?%*:|"<>]/g, '-');
-            chapterFolder?.file(`${testFileName}.json`, JSON.stringify(testData, null, 2));
-          }
-          
-          completed++;
-          setDownloadProgress(Math.round((completed / totalExercises) * 100));
+      await pwxPackageManager.exportBookAsPwx(
+        currentBook,
+        chapters,
+        (percent, status) => {
+          setDownloadProgress(percent);
+          setDownloadStatus(status);
         }
-      }
-      
-      const blob = await zip.generateAsync({ type: 'blob' });
-      const safeBookName = (bookName || `book_${bookId}`).replace(/[/\\?%*:|"<>]/g, '-');
-      saveAs(blob, `${safeBookName}_data.zip`);
-    } catch (err) {
-      console.error('Failed to download book data:', err);
-      alert('Error downloading book data. Please check console for details.');
+      );
+    } catch (err: any) {
+      console.error('Failed to download .pwx book:', err);
+      alert('Error downloading .pwx book: ' + (err.message || 'Unknown error'));
     } finally {
       setIsDownloading(false);
       setDownloadProgress(0);
+      setDownloadStatus('');
     }
   };
 
@@ -162,13 +134,13 @@ export const ChapterList: React.FC<ChapterListProps> = ({ chapters, bookId, book
           style={{ minWidth: '200px' }}
         >
           {isDownloading ? (
-            <span style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+            <span style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }} title={downloadStatus}>
               <span className="spinner" style={{ width: '16px', height: '16px', margin: 0, borderWidth: '2px', borderColor: 'rgba(255,255,255,0.3)', borderTopColor: 'white' }}></span>
               Downloading {downloadProgress}%
             </span>
           ) : (
             <span style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-              <Download size={18} /> Download Book Data
+              <Download size={18} /> Download .pwx Book
             </span>
           )}
         </button>

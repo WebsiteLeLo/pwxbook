@@ -1,0 +1,793 @@
+[
+  {
+    "_id": "6a4f38bb3a4d7fc48337c573",
+    "bookId": "6a4f37dd2e1e7962dab2f72c",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Understanding Social Science",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4f3aaffc-2bc8-47f5-a686-26d4ea75ff5d.zip",
+      "_id": "6a4f38bb3a4d7fc48337c574"
+    },
+    "entryFilePath": "/chapter-01.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T05:59:23.243Z",
+    "updatedAt": "2026-07-09T05:59:23.243Z",
+    "__v": 0,
+    "slug": "understanding-social-science",
+    "seo": {
+      "titleTag": "Understanding Social Science - New NCERT SST  Part I 2026 Edition | PW Books",
+      "coverImageAltText": "Understanding Social Science - New NCERT SST  Part I 2026 Edition | PW Books",
+      "ogTitle": "Understanding Social Science - New NCERT SST  Part I 2026 Edition | PW Books",
+      "shortDescription": "Read Understanding Social Science from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Understanding Social Science from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Understanding Social Science from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5b3dd35a-9b8e-4a1f-b9e6-a47f1693c187.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6a4f39763a4d7fc48337d6a4",
+    "bookId": "6a4f37dd2e1e7962dab2f72c",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Shaping of the Earth’s Surface",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3c1be0a8-e74c-4811-97f5-93c709ae50ce.zip",
+      "_id": "6a4f39763a4d7fc48337d6a5"
+    },
+    "entryFilePath": "/chapter-02.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T06:02:30.392Z",
+    "updatedAt": "2026-08-03T12:52:13.201Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a708e3e7c53a443afa858d3",
+        "numberOfQuestions": 11
+      }
+    ],
+    "programChapterId": "6a571e29cbfe6a3e529c661e",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programTopicId": "6a571eab2db1d2998d0c996f",
+    "slug": "shaping-of-the-earth-s-surface",
+    "seo": {
+      "titleTag": "Shaping of the Earth’s Surface - New NCERT SST  Part I 2026 Edition | PW Books",
+      "coverImageAltText": "Shaping of the Earth’s Surface - New NCERT SST  Part I 2026 Edition | PW Books",
+      "ogTitle": "Shaping of the Earth’s Surface - New NCERT SST  Part I 2026 Edition | PW Books",
+      "shortDescription": "Read Shaping of the Earth’s Surface from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Shaping of the Earth’s Surface from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Shaping of the Earth’s Surface from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5b3dd35a-9b8e-4a1f-b9e6-a47f1693c187.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6a4f39d8e72b4b08b8c66ae7",
+    "bookId": "6a4f37dd2e1e7962dab2f72c",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Atmosphere and Climate",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7ab3942d-9a4d-444b-873d-ed8914bb8914.zip",
+      "_id": "6a4f39d8e72b4b08b8c66ae8"
+    },
+    "entryFilePath": "/chapter-03.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T06:04:08.202Z",
+    "updatedAt": "2026-08-05T10:04:24.279Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a73070a19b9bf940d4540f4",
+        "numberOfQuestions": 7
+      }
+    ],
+    "programChapterId": "6a571e29cbfe6a3e529c661e",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programTopicId": "6a571eb6773f6bc2a8cfbda0",
+    "slug": "atmosphere-and-climate",
+    "seo": {
+      "titleTag": "Atmosphere and Climate - New NCERT SST  Part I 2026 Edition | PW Books",
+      "coverImageAltText": "Atmosphere and Climate - New NCERT SST  Part I 2026 Edition | PW Books",
+      "ogTitle": "Atmosphere and Climate - New NCERT SST  Part I 2026 Edition | PW Books",
+      "shortDescription": "Read Atmosphere and Climate from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Atmosphere and Climate from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Atmosphere and Climate from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5b3dd35a-9b8e-4a1f-b9e6-a47f1693c187.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6a4f3a33b64ef0a4728aaaa4",
+    "bookId": "6a4f37dd2e1e7962dab2f72c",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Early Humans and Beginning of Civilisation",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1092221f-cf11-4830-b188-67f955768454.zip",
+      "_id": "6a4f3a33b64ef0a4728aaaa5"
+    },
+    "entryFilePath": "/chapter-04.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T06:05:39.141Z",
+    "updatedAt": "2026-08-04T05:35:43.309Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a71749c7e0ac031e1987a64",
+        "numberOfQuestions": 13
+      }
+    ],
+    "programChapterId": "6a571e29cbfe6a3e529c661e",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programTopicId": "6a571ec1e3c97b0a58b890a8",
+    "slug": "early-humans-and-beginning-of-civilisation",
+    "seo": {
+      "titleTag": "Early Humans and Beginning of Civilisation - New NCERT SST  Part I 2026 Edition | PW Books",
+      "coverImageAltText": "Early Humans and Beginning of Civilisation - New NCERT SST  Part I 2026 Edition | PW Books",
+      "ogTitle": "Early Humans and Beginning of Civilisation - New NCERT SST  Part I 2026 Edition | PW Books",
+      "shortDescription": "Read Early Humans and Beginning of Civilisation from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Early Humans and Beginning of Civilisation from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Early Humans and Beginning of Civilisation from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5b3dd35a-9b8e-4a1f-b9e6-a47f1693c187.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6a4f3acf08d81da8ea2da088",
+    "bookId": "6a4f37dd2e1e7962dab2f72c",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "State and Society up to 1000 CE",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/84649b08-7dd9-43e3-8488-94cd2065943a.zip",
+      "_id": "6a4f3acf08d81da8ea2da089"
+    },
+    "entryFilePath": "/chapter-05.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T06:08:15.884Z",
+    "updatedAt": "2026-08-04T05:36:07.780Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a7175b5afd751cbc1b4eb85",
+        "numberOfQuestions": 14
+      }
+    ],
+    "programChapterId": "6a571e29cbfe6a3e529c661e",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programTopicId": "6a571ece6ce587dbcd0197e0",
+    "slug": "state-and-society-up-to-1000-ce",
+    "seo": {
+      "titleTag": "State and Society up to 1000 CE - New NCERT SST  Part I 2026 Edition | PW Books",
+      "coverImageAltText": "State and Society up to 1000 CE - New NCERT SST  Part I 2026 Edition | PW Books",
+      "ogTitle": "State and Society up to 1000 CE - New NCERT SST  Part I 2026 Edition | PW Books",
+      "shortDescription": "Read State and Society up to 1000 CE from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read State and Society up to 1000 CE from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read State and Society up to 1000 CE from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5b3dd35a-9b8e-4a1f-b9e6-a47f1693c187.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6a4f3b30b36cdad93da0b79f",
+    "bookId": "6a4f37dd2e1e7962dab2f72c",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Democracy",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0d7926eb-fbb3-4a38-8ce1-62971cf766b6.zip",
+      "_id": "6a4f3b30b36cdad93da0b7a0"
+    },
+    "entryFilePath": "/chapter-06.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T06:09:52.027Z",
+    "updatedAt": "2026-08-05T09:58:53.447Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a7308bbec9a07696805b6bb",
+        "numberOfQuestions": 11
+      }
+    ],
+    "programChapterId": "6a571e29cbfe6a3e529c661e",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programTopicId": "6a571ed903e6a87412dce244",
+    "slug": "democracy",
+    "seo": {
+      "titleTag": "Democracy - New NCERT SST  Part I 2026 Edition | PW Books",
+      "coverImageAltText": "Democracy - New NCERT SST  Part I 2026 Edition | PW Books",
+      "ogTitle": "Democracy - New NCERT SST  Part I 2026 Edition | PW Books",
+      "shortDescription": "Read Democracy from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Democracy from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Democracy from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5b3dd35a-9b8e-4a1f-b9e6-a47f1693c187.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6a4f3b8be7c25989782d2663",
+    "bookId": "6a4f37dd2e1e7962dab2f72c",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Elections",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b2f8aecb-bbfd-46ba-a090-373c155a59b9.zip",
+      "_id": "6a4f3b8be7c25989782d2664"
+    },
+    "entryFilePath": "/chapter-07.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T06:11:23.754Z",
+    "updatedAt": "2026-08-05T10:11:46.687Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a730ba59a63f7e16bfb1a2b",
+        "numberOfQuestions": 13
+      }
+    ],
+    "programChapterId": "6a571e29cbfe6a3e529c661e",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programTopicId": "6a571ee5b4a722051427782d",
+    "slug": "elections",
+    "seo": {
+      "titleTag": "Elections - New NCERT SST  Part I 2026 Edition | PW Books",
+      "coverImageAltText": "Elections - New NCERT SST  Part I 2026 Edition | PW Books",
+      "ogTitle": "Elections - New NCERT SST  Part I 2026 Edition | PW Books",
+      "shortDescription": "Read Elections from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Elections from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Elections from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5b3dd35a-9b8e-4a1f-b9e6-a47f1693c187.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6a4f3c631005947e7f3fb852",
+    "bookId": "6a4f37dd2e1e7962dab2f72c",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Building Blocks in Economics: The Problem of Choice",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7a33178d-ff1c-4cd1-b840-5ae18802a966.zip",
+      "_id": "6a4f3c631005947e7f3fb853"
+    },
+    "entryFilePath": "/chapter-08.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T06:14:59.253Z",
+    "updatedAt": "2026-08-04T05:36:45.090Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a7177fe98081af719e50b12",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6a571e29cbfe6a3e529c661e",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programTopicId": "6a571fe4b28eafa6387578b0",
+    "slug": "building-blocks-in-economics-the-problem-of-choice",
+    "seo": {
+      "titleTag": "Building Blocks in Economics: The Problem of Choice - New NCERT SST  Part I 2026 Edition | PW Books",
+      "coverImageAltText": "Building Blocks in Economics: The Problem of Choice - New NCERT SST  Part I 2026 Edition | PW Books",
+      "ogTitle": "Building Blocks in Economics: The Problem of Choice - New NCERT SST  Part I 2026 Edition | PW Books",
+      "shortDescription": "Read Building Blocks in Economics: The Problem of Choice from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Building Blocks in Economics: The Problem of Choice from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Building Blocks in Economics: The Problem of Choice from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5b3dd35a-9b8e-4a1f-b9e6-a47f1693c187.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6a4f3ce4c847dc3712fb8e70",
+    "bookId": "6a4f37dd2e1e7962dab2f72c",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "The Price Puzzle: What Drives the Market",
+    "noOfSections": "1",
+    "subject": "682ac489c42a98eb879f940b",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a1cac83f-a9d8-4adf-934a-bf53ad0c8564.zip",
+      "_id": "6a4f3ce4c847dc3712fb8e71"
+    },
+    "entryFilePath": "/Chapter-9.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "class": "9",
+    "importance": [],
+    "createdAt": "2026-07-09T06:17:08.520Z",
+    "updatedAt": "2026-08-04T05:37:26.523Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Back Exercise",
+        "testId": "6a7179a5214e0b243ed92443",
+        "numberOfQuestions": 12
+      }
+    ],
+    "programChapterId": "6a571e29cbfe6a3e529c661e",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programTopicId": "6a571fefce0f4ea5a02d5b07",
+    "slug": "the-price-puzzle-what-drives-the-market",
+    "seo": {
+      "titleTag": "The Price Puzzle: What Drives the Market - New NCERT SST  Part I 2026 Edition | PW Books",
+      "coverImageAltText": "The Price Puzzle: What Drives the Market - New NCERT SST  Part I 2026 Edition | PW Books",
+      "ogTitle": "The Price Puzzle: What Drives the Market - New NCERT SST  Part I 2026 Edition | PW Books",
+      "shortDescription": "Read The Price Puzzle: What Drives the Market from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The Price Puzzle: What Drives the Market from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The Price Puzzle: What Drives the Market from New NCERT SST  Part I 2026 Edition. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5b3dd35a-9b8e-4a1f-b9e6-a47f1693c187.jpeg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  }
+]

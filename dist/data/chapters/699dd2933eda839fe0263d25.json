@@ -1,0 +1,1338 @@
+[
+  {
+    "_id": "699ed446acae1a12644479fa",
+    "bookId": "699dd2933eda839fe0263d25",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "RTS Set 1_Part Syllabus",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [
+      {
+        "testId": "6996b4863b424870d5cb0d69",
+        "numberOfQuestions": 180,
+        "_id": "6a5256218e6ea7b45e73c73a"
+      }
+    ],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T10:51:50.550Z",
+    "updatedAt": "2026-07-22T21:36:42.009Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 1 (Quiz)",
+        "testId": "6996b4863b424870d5cb0d69",
+        "numberOfQuestions": 180
+      }
+    ],
+    "programChapterId": "6996b36d77894bdf40ebed44",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "6996b3cef0aea876322d1f6a",
+    "totalPageCount": 24,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "6996b4863b424870d5cb0d69",
+        "numberOfQuestions": 180,
+        "_id": "6a5256218e6ea7b45e73c739"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-1-part-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 1_Part Syllabus - NEET Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 1_Part Syllabus - NEET Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 1_Part Syllabus - NEET Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 1_Part Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 1_Part Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 1_Part Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/922b633f-004e-48b3-b253-776c02e57abf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699ed46505c5e30325569e38",
+    "bookId": "699dd2933eda839fe0263d25",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "RTS Set 2_Part Syllabus",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T10:52:21.551Z",
+    "updatedAt": "2026-07-22T21:36:43.407Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 2 (Quiz)",
+        "testId": "6996bd6944af8b15abd8105f",
+        "numberOfQuestions": 180
+      }
+    ],
+    "programChapterId": "6996b36d77894bdf40ebed44",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "6996bb2132cf7285c09a19dc",
+    "totalPageCount": 24,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "6996bd6944af8b15abd8105f",
+        "numberOfQuestions": 180,
+        "_id": "6a52562ad34db0c21c8062f4"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-2-part-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 2_Part Syllabus - NEET Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 2_Part Syllabus - NEET Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 2_Part Syllabus - NEET Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 2_Part Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 2_Part Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 2_Part Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/922b633f-004e-48b3-b253-776c02e57abf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699ed47ff4e4708893f0d74a",
+    "bookId": "699dd2933eda839fe0263d25",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "RTS Set 3_Part Syllabus",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T10:52:47.073Z",
+    "updatedAt": "2026-07-22T21:36:44.681Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 3 (Quiz)",
+        "testId": "6996bda0962954bf341e3f30",
+        "numberOfQuestions": 180
+      }
+    ],
+    "programChapterId": "6996b36d77894bdf40ebed44",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "6996bb5cf0aea876322d4729",
+    "totalPageCount": 24,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "6996bda0962954bf341e3f30",
+        "numberOfQuestions": 180,
+        "_id": "6a525634b60d5d081c83e2ee"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-3-part-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 3_Part Syllabus - NEET Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 3_Part Syllabus - NEET Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 3_Part Syllabus - NEET Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 3_Part Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 3_Part Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 3_Part Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/922b633f-004e-48b3-b253-776c02e57abf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699edefc20d2009767cb5116",
+    "bookId": "699dd2933eda839fe0263d25",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "RTS Set 4_Part Syllabus",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:37:32.475Z",
+    "updatedAt": "2026-07-22T21:36:46.080Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 4 (Quiz)",
+        "testId": "6996bdbe000f202aa1807f1b",
+        "numberOfQuestions": 180
+      }
+    ],
+    "programChapterId": "6996b36d77894bdf40ebed44",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "6996bb7457aa3209e53c719a",
+    "totalPageCount": 24,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "6996bdbe000f202aa1807f1b",
+        "numberOfQuestions": 180,
+        "_id": "6a435c2df6b5545d3a8584dd"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-4-part-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 4_Part Syllabus - NEET Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 4_Part Syllabus - NEET Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 4_Part Syllabus - NEET Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 4_Part Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 4_Part Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 4_Part Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/922b633f-004e-48b3-b253-776c02e57abf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699edf14ec6c471166b23211",
+    "bookId": "699dd2933eda839fe0263d25",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "RTS Set 5_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:37:56.466Z",
+    "updatedAt": "2026-07-22T21:36:47.610Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 5 (Quiz)",
+        "testId": "6996bde3000f202aa1807f84",
+        "numberOfQuestions": 180
+      }
+    ],
+    "programChapterId": "6996b36d77894bdf40ebed44",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "6996bc2c04994a16bf78fbde",
+    "totalPageCount": 24,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "6996bde3000f202aa1807f84",
+        "numberOfQuestions": 180,
+        "_id": "6a435c3cb6a9686150abf96c"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-5-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 5_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 5_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 5_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 5_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 5_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 5_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/922b633f-004e-48b3-b253-776c02e57abf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699edf2d26c69d5fc3c2eeb0",
+    "bookId": "699dd2933eda839fe0263d25",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "RTS Set 6_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:38:21.299Z",
+    "updatedAt": "2026-07-22T21:36:49.033Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 6 (Quiz)",
+        "testId": "6996c2963b424870d5cb599a",
+        "numberOfQuestions": 180
+      }
+    ],
+    "programChapterId": "6996b36d77894bdf40ebed44",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "6996c115ac89c4a33164a93e",
+    "totalPageCount": 24,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "6996c2963b424870d5cb599a",
+        "numberOfQuestions": 180,
+        "_id": "6a435c4c4225b1870de9f517"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-6-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 6_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 6_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 6_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 6_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 6_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 6_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/922b633f-004e-48b3-b253-776c02e57abf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699edf4ccc6b378bca96b37b",
+    "bookId": "699dd2933eda839fe0263d25",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "RTS Set 7_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:38:52.875Z",
+    "updatedAt": "2026-07-22T21:36:51.749Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 7 (Quiz)",
+        "testId": "6996c2b1973eb80b5ea3ba06",
+        "numberOfQuestions": 180
+      }
+    ],
+    "programChapterId": "6996b36d77894bdf40ebed44",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "6996c1349c3ce653921a7c3c",
+    "totalPageCount": 24,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "6996c2b1973eb80b5ea3ba06",
+        "numberOfQuestions": 180,
+        "_id": "6a435c5eb8bbdfc1c24e9746"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-7-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 7_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 7_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 7_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 7_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 7_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 7_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/922b633f-004e-48b3-b253-776c02e57abf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699edf6426c69d5fc3c2ef55",
+    "bookId": "699dd2933eda839fe0263d25",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "RTS Set 8_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:39:16.536Z",
+    "updatedAt": "2026-07-22T21:36:53.406Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 8 (Quiz)",
+        "testId": "6996c2cb973eb80b5ea3ba2f",
+        "numberOfQuestions": 180
+      }
+    ],
+    "programChapterId": "6996b36d77894bdf40ebed44",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "6996c143530b16f0295141e9",
+    "totalPageCount": 24,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "6996c2cb973eb80b5ea3ba2f",
+        "numberOfQuestions": 180,
+        "_id": "6a435c73370281b99695c66a"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-8-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 8_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 8_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 8_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 8_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 8_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 8_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/922b633f-004e-48b3-b253-776c02e57abf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699edf7a1d227cf59c4aef0e",
+    "bookId": "699dd2933eda839fe0263d25",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "RTS Set 9_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:39:38.692Z",
+    "updatedAt": "2026-07-22T21:36:55.092Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 9 (Quiz)",
+        "testId": "6996c2e53b424870d5cb5b7a",
+        "numberOfQuestions": 180
+      }
+    ],
+    "programChapterId": "6996b36d77894bdf40ebed44",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "6996c1511ac9a88d69f9056b",
+    "totalPageCount": 28,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "6996c2e53b424870d5cb5b7a",
+        "numberOfQuestions": 179,
+        "_id": "6a435c90b8bbdfc1c24e9c2c"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-9-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 9_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 9_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 9_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 9_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 9_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 9_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/922b633f-004e-48b3-b253-776c02e57abf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699edf8f75995b4ede32a116",
+    "bookId": "699dd2933eda839fe0263d25",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "RTS Set 10_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:39:59.853Z",
+    "updatedAt": "2026-07-22T21:36:56.764Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 10 (Quiz)",
+        "testId": "6996c3073b424870d5cb5be3",
+        "numberOfQuestions": 180
+      }
+    ],
+    "programChapterId": "6996b36d77894bdf40ebed44",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "6996c16a138209afe0802782",
+    "totalPageCount": 28,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "6996c3073b424870d5cb5be3",
+        "numberOfQuestions": 180,
+        "_id": "6a435cac84cf65d221a4ec1f"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-10-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 10_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 10_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 10_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 10_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 10_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 10_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/922b633f-004e-48b3-b253-776c02e57abf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699edfa7ea5f462165a809ca",
+    "bookId": "699dd2933eda839fe0263d25",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "RTS Set 11_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:40:23.571Z",
+    "updatedAt": "2026-07-22T21:36:58.462Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 11 (Quiz)",
+        "testId": "6996c3289538f1208b62d167",
+        "numberOfQuestions": 180
+      }
+    ],
+    "programChapterId": "6996b36d77894bdf40ebed44",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "6996c17eff6fd796c8375e4a",
+    "totalPageCount": 28,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "6996c3289538f1208b62d167",
+        "numberOfQuestions": 180,
+        "_id": "6a435cbc36ab36aa87415f3e"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-11-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 11_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 11_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 11_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 11_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 11_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 11_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/922b633f-004e-48b3-b253-776c02e57abf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699edfbf1d227cf59c4af141",
+    "bookId": "699dd2933eda839fe0263d25",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "RTS Set 12_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:40:47.559Z",
+    "updatedAt": "2026-07-22T21:37:00.194Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 12 (Quiz)",
+        "testId": "6996c341973eb80b5ea3bb36",
+        "numberOfQuestions": 180
+      }
+    ],
+    "programChapterId": "6996b36d77894bdf40ebed44",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "6996c18db33599e01f9d70cc",
+    "totalPageCount": 28,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "6996c341973eb80b5ea3bb36",
+        "numberOfQuestions": 180,
+        "_id": "6a435ccd77770ee960b5d385"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-12-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 12_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 12_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 12_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 12_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 12_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 12_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/922b633f-004e-48b3-b253-776c02e57abf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699edfd40765e97e4000cf0f",
+    "bookId": "699dd2933eda839fe0263d25",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "RTS Set 13_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:41:08.099Z",
+    "updatedAt": "2026-07-22T21:37:01.758Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 13 (Quiz)",
+        "testId": "6996c35ca62851039c2f9e18",
+        "numberOfQuestions": 180
+      }
+    ],
+    "programChapterId": "6996b36d77894bdf40ebed44",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "6996c24e2f9e202bbed87e8a",
+    "totalPageCount": 28,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "6996c35ca62851039c2f9e18",
+        "numberOfQuestions": 180,
+        "_id": "6a435cdc3c28458cf828bfc8"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-13-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 13_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 13_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 13_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 13_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 13_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 13_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/922b633f-004e-48b3-b253-776c02e57abf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699edfeca84a92ef615e0719",
+    "bookId": "699dd2933eda839fe0263d25",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "RTS Set 14_Full Syllabus",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T11:41:32.014Z",
+    "updatedAt": "2026-07-22T21:37:03.351Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Test Series Set 14 (Quiz)",
+        "testId": "6996c376962954bf341e61e1",
+        "numberOfQuestions": 180
+      }
+    ],
+    "programChapterId": "6996b36d77894bdf40ebed44",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programTopicId": "6996c25f2f9e202bbed87eda",
+    "totalPageCount": 28,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "6996c376962954bf341e61e1",
+        "numberOfQuestions": 180,
+        "_id": "6a435ce9d0e25f61c72b9c77"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "rts-set-14-full-syllabus",
+    "seo": {
+      "titleTag": "RTS Set 14_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "coverImageAltText": "RTS Set 14_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "ogTitle": "RTS Set 14_Full Syllabus - NEET Rankers Test Series | PW Books",
+      "shortDescription": "Read RTS Set 14_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read RTS Set 14_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read RTS Set 14_Full Syllabus from NEET Rankers Test Series. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/922b633f-004e-48b3-b253-776c02e57abf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  }
+]

@@ -1,0 +1,1072 @@
+[
+  {
+    "_id": "69871258796e0c9245dfd011",
+    "bookId": "69870de6a5f6199bd49f559f",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Cell - The Unit of Life",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-07T10:22:16.811Z",
+    "updatedAt": "2026-07-22T19:37:07.987Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698ae3a2bbcfb66e0df22bc7",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698ae497f511980dd479ffde",
+        "numberOfQuestions": 88
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698ae46c2919bee57a970149",
+        "numberOfQuestions": 36
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698ae3e12bf64ef228eaed9e",
+        "numberOfQuestions": 41
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c13220f25596225358c95",
+        "numberOfQuestions": 45
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adae622b2b74bd3223bdf",
+    "totalPageCount": 45,
+    "pageSliceVersion": 1,
+    "slug": "cell-the-unit-of-life",
+    "seo": {
+      "titleTag": "Cell - The Unit of Life - Arjuna NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Cell - The Unit of Life - Arjuna NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Cell - The Unit of Life - Arjuna NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Cell - The Unit of Life from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Cell - The Unit of Life from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Cell - The Unit of Life from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/97e4f3c1-30eb-486d-a7e1-69a1f2c86a4c.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6987127553d9f7c0be116fbc",
+    "bookId": "69870de6a5f6199bd49f559f",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Cell Cycle and Cell Division",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-07T10:22:45.270Z",
+    "updatedAt": "2026-07-22T19:37:09.623Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698ae6c6d96a5ebef16e6177",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698ae82abbcfb66e0df237ad",
+        "numberOfQuestions": 48
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698ae803bbcfb66e0df237a1",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698ae7d540a02cf87026c9ba",
+        "numberOfQuestions": 51
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c13cda04fdeb3699464cd",
+        "numberOfQuestions": 50
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adb4cf7128bb416bc280d",
+    "totalPageCount": 29,
+    "pageSliceVersion": 1,
+    "slug": "cell-cycle-and-cell-division",
+    "seo": {
+      "titleTag": "Cell Cycle and Cell Division - Arjuna NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Cell Cycle and Cell Division - Arjuna NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Cell Cycle and Cell Division - Arjuna NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Cell Cycle and Cell Division from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Cell Cycle and Cell Division from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Cell Cycle and Cell Division from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/97e4f3c1-30eb-486d-a7e1-69a1f2c86a4c.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "698987a6092ddf42ad118339",
+    "bookId": "69870de6a5f6199bd49f559f",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "The Living World",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T07:07:18.860Z",
+    "updatedAt": "2026-07-22T19:37:10.690Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698ae9f1a04fdeb36980fe2a",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698aea6f812dcc72300b4f3f",
+        "numberOfQuestions": 49
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698aea4acf6e724fb8e009cb",
+        "numberOfQuestions": 18
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698aea2740a02cf87026ce19",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c147526282c14dc7d9253",
+        "numberOfQuestions": 9
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adb59d2d91b7efdfe24f1",
+    "totalPageCount": 22,
+    "pageSliceVersion": 1,
+    "slug": "the-living-world",
+    "seo": {
+      "titleTag": "The Living World - Arjuna NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "The Living World - Arjuna NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "The Living World - Arjuna NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read The Living World from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The Living World from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The Living World from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/97e4f3c1-30eb-486d-a7e1-69a1f2c86a4c.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6987128fdc8f0ea65a005269",
+    "bookId": "69870de6a5f6199bd49f559f",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Biological Classification",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-07T10:23:11.753Z",
+    "updatedAt": "2026-07-22T19:37:13.063Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698afdd3bbcfb66e0df27c31",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698afe6b812dcc72300c03f6",
+        "numberOfQuestions": 92
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698afe3b2919bee57a9732f6",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698afe00f511980dd47a8c70",
+        "numberOfQuestions": 63
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c164317adaa2b6b12ac92",
+        "numberOfQuestions": 36
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adb6456217472950656cd",
+    "totalPageCount": 34,
+    "pageSliceVersion": 1,
+    "slug": "biological-classification",
+    "seo": {
+      "titleTag": "Biological Classification - Arjuna NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Biological Classification - Arjuna NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Biological Classification - Arjuna NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Biological Classification from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biological Classification from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biological Classification from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/97e4f3c1-30eb-486d-a7e1-69a1f2c86a4c.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "698712ae1aa394ca9567a8f8",
+    "bookId": "69870de6a5f6199bd49f559f",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Plant Kingdom",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-07T10:23:42.664Z",
+    "updatedAt": "2026-07-22T19:37:14.611Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698b010240a02cf87027ab71",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698b0188d96a5ebef16f1bc4",
+        "numberOfQuestions": 63
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698b015cf511980dd47ac1c1",
+        "numberOfQuestions": 24
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698b0139f511980dd47a952f",
+        "numberOfQuestions": 34
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c16fb43c533ad2fa5dffd",
+        "numberOfQuestions": 35
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adb6f0fdc4b4e2199dc38",
+    "totalPageCount": 30,
+    "pageSliceVersion": 1,
+    "slug": "plant-kingdom",
+    "seo": {
+      "titleTag": "Plant Kingdom - Arjuna NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Plant Kingdom - Arjuna NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Plant Kingdom - Arjuna NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Plant Kingdom from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Plant Kingdom from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Plant Kingdom from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/97e4f3c1-30eb-486d-a7e1-69a1f2c86a4c.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "698712c8dc108f91e63e5b5b",
+    "bookId": "69870de6a5f6199bd49f559f",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Morphology of Flowering Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-07T10:24:08.834Z",
+    "updatedAt": "2026-07-22T19:37:16.758Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698b044bbbcfb66e0df28783",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698b056a40e7d613c2cc0889",
+        "numberOfQuestions": 81
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698b05172919bee57a973d70",
+        "numberOfQuestions": 41
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698b04dbd96a5ebef16f9ed1",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c17c00f25596225358f49",
+        "numberOfQuestions": 42
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adb7ba0e6d97976d8e32f",
+    "totalPageCount": 41,
+    "pageSliceVersion": 1,
+    "slug": "morphology-of-flowering-plants",
+    "seo": {
+      "titleTag": "Morphology of Flowering Plants - Arjuna NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Morphology of Flowering Plants - Arjuna NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Morphology of Flowering Plants - Arjuna NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Morphology of Flowering Plants from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Morphology of Flowering Plants from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Morphology of Flowering Plants from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/97e4f3c1-30eb-486d-a7e1-69a1f2c86a4c.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "698712e5b83808fd6687039f",
+    "bookId": "69870de6a5f6199bd49f559f",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Anatomy of Flowering Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-07T10:24:37.447Z",
+    "updatedAt": "2026-07-22T19:37:19.285Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698b0c5b2bf64ef228ebaaad",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698b0d8c40a02cf87029b706",
+        "numberOfQuestions": 68
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698b0d6acf6e724fb8e0c26a",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698b0d3d2919bee57a974d45",
+        "numberOfQuestions": 32
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c18ebf1aefc613ca6b016",
+        "numberOfQuestions": 21
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adb885b309df8044f735b",
+    "totalPageCount": 29,
+    "pageSliceVersion": 1,
+    "slug": "anatomy-of-flowering-plants",
+    "seo": {
+      "titleTag": "Anatomy of Flowering Plants - Arjuna NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Anatomy of Flowering Plants - Arjuna NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Anatomy of Flowering Plants - Arjuna NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Anatomy of Flowering Plants from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Anatomy of Flowering Plants from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Anatomy of Flowering Plants from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/97e4f3c1-30eb-486d-a7e1-69a1f2c86a4c.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "698712fdf4025c397d9cadec",
+    "bookId": "69870de6a5f6199bd49f559f",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Respiration in Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-07T10:25:01.532Z",
+    "updatedAt": "2026-07-22T19:37:21.347Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698b49b32919bee57a9795d4",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698b4a5ca04fdeb36993953c",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698b4a32d96a5ebef1809dcb",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698b4a0fcf6e724fb8e10c46",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c19b6b77722029eeebe8f",
+        "numberOfQuestions": 23
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adb93136e1ccb3d42a3b3",
+    "totalPageCount": 45,
+    "pageSliceVersion": 1,
+    "slug": "respiration-in-plants",
+    "seo": {
+      "titleTag": "Respiration in Plants - Arjuna NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Respiration in Plants - Arjuna NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Respiration in Plants - Arjuna NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Respiration in Plants from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Respiration in Plants from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Respiration in Plants from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/97e4f3c1-30eb-486d-a7e1-69a1f2c86a4c.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6987131bb9d6258d61c618cb",
+    "bookId": "69870de6a5f6199bd49f559f",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Photosynthesis in Higher Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-07T10:25:31.458Z",
+    "updatedAt": "2026-07-22T19:37:23.612Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698b4bebbbcfb66e0d05a9b3",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698b4c54cf6e724fb8e10d57",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698b4c30f511980dd48f8d81",
+        "numberOfQuestions": 47
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698b4c0d40e7d613c2ccc2ed",
+        "numberOfQuestions": 52
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c1a7117adaa2b6b12b04c",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adba0335c4d8d43a3a778",
+    "totalPageCount": 46,
+    "pageSliceVersion": 1,
+    "slug": "photosynthesis-in-higher-plants",
+    "seo": {
+      "titleTag": "Photosynthesis in Higher Plants - Arjuna NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Photosynthesis in Higher Plants - Arjuna NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Photosynthesis in Higher Plants - Arjuna NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Photosynthesis in Higher Plants from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Photosynthesis in Higher Plants from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Photosynthesis in Higher Plants from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/97e4f3c1-30eb-486d-a7e1-69a1f2c86a4c.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "698713342ec2c325500f7e12",
+    "bookId": "69870de6a5f6199bd49f559f",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Plant Growth and Development",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-07T10:25:56.638Z",
+    "updatedAt": "2026-07-22T19:37:25.358Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698b4db1bbcfb66e0d05aa7a",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698b60af40e7d613c2ccd70e",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698b608cb77722029eec8eb3",
+        "numberOfQuestions": 19
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698b60647e780f5733e2372e",
+        "numberOfQuestions": 38
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c1c5b0f255962253591bf",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adbac164744a485aa560c",
+    "totalPageCount": 31,
+    "pageSliceVersion": 1,
+    "slug": "plant-growth-and-development",
+    "seo": {
+      "titleTag": "Plant Growth and Development - Arjuna NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Plant Growth and Development - Arjuna NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Plant Growth and Development - Arjuna NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Plant Growth and Development from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Plant Growth and Development from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Plant Growth and Development from Arjuna NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/97e4f3c1-30eb-486d-a7e1-69a1f2c86a4c.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  }
+]

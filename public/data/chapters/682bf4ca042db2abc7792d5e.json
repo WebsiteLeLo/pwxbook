@@ -1,0 +1,1655 @@
+[
+  {
+    "_id": "68359bc8572bc9475e18ea7a",
+    "bookId": "682bf4ca042db2abc7792d5e",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Number System",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/059cca66-a335-4ed9-aaf6-0f27da7fc8e4.zip",
+      "_id": "68b93ff98f4a4e2f93a8de29"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>dummy importance</p>\n</body>\n</html>",
+        "exams": "IIT-JEE",
+        "graphs": []
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf16dd0b99cbb713b4e3"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842b23e5704e34f84dc18d4",
+        "numberOfQuestions": 15,
+        "_id": "691edf16dd0b99cbb713b4e2"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf16dd0b99cbb713b4e1"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685eb51d86e3ab2b1dc927de",
+        "numberOfQuestions": 25,
+        "_id": "691edf16dd0b99cbb713b4e0"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edef62a554d4d2b234961",
+    "programTopicId": "683edf09819e4af57deab74a",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:21:42.419Z",
+    "updatedAt": "2025-11-20T09:27:50.551Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 23.51,
+    "pageStart": 0.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "number-system",
+    "seo": {
+      "titleTag": "Number System - Mathematics (Class IX) | PW Books",
+      "coverImageAltText": "Number System - Mathematics (Class IX) | PW Books",
+      "ogTitle": "Number System - Mathematics (Class IX) | PW Books",
+      "shortDescription": "Read Number System from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Number System from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Number System from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b12fa65-4ab5-46aa-91ea-3a83bc66c904.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842b23e5704e34f84dc18d4",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842b23e5704e34f84dc18d4",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842b23e5704e34f84dc18d4"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359bc8572bc9475e18ea80",
+    "bookId": "682bf4ca042db2abc7792d5e",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Polynomials",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/05f33df2-a562-4e07-958f-0e57bfbffd2d.zip",
+      "_id": "68b941cda17a584bd336985d"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf1406c836cef3756fe8"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842ba835704e34f84dc2d03",
+        "numberOfQuestions": 15,
+        "_id": "691edf1406c836cef3756fe7"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf1406c836cef3756fe6"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685ff2e620036056ad65a558",
+        "numberOfQuestions": 25,
+        "_id": "691edf1406c836cef3756fe5"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edef62a554d4d2b234961",
+    "programTopicId": "6842ba7075a9102d5e8991a6",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:21:50.236Z",
+    "updatedAt": "2025-11-20T09:27:48.603Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 41.51,
+    "pageStart": 24.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "polynomials",
+    "seo": {
+      "titleTag": "Polynomials - Mathematics (Class IX) | PW Books",
+      "coverImageAltText": "Polynomials - Mathematics (Class IX) | PW Books",
+      "ogTitle": "Polynomials - Mathematics (Class IX) | PW Books",
+      "shortDescription": "Read Polynomials from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Polynomials from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Polynomials from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b12fa65-4ab5-46aa-91ea-3a83bc66c904.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842ba835704e34f84dc2d03",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842ba835704e34f84dc2d03",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842ba835704e34f84dc2d03"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359bc8572bc9475e18ea86",
+    "bookId": "682bf4ca042db2abc7792d5e",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Coordinate Geometry",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e3e66d6e-b1c9-4359-9744-963586922d7b.zip",
+      "_id": "68b7d6847ec0bae5f6d468f5"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf143e55498f55f47acc"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842bae3c7bfdd3d42762627",
+        "numberOfQuestions": 15,
+        "_id": "691edf143e55498f55f47acb"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf143e55498f55f47aca"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685eb5bf86e3ab2b1dc92817",
+        "numberOfQuestions": 25,
+        "_id": "691edf143e55498f55f47ac9"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edef62a554d4d2b234961",
+    "programTopicId": "6842bac14dc45e499d11d861",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:21:54.897Z",
+    "updatedAt": "2025-11-20T09:27:48.913Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 54,
+    "pageStart": 43,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "coordinate-geometry",
+    "seo": {
+      "titleTag": "Coordinate Geometry - Mathematics (Class IX) | PW Books",
+      "coverImageAltText": "Coordinate Geometry - Mathematics (Class IX) | PW Books",
+      "ogTitle": "Coordinate Geometry - Mathematics (Class IX) | PW Books",
+      "shortDescription": "Read Coordinate Geometry from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Coordinate Geometry from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Coordinate Geometry from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b12fa65-4ab5-46aa-91ea-3a83bc66c904.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842bae3c7bfdd3d42762627",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842bae3c7bfdd3d42762627",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842bae3c7bfdd3d42762627"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "68359bc8572bc9475e18ea8c",
+    "bookId": "682bf4ca042db2abc7792d5e",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Linear Equation in two Variables",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5796ac28-73bf-4d04-b2a9-e3d3db26068f.zip",
+      "_id": "68b7d6a1b16c6b058fa81987"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf1401091cb9bd49bd18"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842bb4303ee8a27622b61e8",
+        "numberOfQuestions": 15,
+        "_id": "691edf1401091cb9bd49bd17"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf1401091cb9bd49bd16"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685eb739d0d7e011ab0bb41c",
+        "numberOfQuestions": 25,
+        "_id": "691edf1401091cb9bd49bd15"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edef62a554d4d2b234961",
+    "programTopicId": "6842bb1d75a9102d5e8991b7",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:21:56.889Z",
+    "updatedAt": "2025-11-20T09:27:48.079Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 59,
+    "pageStart": 55,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "linear-equation-in-two-variables",
+    "seo": {
+      "titleTag": "Linear Equation in two Variables - Mathematics (Class IX) | PW Books",
+      "coverImageAltText": "Linear Equation in two Variables - Mathematics (Class IX) | PW Books",
+      "ogTitle": "Linear Equation in two Variables - Mathematics (Class IX) | PW Books",
+      "shortDescription": "Read Linear Equation in two Variables from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Linear Equation in two Variables from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Linear Equation in two Variables from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b12fa65-4ab5-46aa-91ea-3a83bc66c904.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842bb4303ee8a27622b61e8",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842bb4303ee8a27622b61e8",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842bb4303ee8a27622b61e8"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359bc8572bc9475e18ea92",
+    "bookId": "682bf4ca042db2abc7792d5e",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Introduction to Euclid's Geometry",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2d900c68-6d7c-448e-aa91-eca7c2f6c647.zip",
+      "_id": "68b7d6c093e77396bf452c59"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf1401091cb9bd49bd1f"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842e74b42952c7cea2e2838",
+        "numberOfQuestions": 15,
+        "_id": "691edf1401091cb9bd49bd1e"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf1401091cb9bd49bd1d"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685ff1f8c79211854cf82ce0",
+        "numberOfQuestions": 25,
+        "_id": "691edf1401091cb9bd49bd1c"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edef62a554d4d2b234961",
+    "programTopicId": "6842e73684147b9f7792e558",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:21:58.090Z",
+    "updatedAt": "2025-11-20T09:27:48.190Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 68,
+    "pageStart": 60,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "introduction-to-euclid-s-geometry",
+    "seo": {
+      "titleTag": "Introduction to Euclid's Geometry - Mathematics (Class IX) | PW Books",
+      "coverImageAltText": "Introduction to Euclid's Geometry - Mathematics (Class IX) | PW Books",
+      "ogTitle": "Introduction to Euclid's Geometry - Mathematics (Class IX) | PW Books",
+      "shortDescription": "Read Introduction to Euclid's Geometry from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Introduction to Euclid's Geometry from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Introduction to Euclid's Geometry from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b12fa65-4ab5-46aa-91ea-3a83bc66c904.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842e74b42952c7cea2e2838",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842e74b42952c7cea2e2838",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842e74b42952c7cea2e2838"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359bc8572bc9475e18ea98",
+    "bookId": "682bf4ca042db2abc7792d5e",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Lines and Angles",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/730e482b-acee-463e-ae16-c9b099d15b71.zip",
+      "_id": "68b7d6de7ec0bae5f6d46df2"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "69394ddfba1d85a6cfb6cc00"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842e7dcc6ce3b789d908349",
+        "numberOfQuestions": 15,
+        "_id": "69394ddfba1d85a6cfb6cbff"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "69394ddfba1d85a6cfb6cbfe"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685ff25d20036056ad65a52c",
+        "numberOfQuestions": 25,
+        "_id": "69394ddfba1d85a6cfb6cbfd"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "6711f8b687f4b476962d7cbb",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edef62a554d4d2b234961",
+    "programTopicId": "6842e7ca9d06d9d767e6c3bb",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:22:01.805Z",
+    "updatedAt": "2025-12-10T10:39:27.177Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 82,
+    "pageStart": 69,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 6,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "lines-and-angles",
+    "seo": {
+      "titleTag": "Lines and Angles - Mathematics (Class IX) | PW Books",
+      "coverImageAltText": "Lines and Angles - Mathematics (Class IX) | PW Books",
+      "ogTitle": "Lines and Angles - Mathematics (Class IX) | PW Books",
+      "shortDescription": "Read Lines and Angles from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Lines and Angles from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Lines and Angles from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b12fa65-4ab5-46aa-91ea-3a83bc66c904.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842e7dcc6ce3b789d908349",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842e7dcc6ce3b789d908349",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842e7dcc6ce3b789d908349"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359bc8572bc9475e18ea9e",
+    "bookId": "682bf4ca042db2abc7792d5e",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Triangles",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1f759e3d-807f-4f41-9ee0-c57f1995adae.zip",
+      "_id": "68b7d6f4b16c6b058fa823f7"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf136df96d1efea3c6a4"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842e87612eac22745ba5da7",
+        "numberOfQuestions": 15,
+        "_id": "691edf136df96d1efea3c6a3"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf136df96d1efea3c6a2"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68654019e39887ea3fe6d3ef",
+        "numberOfQuestions": 25,
+        "_id": "691edf136df96d1efea3c6a1"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edef62a554d4d2b234961",
+    "programTopicId": "6842e85fac06662976468520",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:22:11.177Z",
+    "updatedAt": "2025-11-20T09:27:47.256Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 103,
+    "pageStart": 83,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 7,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "triangles",
+    "seo": {
+      "titleTag": "Triangles - Mathematics (Class IX) | PW Books",
+      "coverImageAltText": "Triangles - Mathematics (Class IX) | PW Books",
+      "ogTitle": "Triangles - Mathematics (Class IX) | PW Books",
+      "shortDescription": "Read Triangles from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Triangles from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Triangles from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b12fa65-4ab5-46aa-91ea-3a83bc66c904.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842e87612eac22745ba5da7",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842e87612eac22745ba5da7",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842e87612eac22745ba5da7"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359bc8572bc9475e18eaa4",
+    "bookId": "682bf4ca042db2abc7792d5e",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Quadrilaterals",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3d4ba1a8-7dfd-4f92-8887-17088e02e84f.zip",
+      "_id": "68b7d70a7ec0bae5f6d470d7"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf132e2504b66ea926b3"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842ee4e9c28a3c19bbc07a4",
+        "numberOfQuestions": 15,
+        "_id": "691edf132e2504b66ea926b2"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf132e2504b66ea926b1"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "686540844c69164c0d4cbf40",
+        "numberOfQuestions": 25,
+        "_id": "691edf132e2504b66ea926b0"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edef62a554d4d2b234961",
+    "programTopicId": "6842ee38bdc0e919329f0ab1",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:22:30.233Z",
+    "updatedAt": "2025-11-20T09:27:47.491Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 115,
+    "pageStart": 104,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 8,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "quadrilaterals",
+    "seo": {
+      "titleTag": "Quadrilaterals - Mathematics (Class IX) | PW Books",
+      "coverImageAltText": "Quadrilaterals - Mathematics (Class IX) | PW Books",
+      "ogTitle": "Quadrilaterals - Mathematics (Class IX) | PW Books",
+      "shortDescription": "Read Quadrilaterals from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Quadrilaterals from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Quadrilaterals from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b12fa65-4ab5-46aa-91ea-3a83bc66c904.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842ee4e9c28a3c19bbc07a4",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842ee4e9c28a3c19bbc07a4",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842ee4e9c28a3c19bbc07a4"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359bc8572bc9475e18eaaa",
+    "bookId": "682bf4ca042db2abc7792d5e",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Circles",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3e1d63e0-283d-4867-b0f3-d75223bcdf33.zip",
+      "_id": "68b7d71e4c2c37a36871986f"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf15c28306d35d8c219e"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842eebd12eac22745ba63c1",
+        "numberOfQuestions": 15,
+        "_id": "691edf15c28306d35d8c219d"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf15c28306d35d8c219c"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "686541bb3066c8ee1489ee6b",
+        "numberOfQuestions": 25,
+        "_id": "691edf15c28306d35d8c219b"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edef62a554d4d2b234961",
+    "programTopicId": "6842ee8ce2c8f2853ea91c5c",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:23:03.517Z",
+    "updatedAt": "2025-11-20T09:27:49.432Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 130,
+    "pageStart": 116,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 9,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "circles",
+    "seo": {
+      "titleTag": "Circles - Mathematics (Class IX) | PW Books",
+      "coverImageAltText": "Circles - Mathematics (Class IX) | PW Books",
+      "ogTitle": "Circles - Mathematics (Class IX) | PW Books",
+      "shortDescription": "Read Circles from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Circles from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Circles from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b12fa65-4ab5-46aa-91ea-3a83bc66c904.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842eebd12eac22745ba63c1",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842eebd12eac22745ba63c1",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842eebd12eac22745ba63c1"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359bc8572bc9475e18eab0",
+    "bookId": "682bf4ca042db2abc7792d5e",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Heron's Formula",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f12f3840-85c7-4038-a028-7cf658ff3162.zip",
+      "_id": "68b7d73171498493c850667a"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf1306c836cef3756fd9"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842f010c6ce3b789d908785",
+        "numberOfQuestions": 15,
+        "_id": "691edf1306c836cef3756fd8"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf1306c836cef3756fd7"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "686542c68e0afa1f5381ac14",
+        "numberOfQuestions": 25,
+        "_id": "691edf1306c836cef3756fd6"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edef62a554d4d2b234961",
+    "programTopicId": "6842efd084147b9f7792e7db",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:23:11.134Z",
+    "updatedAt": "2025-11-20T09:27:47.736Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 136,
+    "pageStart": 131,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 10,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "heron-s-formula",
+    "seo": {
+      "titleTag": "Heron's Formula - Mathematics (Class IX) | PW Books",
+      "coverImageAltText": "Heron's Formula - Mathematics (Class IX) | PW Books",
+      "ogTitle": "Heron's Formula - Mathematics (Class IX) | PW Books",
+      "shortDescription": "Read Heron's Formula from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Heron's Formula from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Heron's Formula from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b12fa65-4ab5-46aa-91ea-3a83bc66c904.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842f010c6ce3b789d908785",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842f010c6ce3b789d908785",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842f010c6ce3b789d908785"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359bc8572bc9475e18eab6",
+    "bookId": "682bf4ca042db2abc7792d5e",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Surface area and Volumes",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/97eee345-b7d6-4097-ac0e-0572ab5e871a.zip",
+      "_id": "68b7d74693e77396bf452fdb"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "69394df99dcd5b25c9ec5596"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842f2fbc6ce3b789d90891d",
+        "numberOfQuestions": 15,
+        "_id": "69394df99dcd5b25c9ec5595"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "69394df99dcd5b25c9ec5594"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6865434455a95d7047c03e71",
+        "numberOfQuestions": 25,
+        "_id": "69394df99dcd5b25c9ec5593"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "6711f8b687f4b476962d7cbb",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edef62a554d4d2b234961",
+    "programTopicId": "6842f2e75c327784f0fcedfd",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:23:14.056Z",
+    "updatedAt": "2025-12-10T10:39:53.062Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 150,
+    "pageStart": 137,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 11,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "surface-area-and-volumes",
+    "seo": {
+      "titleTag": "Surface area and Volumes - Mathematics (Class IX) | PW Books",
+      "coverImageAltText": "Surface area and Volumes - Mathematics (Class IX) | PW Books",
+      "ogTitle": "Surface area and Volumes - Mathematics (Class IX) | PW Books",
+      "shortDescription": "Read Surface area and Volumes from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Surface area and Volumes from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Surface area and Volumes from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b12fa65-4ab5-46aa-91ea-3a83bc66c904.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842f2fbc6ce3b789d90891d",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842f2fbc6ce3b789d90891d",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842f2fbc6ce3b789d90891d"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "68359bc8572bc9475e18eabc",
+    "bookId": "682bf4ca042db2abc7792d5e",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Statistics",
+    "noOfSections": "15",
+    "subject": "682ac49dc42a98eb879f940c",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/32cba75b-4752-4831-9932-a64a44d69f1d.zip",
+      "_id": "68b7d76a7ec0bae5f6d47748"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf16bce4b93f01b5b31a"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6842f39fc7bfdd3d42767d5b",
+        "numberOfQuestions": 15,
+        "_id": "691edf16bce4b93f01b5b319"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf16bce4b93f01b5b318"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "686543e53066c8ee1489eed3",
+        "numberOfQuestions": 25,
+        "_id": "691edf16bce4b93f01b5b317"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edef62a554d4d2b234961",
+    "programTopicId": "6842f36d5be064ee930ff555",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:23:36.893Z",
+    "updatedAt": "2025-11-20T09:27:50.209Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 166,
+    "pageStart": 151,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 12,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "statistics",
+    "seo": {
+      "titleTag": "Statistics - Mathematics (Class IX) | PW Books",
+      "coverImageAltText": "Statistics - Mathematics (Class IX) | PW Books",
+      "ogTitle": "Statistics - Mathematics (Class IX) | PW Books",
+      "shortDescription": "Read Statistics from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Statistics from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Statistics from Mathematics (Class IX). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b12fa65-4ab5-46aa-91ea-3a83bc66c904.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6842f39fc7bfdd3d42767d5b",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6842f39fc7bfdd3d42767d5b",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "6842f39fc7bfdd3d42767d5b"
+    ],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  }
+]

@@ -1,0 +1,438 @@
+[
+  {
+    "_id": "699ffa5274be177f1a8702c9",
+    "bookId": "699fe1b70cbcb2e240763d3c",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Matter in Our Surroundings",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/782a78f7-24bd-4320-8a15-9b6b19d59928.pdf",
+      "_id": "69a1565fd40722c3f57a924c"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": true,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T07:46:26.259Z",
+    "updatedAt": "2026-07-22T21:47:11.027Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a00f2bd293ab3522bdf281",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a010007d13555fa2d40a83",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a010d6d7a092e9616983b2",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a01067fbe59364761f37e2",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "MCQs",
+        "testId": "69a0114dd293ab3522bdfff9",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "699fc7d79668bf2b1c167e21",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a00e0ad0c77bbb6a6fa2b8",
+    "totalPageCount": 39,
+    "pageSliceVersion": 2,
+    "slug": "matter-in-our-surroundings",
+    "seo": {
+      "titleTag": "Matter in Our Surroundings - Neev Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Matter in Our Surroundings - Neev Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Matter in Our Surroundings - Neev Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Matter in Our Surroundings from Neev Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Matter in Our Surroundings from Neev Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Matter in Our Surroundings from Neev Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/acd14424-74cb-4bc7-abcb-e23053039e8b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699ffa6a7a8fdfbcd80884c7",
+    "bookId": "699fe1b70cbcb2e240763d3c",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Is Matter Around us Pure?",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T07:46:50.385Z",
+    "updatedAt": "2026-08-06T06:18:55.132Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a011bb37a9d1f4fac57bc4",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a01287e83099b3732736d6",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a012f77d13555fa2d41b58",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a0121bd7a092e961698d3b",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "MCQs",
+        "testId": "69a0139dd293ab3522be0ce3",
+        "numberOfQuestions": 24
+      }
+    ],
+    "programChapterId": "699fc7d79668bf2b1c167e21",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a00ec3f2209da0668d6ebb",
+    "totalPageCount": 40,
+    "pageSliceVersion": 2,
+    "slug": "is-matter-around-us-pure",
+    "seo": {
+      "titleTag": "Is Matter Around us Pure? - Neev Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Is Matter Around us Pure? - Neev Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Is Matter Around us Pure? - Neev Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Is Matter Around us Pure? from Neev Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Is Matter Around us Pure? from Neev Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Is Matter Around us Pure? from Neev Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/acd14424-74cb-4bc7-abcb-e23053039e8b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699ffa88e7238ec8ab7ecb36",
+    "bookId": "699fe1b70cbcb2e240763d3c",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Atoms and Molecules",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T07:47:20.201Z",
+    "updatedAt": "2026-07-22T21:47:16.309Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a0156ffbe59364761f41b7",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a015e9d7a092e96169b134",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a016f1d293ab3522be2353",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a0168077ba4addfa732b54",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "MCQs",
+        "testId": "69a01780d293ab3522be2550",
+        "numberOfQuestions": 16
+      }
+    ],
+    "programChapterId": "699fc7d79668bf2b1c167e21",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a00ecd3c8ab708fedcd944",
+    "totalPageCount": 37,
+    "pageSliceVersion": 2,
+    "slug": "atoms-and-molecules",
+    "seo": {
+      "titleTag": "Atoms and Molecules - Neev Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Atoms and Molecules - Neev Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Atoms and Molecules - Neev Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Atoms and Molecules from Neev Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Atoms and Molecules from Neev Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Atoms and Molecules from Neev Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/acd14424-74cb-4bc7-abcb-e23053039e8b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699ffaa9e98107c81425445d",
+    "bookId": "699fe1b70cbcb2e240763d3c",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Structure of the Atom",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T07:47:53.514Z",
+    "updatedAt": "2026-07-22T21:47:19.650Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a01810d293ab3522be27fc",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a0188bf3af2092cde78d5d",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a0197837a9d1f4fac5aa2c",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a018f977ba4addfa732d42",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "MCQs",
+        "testId": "69a019f0fbe59364761f46bd",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "699fc7d79668bf2b1c167e21",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a00ed95f043641367c68f9",
+    "totalPageCount": 47,
+    "pageSliceVersion": 2,
+    "slug": "structure-of-the-atom",
+    "seo": {
+      "titleTag": "Structure of the Atom - Neev Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Structure of the Atom - Neev Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Structure of the Atom - Neev Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Structure of the Atom from Neev Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Structure of the Atom from Neev Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Structure of the Atom from Neev Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/acd14424-74cb-4bc7-abcb-e23053039e8b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  }
+]

@@ -1,0 +1,677 @@
+[
+  {
+    "_id": "6835b1ab572bc9475e18ed85",
+    "bookId": "682bf40c042db2abc7792d51",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "What is Democracy? Why Democracy?",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/960eeff2-ed62-450f-aa54-8d3a54c9f5a1.zip",
+      "_id": "694ce73228d4800004943c61"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "694ce73228d4800004943c60"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "694ce73228d4800004943c5f"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "694ce73228d4800004943c5e"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6856b1766a99fe90b73405b2",
+        "numberOfQuestions": 10,
+        "_id": "694ce73228d4800004943c5d"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "676bf3d64b13857264256872",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "68546080df8f28574f2d501d",
+    "chapterVersion": 6,
+    "createdAt": "2025-06-20T08:22:52.409Z",
+    "updatedAt": "2025-12-25T07:26:42.929Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 16.51,
+    "pageStart": 0.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "what-is-democracy-why-democracy",
+    "seo": {
+      "titleTag": "What is Democracy? Why Democracy? - Democratic Politics  Part 1 Class IX | PW Books",
+      "coverImageAltText": "What is Democracy? Why Democracy? - Democratic Politics  Part 1 Class IX | PW Books",
+      "ogTitle": "What is Democracy? Why Democracy? - Democratic Politics  Part 1 Class IX | PW Books",
+      "shortDescription": "Read What is Democracy? Why Democracy? from Democratic Politics  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read What is Democracy? Why Democracy? from Democratic Politics  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read What is Democracy? Why Democracy? from Democratic Politics  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/11794f62-3268-47b3-a6a2-8741ea7ad8c2.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835b1ab572bc9475e18ed8b",
+    "bookId": "682bf40c042db2abc7792d51",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Constitutional design",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4213492b-34cf-434c-9e57-27827aeffe77.zip",
+      "_id": "694ce70028d4800004943aec"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "694ce70028d4800004943aeb"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "694ce70028d4800004943aea"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "694ce70028d4800004943ae9"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685bc0888c2ad66a55f6ef88",
+        "numberOfQuestions": 11,
+        "_id": "694ce70028d4800004943ae8"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "676bf3d64b13857264256872",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "6854608d83efeddd06d7a100",
+    "chapterVersion": 7,
+    "createdAt": "2025-06-20T08:22:57.443Z",
+    "updatedAt": "2025-12-25T07:25:52.494Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 32.51,
+    "pageStart": 17.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "constitutional-design",
+    "seo": {
+      "titleTag": "Constitutional design - Democratic Politics  Part 1 Class IX | PW Books",
+      "coverImageAltText": "Constitutional design - Democratic Politics  Part 1 Class IX | PW Books",
+      "ogTitle": "Constitutional design - Democratic Politics  Part 1 Class IX | PW Books",
+      "shortDescription": "Read Constitutional design from Democratic Politics  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Constitutional design from Democratic Politics  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Constitutional design from Democratic Politics  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/11794f62-3268-47b3-a6a2-8741ea7ad8c2.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835b1ab572bc9475e18ed91",
+    "bookId": "682bf40c042db2abc7792d51",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Electoral Politics",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/82392944-b08c-4730-b1da-222a38135d1d.zip",
+      "_id": "694ce71c162722185552cfe6"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "694ce71c162722185552cfe5"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "694ce71c162722185552cfe4"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "694ce71c162722185552cfe3"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685bc24e0dbf6692223ba118",
+        "numberOfQuestions": 14,
+        "_id": "694ce71c162722185552cfe2"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "676bf3d64b13857264256872",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "6854609712c8d732ce091659",
+    "chapterVersion": 6,
+    "createdAt": "2025-06-20T08:23:00.762Z",
+    "updatedAt": "2025-12-25T07:26:20.892Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 54.51,
+    "pageStart": 33.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "electoral-politics",
+    "seo": {
+      "titleTag": "Electoral Politics - Democratic Politics  Part 1 Class IX | PW Books",
+      "coverImageAltText": "Electoral Politics - Democratic Politics  Part 1 Class IX | PW Books",
+      "ogTitle": "Electoral Politics - Democratic Politics  Part 1 Class IX | PW Books",
+      "shortDescription": "Read Electoral Politics from Democratic Politics  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electoral Politics from Democratic Politics  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electoral Politics from Democratic Politics  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/11794f62-3268-47b3-a6a2-8741ea7ad8c2.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835b1ab572bc9475e18ed97",
+    "bookId": "682bf40c042db2abc7792d51",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Working of Institutions",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c65670f6-6824-46dd-b143-cbb6b5a7ce91.zip",
+      "_id": "694ce7493e2370593ad0f5c7"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "694ce7493e2370593ad0f5c6"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "694ce7493e2370593ad0f5c5"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "694ce7493e2370593ad0f5c4"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685bc3620dbf6692223ba219",
+        "numberOfQuestions": 9,
+        "_id": "694ce7493e2370593ad0f5c3"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "676bf3d64b13857264256872",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "685460a1df8f28574f2d5028",
+    "chapterVersion": 6,
+    "createdAt": "2025-06-20T08:23:04.782Z",
+    "updatedAt": "2025-12-25T07:27:05.943Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 72.51,
+    "pageStart": 55.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "working-of-institutions",
+    "seo": {
+      "titleTag": "Working of Institutions - Democratic Politics  Part 1 Class IX | PW Books",
+      "coverImageAltText": "Working of Institutions - Democratic Politics  Part 1 Class IX | PW Books",
+      "ogTitle": "Working of Institutions - Democratic Politics  Part 1 Class IX | PW Books",
+      "shortDescription": "Read Working of Institutions from Democratic Politics  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Working of Institutions from Democratic Politics  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Working of Institutions from Democratic Politics  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/11794f62-3268-47b3-a6a2-8741ea7ad8c2.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835b1ab572bc9475e18ed9d",
+    "bookId": "682bf40c042db2abc7792d51",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Democratic Rights",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/56d98c79-957e-45b5-8fd8-e596f7bb3ba9.zip",
+      "_id": "694ce6e278c5e15d36aca616"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "694ce6e278c5e15d36aca615"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "694ce6e278c5e15d36aca614"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "694ce6e278c5e15d36aca613"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685bc5b90dbf6692223ba370",
+        "numberOfQuestions": 8,
+        "_id": "694ce6e278c5e15d36aca612"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "676bf3d64b13857264256872",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "685460ace0234d9d548c7d93",
+    "chapterVersion": 6,
+    "createdAt": "2025-06-20T08:23:09.420Z",
+    "updatedAt": "2025-12-25T07:25:22.338Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 90.51,
+    "pageStart": 73.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "democratic-rights",
+    "seo": {
+      "titleTag": "Democratic Rights - Democratic Politics  Part 1 Class IX | PW Books",
+      "coverImageAltText": "Democratic Rights - Democratic Politics  Part 1 Class IX | PW Books",
+      "ogTitle": "Democratic Rights - Democratic Politics  Part 1 Class IX | PW Books",
+      "shortDescription": "Read Democratic Rights from Democratic Politics  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Democratic Rights from Democratic Politics  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Democratic Rights from Democratic Politics  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/11794f62-3268-47b3-a6a2-8741ea7ad8c2.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  }
+]

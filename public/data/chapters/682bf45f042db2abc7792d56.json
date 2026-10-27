@@ -1,0 +1,812 @@
+[
+  {
+    "_id": "6835b204572bc9475e18eda7",
+    "bookId": "682bf45f042db2abc7792d56",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "India-Size and Location",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2c3b1af9-a8e3-456a-ba3b-b8d16e372271.zip",
+      "_id": "68c3c3384318d3e5451d15d4"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf135659991734e49f42"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "691edf135659991734e49f41"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf135659991734e49f40"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685bc6a0d4c67c32e4b0d213",
+        "numberOfQuestions": 11,
+        "_id": "691edf135659991734e49f3f"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "685bc6481cb2d928a5591a91",
+    "chapterVersion": 4,
+    "createdAt": "2025-06-18T12:42:01.612Z",
+    "updatedAt": "2025-11-20T09:27:47.559Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 5.51,
+    "pageStart": 0.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "india-size-and-location",
+    "seo": {
+      "titleTag": "India-Size and Location - Contemporary India  Part 1 Class IX | PW Books",
+      "coverImageAltText": "India-Size and Location - Contemporary India  Part 1 Class IX | PW Books",
+      "ogTitle": "India-Size and Location - Contemporary India  Part 1 Class IX | PW Books",
+      "shortDescription": "Read India-Size and Location from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read India-Size and Location from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read India-Size and Location from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a45d4910-6161-440f-9a94-5afea38f4cc2.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835b204572bc9475e18edad",
+    "bookId": "682bf45f042db2abc7792d56",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Physical Features of India",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b34e61c7-aad1-457e-b421-cd827dcbdf4f.zip",
+      "_id": "68c3c3596c23c6579a278ab0"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf137cb34a0e5798b707"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "691edf137cb34a0e5798b706"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf137cb34a0e5798b705"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685bc912d6fdde8f1046b85c",
+        "numberOfQuestions": 13,
+        "_id": "691edf137cb34a0e5798b704"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "685bc8c157a63285ffcc7449",
+    "chapterVersion": 5,
+    "createdAt": "2025-06-18T12:42:03.877Z",
+    "updatedAt": "2025-11-20T09:27:47.972Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 15.51,
+    "pageStart": 6.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "physical-features-of-india",
+    "seo": {
+      "titleTag": "Physical Features of India - Contemporary India  Part 1 Class IX | PW Books",
+      "coverImageAltText": "Physical Features of India - Contemporary India  Part 1 Class IX | PW Books",
+      "ogTitle": "Physical Features of India - Contemporary India  Part 1 Class IX | PW Books",
+      "shortDescription": "Read Physical Features of India from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Physical Features of India from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Physical Features of India from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a45d4910-6161-440f-9a94-5afea38f4cc2.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835b204572bc9475e18edb3",
+    "bookId": "682bf45f042db2abc7792d56",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Drainage",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/eb10f71c-6780-4425-a40c-6d19100afc8f.zip",
+      "_id": "68c3c36d4df6d7b75fb3f222"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf153e55498f55f47ad5"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "691edf153e55498f55f47ad4"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf153e55498f55f47ad3"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685bd34c0dbf6692223c10f7",
+        "numberOfQuestions": 16,
+        "_id": "691edf153e55498f55f47ad2"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "685bd2c31cb2d928a5592f52",
+    "chapterVersion": 6,
+    "createdAt": "2025-06-18T12:42:07.382Z",
+    "updatedAt": "2025-11-20T09:27:49.387Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 24.51,
+    "pageStart": 16.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "drainage",
+    "seo": {
+      "titleTag": "Drainage - Contemporary India  Part 1 Class IX | PW Books",
+      "coverImageAltText": "Drainage - Contemporary India  Part 1 Class IX | PW Books",
+      "ogTitle": "Drainage - Contemporary India  Part 1 Class IX | PW Books",
+      "shortDescription": "Read Drainage from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Drainage from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Drainage from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a45d4910-6161-440f-9a94-5afea38f4cc2.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835b204572bc9475e18edb9",
+    "bookId": "682bf45f042db2abc7792d56",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Climate",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d9225069-44f3-4799-bef3-9f088dae91b8.zip",
+      "_id": "68c3c3820532c5754a2b59bb"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf133e55498f55f47ab5"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "691edf133e55498f55f47ab4"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf133e55498f55f47ab3"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685bd4b83b38d495d207e62f",
+        "numberOfQuestions": 19,
+        "_id": "691edf133e55498f55f47ab2"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "685bd43516c12d77b809c4ae",
+    "chapterVersion": 5,
+    "createdAt": "2025-06-18T12:42:10.608Z",
+    "updatedAt": "2025-11-20T09:27:47.686Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 37.51,
+    "pageStart": 25.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "climate",
+    "seo": {
+      "titleTag": "Climate - Contemporary India  Part 1 Class IX | PW Books",
+      "coverImageAltText": "Climate - Contemporary India  Part 1 Class IX | PW Books",
+      "ogTitle": "Climate - Contemporary India  Part 1 Class IX | PW Books",
+      "shortDescription": "Read Climate from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Climate from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Climate from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a45d4910-6161-440f-9a94-5afea38f4cc2.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "683d789591939e781d103cd7",
+    "bookId": "682bf45f042db2abc7792d56",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Natural Vegetation and Wildlife",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ac3df745-4e77-4664-a613-f28352d4bfbe.zip",
+      "_id": "68c3c39e6c23c6579a27911f"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf14d35becdad28b66fa"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "691edf14d35becdad28b66f9"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf14d35becdad28b66f8"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685be4b2d6fdde8f1046d16c",
+        "numberOfQuestions": 11,
+        "_id": "691edf14d35becdad28b66f7"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "685be47def068b4522f1bf55",
+    "chapterVersion": 5,
+    "createdAt": "2025-06-18T12:42:14.366Z",
+    "updatedAt": "2025-11-20T09:27:48.148Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 46.51,
+    "pageStart": 38.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "natural-vegetation-and-wildlife",
+    "seo": {
+      "titleTag": "Natural Vegetation and Wildlife - Contemporary India  Part 1 Class IX | PW Books",
+      "coverImageAltText": "Natural Vegetation and Wildlife - Contemporary India  Part 1 Class IX | PW Books",
+      "ogTitle": "Natural Vegetation and Wildlife - Contemporary India  Part 1 Class IX | PW Books",
+      "shortDescription": "Read Natural Vegetation and Wildlife from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Natural Vegetation and Wildlife from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Natural Vegetation and Wildlife from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a45d4910-6161-440f-9a94-5afea38f4cc2.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835b204572bc9475e18edbf",
+    "bookId": "682bf45f042db2abc7792d56",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Population",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a38ca2ba-e847-4091-bd69-54b5afa335d1.zip",
+      "_id": "68c3c3b58ee51fcc431f9555"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf14a80a887952ca60c7"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "691edf14a80a887952ca60c6"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf14a80a887952ca60c5"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685be52fd4c67c32e4b0ed3e",
+        "numberOfQuestions": 12,
+        "_id": "691edf14a80a887952ca60c4"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "685be50b73bd3dc59e87a4cf",
+    "chapterVersion": 5,
+    "createdAt": "2025-06-18T12:42:16.998Z",
+    "updatedAt": "2025-11-20T09:27:48.164Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 54.51,
+    "pageStart": 47.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 6,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "population",
+    "seo": {
+      "titleTag": "Population - Contemporary India  Part 1 Class IX | PW Books",
+      "coverImageAltText": "Population - Contemporary India  Part 1 Class IX | PW Books",
+      "ogTitle": "Population - Contemporary India  Part 1 Class IX | PW Books",
+      "shortDescription": "Read Population from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Population from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Population from Contemporary India  Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a45d4910-6161-440f-9a94-5afea38f4cc2.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  }
+]

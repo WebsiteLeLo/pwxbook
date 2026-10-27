@@ -1,0 +1,3396 @@
+[
+  {
+    "_id": "6776ba7fcf7f97b31c8b3835",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "3",
+    "programChapterId": "67a9d594abfb698aaf598c08",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67a9d5bec04644c4fa470e03",
+    "displayOrder": 1,
+    "title": "The Living World",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c6f47c50-bafe-4398-b52e-26e484fb2a17.zip",
+      "_id": "68bfd5a60e1af4b1141fb26a"
+    },
+    "entryFilePath": "/OEBPS/Text/Chap 1 _clean_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The Living World chapter deals with extraordinary habitats in which we find living organisms, It deals with Diversity in the Living World and Taxonomic Categories. This chapter helps to classify all the plants and animals and is the basis for all the chapters.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6884e97317d8f819e9d79c30",
+        "numberOfQuestions": 3,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847f5f8eb6abd833e71b4f"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c76d7b9a03f6c28c20e02",
+        "numberOfQuestions": 25,
+        "_id": "69847f5f8eb6abd833e71b4e"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852b010332c9a98d7aa5704",
+        "numberOfQuestions": 65,
+        "_id": "69847f5f8eb6abd833e71b4d"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6885dda8794c4910213f16d0",
+        "numberOfQuestions": 10,
+        "_id": "69847f5f8eb6abd833e71b4c"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.834Z",
+    "updatedAt": "2026-02-05T11:30:39.026Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 8.51,
+    "pageStart": 2.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": false,
+    "isAiExplanationEnabled": true,
+    "slug": "the-living-world",
+    "seo": {
+      "titleTag": "The Living World - Biology (Class XI) | PW Books",
+      "coverImageAltText": "The Living World - Biology (Class XI) | PW Books",
+      "ogTitle": "The Living World - Biology (Class XI) | PW Books",
+      "shortDescription": "Read The Living World from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The Living World from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The Living World from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6884e97317d8f819e9d79c30",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 3
+      },
+      {
+        "testId": "682c76d7b9a03f6c28c20e02",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 25
+      },
+      {
+        "testId": "6852b010332c9a98d7aa5704",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 65
+      }
+    ],
+    "pyqQuestions": 3,
+    "exemplerQuestions": 25,
+    "mcqQuestions": 65,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c76d7b9a03f6c28c20e02",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852b010332c9a98d7aa5704",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6884e97317d8f819e9d79c30",
+      "682c76d7b9a03f6c28c20e02",
+      "6852b010332c9a98d7aa5704"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b383c",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "7",
+    "programChapterId": "67a9d7e2024010f50c559a6b",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67a9d7e9a78fdbb923b23c5f",
+    "displayOrder": 2,
+    "title": "Biological Classification",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/311ae205-3c19-46a8-a541-eb601540586a.zip",
+      "_id": "68bfd5b6454b16901cf90353"
+    },
+    "entryFilePath": "/OEBPS/Text/index_clean_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter on biological classification explains the system of organizing organisms into categories based on shared characteristics. It introduces the hierarchical levels of classification, from Kingdom to Species. This system, developed by Linnaeus, helps students understand the relationships between different organisms. By learning classification, students can identify species and study their evolution. Overall, it provides a foundation for understanding biodiversity, ecology, and genetics.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6884eb3dd41801453dc8cfdb",
+        "numberOfQuestions": 10,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847f662badf8d9b571b518"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c78980255280764bbf760",
+        "numberOfQuestions": 32,
+        "_id": "69847f662badf8d9b571b517"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852b078a5f3e6e96a121f35",
+        "numberOfQuestions": 107,
+        "_id": "69847f662badf8d9b571b516"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682db7a7ab86f46e382dc8f9",
+        "numberOfQuestions": 25,
+        "_id": "69847f662badf8d9b571b515"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.841Z",
+    "updatedAt": "2026-02-05T11:30:46.099Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 21.51,
+    "pageStart": 9.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "biological-classification",
+    "seo": {
+      "titleTag": "Biological Classification - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Biological Classification - Biology (Class XI) | PW Books",
+      "ogTitle": "Biological Classification - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Biological Classification from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biological Classification from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biological Classification from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6884eb3dd41801453dc8cfdb",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 10
+      },
+      {
+        "testId": "682c78980255280764bbf760",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 32
+      },
+      {
+        "testId": "6852b078a5f3e6e96a121f35",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 107
+      }
+    ],
+    "pyqQuestions": 10,
+    "exemplerQuestions": 32,
+    "mcqQuestions": 107,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c78980255280764bbf760",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852b078a5f3e6e96a121f35",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6884eb3dd41801453dc8cfdb",
+      "682c78980255280764bbf760",
+      "6852b078a5f3e6e96a121f35"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3843",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "6",
+    "programChapterId": "67aafd7160da46b9f08e9bd4",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aafd8eb199ff5a9fd90d72",
+    "displayOrder": 3,
+    "title": "Plant Kingdom",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bd147e2d-5677-434b-a38e-7786ba3b2673.zip",
+      "_id": "68bfd5cb383e5d395aacf502"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-3_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter \"Plant Kingdom,\" will explain the detailed classification of plants based on their morphological and reproductive features, including algae, bryophytes, pteridophytes, gymnosperms, and angiosperms. This chapter aims to help you understand the diversity of plants and their ecological importance, providing a strong foundation for advanced topics in botany and highlighting the significance of plants in sustaining life on Earth.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6884efba84e5a6b37bd0795c",
+        "numberOfQuestions": 20,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847f7b792fda242314f195"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c79a0523b2b5fc5d2fd3a",
+        "numberOfQuestions": 24,
+        "_id": "69847f7b792fda242314f194"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852b2c5332c9a98d7aa5928",
+        "numberOfQuestions": 106,
+        "_id": "69847f7b792fda242314f193"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682db872ab86f46e382dc95f",
+        "numberOfQuestions": 11,
+        "_id": "69847f7b792fda242314f192"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.847Z",
+    "updatedAt": "2026-02-05T11:31:07.232Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 35.51,
+    "pageStart": 22.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "plant-kingdom",
+    "seo": {
+      "titleTag": "Plant Kingdom - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Plant Kingdom - Biology (Class XI) | PW Books",
+      "ogTitle": "Plant Kingdom - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Plant Kingdom from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Plant Kingdom from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Plant Kingdom from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6884efba84e5a6b37bd0795c",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "682c79a0523b2b5fc5d2fd3a",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 24
+      },
+      {
+        "testId": "6852b2c5332c9a98d7aa5928",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 106
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 24,
+    "mcqQuestions": 106,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c79a0523b2b5fc5d2fd3a",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852b2c5332c9a98d7aa5928",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6884efba84e5a6b37bd0795c",
+      "682c79a0523b2b5fc5d2fd3a",
+      "6852b2c5332c9a98d7aa5928"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3851",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "3",
+    "programChapterId": "67aafdab7e4c1890721af64d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aafdbb7e4c1890721af655",
+    "displayOrder": 4,
+    "title": "Animal Kingdom",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8c808610-f448-4290-b4f8-d31b9191fe08.zip",
+      "_id": "68c7c663805376273f8b82ec"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-4_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter on the \"Animal Kingdom\" introduces students to the classification of animals based on their characteristics, such as body structure, habitat, and nutrition. It covers various groups like mammals, birds, reptiles, amphibians, and invertebrates, explaining their distinct features and roles in ecosystems. This chapter helps students develop an understanding of biodiversity and the interconnectedness of living organisms, enhancing their knowledge of biology and encouraging critical thinking about conservation and environmental balance. It also fosters curiosity and a deeper appreciation for the natural world.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6884f0967db6370a6503f33b",
+        "numberOfQuestions": 27,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847f829537328f2e5337db"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c7a9fb9a03f6c28c21104",
+        "numberOfQuestions": 45,
+        "_id": "69847f829537328f2e5337da"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852b343332c9a98d7aa59a4",
+        "numberOfQuestions": 127,
+        "_id": "69847f829537328f2e5337d9"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682db9053de21a2ab6143a1f",
+        "numberOfQuestions": 25,
+        "_id": "69847f829537328f2e5337d8"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.853Z",
+    "updatedAt": "2026-02-05T11:31:14.816Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 53.51,
+    "pageStart": 36.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "animal-kingdom",
+    "seo": {
+      "titleTag": "Animal Kingdom - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Animal Kingdom - Biology (Class XI) | PW Books",
+      "ogTitle": "Animal Kingdom - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Animal Kingdom from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Animal Kingdom from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Animal Kingdom from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6884f0967db6370a6503f33b",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 27
+      },
+      {
+        "testId": "682c7a9fb9a03f6c28c21104",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 45
+      },
+      {
+        "testId": "6852b343332c9a98d7aa59a4",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 127
+      }
+    ],
+    "pyqQuestions": 27,
+    "exemplerQuestions": 45,
+    "mcqQuestions": 127,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c7a9fb9a03f6c28c21104",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852b343332c9a98d7aa59a4",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6884f0967db6370a6503f33b",
+      "682c7a9fb9a03f6c28c21104",
+      "6852b343332c9a98d7aa59a4"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b384a",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "10",
+    "programChapterId": "67aafdc961f6fd6da55cdc6c",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aafdd2638492c9aa9836ad",
+    "displayOrder": 5,
+    "title": "Morphology of Flowering Plants",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/82ce8028-114c-48f7-bf97-7c969a3b85a4.zip",
+      "_id": "68bfd5e90d6634ca1fd736cd"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-5 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter \"Morphology of Flowering Plants\" focuses on the external structure and characteristics of various parts of plants, such as roots, stems, leaves, flowers, and fruits. It helps you to understand the diversity of plant forms and functions, forming a foundation for studying plant biology and their role in the ecosystem. This chapter enhances your knowledge of plant growth, adaptation, and classification, essential for higher-level studies in botany.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6884f15f84e5a6b37bd07ac8",
+        "numberOfQuestions": 20,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847f8cf3c4e6a71bee63d9"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c7b707f420a6e782eed92",
+        "numberOfQuestions": 23,
+        "_id": "69847f8cf3c4e6a71bee63d8"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852b3b9fdf0d8ce3bc35836",
+        "numberOfQuestions": 70,
+        "_id": "69847f8cf3c4e6a71bee63d7"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682db9c4ba445b8571f346af",
+        "numberOfQuestions": 10,
+        "_id": "69847f8cf3c4e6a71bee63d6"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.850Z",
+    "updatedAt": "2026-02-05T11:31:24.616Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 69.51,
+    "pageStart": 56.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "morphology-of-flowering-plants",
+    "seo": {
+      "titleTag": "Morphology of Flowering Plants - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Morphology of Flowering Plants - Biology (Class XI) | PW Books",
+      "ogTitle": "Morphology of Flowering Plants - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Morphology of Flowering Plants from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Morphology of Flowering Plants from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Morphology of Flowering Plants from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6884f15f84e5a6b37bd07ac8",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "682c7b707f420a6e782eed92",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 23
+      },
+      {
+        "testId": "6852b3b9fdf0d8ce3bc35836",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 70
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 23,
+    "mcqQuestions": 70,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c7b707f420a6e782eed92",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852b3b9fdf0d8ce3bc35836",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6884f15f84e5a6b37bd07ac8",
+      "682c7b707f420a6e782eed92",
+      "6852b3b9fdf0d8ce3bc35836"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3858",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "3",
+    "programChapterId": "67aafde3c4bd2cd30b0ba3ed",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aafdecc10b39b11dfe3be4",
+    "displayOrder": 6,
+    "title": "Anatomy Of Flowering Plants",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b944ca4d-d047-4343-855e-93691a55d803.zip",
+      "_id": "68bfd5f9df31fd478fd8d5d8"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-6_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Anatomy of Flowering Plants\" delves into the internal structure of plants, exploring tissues such as the epidermis, cortex, vascular bundles, and xylem and phloem. It helps you understand how these tissues work together to support plant growth, transport, and function. This chapter builds a strong foundation for understanding plant physiology and prepares you for more advanced topics in botany and plant science.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6884f208c80eed15fbe82843",
+        "numberOfQuestions": 8,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847f9686e77314e1e16f43"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c7c78d7420f308fa026c9",
+        "numberOfQuestions": 13,
+        "_id": "69847f9686e77314e1e16f42"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852c05f597e0e3c176567cf",
+        "numberOfQuestions": 41,
+        "_id": "69847f9686e77314e1e16f41"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dba3f0ef496e707d63c5f",
+        "numberOfQuestions": 25,
+        "_id": "69847f9686e77314e1e16f40"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.859Z",
+    "updatedAt": "2026-02-05T11:31:34.463Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 77.51,
+    "pageStart": 70.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 6,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "anatomy-of-flowering-plants",
+    "seo": {
+      "titleTag": "Anatomy Of Flowering Plants - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Anatomy Of Flowering Plants - Biology (Class XI) | PW Books",
+      "ogTitle": "Anatomy Of Flowering Plants - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Anatomy Of Flowering Plants from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Anatomy Of Flowering Plants from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Anatomy Of Flowering Plants from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6884f208c80eed15fbe82843",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 8
+      },
+      {
+        "testId": "682c7c78d7420f308fa026c9",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 13
+      },
+      {
+        "testId": "6852c05f597e0e3c176567cf",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 41
+      }
+    ],
+    "pyqQuestions": 8,
+    "exemplerQuestions": 13,
+    "mcqQuestions": 41,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c7c78d7420f308fa026c9",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852c05f597e0e3c176567cf",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6884f208c80eed15fbe82843",
+      "682c7c78d7420f308fa026c9",
+      "6852c05f597e0e3c176567cf"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b385f",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "3",
+    "programChapterId": "67aafe22642acc860d7732a9",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aafe2f106100bdaf359822",
+    "displayOrder": 7,
+    "title": "Structural Organisation In Animals",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ce7f518d-9e38-4be2-997c-7f2bea91e216.zip",
+      "_id": "6abb40da677dd3444d3efd81"
+    },
+    "entryFilePath": "index.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "6884f2d440ce47b9f3e80288",
+        "numberOfQuestions": 20,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6abb40da677dd3444d3efd80"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c7df57f420a6e782eefba",
+        "numberOfQuestions": 12,
+        "_id": "6abb40da677dd3444d3efd7f"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852c0d1537996cdb5c232d7",
+        "numberOfQuestions": 16,
+        "_id": "6abb40da677dd3444d3efd7e"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dbb13ba445b8571f347fd",
+        "numberOfQuestions": 2,
+        "_id": "6abb40da677dd3444d3efd7d"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "createdAt": "2025-01-02T16:10:39.864Z",
+    "updatedAt": "2026-09-29T04:38:50.875Z",
+    "__v": 0,
+    "chapterVersion": 8,
+    "isImportant": 0,
+    "pageEnd": 83.51,
+    "pageStart": 78.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 7,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "structural-organisation-in-animals",
+    "seo": {
+      "titleTag": "Structural Organisation In Animals - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Structural Organisation In Animals - Biology (Class XI) | PW Books",
+      "ogTitle": "Structural Organisation In Animals - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Structural Organisation In Animals from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Structural Organisation In Animals from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Structural Organisation In Animals from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6884f2d440ce47b9f3e80288",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "682c7df57f420a6e782eefba",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 12
+      },
+      {
+        "testId": "6852c0d1537996cdb5c232d7",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 16
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 12,
+    "mcqQuestions": 16,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c7df57f420a6e782eefba",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852c0d1537996cdb5c232d7",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6884f2d440ce47b9f3e80288",
+      "682c7df57f420a6e782eefba",
+      "6852c0d1537996cdb5c232d7"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3866",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "6",
+    "programChapterId": "67aafe3eb199ff5a9fd90d9d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aafe48c444394223818a15",
+    "displayOrder": 8,
+    "title": "Cell: The Unit of Life",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1ae07c4e-f016-4045-b96c-a78b888ca78f.zip",
+      "_id": "68cd45c4fa377df65c5c05e9"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-8 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter \"Cell: The Unit of Life\" teaches students about the basic structural and functional unit of living organisms, the cell. It covers different types of cells, including prokaryotic and eukaryotic, and their components like the nucleus, mitochondria, and cell membrane. This chapter helps students understand the foundation of biology, as it explains how cells work together to perform essential life processes. It enhances their knowledge of life science, promoting critical thinking about health, growth, and cellular functions in both plants and animals.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 5
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6884f7a6c0347ad8414e9c51",
+        "numberOfQuestions": 27,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847fb38568b5f33cf3f6b5"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c7ee9d7420f308fa027ba",
+        "numberOfQuestions": 38,
+        "_id": "69847fb38568b5f33cf3f6b4"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852c12583f39c2006ddb9af",
+        "numberOfQuestions": 111,
+        "_id": "69847fb38568b5f33cf3f6b3"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dbda52b5ff80b78192f31",
+        "numberOfQuestions": 14,
+        "_id": "69847fb38568b5f33cf3f6b2"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.872Z",
+    "updatedAt": "2026-02-05T11:32:03.077Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 102.51,
+    "pageStart": 86.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 8,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "cell-the-unit-of-life",
+    "seo": {
+      "titleTag": "Cell: The Unit of Life - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Cell: The Unit of Life - Biology (Class XI) | PW Books",
+      "ogTitle": "Cell: The Unit of Life - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Cell: The Unit of Life from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Cell: The Unit of Life from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Cell: The Unit of Life from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6884f7a6c0347ad8414e9c51",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 27
+      },
+      {
+        "testId": "682c7ee9d7420f308fa027ba",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 38
+      },
+      {
+        "testId": "6852c12583f39c2006ddb9af",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 111
+      }
+    ],
+    "pyqQuestions": 27,
+    "exemplerQuestions": 38,
+    "mcqQuestions": 111,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c7ee9d7420f308fa027ba",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852c12583f39c2006ddb9af",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6884f7a6c0347ad8414e9c51",
+      "682c7ee9d7420f308fa027ba",
+      "6852c12583f39c2006ddb9af"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b386d",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "9",
+    "programChapterId": "67aafe58cbd2ac583d1352fe",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aafe63889f5e624547f0a1",
+    "displayOrder": 9,
+    "title": "Biomolecules",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/11f9f596-8a6d-4b51-843e-5baac3e5965c.zip",
+      "_id": "69295e3a33a700f116000759"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-9_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Biomolecules\" introduces students to the essential organic compounds that make up living organisms, including carbohydrates, proteins, lipids, and nucleic acids. It explains their structures, functions, and how they contribute to the growth and maintenance of life. This chapter helps students understand the chemical basis of life, linking biology with chemistry and biochemistry. It fosters a deeper understanding of cellular processes and supports students in grasping key concepts related to health, nutrition, and molecular biology.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6884fc922f01145dde69128f",
+        "numberOfQuestions": 32,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847fbb38726314fdaa6cef"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c7fc9db7d1651c40f2523",
+        "numberOfQuestions": 27,
+        "_id": "69847fbb38726314fdaa6cee"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "685e3dd02b36ec3d8f6ae67c",
+        "numberOfQuestions": 88,
+        "_id": "69847fbb38726314fdaa6ced"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dbf28ce28f27f0a0065f1",
+        "numberOfQuestions": 11,
+        "_id": "69847fbb38726314fdaa6cec"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.876Z",
+    "updatedAt": "2026-02-05T11:32:11.426Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 118.51,
+    "pageStart": 103.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 9,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "biomolecules",
+    "seo": {
+      "titleTag": "Biomolecules - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Biomolecules - Biology (Class XI) | PW Books",
+      "ogTitle": "Biomolecules - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Biomolecules from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biomolecules from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biomolecules from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6884fc922f01145dde69128f",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 32
+      },
+      {
+        "testId": "682c7fc9db7d1651c40f2523",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 27
+      },
+      {
+        "testId": "685e3dd02b36ec3d8f6ae67c",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 88
+      }
+    ],
+    "pyqQuestions": 32,
+    "exemplerQuestions": 27,
+    "mcqQuestions": 88,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c7fc9db7d1651c40f2523",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "685e3dd02b36ec3d8f6ae67c",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6884fc922f01145dde69128f",
+      "682c7fc9db7d1651c40f2523",
+      "685e3dd02b36ec3d8f6ae67c"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3874",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "6",
+    "programChapterId": "67aafe70cbd2ac583d135313",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aafe78fab721007481a1f4",
+    "displayOrder": 10,
+    "title": "Cell Cycle And Cell Division",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a5709a00-74d5-4664-aa7d-13905d0822a5.zip",
+      "_id": "68c7c6e5c6b939aad0dc2ad1"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter 10_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Cell Cycle and Cell Division\" explains the process by which cells grow, replicate, and divide, covering stages like interphase, mitosis, and meiosis. It discusses the importance of cell division for growth, reproduction, and repair in organisms. This chapter helps students understand the mechanisms of genetic inheritance and how cells maintain life functions. It also provides insight into the significance of cellular processes in development, disease, and the continuity of life.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6884ff1a84e5a6b37bd083a8",
+        "numberOfQuestions": 31,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847fcb05ae29d4f21ad45a"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c80a6523b2b5fc5d30d91",
+        "numberOfQuestions": 42,
+        "_id": "69847fcb05ae29d4f21ad459"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852c2c89609831dc9ac3abc",
+        "numberOfQuestions": 97,
+        "_id": "69847fcb05ae29d4f21ad458"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dc024ab86f46e382dcd60",
+        "numberOfQuestions": 9,
+        "_id": "69847fcb05ae29d4f21ad457"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.885Z",
+    "updatedAt": "2026-02-05T11:32:27.705Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 129.51,
+    "pageStart": 119.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 10,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "cell-cycle-and-cell-division",
+    "seo": {
+      "titleTag": "Cell Cycle And Cell Division - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Cell Cycle And Cell Division - Biology (Class XI) | PW Books",
+      "ogTitle": "Cell Cycle And Cell Division - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Cell Cycle And Cell Division from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Cell Cycle And Cell Division from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Cell Cycle And Cell Division from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6884ff1a84e5a6b37bd083a8",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 31
+      },
+      {
+        "testId": "682c80a6523b2b5fc5d30d91",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 42
+      },
+      {
+        "testId": "6852c2c89609831dc9ac3abc",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 97
+      }
+    ],
+    "pyqQuestions": 31,
+    "exemplerQuestions": 42,
+    "mcqQuestions": 97,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c80a6523b2b5fc5d30d91",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852c2c89609831dc9ac3abc",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6884ff1a84e5a6b37bd083a8",
+      "682c80a6523b2b5fc5d30d91",
+      "6852c2c89609831dc9ac3abc"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b387b",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "11",
+    "programChapterId": "67aafe8bc4bd2cd30b0ba41a",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aafe95c10b39b11dfe3c19",
+    "displayOrder": 11,
+    "title": "Photosynthesis In Higher Plants",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cc242277-86d0-4749-9e42-df1cd0dba87d.zip",
+      "_id": "68bfd67d372f7d7d914b3081"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-13_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Photosynthesis in Higher Plants\" explains the process by which plants convert light energy into chemical energy, producing glucose and oxygen. It covers the stages of photosynthesis, including the light-dependent and light-independent reactions, and the role of chlorophyll. This chapter helps students understand the fundamental process that sustains life on Earth, linking plant biology with environmental science. It also enhances their knowledge of energy flow in ecosystems, promoting an appreciation for the importance of plants in maintaining ecological balance.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688500ca7db6370a6503fcac",
+        "numberOfQuestions": 18,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847fd559f68860a77e8a80"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c816128de05ea0f2de488",
+        "numberOfQuestions": 58,
+        "_id": "69847fd559f68860a77e8a7f"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852c4683b011fc20a4cafbf",
+        "numberOfQuestions": 143,
+        "_id": "69847fd559f68860a77e8a7e"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dc19a2b5ff80b78193067",
+        "numberOfQuestions": 25,
+        "_id": "69847fd559f68860a77e8a7d"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.887Z",
+    "updatedAt": "2026-02-05T11:32:37.508Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 151.51,
+    "pageStart": 132.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 11,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "photosynthesis-in-higher-plants",
+    "seo": {
+      "titleTag": "Photosynthesis In Higher Plants - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Photosynthesis In Higher Plants - Biology (Class XI) | PW Books",
+      "ogTitle": "Photosynthesis In Higher Plants - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Photosynthesis In Higher Plants from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Photosynthesis In Higher Plants from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Photosynthesis In Higher Plants from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688500ca7db6370a6503fcac",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 18
+      },
+      {
+        "testId": "682c816128de05ea0f2de488",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 58
+      },
+      {
+        "testId": "6852c4683b011fc20a4cafbf",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 143
+      }
+    ],
+    "pyqQuestions": 18,
+    "exemplerQuestions": 58,
+    "mcqQuestions": 143,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c816128de05ea0f2de488",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852c4683b011fc20a4cafbf",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688500ca7db6370a6503fcac",
+      "682c816128de05ea0f2de488",
+      "6852c4683b011fc20a4cafbf"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3882",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "8",
+    "programChapterId": "67aafea5093f9e9b034df857",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aafeb1638492c9aa9836d8",
+    "displayOrder": 12,
+    "title": "Respiration In Plants",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/627c7cbd-5b03-4138-ba4a-fdf1c9278915.zip",
+      "_id": "69295f34ba208b87f29cab9f"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-12_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Respiration in Plants\" explains how plants break down glucose to release energy through cellular respiration, covering processes like glycolysis, the Krebs cycle, and the electron transport chain. It highlights the importance of respiration in providing energy for growth, development, and other vital functions. This chapter helps students understand the role of energy transfer in living organisms and the difference between respiration and photosynthesis. It also deepens their appreciation for how plants maintain their life processes and contribute to the energy balance in ecosystems.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688502282f01145dde69161a",
+        "numberOfQuestions": 12,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847fdf7861b259ec2c3a4f"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c82517f420a6e782ef2bd",
+        "numberOfQuestions": 43,
+        "_id": "69847fdf7861b259ec2c3a4e"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852c4dc9609831dc9ac3b34",
+        "numberOfQuestions": 99,
+        "_id": "69847fdf7861b259ec2c3a4d"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dc2bf05ffdbf64744a337",
+        "numberOfQuestions": 12,
+        "_id": "69847fdf7861b259ec2c3a4c"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.888Z",
+    "updatedAt": "2026-02-05T11:32:47.188Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 164.51,
+    "pageStart": 152.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 12,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "respiration-in-plants",
+    "seo": {
+      "titleTag": "Respiration In Plants - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Respiration In Plants - Biology (Class XI) | PW Books",
+      "ogTitle": "Respiration In Plants - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Respiration In Plants from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Respiration In Plants from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Respiration In Plants from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688502282f01145dde69161a",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 12
+      },
+      {
+        "testId": "682c82517f420a6e782ef2bd",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 43
+      },
+      {
+        "testId": "6852c4dc9609831dc9ac3b34",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 99
+      }
+    ],
+    "pyqQuestions": 12,
+    "exemplerQuestions": 43,
+    "mcqQuestions": 99,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c82517f420a6e782ef2bd",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852c4dc9609831dc9ac3b34",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688502282f01145dde69161a",
+      "682c82517f420a6e782ef2bd",
+      "6852c4dc9609831dc9ac3b34"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3889",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "5",
+    "programChapterId": "67aafebfcbd2ac583d13533c",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aafecdcec46633d129d86e",
+    "displayOrder": 13,
+    "title": "Plant Growth And Development",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d432fbe0-2f8e-45cf-bf59-37227b5a1eea.zip",
+      "_id": "68c7c70720d080cf155887ed"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-13 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Plant Growth and Development\" explores the processes that control the growth, development, and reproduction of plants. It covers topics like plant hormones, germination, flowering, and the stages of growth from seed to mature plant. This chapter helps students understand the factors influencing plant growth and the mechanisms behind processes like photoperiodism and tropism. It also enhances their knowledge of agriculture, ecology, and plant biology, fostering an appreciation for how plants adapt to their environment and contribute to ecosystems.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6885031ec80eed15fbe837ad",
+        "numberOfQuestions": 20,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847ff489de8f9dbe933f60"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c83180255280764bc00bb",
+        "numberOfQuestions": 48,
+        "_id": "69847ff489de8f9dbe933f5f"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852c552597e0e3c176573a4",
+        "numberOfQuestions": 92,
+        "_id": "69847ff489de8f9dbe933f5e"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dd24a0255280764bc8afa",
+        "numberOfQuestions": 10,
+        "_id": "69847ff489de8f9dbe933f5d"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.889Z",
+    "updatedAt": "2026-02-05T11:33:08.707Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 179.51,
+    "pageStart": 165.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 13,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "plant-growth-and-development",
+    "seo": {
+      "titleTag": "Plant Growth And Development - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Plant Growth And Development - Biology (Class XI) | PW Books",
+      "ogTitle": "Plant Growth And Development - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Plant Growth And Development from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Plant Growth And Development from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Plant Growth And Development from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6885031ec80eed15fbe837ad",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "682c83180255280764bc00bb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 48
+      },
+      {
+        "testId": "6852c552597e0e3c176573a4",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 92
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 48,
+    "mcqQuestions": 92,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c83180255280764bc00bb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852c552597e0e3c176573a4",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6885031ec80eed15fbe837ad",
+      "682c83180255280764bc00bb",
+      "6852c552597e0e3c176573a4"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3897",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "7",
+    "programChapterId": "67aafedb39aa2dca9024a00b",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aafeebe20ea4a56eb2c7a1",
+    "displayOrder": 14,
+    "title": "Breathing And Exchange Of Gases",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7a43bd78-222e-4ba4-a076-131d0b91aba0.zip",
+      "_id": "68bfd6ad383e5d395aad01f9"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-14_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Breathing and Exchange of Gases\" explains the process of respiration in organisms, focusing on how gases like oxygen and carbon dioxide are exchanged in humans and other living beings. It helps you understand the mechanisms of the respiratory system, including the structure of the lungs, alveoli, and the role of hemoglobin in oxygen transport. This chapter provides a foundation for learning about energy production, metabolism, and the importance of respiration in sustaining life.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68850562c443f6d0cf3b662b",
+        "numberOfQuestions": 15,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847fff8036734e0af903f4"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c84473fdd42b47e93c183",
+        "numberOfQuestions": 32,
+        "_id": "69847fff8036734e0af903f3"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852c5c3434628372c9f47de",
+        "numberOfQuestions": 83,
+        "_id": "69847fff8036734e0af903f2"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dc37c94fcae443037b7d9",
+        "numberOfQuestions": 14,
+        "_id": "69847fff8036734e0af903f1"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.892Z",
+    "updatedAt": "2026-02-05T11:33:19.421Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 191.51,
+    "pageStart": 182.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 14,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "breathing-and-exchange-of-gases",
+    "seo": {
+      "titleTag": "Breathing And Exchange Of Gases - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Breathing And Exchange Of Gases - Biology (Class XI) | PW Books",
+      "ogTitle": "Breathing And Exchange Of Gases - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Breathing And Exchange Of Gases from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Breathing And Exchange Of Gases from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Breathing And Exchange Of Gases from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68850562c443f6d0cf3b662b",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "682c84473fdd42b47e93c183",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 32
+      },
+      {
+        "testId": "6852c5c3434628372c9f47de",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 83
+      }
+    ],
+    "pyqQuestions": 15,
+    "exemplerQuestions": 32,
+    "mcqQuestions": 83,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c84473fdd42b47e93c183",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852c5c3434628372c9f47de",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68850562c443f6d0cf3b662b",
+      "682c84473fdd42b47e93c183",
+      "6852c5c3434628372c9f47de"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3890",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "7",
+    "programChapterId": "67aaff02b199ff5a9fd90dd1",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aaff0e2947c78638de043e",
+    "displayOrder": 15,
+    "title": "Body Fluids And Circulation",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e9ed9adc-0fde-4509-9434-339bd8b3b7bc.zip",
+      "_id": "68bfd6c11bb7c12c2371ba84"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-15_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Body Fluids and Circulation\" explains the circulatory system in humans, focusing on the heart, blood, and blood vessels. It helps you understand how blood circulates to transport nutrients, oxygen, and waste products, supporting overall body function. This chapter provides a strong foundation for understanding the importance of circulation in maintaining homeostasis and health, essential for advanced studies in human physiology and medicine.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68850705c443f6d0cf3b690a",
+        "numberOfQuestions": 18,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69848009260f6d02c1c2119b"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c8509d7420f308fa033e3",
+        "numberOfQuestions": 37,
+        "_id": "69848009260f6d02c1c2119a"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852c67771682bf1676e9631",
+        "numberOfQuestions": 109,
+        "_id": "69848009260f6d02c1c21199"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "67ac674a79181e0b95d1568c",
+        "numberOfQuestions": 14,
+        "_id": "69848009260f6d02c1c21198"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.891Z",
+    "updatedAt": "2026-02-05T11:33:29.646Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 203.51,
+    "pageStart": 192.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 15,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "body-fluids-and-circulation",
+    "seo": {
+      "titleTag": "Body Fluids And Circulation - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Body Fluids And Circulation - Biology (Class XI) | PW Books",
+      "ogTitle": "Body Fluids And Circulation - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Body Fluids And Circulation from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Body Fluids And Circulation from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Body Fluids And Circulation from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68850705c443f6d0cf3b690a",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 18
+      },
+      {
+        "testId": "682c8509d7420f308fa033e3",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 37
+      },
+      {
+        "testId": "6852c67771682bf1676e9631",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 109
+      }
+    ],
+    "pyqQuestions": 18,
+    "exemplerQuestions": 37,
+    "mcqQuestions": 109,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c8509d7420f308fa033e3",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852c67771682bf1676e9631",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68850705c443f6d0cf3b690a",
+      "682c8509d7420f308fa033e3",
+      "6852c67771682bf1676e9631"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b389e",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "9",
+    "programChapterId": "67aaff1eb199ff5a9fd90de6",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aaff29689a64f858526394",
+    "displayOrder": 16,
+    "title": "Excretory Products And Their Elimination",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/22fac01d-60af-486b-a3e2-143a835aa6bd.zip",
+      "_id": "68bfd6d2f5c01a474057299c"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-19 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter \"Excretory Products and Their Elimination\" explains the process of excretion in humans and other organisms, focusing on the kidneys, urine formation, and waste removal. It helps you understand how the body maintains chemical balance by eliminating harmful waste products. This chapter forms a foundation for understanding homeostasis and the role of the excretory system in maintaining overall health, essential for further studies in physiology and medicine.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6885081f1cdb3bcddb759ebf",
+        "numberOfQuestions": 13,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6984801641c829002fda7605"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682ed27fab6d6b3b3682ffae",
+        "numberOfQuestions": 45,
+        "_id": "6984801641c829002fda7604"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852c6e7597e0e3c1765744e",
+        "numberOfQuestions": 99,
+        "_id": "6984801641c829002fda7603"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dc598ab86f46e382dd18d",
+        "numberOfQuestions": 12,
+        "_id": "6984801641c829002fda7602"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.893Z",
+    "updatedAt": "2026-02-05T11:33:42.900Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 215.51,
+    "pageStart": 204.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 16,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "excretory-products-and-their-elimination",
+    "seo": {
+      "titleTag": "Excretory Products And Their Elimination - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Excretory Products And Their Elimination - Biology (Class XI) | PW Books",
+      "ogTitle": "Excretory Products And Their Elimination - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Excretory Products And Their Elimination from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Excretory Products And Their Elimination from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Excretory Products And Their Elimination from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6885081f1cdb3bcddb759ebf",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 13
+      },
+      {
+        "testId": "682ed27fab6d6b3b3682ffae",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 45
+      },
+      {
+        "testId": "6852c6e7597e0e3c1765744e",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 99
+      }
+    ],
+    "pyqQuestions": 13,
+    "exemplerQuestions": 45,
+    "mcqQuestions": 99,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682ed27fab6d6b3b3682ffae",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852c6e7597e0e3c1765744e",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6885081f1cdb3bcddb759ebf",
+      "682ed27fab6d6b3b3682ffae",
+      "6852c6e7597e0e3c1765744e"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b38a5",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "6",
+    "programChapterId": "67aaff3b39aa2dca9024a013",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aaff47ba368a8027c72c2a",
+    "displayOrder": 17,
+    "title": "Locomotion And Movement",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/736ea7b4-5e74-4454-8078-ece6c0ceee99.zip",
+      "_id": "69295eed564540a5c0450115"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-17_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter \"Locomotion and Movement\" explains the mechanisms of movement in animals, focusing on muscles, bones, and the types of locomotion, including walking, swimming, and flying. It helps you understand how the muscular and skeletal systems work together to enable movement. This chapter provides a foundation for studying muscle function, biomechanics, and the relationship between structure and function in animal physiology.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688509342f01145dde6919da",
+        "numberOfQuestions": 16,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6984801f19fd74fa0e0253f5"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682ed379ab6d6b3b36830017",
+        "numberOfQuestions": 39,
+        "_id": "6984801f19fd74fa0e0253f4"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852c7b0434628372c9f4952",
+        "numberOfQuestions": 99,
+        "_id": "6984801f19fd74fa0e0253f3"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dc7ca0ef496e707d641f1",
+        "numberOfQuestions": 10,
+        "_id": "6984801f19fd74fa0e0253f2"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.896Z",
+    "updatedAt": "2026-02-05T11:33:51.954Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 228.51,
+    "pageStart": 216.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 17,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "locomotion-and-movement",
+    "seo": {
+      "titleTag": "Locomotion And Movement - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Locomotion And Movement - Biology (Class XI) | PW Books",
+      "ogTitle": "Locomotion And Movement - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Locomotion And Movement from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Locomotion And Movement from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Locomotion And Movement from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688509342f01145dde6919da",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 16
+      },
+      {
+        "testId": "682ed379ab6d6b3b36830017",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 39
+      },
+      {
+        "testId": "6852c7b0434628372c9f4952",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 99
+      }
+    ],
+    "pyqQuestions": 16,
+    "exemplerQuestions": 39,
+    "mcqQuestions": 99,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682ed379ab6d6b3b36830017",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852c7b0434628372c9f4952",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688509342f01145dde6919da",
+      "682ed379ab6d6b3b36830017",
+      "6852c7b0434628372c9f4952"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b38ac",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "5",
+    "programChapterId": "67aaff6561f6fd6da55cdcc0",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aaff775a8afd10578ce8d4",
+    "displayOrder": 18,
+    "title": "Neural Control And Coordination",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/500b1125-6acb-4c0f-8f22-63bcd4a29d93.zip",
+      "_id": "68bfd6f04ca5999d7e0a9bfb"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-18_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Neural Control and Coordination\" explains the workings of the human nervous system, including the structure and function of neurons and the central and peripheral nervous systems. This chapter helps you understand how the body responds to different stimuli and maintains coordination, forming a base for learning advanced topics in biology.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68850a9fc0347ad8414ea7a1",
+        "numberOfQuestions": 6,
+        "type": [
+          "NEET"
+        ],
+        "_id": "691edf142e2504b66ea926c8"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c873c847a14912fd50574",
+        "numberOfQuestions": 32,
+        "_id": "691edf142e2504b66ea926c7"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852c80983f39c2006ddf290",
+        "numberOfQuestions": 57,
+        "_id": "691edf142e2504b66ea926c6"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "67b4bcb229832ae6649d0023",
+        "numberOfQuestions": 10,
+        "_id": "691edf142e2504b66ea926c5"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "68405475450edb732ac28b03",
+    "createdAt": "2025-01-02T16:10:39.897Z",
+    "updatedAt": "2025-11-20T09:27:48.601Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 237.51,
+    "pageStart": 229.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 18,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "neural-control-and-coordination",
+    "seo": {
+      "titleTag": "Neural Control And Coordination - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Neural Control And Coordination - Biology (Class XI) | PW Books",
+      "ogTitle": "Neural Control And Coordination - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Neural Control And Coordination from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Neural Control And Coordination from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Neural Control And Coordination from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68850a9fc0347ad8414ea7a1",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 6
+      },
+      {
+        "testId": "682c873c847a14912fd50574",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 32
+      },
+      {
+        "testId": "6852c80983f39c2006ddf290",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 57
+      }
+    ],
+    "pyqQuestions": 6,
+    "exemplerQuestions": 32,
+    "mcqQuestions": 57,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c873c847a14912fd50574",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852c80983f39c2006ddf290",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68850a9fc0347ad8414ea7a1",
+      "682c873c847a14912fd50574",
+      "6852c80983f39c2006ddf290"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b38c1",
+    "bookId": "67765369a7479393acd73a3b",
+    "status": "ACTIVE",
+    "noOfSections": "5",
+    "programChapterId": "67aaff87c4bd2cd30b0ba439",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "67aaff95ba368a8027c72c3e",
+    "displayOrder": 19,
+    "title": "Chemical Coordination And Integration",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/54c3436a-ec50-4c1e-ad5a-45ca30720d6a.zip",
+      "_id": "69295e7b96e0d8f997806bbc"
+    },
+    "entryFilePath": "/OEBPS/Text/ch-22_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The chapter \"Chemical Coordination and Integration\" will explain how hormones, secreted by various endocrine glands, regulate and coordinate vital physiological processes. This chapter aims to help you appreciate how the body’s internal environment is maintained through hormonal balance and gain insights into how hormonal imbalances can affect health. It provides foundational knowledge that will prepare you for deeper explorations in human physiology and medical science.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2024",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 3
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68850c4ec0347ad8414ea7d3",
+        "numberOfQuestions": 15,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6984802d8eb6abd833e72567"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c894b0255280764bc0345",
+        "numberOfQuestions": 40,
+        "_id": "6984802d8eb6abd833e72566"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852c861597e0e3c17657741",
+        "numberOfQuestions": 101,
+        "_id": "6984802d8eb6abd833e72565"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682dca8b0ef496e707d64426",
+        "numberOfQuestions": 9,
+        "_id": "6984802d8eb6abd833e72564"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.902Z",
+    "updatedAt": "2026-02-05T11:34:05.064Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 249.5,
+    "pageStart": 238.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 19,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "chemical-coordination-and-integration",
+    "seo": {
+      "titleTag": "Chemical Coordination And Integration - Biology (Class XI) | PW Books",
+      "coverImageAltText": "Chemical Coordination And Integration - Biology (Class XI) | PW Books",
+      "ogTitle": "Chemical Coordination And Integration - Biology (Class XI) | PW Books",
+      "shortDescription": "Read Chemical Coordination And Integration from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Coordination And Integration from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Coordination And Integration from Biology (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b25cc25-90b9-4dca-8360-185b97c8d5ad.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68850c4ec0347ad8414ea7d3",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "682c894b0255280764bc0345",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 40
+      },
+      {
+        "testId": "6852c861597e0e3c17657741",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 101
+      }
+    ],
+    "pyqQuestions": 15,
+    "exemplerQuestions": 40,
+    "mcqQuestions": 101,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c894b0255280764bc0345",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852c861597e0e3c17657741",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68850c4ec0347ad8414ea7d3",
+      "682c894b0255280764bc0345",
+      "6852c861597e0e3c17657741"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  }
+]

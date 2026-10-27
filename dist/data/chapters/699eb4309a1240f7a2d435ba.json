@@ -1,0 +1,2627 @@
+[
+  {
+    "_id": "699efb955a5645e22f7e23f3",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Some Basic Concepts of Chemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f58f448ab6ff5e95e41bd",
+        "numberOfQuestions": 64,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a5253cd993cc12df1def75d"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T13:39:33.983Z",
+    "updatedAt": "2026-07-22T21:37:28.187Z",
+    "__v": 0,
+    "programChapterId": "699f5778be99d5433d0d11bf",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f58e5bbfe07f4729a0fa2",
+    "totalPageCount": 8,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f58f448ab6ff5e95e41bd",
+        "numberOfQuestions": 64,
+        "_id": "6a5253cd993cc12df1def75c"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "some-basic-concepts-of-chemistry",
+    "seo": {
+      "titleTag": "Some Basic Concepts of Chemistry - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Some Basic Concepts of Chemistry - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Some Basic Concepts of Chemistry - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Some Basic Concepts of Chemistry from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Some Basic Concepts of Chemistry from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Some Basic Concepts of Chemistry from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f58f448ab6ff5e95e41bd",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 64
+      }
+    ],
+    "pyqQuestions": 64,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f58f448ab6ff5e95e41bd"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699efc586a9b636c66f191b8",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Structure of Atom",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5981d0a0c733091672ef",
+        "numberOfQuestions": 80,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a5253d744562e65eb1126ae"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T13:42:48.471Z",
+    "updatedAt": "2026-07-22T21:37:28.674Z",
+    "__v": 0,
+    "programChapterId": "699f5778be99d5433d0d11bf",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f5973a28ba80ff9abf0b4",
+    "totalPageCount": 9,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f5981d0a0c733091672ef",
+        "numberOfQuestions": 80,
+        "_id": "6a5253d744562e65eb1126ad"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "structure-of-atom",
+    "seo": {
+      "titleTag": "Structure of Atom - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Structure of Atom - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Structure of Atom - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Structure of Atom from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Structure of Atom from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Structure of Atom from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5981d0a0c733091672ef",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 80
+      }
+    ],
+    "pyqQuestions": 80,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5981d0a0c733091672ef"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699efaf40c0ed3dfa6a914cb",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Classification of Elements",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f58744f7742b885d50930",
+        "numberOfQuestions": 51,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a5253e0fc89b4ee275930d2"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T13:36:52.057Z",
+    "updatedAt": "2026-07-22T21:37:28.916Z",
+    "__v": 0,
+    "programChapterId": "699f5778be99d5433d0d11bf",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f5865e0e05b96301ea11c",
+    "totalPageCount": 5,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f58744f7742b885d50930",
+        "numberOfQuestions": 51,
+        "_id": "6a5253e0fc89b4ee275930d1"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "classification-of-elements",
+    "seo": {
+      "titleTag": "Classification of Elements - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Classification of Elements - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Classification of Elements - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Classification of Elements from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Classification of Elements from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Classification of Elements from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f58744f7742b885d50930",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 51
+      }
+    ],
+    "pyqQuestions": 51,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f58744f7742b885d50930"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699efa16fd72b0eca555f98e",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Chemical Bonding and Molecular Structure",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f57e7250ec69b133a3b5f",
+        "numberOfQuestions": 143,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f856d95cf397f596860046"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T13:33:10.441Z",
+    "updatedAt": "2026-07-22T21:37:29.843Z",
+    "__v": 0,
+    "programChapterId": "699f5778be99d5433d0d11bf",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f57d8853eee33de2ccaa0",
+    "totalPageCount": 16,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f57e7250ec69b133a3b5f",
+        "numberOfQuestions": 143,
+        "_id": "69f856d95cf397f596860045"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "chemical-bonding-and-molecular-structure",
+    "seo": {
+      "titleTag": "Chemical Bonding and Molecular Structure - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Chemical Bonding and Molecular Structure - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Chemical Bonding and Molecular Structure - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Chemical Bonding and Molecular Structure from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Bonding and Molecular Structure from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Bonding and Molecular Structure from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f57e7250ec69b133a3b5f",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 143
+      }
+    ],
+    "pyqQuestions": 143,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f57e7250ec69b133a3b5f"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699efb43a27129f4be589516",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Thermodynamics",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f58abc49a63ddbeab3cc1",
+        "numberOfQuestions": 86,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f8570ca701fc177b64b82d"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T13:38:11.503Z",
+    "updatedAt": "2026-07-22T21:37:30.480Z",
+    "__v": 0,
+    "programChapterId": "699f5778be99d5433d0d11bf",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f589c853eee33de2cccb4",
+    "totalPageCount": 10,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f58abc49a63ddbeab3cc1",
+        "numberOfQuestions": 86,
+        "_id": "69f8570ca701fc177b64b82c"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "thermodynamics",
+    "seo": {
+      "titleTag": "Thermodynamics - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Thermodynamics - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Thermodynamics - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Thermodynamics from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Thermodynamics from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Thermodynamics from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f58abc49a63ddbeab3cc1",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 86
+      }
+    ],
+    "pyqQuestions": 86,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f58abc49a63ddbeab3cc1"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699efd4d0765e97e4001aff8",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Equilibrium",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5a0923b7ff86a416ffdc",
+        "numberOfQuestions": 130,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f8572c7dc05eb9d074e742"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T13:46:53.839Z",
+    "updatedAt": "2026-07-22T21:37:31.448Z",
+    "__v": 0,
+    "programChapterId": "699f5778be99d5433d0d11bf",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f59fad0823a84d8d6e6aa",
+    "totalPageCount": 16,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f5a0923b7ff86a416ffdc",
+        "numberOfQuestions": 130,
+        "_id": "69f8572c7dc05eb9d074e741"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "equilibrium",
+    "seo": {
+      "titleTag": "Equilibrium - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Equilibrium - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Equilibrium - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Equilibrium from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Equilibrium from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Equilibrium from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5a0923b7ff86a416ffdc",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 130
+      }
+    ],
+    "pyqQuestions": 130,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5a0923b7ff86a416ffdc"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699efbe4f4e4708893f20312",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Redox Reactions",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f594b4f7742b885d50934",
+        "numberOfQuestions": 28,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f857736642414235aa6970"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T13:40:52.457Z",
+    "updatedAt": "2026-07-22T21:37:31.742Z",
+    "__v": 0,
+    "programChapterId": "699f5778be99d5433d0d11bf",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f593a969be29b6c77ce3b",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f594b4f7742b885d50934",
+        "numberOfQuestions": 28,
+        "_id": "69f857736642414235aa696f"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "redox-reactions",
+    "seo": {
+      "titleTag": "Redox Reactions - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Redox Reactions - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Redox Reactions - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Redox Reactions from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Redox Reactions from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Redox Reactions from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f594b4f7742b885d50934",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 28
+      }
+    ],
+    "pyqQuestions": 28,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f594b4f7742b885d50934"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699efaa1cf091f3ed948398f",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "The p-Block Elements",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": false,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5842c49a63ddbeab3cbd",
+        "numberOfQuestions": 47,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f8579ccecae351da22df9f"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T13:35:29.846Z",
+    "updatedAt": "2026-07-22T21:37:32.063Z",
+    "__v": 0,
+    "programChapterId": "699f5778be99d5433d0d11bf",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f5833969be29b6c77cb2c",
+    "totalPageCount": 5,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f5842c49a63ddbeab3cbd",
+        "numberOfQuestions": 47,
+        "_id": "69f8579ccecae351da22df9e"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "the-p-block-elements",
+    "seo": {
+      "titleTag": "The p-Block Elements - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "The p-Block Elements - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "The p-Block Elements - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read The p-Block Elements from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The p-Block Elements from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The p-Block Elements from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5842c49a63ddbeab3cbd",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 47
+      }
+    ],
+    "pyqQuestions": 47,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5842c49a63ddbeab3cbd"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699efcf5a3e1c4482f2dc49f",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Organic Chemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f59d6fe9a182dcdd28c18",
+        "numberOfQuestions": 99,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f85846f9176e15ba86ea20"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T13:45:25.351Z",
+    "updatedAt": "2026-07-22T21:37:32.918Z",
+    "__v": 0,
+    "programChapterId": "699f5778be99d5433d0d11bf",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f59c6a7da6f9c981a8912",
+    "totalPageCount": 11,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f59d6fe9a182dcdd28c18",
+        "numberOfQuestions": 99,
+        "_id": "69f85846f9176e15ba86ea1f"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "organic-chemistry",
+    "seo": {
+      "titleTag": "Organic Chemistry - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Organic Chemistry - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Organic Chemistry - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Organic Chemistry from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Organic Chemistry from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Organic Chemistry from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f59d6fe9a182dcdd28c18",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 99
+      }
+    ],
+    "pyqQuestions": 99,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f59d6fe9a182dcdd28c18"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699ef9b6558c48c2532f4a13",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Hydrocarbons",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f57afe23754f5b1f4cfb5",
+        "numberOfQuestions": 101,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f858884ea0985752cc63c9"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T13:31:34.192Z",
+    "updatedAt": "2026-07-22T21:37:33.697Z",
+    "__v": 0,
+    "programChapterId": "699f5778be99d5433d0d11bf",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f57a1e0e05b96301e9ef9",
+    "totalPageCount": 14,
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "readSet": [
+      {
+        "testId": "699f57afe23754f5b1f4cfb5",
+        "numberOfQuestions": 101,
+        "_id": "69f858884ea0985752cc63c8"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "hydrocarbons",
+    "seo": {
+      "titleTag": "Hydrocarbons - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Hydrocarbons - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Hydrocarbons - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Hydrocarbons from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Hydrocarbons from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Hydrocarbons from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f57afe23754f5b1f4cfb5",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 101
+      }
+    ],
+    "pyqQuestions": 101,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f57afe23754f5b1f4cfb5"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699effe364e1c6ae39fdac72",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Solutions",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5b2648ab6ff5e95e41cc",
+        "numberOfQuestions": 79,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f8814d3a47998bcd3d90a8"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T13:57:55.647Z",
+    "updatedAt": "2026-07-22T21:37:34.262Z",
+    "__v": 0,
+    "programChapterId": "699f578a7f3ba3af1c191cb2",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f5b17e0e05b96301eaa5c",
+    "totalPageCount": 9,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "699f5b2648ab6ff5e95e41cc",
+        "numberOfQuestions": 79,
+        "_id": "69f8814d3a47998bcd3d90a7"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "solutions",
+    "seo": {
+      "titleTag": "Solutions - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Solutions - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Solutions - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Solutions from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Solutions from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Solutions from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5b2648ab6ff5e95e41cc",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 79
+      }
+    ],
+    "pyqQuestions": 79,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5b2648ab6ff5e95e41cc"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f01306a32c2ff9b6ddd9e",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Electrochemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5c3e23b7ff86a417043b",
+        "numberOfQuestions": 81,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f8816613f8f1cd6a3ba378"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:03:28.912Z",
+    "updatedAt": "2026-07-22T21:37:34.777Z",
+    "__v": 0,
+    "programChapterId": "699f578a7f3ba3af1c191cb2",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f5c2fec8fa70653f2d176",
+    "totalPageCount": 10,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "699f5c3e23b7ff86a417043b",
+        "numberOfQuestions": 81,
+        "_id": "69f8816613f8f1cd6a3ba377"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "electrochemistry",
+    "seo": {
+      "titleTag": "Electrochemistry - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Electrochemistry - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Electrochemistry - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Electrochemistry from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electrochemistry from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electrochemistry from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5c3e23b7ff86a417043b",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 81
+      }
+    ],
+    "pyqQuestions": 81,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5c3e23b7ff86a417043b"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f01b0238808e80b6c0f56",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Chemical Kinetics",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5cb1dffb5d21ad922f8f",
+        "numberOfQuestions": 77,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f8818a21d2a45d40894474"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:05:36.729Z",
+    "updatedAt": "2026-07-22T21:37:35.333Z",
+    "__v": 0,
+    "programChapterId": "699f578a7f3ba3af1c191cb2",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f5ca4969be29b6c77d9a3",
+    "totalPageCount": 11,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "699f5cb1dffb5d21ad922f8f",
+        "numberOfQuestions": 77,
+        "_id": "69f8818a21d2a45d40894473"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "chemical-kinetics",
+    "seo": {
+      "titleTag": "Chemical Kinetics - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Chemical Kinetics - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Chemical Kinetics - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Chemical Kinetics from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Kinetics from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Kinetics from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5cb1dffb5d21ad922f8f",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 77
+      }
+    ],
+    "pyqQuestions": 77,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5cb1dffb5d21ad922f8f"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f00f5311c14a0e6dc0bc8",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "The p-Block Elements (Group 15 to 18)",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5c0f250ec69b133a3e58",
+        "numberOfQuestions": 110,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f881a05cf397f5968a6db5"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:02:29.269Z",
+    "updatedAt": "2026-07-22T21:37:35.986Z",
+    "__v": 0,
+    "programChapterId": "699f578a7f3ba3af1c191cb2",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f5c003e9233e19e3a948b",
+    "totalPageCount": 13,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "699f5c0f250ec69b133a3e58",
+        "numberOfQuestions": 110,
+        "_id": "69f881a05cf397f5968a6db4"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "the-p-block-elements-group-15-to-18",
+    "seo": {
+      "titleTag": "The p-Block Elements (Group 15 to 18) - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "The p-Block Elements (Group 15 to 18) - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "The p-Block Elements (Group 15 to 18) - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read The p-Block Elements (Group 15 to 18) from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The p-Block Elements (Group 15 to 18) from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The p-Block Elements (Group 15 to 18) from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5c0f250ec69b133a3e58",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 110
+      }
+    ],
+    "pyqQuestions": 110,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5c0f250ec69b133a3e58"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f00240f6889b97637bc9f",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "The d-and f-Block Elements",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5b62fe9a182dcdd28c1d",
+        "numberOfQuestions": 96,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f881bb31ed6fb41d3f15bd"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T13:59:00.888Z",
+    "updatedAt": "2026-07-22T21:37:36.624Z",
+    "__v": 0,
+    "programChapterId": "699f578a7f3ba3af1c191cb2",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f5b537f3ba3af1c192a6c",
+    "totalPageCount": 10,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "699f5b62fe9a182dcdd28c1d",
+        "numberOfQuestions": 96,
+        "_id": "69f881bb31ed6fb41d3f15bc"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "the-d-and-f-block-elements",
+    "seo": {
+      "titleTag": "The d-and f-Block Elements - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "The d-and f-Block Elements - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "The d-and f-Block Elements - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read The d-and f-Block Elements from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The d-and f-Block Elements from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The d-and f-Block Elements from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5b62fe9a182dcdd28c1d",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 96
+      }
+    ],
+    "pyqQuestions": 96,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5b62fe9a182dcdd28c1d"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f0171ab6052390ae03baa",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 16,
+    "title": "Coordination Compounds",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5c74f5494c96a16deb6d",
+        "numberOfQuestions": 93,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f881e0bc2a4f00d66d56bb"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 16,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:04:33.693Z",
+    "updatedAt": "2026-07-22T21:37:37.287Z",
+    "__v": 0,
+    "programChapterId": "699f578a7f3ba3af1c191cb2",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f5c64245e8005d53806b1",
+    "totalPageCount": 12,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "699f5c74f5494c96a16deb6d",
+        "numberOfQuestions": 93,
+        "_id": "69f881e0bc2a4f00d66d56ba"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "coordination-compounds",
+    "seo": {
+      "titleTag": "Coordination Compounds - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Coordination Compounds - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Coordination Compounds - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Coordination Compounds from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Coordination Compounds from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Coordination Compounds from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5c74f5494c96a16deb6d",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 93
+      }
+    ],
+    "pyqQuestions": 93,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5c74f5494c96a16deb6d"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699eff9d55b9617590a35b67",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 17,
+    "title": "Haloalkanes and Haloarenes",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5aeec49a63ddbeab3cc9",
+        "numberOfQuestions": 59,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f881f4bc2a4f00d66d597a"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 17,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T13:56:45.108Z",
+    "updatedAt": "2026-07-22T21:37:37.727Z",
+    "__v": 0,
+    "programChapterId": "699f578a7f3ba3af1c191cb2",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f5adf67e5d3db4ecc65aa",
+    "totalPageCount": 8,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "699f5aeec49a63ddbeab3cc9",
+        "numberOfQuestions": 59,
+        "_id": "69f881f4bc2a4f00d66d5979"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "haloalkanes-and-haloarenes",
+    "seo": {
+      "titleTag": "Haloalkanes and Haloarenes - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Haloalkanes and Haloarenes - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Haloalkanes and Haloarenes - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Haloalkanes and Haloarenes from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Haloalkanes and Haloarenes from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Haloalkanes and Haloarenes from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5aeec49a63ddbeab3cc9",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 59
+      }
+    ],
+    "pyqQuestions": 59,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5aeec49a63ddbeab3cc9"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699eff12664311420ab2aaef",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 18,
+    "title": "Alcohols, Phenols and Ethers",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5a80d0a0c733091672f7",
+        "numberOfQuestions": 74,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f88217b627b5c0ef073d7d"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 18,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T13:54:26.092Z",
+    "updatedAt": "2026-07-22T21:37:38.411Z",
+    "__v": 0,
+    "programChapterId": "699f578a7f3ba3af1c191cb2",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f5a68e0e05b96301ea84c",
+    "totalPageCount": 11,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "699f5a80d0a0c733091672f7",
+        "numberOfQuestions": 74,
+        "_id": "69f88217b627b5c0ef073d7c"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "alcohols-phenols-and-ethers",
+    "seo": {
+      "titleTag": "Alcohols, Phenols and Ethers - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Alcohols, Phenols and Ethers - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Alcohols, Phenols and Ethers - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Alcohols, Phenols and Ethers from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Alcohols, Phenols and Ethers from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Alcohols, Phenols and Ethers from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5a80d0a0c733091672f7",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 74
+      }
+    ],
+    "pyqQuestions": 74,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5a80d0a0c733091672f7"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f0067696ae7423290eadf",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 19,
+    "title": "Aldehydes, Ketones and Carboxylic Acids",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5b96fe9a182dcdd28c21",
+        "numberOfQuestions": 122,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f8822d4dcbe6defacb8a9c"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 19,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:00:07.703Z",
+    "updatedAt": "2026-07-22T21:37:39.752Z",
+    "__v": 0,
+    "programChapterId": "699f578a7f3ba3af1c191cb2",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f5b86ec8fa70653f2cf4d",
+    "totalPageCount": 19,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "699f5b96fe9a182dcdd28c21",
+        "numberOfQuestions": 122,
+        "_id": "69f8822d4dcbe6defacb8a9b"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "aldehydes-ketones-and-carboxylic-acids",
+    "seo": {
+      "titleTag": "Aldehydes, Ketones and Carboxylic Acids - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Aldehydes, Ketones and Carboxylic Acids - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Aldehydes, Ketones and Carboxylic Acids - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Aldehydes, Ketones and Carboxylic Acids from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Aldehydes, Ketones and Carboxylic Acids from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Aldehydes, Ketones and Carboxylic Acids from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5b96fe9a182dcdd28c21",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 122
+      }
+    ],
+    "pyqQuestions": 122,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5b96fe9a182dcdd28c21"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699eff5accd2a772e87b0cb1",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 20,
+    "title": "Amines",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5ac0d0a0c733091672fb",
+        "numberOfQuestions": 57,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f88244ae7696fedbc2df1f"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 20,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T13:55:38.086Z",
+    "updatedAt": "2026-07-22T21:37:40.395Z",
+    "__v": 0,
+    "programChapterId": "699f578a7f3ba3af1c191cb2",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f5ab2c7e1507cbdeceaf0",
+    "totalPageCount": 10,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "699f5ac0d0a0c733091672fb",
+        "numberOfQuestions": 57,
+        "_id": "69f88244ae7696fedbc2df1e"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "amines",
+    "seo": {
+      "titleTag": "Amines - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Amines - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Amines - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Amines from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Amines from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Amines from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5ac0d0a0c733091672fb",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 57
+      }
+    ],
+    "pyqQuestions": 57,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5ac0d0a0c733091672fb"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f01f94b2b267452bda734",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 21,
+    "title": "Biomolecules",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5ce623b7ff86a41707e7",
+        "numberOfQuestions": 71,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f8826abc2a4f00d66d6a7f"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 21,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:06:49.621Z",
+    "updatedAt": "2026-07-22T21:37:40.928Z",
+    "__v": 0,
+    "programChapterId": "699f578a7f3ba3af1c191cb2",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f5cd8969be29b6c77da53",
+    "totalPageCount": 8,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "699f5ce623b7ff86a41707e7",
+        "numberOfQuestions": 71,
+        "_id": "69f8826abc2a4f00d66d6a7e"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "biomolecules",
+    "seo": {
+      "titleTag": "Biomolecules - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Biomolecules - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Biomolecules - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Biomolecules from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biomolecules from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biomolecules from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5ce623b7ff86a41707e7",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 71
+      }
+    ],
+    "pyqQuestions": 71,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5ce623b7ff86a41707e7"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f00b8f7706e59d7c163d4",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 22,
+    "title": "Principles Related to Practical Chemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f5bd1c49a63ddbeab3fe5",
+        "numberOfQuestions": 50,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69f882889426cc6f855ff00a"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 22,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T14:01:28.571Z",
+    "updatedAt": "2026-07-22T21:37:41.332Z",
+    "__v": 0,
+    "programChapterId": "699f578a7f3ba3af1c191cb2",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f5bc4a28ba80ff9abf852",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "readSet": [
+      {
+        "testId": "699f5bd1c49a63ddbeab3fe5",
+        "numberOfQuestions": 50,
+        "_id": "69f882889426cc6f855ff009"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "principles-related-to-practical-chemistry",
+    "seo": {
+      "titleTag": "Principles Related to Practical Chemistry - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Principles Related to Practical Chemistry - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Principles Related to Practical Chemistry - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Principles Related to Practical Chemistry from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Principles Related to Practical Chemistry from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Principles Related to Practical Chemistry from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f5bd1c49a63ddbeab3fe5",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 50
+      }
+    ],
+    "pyqQuestions": 50,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f5bd1c49a63ddbeab3fe5"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69a2c38e75381af67d640ebc",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 23,
+    "title": "NEET 2025 Paper",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "69a1378e4db979a7873a632e",
+    "programTopicId": "69a1379a634b7d612053f7ac",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 23,
+    "customPracticeSet": [
+      {
+        "name": "NEET 2025 Paper",
+        "testId": "69a137bbd7a092e9616b0627",
+        "numberOfQuestions": 180
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T10:29:34.161Z",
+    "updatedAt": "2026-07-22T21:37:41.995Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "chapterType": "QUESTION_PAPER",
+    "pageSliceVersion": 1,
+    "slug": "neet-2025-paper",
+    "seo": {
+      "titleTag": "NEET 2025 Paper - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "NEET 2025 Paper - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "NEET 2025 Paper - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read NEET 2025 Paper from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read NEET 2025 Paper from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read NEET 2025 Paper from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6ac5e38b707eff9f53b5dc57",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 24,
+    "title": "Re - NEET 2026",
+    "slug": "re-neet-2026",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "chapterType": "QUESTION_PAPER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "6ac5dddc23796b474993970f",
+    "programTopicId": "6ac5de00ff2de03c806ed37f",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 24,
+    "customPracticeSet": [
+      {
+        "name": "Re - NEET 2026",
+        "testId": "6ac5dea6b1f078061d97097b",
+        "numberOfQuestions": 45
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-10-07T06:15:39.548Z",
+    "updatedAt": "2026-10-07T06:15:40.616Z",
+    "__v": 0,
+    "pageSliceVersion": 1,
+    "totalPageCount": 10,
+    "seo": {
+      "titleTag": "Re - NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "Re - NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "Re - NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read Re - NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Re - NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Re - NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6ac71eab3895e6f9694c0c3c",
+    "bookId": "699eb4309a1240f7a2d435ba",
+    "status": "ACTIVE",
+    "displayOrder": 25,
+    "title": "NEET 2026",
+    "slug": "neet-2026",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "chapterType": "QUESTION_PAPER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "6ac652b52e61792dde9c2809",
+    "programTopicId": "6ac652c2439bbba607b7a811",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 25,
+    "customPracticeSet": [
+      {
+        "name": "NEET 2026",
+        "testId": "6ac653ae2df0e5795186d8b9",
+        "numberOfQuestions": 45
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-10-08T04:40:11.776Z",
+    "updatedAt": "2026-10-08T04:40:12.908Z",
+    "__v": 0,
+    "pageSliceVersion": 1,
+    "totalPageCount": 19,
+    "seo": {
+      "titleTag": "NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "coverImageAltText": "NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "ogTitle": "NEET 2026 - 39 Years Neet Previous Year Solved Question Papers Chemistry | PW Books",
+      "shortDescription": "Read NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read NEET 2026 from 39 Years Neet Previous Year Solved Question Papers Chemistry. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3f3dabe8-fb81-42e4-8d6d-a028f242c8e0.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  }
+]

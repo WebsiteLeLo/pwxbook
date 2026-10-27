@@ -1,0 +1,3242 @@
+[
+  {
+    "_id": "699e84e66a9b636c66efa972",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Some Basic Concepts of Chemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "676bf3d64b13857264256872",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": true,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T05:13:10.741Z",
+    "updatedAt": "2026-10-26T05:25:47.262Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a605f046f6ed12071efcf31",
+        "numberOfQuestions": 75
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a6ba1d77949283b76a9ad0",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a6b9240e993630d901147a",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69a6ba736ca694a512bc5c3f",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a6bb066a84202a247d4dd5",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a6bb5a80df2c6d91117195",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69a6bbc957bb44527d681fa9",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a6bc456a84202a247d4e14",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69a6bca2879665f2f1e92c39",
+        "numberOfQuestions": 21
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a6bd2a6ca694a512bc6d56",
+        "numberOfQuestions": 9
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a6b823a424d584880c5bcc",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "some-basic-concepts-of-chemistry",
+    "seo": {
+      "coverImageAltText": "Some Basic Concepts of Chemistry - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Some Basic Concepts of Chemistry from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "titleTag": "Some Basic Concepts of Chemistry - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "metaDescription": "Read Some Basic Concepts of Chemistry from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogTitle": "Some Basic Concepts of Chemistry - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogDescription": "Read Some Basic Concepts of Chemistry from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true,
+      "breadcrumb": []
+    },
+    "pyqToggle": true,
+    "dualPageView": true,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699e84ba7542474fbda7fdda",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Structure of Atom",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T05:12:26.620Z",
+    "updatedAt": "2026-07-22T20:06:45.191Z",
+    "__v": 0,
+    "totalPageCount": 6,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a606143bb96f8128ceacec0",
+        "numberOfQuestions": 91
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a6be918e5ee6f903a59724",
+        "numberOfQuestions": 46
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a6bf7e6ca694a512bc77da",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69a6bfd39f0fa36a49ef6880",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a6c18f6075499e3af905a4",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a6c202527b58b0e5cefe8f",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69a6c276879665f2f1e9304b",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a6c3a36ca694a512bc7c44",
+        "numberOfQuestions": 16
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69a6c45f80df2c6d9111d157",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a6c4946075499e3af90833",
+        "numberOfQuestions": 14
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a6bddae559e7337a2a12f5",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "structure-of-atom",
+    "seo": {
+      "titleTag": "Structure of Atom - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Structure of Atom - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Structure of Atom - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Structure of Atom from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Structure of Atom from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Structure of Atom from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699e8485a3e1c4482f2be968",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Classification of Elements and Periodicity in Properties",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T05:11:33.537Z",
+    "updatedAt": "2026-07-22T20:06:45.506Z",
+    "__v": 0,
+    "totalPageCount": 5,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6062a4bb96f8128cead001",
+        "numberOfQuestions": 65
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a9267087c4a961a5736c09",
+        "numberOfQuestions": 42
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a927f5eafb6278de89a992",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69a9290cc7fb331f5fc03dad",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a929c125ae866a0cc34919",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a92a0e6c29052db876211a",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69a92a8525ae866a0cc34b2a",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a92b1726874d43a9cb1f54",
+        "numberOfQuestions": 17
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69a92bd376d63eb7a8223b4d",
+        "numberOfQuestions": 21
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a92e86f76d4ce586d92f62",
+        "numberOfQuestions": 11
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a923ffd2c15bcc38f36a50",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "classification-of-elements-and-periodicity-in-properties",
+    "seo": {
+      "titleTag": "Classification of Elements and Periodicity in Properties - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Classification of Elements and Periodicity in Properties - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Classification of Elements and Periodicity in Properties - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Classification of Elements and Periodicity in Properties from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Classification of Elements and Periodicity in Properties from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Classification of Elements and Periodicity in Properties from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699e844f2b0e17d0b5309c73",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Chemical Bonding and Molecular Structure",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T05:10:39.338Z",
+    "updatedAt": "2026-10-15T05:07:50.782Z",
+    "__v": 0,
+    "totalPageCount": 9,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6ad05f4ddc24cac5eb0dd48f",
+        "numberOfQuestions": 148
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a938b70b202391cfef013b",
+        "numberOfQuestions": 81
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a9395a76d63eb7a8235f60",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69a93a1c6c29052db8765804",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a93aa8c7fb331f5fc06e4d",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a93b280b202391cfef025b",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69a93bb36c29052db876597f",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a93ca5eafb6278de89c519",
+        "numberOfQuestions": 21
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69a93d010b202391cfef03ec",
+        "numberOfQuestions": 24
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a93da125ae866a0cc46f89",
+        "numberOfQuestions": 22
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a9380c846bdcc3b9e34847",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "chemical-bonding-and-molecular-structure",
+    "seo": {
+      "titleTag": "Chemical Bonding and Molecular Structure - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Chemical Bonding and Molecular Structure - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Chemical Bonding and Molecular Structure - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Chemical Bonding and Molecular Structure from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Bonding and Molecular Structure from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Bonding and Molecular Structure from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true,
+      "breadcrumb": []
+    },
+    "dualPageView": true,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699e8410a4f98410c4009575",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Thermodynamics",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T05:09:36.890Z",
+    "updatedAt": "2026-07-22T20:06:46.949Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a606796f4b70b35e2f0eb42",
+        "numberOfQuestions": 69
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a58618b22b35b33b4922af",
+        "numberOfQuestions": 46
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a58691cfad3ce967361065",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69a58703df78675d14450d19",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a58777c0dd35b50874433b",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a587caebbe6e2b30f97f6b",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69a58854ebbe6e2b30f97f9e",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a588d5b22b35b33b492453",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69a5896b1383cdd08c92feae",
+        "numberOfQuestions": 17
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a589bac0dd35b508744571",
+        "numberOfQuestions": 14
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a5850ef7d929996f130d38",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "thermodynamics",
+    "seo": {
+      "titleTag": "Thermodynamics - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Thermodynamics - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Thermodynamics - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Thermodynamics from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Thermodynamics from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Thermodynamics from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699e83d97ea25487df7edecf",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Equilibrium",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T05:08:41.062Z",
+    "updatedAt": "2026-07-22T20:06:47.766Z",
+    "__v": 0,
+    "totalPageCount": 12,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a606b00f1e7e793e8d78c45",
+        "numberOfQuestions": 130
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a93f2b25ae866a0cc47313",
+        "numberOfQuestions": 67
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a9422d26874d43a9cb3ef2",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69a943566c29052db87668b6",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a943ba87c4a961a573b6fa",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a9444a689782be579ac62b",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69a944b426874d43a9cb4323",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a9452feafb6278de89d39c",
+        "numberOfQuestions": 19
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69a94653689782be579ad9c9",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a946af76d63eb7a823818d",
+        "numberOfQuestions": 18
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a93e41c026b7aaf0f99306",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "equilibrium",
+    "seo": {
+      "titleTag": "Equilibrium - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Equilibrium - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Equilibrium - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Equilibrium from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Equilibrium from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Equilibrium from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699e82b8930544962b6494ef",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Redox Reactions",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T05:03:52.090Z",
+    "updatedAt": "2026-07-22T20:06:48.180Z",
+    "__v": 0,
+    "totalPageCount": 4,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6070dc6fa8f2b50ce52267",
+        "numberOfQuestions": 70
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a95700f76d4ce586d95800",
+        "numberOfQuestions": 44
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a957ac6c29052db876bb07",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69a958466c29052db876bc9f",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a958db25ae866a0cc4cf28",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a9595787c4a961a5741fb9",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69a959eb87c4a961a5742116",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a95a45eafb6278de89fd10",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69a95ad76c29052db876c420",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a95b2125ae866a0cc4d50e",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a9568fedc9f1f24551dec4",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "redox-reactions",
+    "seo": {
+      "titleTag": "Redox Reactions - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Redox Reactions - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Redox Reactions - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Redox Reactions from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Redox Reactions from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Redox Reactions from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699e828124cb9b5edf9bc94c",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "The p-Block Elements",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T05:02:57.374Z",
+    "updatedAt": "2026-07-22T20:06:48.679Z",
+    "__v": 0,
+    "totalPageCount": 6,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6075506f6ed12071f00039",
+        "numberOfQuestions": 69
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aa82c8f3dcf673bdef8fb0",
+        "numberOfQuestions": 54
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69aa834b0b202391cff0eb77",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aa90abfebdfe6f89d39498",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aa91210b202391cff0ff24",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aa917fb1d16eafc085abcf",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69aa91b3993c5b0a26fd9185",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aa9210da5bea3f19b92159",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69aa92f9f3dcf673bdefa2d4",
+        "numberOfQuestions": 18
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aa937f73adacd11ba65ffc",
+        "numberOfQuestions": 12
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69aa8162d5a3099254d0c43d",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "the-p-block-elements",
+    "seo": {
+      "titleTag": "The p-Block Elements - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "The p-Block Elements - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "The p-Block Elements - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read The p-Block Elements from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The p-Block Elements from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The p-Block Elements from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699e8249f10ff75f8c833320",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Organic Chemistry-Some Basic Principles and Techniques",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T05:02:01.729Z",
+    "updatedAt": "2026-07-22T20:06:49.171Z",
+    "__v": 0,
+    "totalPageCount": 5,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6077d66fa8f2b50ce56030",
+        "numberOfQuestions": 138
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aa9498febdfe6f89d39f08",
+        "numberOfQuestions": 75
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69aa957bfebdfe6f89d3a221",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aa95fb0b202391cff1130c",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aa9653993c5b0a26fda26b",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aa96af73adacd11ba67b67",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69aa9723b1d16eafc085b0d8",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aa97818d5723cf13880b02",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69aa98160b202391cff11652",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aa989af3dcf673bdefb57f",
+        "numberOfQuestions": 20
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69aa93ec4498596843204f0a",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "organic-chemistry-some-basic-principles-and-techniques",
+    "seo": {
+      "titleTag": "Organic Chemistry-Some Basic Principles and Techniques - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Organic Chemistry-Some Basic Principles and Techniques - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Organic Chemistry-Some Basic Principles and Techniques - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Organic Chemistry-Some Basic Principles and Techniques from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Organic Chemistry-Some Basic Principles and Techniques from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Organic Chemistry-Some Basic Principles and Techniques from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699e821422a5fa237e393b20",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Hydrocarbons",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T05:01:08.386Z",
+    "updatedAt": "2026-07-22T20:06:49.727Z",
+    "__v": 0,
+    "totalPageCount": 7,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6081036fa8f2b50ce5c8b1",
+        "numberOfQuestions": 140
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aa9eb8f3dcf673bdefca2f",
+        "numberOfQuestions": 76
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69aa9f29b6daa1ddff04a4d0",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aa9f88fe6b03ea129fd418",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aaa051993c5b0a26fe1423",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aaa242b6daa1ddff04abcb",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69aaa2a9da5bea3f19b93cf5",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aaa324da5bea3f19b93d2d",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69aaa389da5bea3f19b93ded",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aaa451b6daa1ddff04b122",
+        "numberOfQuestions": 22
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69aa98f3864565ccf9582884",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "hydrocarbons",
+    "seo": {
+      "titleTag": "Hydrocarbons - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Hydrocarbons - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Hydrocarbons - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Hydrocarbons from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Hydrocarbons from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Hydrocarbons from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f0ecd14f2886d4ab3ceed",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Solutions",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:01:33.980Z",
+    "updatedAt": "2026-07-22T20:06:50.210Z",
+    "__v": 0,
+    "totalPageCount": 8,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a608868ec689496c9c9b51a",
+        "numberOfQuestions": 84
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aaa9a017bb932745b629c5",
+        "numberOfQuestions": 33
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69aaaa05993c5b0a26fe302a",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aaaa7b73adacd11ba6a44c",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aaaaf9da5bea3f19b95bd3",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aaac7117bb932745b63153",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69aaacc48d5723cf1388655b",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aaad1cf3dcf673bdf0399a",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69aaad98febdfe6f89d43065",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aaade2b1d16eafc0861b6b",
+        "numberOfQuestions": 16
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69aaa5028dabd001848031fe",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "solutions",
+    "seo": {
+      "titleTag": "Solutions - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Solutions - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Solutions - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Solutions from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Solutions from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Solutions from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f0ee50466b2a7e1cc6c66",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Electrochemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:01:57.066Z",
+    "updatedAt": "2026-07-23T06:26:26.894Z",
+    "__v": 0,
+    "totalPageCount": 6,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61b3b26877f82aef611678",
+        "numberOfQuestions": 89
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aab25173adacd11ba6b7e2",
+        "numberOfQuestions": 35
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69aab2b5da5bea3f19b96a1c",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aab30cfe6b03ea12a02f76",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aab360fe6b03ea12a03818",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aab4448d5723cf13888c87",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69aab47717bb932745b6504c",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aab4cffe6b03ea12a03cb1",
+        "numberOfQuestions": 23
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69aab54817bb932745b652cb",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aab5a0febdfe6f89d447c8",
+        "numberOfQuestions": 13
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69aab15cc0c642093ef8709d",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "electrochemistry",
+    "seo": {
+      "titleTag": "Electrochemistry - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Electrochemistry - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Electrochemistry - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Electrochemistry from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electrochemistry from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electrochemistry from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f0efadeaa6a2a21634de9",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Chemical Kinetics",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:02:18.911Z",
+    "updatedAt": "2026-07-23T06:34:39.321Z",
+    "__v": 0,
+    "totalPageCount": 6,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61b4ec20d459811edc699c",
+        "numberOfQuestions": 73
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aab6d7b1d16eafc0862375",
+        "numberOfQuestions": 38
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69aab76ffe6b03ea12a0409e",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aab7ca73adacd11ba6bdd7",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aab813f3dcf673bdf0564b",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aab8a5993c5b0a26fe5207",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69aab90a8d5723cf13889aed",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aab97bda5bea3f19b9702c",
+        "numberOfQuestions": 28
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69aaba340b202391cff15a0d",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aabab6febdfe6f89d45b64",
+        "numberOfQuestions": 20
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69aab63e10703bdb0214a97b",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "chemical-kinetics",
+    "seo": {
+      "titleTag": "Chemical Kinetics - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Chemical Kinetics - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Chemical Kinetics - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Chemical Kinetics from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Kinetics from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Kinetics from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f0f13311c14a0e6dc9800",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "The p-Block Elements (Group 15 to 18)",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:02:43.658Z",
+    "updatedAt": "2026-07-23T06:47:56.195Z",
+    "__v": 0,
+    "totalPageCount": 7,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61b654ffb3ea2f28dc4bfe",
+        "numberOfQuestions": 111
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aabc16993c5b0a26fe558f",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69aabcb017bb932745b6692e",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aabd15febdfe6f89d46429",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aabdf60b202391cff162b2",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aabe4317bb932745b66bf6",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69aabea8993c5b0a26fe58c6",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aabf0bfe6b03ea12a0500f",
+        "numberOfQuestions": 37
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69aabf9ab6daa1ddff05098c",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aabff98d5723cf1388a747",
+        "numberOfQuestions": 17
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69aabb80981da1583b845613",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "the-p-block-elements-group-15-to-18",
+    "seo": {
+      "titleTag": "The p-Block Elements (Group 15 to 18) - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "The p-Block Elements (Group 15 to 18) - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "The p-Block Elements (Group 15 to 18) - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read The p-Block Elements (Group 15 to 18) from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The p-Block Elements (Group 15 to 18) from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The p-Block Elements (Group 15 to 18) from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f0f29558c48c253301910",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "The d-and f-Block Elements",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:03:05.936Z",
+    "updatedAt": "2026-07-23T06:59:25.164Z",
+    "__v": 0,
+    "totalPageCount": 9,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61b995f232e7d2c0253637",
+        "numberOfQuestions": 111
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a93767376040ad7ba4db87",
+        "numberOfQuestions": 63
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a9380d6c29052db87655ca",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69a938ae6c29052db8765650",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a93933376040ad7ba4e0f0",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a9399ec7fb331f5fc06a31",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69a93a1525ae866a0cc4696b",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a93a8d0b202391cfef0236",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69a93b39eafb6278de89c46d",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a94001c7fb331f5fc075e2",
+        "numberOfQuestions": 20
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a935a67b3e6275586e3586",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "the-d-and-f-block-elements",
+    "seo": {
+      "titleTag": "The d-and f-Block Elements - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "The d-and f-Block Elements - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "The d-and f-Block Elements - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read The d-and f-Block Elements from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The d-and f-Block Elements from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The d-and f-Block Elements from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f0f40acae1a1264466f2a",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 16,
+    "title": "Coordination Compounds",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 16,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:03:28.037Z",
+    "updatedAt": "2026-07-23T07:01:56.604Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61bc4358a877dd202abb4a",
+        "numberOfQuestions": 124
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a943e826874d43a9cb41e8",
+        "numberOfQuestions": 61
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a9483beafb6278de89d8a8",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69a948ce25ae866a0cc4a55f",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a948fd0b202391cfef0e7e",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a9492725ae866a0cc4a5e7",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69a94ae0f76d4ce586d945ba",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a94b4c87c4a961a573d539",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69a94bb976d63eb7a823844c",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aeaff41312eb3bf709faee",
+        "numberOfQuestions": 21
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a94296692f6c1b9ca55226",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "coordination-compounds",
+    "seo": {
+      "titleTag": "Coordination Compounds - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Coordination Compounds - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Coordination Compounds - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Coordination Compounds from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Coordination Compounds from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Coordination Compounds from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f0f57ea5f462165a8dbe8",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 17,
+    "title": "Haloalkanes and Haloarenes",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 17,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:03:51.375Z",
+    "updatedAt": "2026-07-23T07:06:46.200Z",
+    "__v": 0,
+    "totalPageCount": 7,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61bd576f6ed12071f27145",
+        "numberOfQuestions": 62
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a94d6e87c4a961a573e17b",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a94df725ae866a0cc4ae51",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69a94e8026874d43a9cb597f",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a94fbdf76d4ce586d94c06",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a95020eafb6278de89e44a",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69a9509e26874d43a9cb5e3d",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a9510f87c4a961a573eb8b",
+        "numberOfQuestions": 26
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69a95185376040ad7ba52070",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a951e8376040ad7ba52176",
+        "numberOfQuestions": 16
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a94cd808a97e466be0e844",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "haloalkanes-and-haloarenes",
+    "seo": {
+      "titleTag": "Haloalkanes and Haloarenes - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Haloalkanes and Haloarenes - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Haloalkanes and Haloarenes - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Haloalkanes and Haloarenes from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Haloalkanes and Haloarenes from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Haloalkanes and Haloarenes from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f0f827ea25487df83479f",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 18,
+    "title": "Alcohols, Phenols and Ethers",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 18,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:04:34.623Z",
+    "updatedAt": "2026-07-23T10:54:31.675Z",
+    "__v": 0,
+    "totalPageCount": 8,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61f2ca17af7de721c0559f",
+        "numberOfQuestions": 74
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a95e9fc7fb331f5fc0ea47",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a95f7976d63eb7a823a1af",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69a95fe776d63eb7a823a1cf",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a9605626874d43a9cb982d",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a960b9376040ad7ba55311",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69a9612887c4a961a57433a4",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a961edeafb6278de8a0702",
+        "numberOfQuestions": 16
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69a962ac0b202391cfef3cdd",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a963310b202391cfef3d02",
+        "numberOfQuestions": 13
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a9535f50afa0cfe80051a9",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "alcohols-phenols-and-ethers",
+    "seo": {
+      "titleTag": "Alcohols, Phenols and Ethers - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Alcohols, Phenols and Ethers - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Alcohols, Phenols and Ethers - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Alcohols, Phenols and Ethers from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Alcohols, Phenols and Ethers from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Alcohols, Phenols and Ethers from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f0f99a9d13f08aa2eda61",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 19,
+    "title": "Aldehydes, Ketones and Carboxylic acids",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 19,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:04:57.952Z",
+    "updatedAt": "2026-07-23T10:58:05.659Z",
+    "__v": 0,
+    "totalPageCount": 11,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61f39cf1648e3a0bd4f62f",
+        "numberOfQuestions": 80
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a965d525ae866a0cc4ea15",
+        "numberOfQuestions": 53
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a9666276d63eb7a823a8a2",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69a966e1689782be579b91e4",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a96761f76d4ce586d967f1",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a967ebeafb6278de8a0e0b",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69a96874376040ad7ba55f05",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a968f826874d43a9cba5cc",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69a969d476d63eb7a823b2b9",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a96a4c689782be579b93fe",
+        "numberOfQuestions": 21
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a963f50294316fbcb6b689",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "aldehydes-ketones-and-carboxylic-acids",
+    "seo": {
+      "titleTag": "Aldehydes, Ketones and Carboxylic acids - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Aldehydes, Ketones and Carboxylic acids - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Aldehydes, Ketones and Carboxylic acids - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Aldehydes, Ketones and Carboxylic acids from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Aldehydes, Ketones and Carboxylic acids from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Aldehydes, Ketones and Carboxylic acids from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f0fb9a92d7aaedc7b2b6a",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 20,
+    "title": "Amines",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 20,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:05:30.004Z",
+    "updatedAt": "2026-07-23T11:05:25.230Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61f4786f6ed12071f2e7db",
+        "numberOfQuestions": 93
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a970ad689782be579bae34",
+        "numberOfQuestions": 56
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a971fc376040ad7ba56801",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69a97265c7fb331f5fc10ea3",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a972fe6c29052db8774ee8",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a97385eafb6278de8a1aa5",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69a9740eeafb6278de8a1ac8",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a9749476d63eb7a823b807",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69a9752387c4a961a5744eda",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a975a1c7fb331f5fc11872",
+        "numberOfQuestions": 17
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a9700706bcf62b5253b823",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "amines",
+    "seo": {
+      "titleTag": "Amines - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Amines - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Amines - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Amines from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Amines from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Amines from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f0fe12b0e17d0b534f884",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 21,
+    "title": "Biomolecules",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 21,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:06:09.382Z",
+    "updatedAt": "2026-07-23T11:05:38.520Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61f567f1648e3a0bd4fddb",
+        "numberOfQuestions": 85
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a97798eafb6278de8a23f2",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a97835c7fb331f5fc11aec",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69a978caf76d4ce586d973cb",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a97931689782be579be870",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a9799325ae866a0cc4fcef",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69a97a1c0b202391cff0087a",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a97aad689782be579bee88",
+        "numberOfQuestions": 19
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69a97b3f0b202391cff00b83",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a97bc725ae866a0cc50026",
+        "numberOfQuestions": 9
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a976530294316fbcb703c1",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "biomolecules",
+    "seo": {
+      "titleTag": "Biomolecules - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Biomolecules - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Biomolecules - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Biomolecules from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biomolecules from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biomolecules from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699f0ffaea5f462165a8e034",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 22,
+    "title": "Principles Related to Practical Chemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 22,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:06:34.626Z",
+    "updatedAt": "2026-07-23T11:09:48.040Z",
+    "__v": 0,
+    "totalPageCount": 48,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a61f65b7989fa4b552c0256",
+        "numberOfQuestions": 68
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a97d86eafb6278de8a2992",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "Match the Columns MCQs",
+        "testId": "69a97e1a76d63eb7a823bfd7",
+        "numberOfQuestions": 16
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69a97ed80b202391cff03bdb",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a97f85c7fb331f5fc12794",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a98005c7fb331f5fc127c6",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Multi Correct MCQs",
+        "testId": "69a98076f76d4ce586d97e28",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Kattar NEET",
+        "testId": "69a980f776d63eb7a823c0a1",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a981d4689782be579bf8bd",
+        "numberOfQuestions": 5
+      }
+    ],
+    "programChapterId": "69a572f042103c7132c816f4",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69a97cbe48e2aa46fd804b29",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "principles-related-to-practical-chemistry",
+    "seo": {
+      "titleTag": "Principles Related to Practical Chemistry - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Principles Related to Practical Chemistry - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Principles Related to Practical Chemistry - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Principles Related to Practical Chemistry from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Principles Related to Practical Chemistry from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Principles Related to Practical Chemistry from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6a1e96f0e11af199df446d0c",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 23,
+    "title": "NEET 2025 Paper",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "chapterType": "QUESTION_PAPER",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "69a1378e4db979a7873a632e",
+    "programTopicId": "69a1379a634b7d612053f7ac",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 23,
+    "customPracticeSet": [
+      {
+        "name": "NEET 2025 Paper",
+        "testId": "69a137bbd7a092e9616b0627",
+        "numberOfQuestions": 180
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-06-02T08:40:16.728Z",
+    "updatedAt": "2026-07-22T20:07:00.774Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "pageSliceVersion": 1,
+    "slug": "neet-2025-paper",
+    "seo": {
+      "titleTag": "NEET 2025 Paper - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "NEET 2025 Paper - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "NEET 2025 Paper - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read NEET 2025 Paper from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read NEET 2025 Paper from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read NEET 2025 Paper from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6ac71d9cf42bc24b512c6466",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 25,
+    "title": "NEET 2026",
+    "slug": "neet-2026",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "chapterType": "QUESTION_PAPER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "6ac652b52e61792dde9c2809",
+    "programTopicId": "6ac652c2439bbba607b7a811",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 25,
+    "customPracticeSet": [
+      {
+        "name": "NEET 2026",
+        "testId": "6ac653ae2df0e5795186d8b9",
+        "numberOfQuestions": 44
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-10-08T04:35:40.140Z",
+    "updatedAt": "2026-10-08T04:35:41.411Z",
+    "__v": 0,
+    "pageSliceVersion": 1,
+    "totalPageCount": 19,
+    "seo": {
+      "titleTag": "NEET 2026 - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "NEET 2026 - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "NEET 2026 - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read NEET 2026 from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read NEET 2026 from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read NEET 2026 from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6ac5e951cfeababc087e5a7e",
+    "bookId": "699d7c4c07e31401e7266627",
+    "status": "ACTIVE",
+    "displayOrder": 26,
+    "title": "Re - NEET 2026",
+    "slug": "re-neet-2026",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "chapterType": "QUESTION_PAPER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "6ac5dddc23796b474993970f",
+    "programTopicId": "6ac5de00ff2de03c806ed37f",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 26,
+    "customPracticeSet": [
+      {
+        "name": "Re - NEET 2026",
+        "testId": "6ac5dea6b1f078061d97097b",
+        "numberOfQuestions": 45
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-10-07T06:40:17.175Z",
+    "updatedAt": "2026-10-07T06:40:18.112Z",
+    "__v": 0,
+    "pageSliceVersion": 1,
+    "totalPageCount": 10,
+    "seo": {
+      "titleTag": "Re - NEET 2026 - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Re - NEET 2026 - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Re - NEET 2026 - NCERT Punch 5.0 Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Re - NEET 2026 from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Re - NEET 2026 from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Re - NEET 2026 from NCERT Punch 5.0 Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/845669f9-4e61-45d0-910c-f7108011c4c9.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  }
+]

@@ -1,0 +1,1444 @@
+[
+  {
+    "_id": "69a2a7174e630116d5050de4",
+    "bookId": "699fe0cbc0f1b763a4c1db3d",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Real Numbers",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "69a142c07aa1a4c1966f9b69",
+    "programTopicId": "69a153d24e97f97f39481102",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a153e937a9d1f4fada66e5",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a15457b50a9d605097b423",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a154ad3547b247a3626ba1",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a155873547b247a3626e08",
+        "numberOfQuestions": 9
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T08:28:07.859Z",
+    "updatedAt": "2026-07-22T21:45:00.199Z",
+    "__v": 0,
+    "totalPageCount": 64,
+    "pageSliceVersion": 1,
+    "slug": "real-numbers",
+    "seo": {
+      "titleTag": "Real Numbers - Udaan Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Real Numbers - Udaan Maths (Digital Module) | PW Books",
+      "ogTitle": "Real Numbers - Udaan Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Real Numbers from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Real Numbers from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Real Numbers from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ce4738c-5254-4e0d-b800-40aa2a7409fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a2a7a55c6776d01b238650",
+    "bookId": "699fe0cbc0f1b763a4c1db3d",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Polynomials",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "69a142c07aa1a4c1966f9b69",
+    "programTopicId": "69a155e4b1455282e0f1f285",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a15603dc5f9a37161259f0",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a1567bf5bfc2474508d7b4",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a156e4d7a092e9616b5276",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a1576a77ba4addfa7483c9",
+        "numberOfQuestions": 12
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T08:30:29.724Z",
+    "updatedAt": "2026-07-22T21:45:04.186Z",
+    "__v": 0,
+    "totalPageCount": 74,
+    "pageSliceVersion": 1,
+    "slug": "polynomials",
+    "seo": {
+      "titleTag": "Polynomials - Udaan Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Polynomials - Udaan Maths (Digital Module) | PW Books",
+      "ogTitle": "Polynomials - Udaan Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Polynomials from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Polynomials from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Polynomials from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ce4738c-5254-4e0d-b800-40aa2a7409fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a2a829bba9f9e3fcd3ab77",
+    "bookId": "699fe0cbc0f1b763a4c1db3d",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Pair of Linear Equations in Two Variables",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "69a142c07aa1a4c1966f9b69",
+    "programTopicId": "69a157e640244bdacfd83fb0",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a1580d77ba4addfa74843c",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a1586937a9d1f4fada70b2",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a15912f5bfc2474508db58",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a159a9df2aac02ec7f1f66",
+        "numberOfQuestions": 19
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T08:32:41.921Z",
+    "updatedAt": "2026-07-22T21:45:09.880Z",
+    "__v": 0,
+    "totalPageCount": 108,
+    "pageSliceVersion": 1,
+    "slug": "pair-of-linear-equations-in-two-variables",
+    "seo": {
+      "titleTag": "Pair of Linear Equations in Two Variables - Udaan Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Pair of Linear Equations in Two Variables - Udaan Maths (Digital Module) | PW Books",
+      "ogTitle": "Pair of Linear Equations in Two Variables - Udaan Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Pair of Linear Equations in Two Variables from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Pair of Linear Equations in Two Variables from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Pair of Linear Equations in Two Variables from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ce4738c-5254-4e0d-b800-40aa2a7409fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a2ac67dedd676b065c7a61",
+    "bookId": "699fe0cbc0f1b763a4c1db3d",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Quadratic Equations",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "69a142c07aa1a4c1966f9b69",
+    "programTopicId": "69a159ed7f8fd7ac4377bf17",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a16703b50a9d605097f351",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a1675d77ba4addfa74a36e",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a167b6e83099b3733c7f90",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a1680fd7a092e9616b868f",
+        "numberOfQuestions": 20
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T08:50:47.742Z",
+    "updatedAt": "2026-07-22T21:45:14.356Z",
+    "__v": 0,
+    "totalPageCount": 92,
+    "pageSliceVersion": 1,
+    "slug": "quadratic-equations",
+    "seo": {
+      "titleTag": "Quadratic Equations - Udaan Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Quadratic Equations - Udaan Maths (Digital Module) | PW Books",
+      "ogTitle": "Quadratic Equations - Udaan Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Quadratic Equations from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Quadratic Equations from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Quadratic Equations from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ce4738c-5254-4e0d-b800-40aa2a7409fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a2addd740f5a591175c74b",
+    "bookId": "699fe0cbc0f1b763a4c1db3d",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Arithmetic Progressions",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "69a142c07aa1a4c1966f9b69",
+    "programTopicId": "69a168547eae6e3161db55a1",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a1686a77ba4addfa74a4ef",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a168d1d7a092e9616b89d8",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a1693d77ba4addfa74a705",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a169a0df2aac02ec7f5c87",
+        "numberOfQuestions": 20
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T08:57:01.206Z",
+    "updatedAt": "2026-07-22T21:45:20.877Z",
+    "__v": 0,
+    "totalPageCount": 130,
+    "pageSliceVersion": 1,
+    "slug": "arithmetic-progressions",
+    "seo": {
+      "titleTag": "Arithmetic Progressions - Udaan Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Arithmetic Progressions - Udaan Maths (Digital Module) | PW Books",
+      "ogTitle": "Arithmetic Progressions - Udaan Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Arithmetic Progressions from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Arithmetic Progressions from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Arithmetic Progressions from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ce4738c-5254-4e0d-b800-40aa2a7409fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a2b4cf87e745341b3fe979",
+    "bookId": "699fe0cbc0f1b763a4c1db3d",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Triangles",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "69a142c07aa1a4c1966f9b69",
+    "programTopicId": "69a16a001be63739930f3dfc",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a16a1837a9d1f4fadaad7e",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a16a6ee83099b3733c8f96",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a16aebb50a9d6050980c93",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a16b1af5bfc2474509ee6c",
+        "numberOfQuestions": 9
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T09:26:39.705Z",
+    "updatedAt": "2026-07-22T21:45:26.652Z",
+    "__v": 0,
+    "totalPageCount": 108,
+    "pageSliceVersion": 1,
+    "slug": "triangles",
+    "seo": {
+      "titleTag": "Triangles - Udaan Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Triangles - Udaan Maths (Digital Module) | PW Books",
+      "ogTitle": "Triangles - Udaan Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Triangles from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Triangles from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Triangles from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ce4738c-5254-4e0d-b800-40aa2a7409fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a2b6087254611e0b968ad5",
+    "bookId": "699fe0cbc0f1b763a4c1db3d",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Coordinate Geometry",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "69a142c07aa1a4c1966f9b69",
+    "programTopicId": "69a1774aae99f113933ce671",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a1776237a9d1f4fadafb63",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a1789337a9d1f4fadb0027",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a1794437a9d1f4fadb028f",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a179a9d7a092e9616bfd01",
+        "numberOfQuestions": 15
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T09:31:52.408Z",
+    "updatedAt": "2026-07-22T21:45:31.990Z",
+    "__v": 0,
+    "totalPageCount": 103,
+    "pageSliceVersion": 1,
+    "slug": "coordinate-geometry",
+    "seo": {
+      "titleTag": "Coordinate Geometry - Udaan Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Coordinate Geometry - Udaan Maths (Digital Module) | PW Books",
+      "ogTitle": "Coordinate Geometry - Udaan Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Coordinate Geometry from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Coordinate Geometry from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Coordinate Geometry from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ce4738c-5254-4e0d-b800-40aa2a7409fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a2b8ed04aeaf8ea37468fa",
+    "bookId": "699fe0cbc0f1b763a4c1db3d",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Introduction to Trigonometry",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "69a142c07aa1a4c1966f9b69",
+    "programTopicId": "69a17a044db979a7873baf8a",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a17a2377ba4addfa74c009",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a17afc3547b247a36420cc",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a17b6bdf2aac02ec7fb929",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a17bdc7d13555fa2e9e64e",
+        "numberOfQuestions": 20
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T09:44:13.213Z",
+    "updatedAt": "2026-07-22T21:45:37.157Z",
+    "__v": 0,
+    "totalPageCount": 102,
+    "pageSliceVersion": 1,
+    "slug": "introduction-to-trigonometry",
+    "seo": {
+      "titleTag": "Introduction to Trigonometry - Udaan Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Introduction to Trigonometry - Udaan Maths (Digital Module) | PW Books",
+      "ogTitle": "Introduction to Trigonometry - Udaan Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Introduction to Trigonometry from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Introduction to Trigonometry from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Introduction to Trigonometry from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ce4738c-5254-4e0d-b800-40aa2a7409fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69a2b96a87e745341b3ff7d5",
+    "bookId": "699fe0cbc0f1b763a4c1db3d",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Some Applications of Trigonometry",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "69a142c07aa1a4c1966f9b69",
+    "programTopicId": "69a17c31d3fce178343a9843",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a17c47dc5f9a3716139e7f",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a17cb837a9d1f4fadb1452",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a17d32df2aac02ec7fc85c",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a17e1bdc5f9a371613a17a",
+        "numberOfQuestions": 15
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T09:46:18.924Z",
+    "updatedAt": "2026-07-22T21:45:42.530Z",
+    "__v": 0,
+    "totalPageCount": 113,
+    "pageSliceVersion": 1,
+    "slug": "some-applications-of-trigonometry",
+    "seo": {
+      "titleTag": "Some Applications of Trigonometry - Udaan Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Some Applications of Trigonometry - Udaan Maths (Digital Module) | PW Books",
+      "ogTitle": "Some Applications of Trigonometry - Udaan Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Some Applications of Trigonometry from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Some Applications of Trigonometry from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Some Applications of Trigonometry from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ce4738c-5254-4e0d-b800-40aa2a7409fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69ae637b53c2f31b5873e989",
+    "bookId": "699fe0cbc0f1b763a4c1db3d",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Circle",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-03-09T06:06:51.038Z",
+    "updatedAt": "2026-07-22T21:45:48.351Z",
+    "__v": 0,
+    "totalPageCount": 115,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a17ec5d7a092e9616c128c",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a17f14d7a092e9616c13ce",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a17f759ec1472cd3692dfc",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a17fe8f3af2092cde8e2ff",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "69a142c07aa1a4c1966f9b69",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a17ea3974a7b3ada4e4cec",
+    "pageSliceVersion": 1,
+    "slug": "circle",
+    "seo": {
+      "titleTag": "Circle - Udaan Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Circle - Udaan Maths (Digital Module) | PW Books",
+      "ogTitle": "Circle - Udaan Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Circle from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Circle from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Circle from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ce4738c-5254-4e0d-b800-40aa2a7409fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69ae6242b242268aacd2904f",
+    "bookId": "699fe0cbc0f1b763a4c1db3d",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Areas Related to Circles",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-03-09T06:01:38.045Z",
+    "updatedAt": "2026-07-22T21:45:53.177Z",
+    "__v": 0,
+    "totalPageCount": 98,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a18063dc5f9a371613a5ae",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a180db9ec1472cd36931ca",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a1959e3547b247a365cda6",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a19629df2aac02ec800a28",
+        "numberOfQuestions": 20
+      }
+    ],
+    "programChapterId": "69a142c07aa1a4c1966f9b69",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a1804cc91ec7063846e495",
+    "pageSliceVersion": 1,
+    "slug": "areas-related-to-circles",
+    "seo": {
+      "titleTag": "Areas Related to Circles - Udaan Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Areas Related to Circles - Udaan Maths (Digital Module) | PW Books",
+      "ogTitle": "Areas Related to Circles - Udaan Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Areas Related to Circles from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Areas Related to Circles from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Areas Related to Circles from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ce4738c-5254-4e0d-b800-40aa2a7409fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69ae626f08549e19a6849429",
+    "bookId": "699fe0cbc0f1b763a4c1db3d",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Surface Areas and Volumes",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-03-09T06:02:23.418Z",
+    "updatedAt": "2026-07-22T21:45:57.819Z",
+    "__v": 0,
+    "totalPageCount": 100,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a196ab9ec1472cd3696e1e",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a197043547b247a365d145",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a19790df2aac02ec800cec",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a19800d7a092e9616c6c78",
+        "numberOfQuestions": 17
+      }
+    ],
+    "programChapterId": "69a142c07aa1a4c1966f9b69",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a1969339d0ac8884a9e3e9",
+    "pageSliceVersion": 1,
+    "slug": "surface-areas-and-volumes",
+    "seo": {
+      "titleTag": "Surface Areas and Volumes - Udaan Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Surface Areas and Volumes - Udaan Maths (Digital Module) | PW Books",
+      "ogTitle": "Surface Areas and Volumes - Udaan Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Surface Areas and Volumes from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Surface Areas and Volumes from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Surface Areas and Volumes from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ce4738c-5254-4e0d-b800-40aa2a7409fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69ae62a4e4317f30ef2a4aa6",
+    "bookId": "699fe0cbc0f1b763a4c1db3d",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Statistics",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-03-09T06:03:16.013Z",
+    "updatedAt": "2026-07-22T21:46:04.869Z",
+    "__v": 0,
+    "totalPageCount": 138,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a19b717d13555fa2ebcda7",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a19bf89ec1472cd36979e5",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a19c6037a9d1f4fadc1a49",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a19d013547b247a365de22",
+        "numberOfQuestions": 19
+      }
+    ],
+    "programChapterId": "69a142c07aa1a4c1966f9b69",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a19b384b1a21ec093c435b",
+    "pageSliceVersion": 1,
+    "slug": "statistics",
+    "seo": {
+      "titleTag": "Statistics - Udaan Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Statistics - Udaan Maths (Digital Module) | PW Books",
+      "ogTitle": "Statistics - Udaan Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Statistics from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Statistics from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Statistics from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ce4738c-5254-4e0d-b800-40aa2a7409fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "69ae6333ff1cb5c089707fbc",
+    "bookId": "699fe0cbc0f1b763a4c1db3d",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Probability",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-03-09T06:05:39.740Z",
+    "updatedAt": "2026-09-08T11:14:25.849Z",
+    "__v": 0,
+    "totalPageCount": 99,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a19d7937a9d1f4fadc1c9d",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a19dcbdf2aac02ec801cce",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a19e39d7a092e9616c7bd8",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 MCQ",
+        "testId": "69a19e8ddf2aac02ec8024b6",
+        "numberOfQuestions": 19
+      }
+    ],
+    "programChapterId": "69a142c07aa1a4c1966f9b69",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69a19d6240244bdacfd9b695",
+    "pageSliceVersion": 2,
+    "slug": "probability",
+    "seo": {
+      "titleTag": "Probability - Udaan Maths (Digital Module) | PW Books",
+      "coverImageAltText": "Probability - Udaan Maths (Digital Module) | PW Books",
+      "ogTitle": "Probability - Udaan Maths (Digital Module) | PW Books",
+      "shortDescription": "Read Probability from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Probability from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Probability from Udaan Maths (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ce4738c-5254-4e0d-b800-40aa2a7409fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  }
+]

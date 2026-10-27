@@ -1,0 +1,4133 @@
+[
+  {
+    "_id": "699d61fe52dd4ee3a6cc2a89",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Some Basic Concepts of Chemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:31:58.022Z",
+    "updatedAt": "2026-07-22T20:02:31.578Z",
+    "__v": 0,
+    "programChapterId": "67aafd1761962f997243b3a7",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6992a8c491cac89de8cc4223",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6992a93a05c7e6b28246d232",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6992a9fc05c7e6b282470a8f",
+        "numberOfQuestions": 36
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6992ab801467e81c82adf321",
+        "numberOfQuestions": 36
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6992ad6d39aa0d86a864b7c1",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6992aee567558505a3273502",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6992b0c4bf810d16a52eb57b",
+        "numberOfQuestions": 14
+      }
+    ],
+    "totalPageCount": 55,
+    "pageSliceVersion": 1,
+    "slug": "some-basic-concepts-of-chemistry",
+    "seo": {
+      "titleTag": "Some Basic Concepts of Chemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Some Basic Concepts of Chemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Some Basic Concepts of Chemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Some Basic Concepts of Chemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Some Basic Concepts of Chemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Some Basic Concepts of Chemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d625007e31401e7259811",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Structure of Atom",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:33:20.467Z",
+    "updatedAt": "2026-07-22T20:02:37.046Z",
+    "__v": 0,
+    "programChapterId": "67ab05dfc4bd2cd30b0ba66a",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6992b3115c97be5a92444a82",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6992b4290f76472d6281f8fa",
+        "numberOfQuestions": 70
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6992b5850f76472d6282fe1e",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6992b6c68f924373ef00c752",
+        "numberOfQuestions": 38
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6992ba429f0651a6ad98c622",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6992bc66d7f3686eb6e86f51",
+        "numberOfQuestions": 64
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6992bde3058464476b39c3df",
+        "numberOfQuestions": 12
+      }
+    ],
+    "totalPageCount": 71,
+    "pageSliceVersion": 1,
+    "slug": "structure-of-atom",
+    "seo": {
+      "titleTag": "Structure of Atom - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Structure of Atom - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Structure of Atom - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Structure of Atom from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Structure of Atom from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Structure of Atom from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d62bb4c61f3bbbec379d3",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Classification of Elements & Periodicity in Properties",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:35:07.763Z",
+    "updatedAt": "2026-07-22T20:02:40.653Z",
+    "__v": 0,
+    "programChapterId": "67aafe45cd4d7143323b0e3b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6992bfa2d89a6f50168a4186",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6992c1b4d7f3686eb6e87651",
+        "numberOfQuestions": 46
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6992c269d7f3686eb6e87669",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6992c4b61467e81c82c045e9",
+        "numberOfQuestions": 38
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6992ccac1467e81c82c1d7ea",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6992ce95bf810d16a52ed60b",
+        "numberOfQuestions": 73
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6992d0f91467e81c82c1ea37",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 51,
+    "pageSliceVersion": 1,
+    "slug": "classification-of-elements-periodicity-in-properties",
+    "seo": {
+      "titleTag": "Classification of Elements & Periodicity in Properties - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Classification of Elements & Periodicity in Properties - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Classification of Elements & Periodicity in Properties - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Classification of Elements & Periodicity in Properties from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Classification of Elements & Periodicity in Properties from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Classification of Elements & Periodicity in Properties from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d62eb6300e0c88f3dad27",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Chemical Bonding & Molecular Structure",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:35:55.802Z",
+    "updatedAt": "2026-07-22T20:02:45.545Z",
+    "__v": 0,
+    "programChapterId": "67ab05ea60da46b9f08e9d1a",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6992d46f4577fff613c7924b",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6992dac139aa0d86a87941bd",
+        "numberOfQuestions": 53
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6992db63058464476b39ff7a",
+        "numberOfQuestions": 47
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6992e0231467e81c82c1fb5e",
+        "numberOfQuestions": 41
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6992e6741467e81c82c1ff27",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6992ea9d058464476b3a52c6",
+        "numberOfQuestions": 75
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6992ee42c77187d2493fee4b",
+        "numberOfQuestions": 13
+      }
+    ],
+    "totalPageCount": 70,
+    "pageSliceVersion": 1,
+    "slug": "chemical-bonding-molecular-structure",
+    "seo": {
+      "titleTag": "Chemical Bonding & Molecular Structure - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Chemical Bonding & Molecular Structure - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Chemical Bonding & Molecular Structure - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Chemical Bonding & Molecular Structure from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Bonding & Molecular Structure from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Bonding & Molecular Structure from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d63bf2b730a78c5da82cd",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "States of Matter",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:39:27.769Z",
+    "updatedAt": "2026-07-22T20:02:48.945Z",
+    "__v": 0,
+    "programChapterId": "6993f74c2938857c86c45565",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6993f796abcd700fb4c04cba",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6993f7d1bb70fff465f3b633",
+        "numberOfQuestions": 51
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6993f9388f924373ef029f89",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6993faee2ab4ac71ada4952f",
+        "numberOfQuestions": 61
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6993fc75bb70fff465f3bb32",
+        "numberOfQuestions": 25
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6993fd8d146ebe9ebd3c863a",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 52,
+    "pageSliceVersion": 1,
+    "slug": "states-of-matter",
+    "seo": {
+      "titleTag": "States of Matter - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "States of Matter - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "States of Matter - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read States of Matter from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read States of Matter from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read States of Matter from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d640c07e31401e725a5e2",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Thermodynamics",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:40:44.334Z",
+    "updatedAt": "2026-07-22T20:02:53.884Z",
+    "__v": 0,
+    "programChapterId": "67ab060bc10b39b11dfe3d5c",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6993fee58b753a6dd688e15f",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6993ff1b2ab4ac71ada496e8",
+        "numberOfQuestions": 44
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6994006e8b7b8b9f84a7ed8b",
+        "numberOfQuestions": 57
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "699402498f924373ef02ae3b",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "699403a58df8137e1de4f943",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "699408eecda1c6ff041b3d51",
+        "numberOfQuestions": 89
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69940e87bf810d16a52f99d5",
+        "numberOfQuestions": 14
+      }
+    ],
+    "totalPageCount": 76,
+    "pageSliceVersion": 1,
+    "slug": "thermodynamics",
+    "seo": {
+      "titleTag": "Thermodynamics - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Thermodynamics - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Thermodynamics - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Thermodynamics from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Thermodynamics from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Thermodynamics from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d64765a19f5b43190666b",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Redox Reaction",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:42:30.841Z",
+    "updatedAt": "2026-07-22T20:02:55.732Z",
+    "__v": 0,
+    "programChapterId": "67ab06292947c78638de059a",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699414e9332baf0897342cc9",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6994166d5539bb5014657a05",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "699418f12ab4ac71ada55e3d",
+        "numberOfQuestions": 48
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69942762bb70fff465f54ff1",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6994291aed66c83500feb271",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "69942bc0ed66c83500feb795",
+        "numberOfQuestions": 49
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69982322aeba86166b0ad692",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 28,
+    "pageSliceVersion": 1,
+    "slug": "redox-reaction",
+    "seo": {
+      "titleTag": "Redox Reaction - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Redox Reaction - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Redox Reaction - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Redox Reaction from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Redox Reaction from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Redox Reaction from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d64bd07e31401e725abd3",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Equilibrium",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:43:41.368Z",
+    "updatedAt": "2026-07-22T20:03:01.105Z",
+    "__v": 0,
+    "programChapterId": "67ab0619c444394223818be3",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6994346b323685858cf5a5e9",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "699435355539bb501465c53c",
+        "numberOfQuestions": 91
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "69943718e7066a69d7a500c9",
+        "numberOfQuestions": 89
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69943d838f924373ef03311b",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6995451fb25b6502a159f3dd",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "699825fdaeba86166b0adc36",
+        "numberOfQuestions": 76
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69954b15980a1ecfa1a4feac",
+        "numberOfQuestions": 14
+      }
+    ],
+    "totalPageCount": 81,
+    "pageSliceVersion": 1,
+    "slug": "equilibrium",
+    "seo": {
+      "titleTag": "Equilibrium - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Equilibrium - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Equilibrium - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Equilibrium from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Equilibrium from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Equilibrium from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d652ac4a956bc617cc37f",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Some Basic Principles and Techniques:IUPAC Nomenclature",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:45:30.975Z",
+    "updatedAt": "2026-07-22T20:03:03.570Z",
+    "__v": 0,
+    "programChapterId": "69954d75471998920a5d6ff2",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69955023f2d9b4167b6b6f43",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6995504a266af31d83525b4b",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6995516395727981ba6e55ef",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "699552ab02f14a3c69fc4e82",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69955441be8952f4096316a8",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "699555b4dd6728e0d789a359",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "699557cbdd6728e0d789a8fa",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 41,
+    "pageSliceVersion": 1,
+    "slug": "some-basic-principles-and-techniques-iupac-nomenclature",
+    "seo": {
+      "titleTag": "Some Basic Principles and Techniques:IUPAC Nomenclature - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Some Basic Principles and Techniques:IUPAC Nomenclature - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Some Basic Principles and Techniques:IUPAC Nomenclature - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Some Basic Principles and Techniques:IUPAC Nomenclature from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Some Basic Principles and Techniques:IUPAC Nomenclature from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Some Basic Principles and Techniques:IUPAC Nomenclature from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d6561845397e8ba3b2896",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Some Basic Principles and Techniques: General Organic Chemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:46:25.294Z",
+    "updatedAt": "2026-07-22T20:03:07.507Z",
+    "__v": 0,
+    "programChapterId": "699558c6a07a4a55686d28ca",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699558dbe7b5bbc2b5920003",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6995592f05c0b52bd1f6234b",
+        "numberOfQuestions": 52
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "699559bebe8952f409631c33",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69955a8eb25b6502a15ad610",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69955ee4473fe40216b7f006",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6995600005c0b52bd1f634f4",
+        "numberOfQuestions": 74
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6995617e02f14a3c69fc6d90",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 55,
+    "pageSliceVersion": 1,
+    "slug": "some-basic-principles-and-techniques-general-organic-chemistry",
+    "seo": {
+      "titleTag": "Some Basic Principles and Techniques: General Organic Chemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Some Basic Principles and Techniques: General Organic Chemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Some Basic Principles and Techniques: General Organic Chemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Some Basic Principles and Techniques: General Organic Chemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Some Basic Principles and Techniques: General Organic Chemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Some Basic Principles and Techniques: General Organic Chemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d6598e6d1ae4b0ed06bee",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Some Basic Principles and Techniques: Isomerism (Excluding Optical Isomerism)",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:47:20.300Z",
+    "updatedAt": "2026-07-22T20:03:09.715Z",
+    "__v": 0,
+    "programChapterId": "6995647f48010e92884fddc2",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69956498034792582da2a2b5",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "699564ee02f14a3c69fc7a4a",
+        "numberOfQuestions": 36
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6995665a7f8bd42b9d5bd35f",
+        "numberOfQuestions": 33
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "699567f1266af31d835299bf",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "699568ccb25b6502a15affd0",
+        "numberOfQuestions": 24
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "69956c1102f14a3c69fc87db",
+        "numberOfQuestions": 17
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69956d69980a1ecfa1a55c94",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 30,
+    "pageSliceVersion": 1,
+    "slug": "some-basic-principles-and-techniques-isomerism-excluding-optical-isomerism",
+    "seo": {
+      "titleTag": "Some Basic Principles and Techniques: Isomerism (Excluding Optical Isomerism) - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Some Basic Principles and Techniques: Isomerism (Excluding Optical Isomerism) - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Some Basic Principles and Techniques: Isomerism (Excluding Optical Isomerism) - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Some Basic Principles and Techniques: Isomerism (Excluding Optical Isomerism) from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Some Basic Principles and Techniques: Isomerism (Excluding Optical Isomerism) from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Some Basic Principles and Techniques: Isomerism (Excluding Optical Isomerism) from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d65ec26ec0914b9a4ee97",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Hydrocarbon (NCERT)",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:48:44.720Z",
+    "updatedAt": "2026-07-22T20:03:14.937Z",
+    "__v": 0,
+    "programChapterId": "67ab0648eb9cbb4665f9e4bb",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69956e40bfd1b4f9b2644f8c",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69956fd8b25b6502a15b0fc9",
+        "numberOfQuestions": 72
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6995709fdd6728e0d789f570",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "699572f27f8bd42b9d5bfb6c",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "699573cdb25b6502a15b1703",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "699574a57f8bd42b9d5c020c",
+        "numberOfQuestions": 62
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6995770805c0b52bd1f6669f",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 75,
+    "pageSliceVersion": 1,
+    "slug": "hydrocarbon-ncert",
+    "seo": {
+      "titleTag": "Hydrocarbon (NCERT) - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Hydrocarbon (NCERT) - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Hydrocarbon (NCERT) - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Hydrocarbon (NCERT) from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Hydrocarbon (NCERT) from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Hydrocarbon (NCERT) from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d662bf04a0ca527e766e0",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Purification and Analysis of Organic Compound",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:49:47.791Z",
+    "updatedAt": "2026-07-22T20:03:16.470Z",
+    "__v": 0,
+    "programChapterId": "69957a70034792582da30ec3",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69957ab0471998920a5e5eed",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69957b0d266af31d8352e92d",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "69957be92ccf092a08a90a28",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69957df9980a1ecfa1a58e28",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69957f63be8952f409636cf7",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6995811702f14a3c69fcb2f9",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "699582b77f8bd42b9d5c2990",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 23,
+    "pageSliceVersion": 1,
+    "slug": "purification-and-analysis-of-organic-compound",
+    "seo": {
+      "titleTag": "Purification and Analysis of Organic Compound - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Purification and Analysis of Organic Compound - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Purification and Analysis of Organic Compound - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Purification and Analysis of Organic Compound from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Purification and Analysis of Organic Compound from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Purification and Analysis of Organic Compound from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d666b20c4e503a105b382",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Environmental Chemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:50:51.621Z",
+    "updatedAt": "2026-07-22T20:03:18.751Z",
+    "__v": 0,
+    "programChapterId": "6995842e48010e9288508242",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699585dbb27e7d02930bd29a",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69958613be8952f409637791",
+        "numberOfQuestions": 38
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "699586e495727981ba6ee699",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69958814473fe40216b843b6",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6995891a95727981ba6eed9e",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69958add980a1ecfa1a5bb66",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 28,
+    "pageSliceVersion": 1,
+    "slug": "environmental-chemistry",
+    "seo": {
+      "titleTag": "Environmental Chemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Environmental Chemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Environmental Chemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Environmental Chemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Environmental Chemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Environmental Chemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d66aa80c2e978e6395d0c",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "P- block Elements (Group 13 and 14)",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:51:54.077Z",
+    "updatedAt": "2026-07-22T20:03:21.526Z",
+    "__v": 0,
+    "programChapterId": "6970aa92ef0985cefcc419e6",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69958e9b2fdea5d7d0254fde",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69958f0095727981ba6ef9ed",
+        "numberOfQuestions": 29
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "69958fc7be8952f40963b150",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "699591107f8bd42b9d5c5271",
+        "numberOfQuestions": 38
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6995927a05c0b52bd1f69e40",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "699593757f8bd42b9d5c5790",
+        "numberOfQuestions": 57
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "699594cf02f14a3c69fcd6e7",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 41,
+    "pageSliceVersion": 1,
+    "slug": "p-block-elements-group-13-and-14",
+    "seo": {
+      "titleTag": "P- block Elements (Group 13 and 14) - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "P- block Elements (Group 13 and 14) - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "P- block Elements (Group 13 and 14) - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read P- block Elements (Group 13 and 14) from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read P- block Elements (Group 13 and 14) from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read P- block Elements (Group 13 and 14) from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d66dde6d1ae4b0ed07570",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 16,
+    "title": "S-block Elements",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 16,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:52:45.926Z",
+    "updatedAt": "2026-07-22T20:03:24.274Z",
+    "__v": 0,
+    "programChapterId": "69969df3e68cff0660fc80db",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69969e0b37700fb6fc619921",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69969e30000f202aa1803abb",
+        "numberOfQuestions": 47
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69969e9c44af8b15abd79e77",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69969f8a000f202aa1803b5f",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6996a083c4c7033115b5de30",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6996a1b7000f202aa1804025",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 36,
+    "pageSliceVersion": 1,
+    "slug": "s-block-elements",
+    "seo": {
+      "titleTag": "S-block Elements - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "S-block Elements - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "S-block Elements - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read S-block Elements from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read S-block Elements from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read S-block Elements from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d672ce667f9c62f31be9a",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 17,
+    "title": "Hydrogen and its Compound",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 17,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:54:04.796Z",
+    "updatedAt": "2026-07-22T20:03:26.449Z",
+    "__v": 0,
+    "programChapterId": "6996a23fe68cff0660fc967d",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6996a253207bc28afbd7ee9e",
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6996a273d6ab25ce8f7c6ed9",
+        "numberOfQuestions": 42
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6996a2e19538f1208b625d89",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6996a3bd000f202aa18043ac",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6996a50c039e66ade374c509",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6996a635000f202aa18046f0",
+        "numberOfQuestions": 11
+      }
+    ],
+    "totalPageCount": 34,
+    "pageSliceVersion": 1,
+    "slug": "hydrogen-and-its-compound",
+    "seo": {
+      "titleTag": "Hydrogen and its Compound - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Hydrogen and its Compound - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Hydrogen and its Compound - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Hydrogen and its Compound from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Hydrogen and its Compound from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Hydrogen and its Compound from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d6126f04a0ca527e7549a",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 18,
+    "title": "Solutions",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "67ab0655b199ff5a9fd91bb1",
+    "programTopicId": "6964d4d50197146e2c55b8fb",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 18,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:28:22.030Z",
+    "updatedAt": "2026-07-22T20:03:30.914Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69687e34326b930ba1d5f95f",
+        "numberOfQuestions": 46
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "69687f3f41be46fa2d144289",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696a08be34243fb19a33b2e2",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696a0b7ee9871a0199e61eb7",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696a0d0560a64c541473bdfa",
+        "numberOfQuestions": 88
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6964d92982e584b2615351ce",
+        "numberOfQuestions": 16
+      }
+    ],
+    "totalPageCount": 59,
+    "pageSliceVersion": 1,
+    "slug": "solutions",
+    "seo": {
+      "titleTag": "Solutions - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Solutions - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Solutions - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Solutions from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Solutions from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Solutions from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d61506f50a71d899ee68f",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 19,
+    "title": "Chemical Kinetics",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "67ab067a889f5e624547f278",
+    "programTopicId": "696889e6b8769db3d5c7ffca",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 19,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:29:04.499Z",
+    "updatedAt": "2026-07-22T20:03:34.709Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696b3894c4ee58922bc686fc",
+        "numberOfQuestions": 42
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696a102c85056bbf7b75eecf",
+        "numberOfQuestions": 84
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6969c67b09da9fb3b736d669",
+        "numberOfQuestions": 42
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6969c89e9a97e785ce40631b",
+        "numberOfQuestions": 63
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6969b3389a97e785ce4039ee",
+        "numberOfQuestions": 75
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69688a780f2fa9458f286605",
+        "numberOfQuestions": 17
+      }
+    ],
+    "totalPageCount": 55,
+    "pageSliceVersion": 1,
+    "slug": "chemical-kinetics",
+    "seo": {
+      "titleTag": "Chemical Kinetics - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Chemical Kinetics - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Chemical Kinetics - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Chemical Kinetics from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Kinetics from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Kinetics from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d61ba6f50a71d899ee8c3",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 20,
+    "title": "Electrochemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "67ab066dcd4d7143323b0fdc",
+    "programTopicId": "6965f3451087b7604e7e916f",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 20,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:30:50.965Z",
+    "updatedAt": "2026-07-22T20:03:39.158Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6969bf306ab728cb50373fb3",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6969c09409da9fb3b736d31f",
+        "numberOfQuestions": 77
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6969c1add42587d9fc28770d",
+        "numberOfQuestions": 44
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6969c3c99a97e785ce405601",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696ddb1f2295c53cafe5dcfc",
+        "numberOfQuestions": 87
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6965f38709676706a4d3db70",
+        "numberOfQuestions": 17
+      }
+    ],
+    "totalPageCount": 65,
+    "pageSliceVersion": 1,
+    "slug": "electrochemistry",
+    "seo": {
+      "titleTag": "Electrochemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Electrochemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Electrochemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Electrochemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electrochemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electrochemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d62086f50a71d899eeb89",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 21,
+    "title": "Optical Isomerism",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "696b3d6041e47f40c4e9de44",
+    "programTopicId": "696b3d92b93ed07898e90f9a",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 21,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:32:08.936Z",
+    "updatedAt": "2026-07-22T20:03:40.271Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696b3dbde2dd37ddb88cc532",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696b3dd2c4ee58922bc6a3e8",
+        "numberOfQuestions": 38
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696b3de4e16da6a780abf422",
+        "numberOfQuestions": 43
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696b3e0c09da9fb3b738fac6",
+        "numberOfQuestions": 38
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696b3e242321ec0b9a9b0953",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696b3e3a9a97e785ce42da09",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 17,
+    "pageSliceVersion": 1,
+    "slug": "optical-isomerism",
+    "seo": {
+      "titleTag": "Optical Isomerism - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Optical Isomerism - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Optical Isomerism - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Optical Isomerism from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Optical Isomerism from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Optical Isomerism from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d62286f50a71d899eecca",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 22,
+    "title": "Hydrocarbon",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "67ab0648eb9cbb4665f9e4bb",
+    "programTopicId": "69707672a0c050d5983b77ff",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 22,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:32:40.709Z",
+    "updatedAt": "2026-07-22T20:03:45.586Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69707937a0bee0d5d413b1d5",
+        "numberOfQuestions": 43
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6970795ab313bc4117710cd9",
+        "numberOfQuestions": 56
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6970797c97ecfb482b811d17",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6970857d257350528f39b5e0",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6970c3766ff0464a2f747340",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "697079e97b9c119a24454593",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 75,
+    "pageSliceVersion": 1,
+    "slug": "hydrocarbon",
+    "seo": {
+      "titleTag": "Hydrocarbon - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Hydrocarbon - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Hydrocarbon - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Hydrocarbon from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Hydrocarbon from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Hydrocarbon from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d624d6300e0c88f3daa57",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 23,
+    "title": "Haloalkanes and Haloarenes",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "67ab06a7106100bdaf359a63",
+    "programTopicId": "696b4dd2ab9a51fa75d05e78",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 23,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:33:17.014Z",
+    "updatedAt": "2026-07-22T20:03:50.781Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696b4de59a97e785ce430663",
+        "numberOfQuestions": 47
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696b4df4e16da6a780ac3db4",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696b4e04c4ee58922bc6d5b8",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696b4e14e2dd37ddb88d12eb",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696b4e22671ef1638ea81345",
+        "numberOfQuestions": 77
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696b4e38321b6612f8ef3def",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 70,
+    "pageSliceVersion": 1,
+    "slug": "haloalkanes-and-haloarenes",
+    "seo": {
+      "titleTag": "Haloalkanes and Haloarenes - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Haloalkanes and Haloarenes - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Haloalkanes and Haloarenes - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Haloalkanes and Haloarenes from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Haloalkanes and Haloarenes from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Haloalkanes and Haloarenes from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d6279754271575204e870",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 24,
+    "title": "Alcohols, Phenols and Ether",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "67ab06b5b199ff5a9fd91bc2",
+    "programTopicId": "696b601ff5a5f0484ac27b0e",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 24,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:34:01.420Z",
+    "updatedAt": "2026-07-22T20:03:55.273Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696b62df8c14ac7c67357fc4",
+        "numberOfQuestions": 51
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696b651e8c14ac7c6735966f",
+        "numberOfQuestions": 49
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696b63028c14ac7c67358093",
+        "numberOfQuestions": 38
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696b631391726836b030ab8e",
+        "numberOfQuestions": 56
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696b63272e7bc434e7272be0",
+        "numberOfQuestions": 73
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696b6339b10472f4aef1f016",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 72,
+    "pageSliceVersion": 1,
+    "slug": "alcohols-phenols-and-ether",
+    "seo": {
+      "titleTag": "Alcohols, Phenols and Ether - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Alcohols, Phenols and Ether - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Alcohols, Phenols and Ether - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Alcohols, Phenols and Ether from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Alcohols, Phenols and Ether from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Alcohols, Phenols and Ether from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d629d20c4e503a105a603",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 25,
+    "title": "Aldehyde, Ketones and Carboxylic Acids",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "67ab06d1fab721007481a354",
+    "programTopicId": "696b586b11426eb18d700806",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 25,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:34:37.724Z",
+    "updatedAt": "2026-07-22T20:04:02.877Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696b588309da9fb3b7395f95",
+        "numberOfQuestions": 42
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696b58932321ec0b9a9b7d3b",
+        "numberOfQuestions": 58
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696b58a5671ef1638ea85301",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696b58be8684b6b6d0b2621b",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696b58d32321ec0b9a9b7d89",
+        "numberOfQuestions": 102
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696b58e58684b6b6d0b262b7",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 117,
+    "pageSliceVersion": 1,
+    "slug": "aldehyde-ketones-and-carboxylic-acids",
+    "seo": {
+      "titleTag": "Aldehyde, Ketones and Carboxylic Acids - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Aldehyde, Ketones and Carboxylic Acids - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Aldehyde, Ketones and Carboxylic Acids - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Aldehyde, Ketones and Carboxylic Acids from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Aldehyde, Ketones and Carboxylic Acids from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Aldehyde, Ketones and Carboxylic Acids from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d62bef04a0ca527e75ae6",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 26,
+    "title": "Amines",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "67ab06decd4d7143323b0ff9",
+    "programTopicId": "69708f41fcb1cfd5b47cab7d",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 26,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:35:10.214Z",
+    "updatedAt": "2026-07-22T20:04:06.272Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69708f9b61b09adfdaf47318",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "69708fc26ff0464a2f734088",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69708fe361b09adfdaf47357",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "697090102e7bc434e78fb69f",
+        "numberOfQuestions": 62
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6970904237b2c43494b4ff80",
+        "numberOfQuestions": 79
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6970906437b2c43494b4ff97",
+        "numberOfQuestions": 14
+      }
+    ],
+    "totalPageCount": 45,
+    "pageSliceVersion": 1,
+    "slug": "amines",
+    "seo": {
+      "titleTag": "Amines - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Amines - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Amines - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Amines from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Amines from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Amines from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d62e107e31401e7259cc2",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 27,
+    "title": "Biomolecules",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "67ab06eaeb9cbb4665f9e4e5",
+    "programTopicId": "6970969886f1476114d467f4",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 27,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:35:45.696Z",
+    "updatedAt": "2026-07-22T20:04:08.570Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "697097f4a5b5124e0c5b9246",
+        "numberOfQuestions": 43
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "69709818b313bc4117714e80",
+        "numberOfQuestions": 52
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69709836b313bc4117714e90",
+        "numberOfQuestions": 37
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69709851b313bc4117714e93",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6970987197ecfb482b81c0d0",
+        "numberOfQuestions": 72
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6970989517653f4f0ab2a2e7",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 37,
+    "pageSliceVersion": 1,
+    "slug": "biomolecules",
+    "seo": {
+      "titleTag": "Biomolecules - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Biomolecules - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Biomolecules - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Biomolecules from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biomolecules from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biomolecules from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d6305a542753c14564fd5",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 28,
+    "title": "Coordination Compound",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "67ab069a60da46b9f08e9d3d",
+    "programTopicId": "6970a01786f1476114d49a97",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 28,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:36:21.801Z",
+    "updatedAt": "2026-07-22T20:04:12.313Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6970a058d0f6f5c080f865dd",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6970a08161b09adfdaf4ac01",
+        "numberOfQuestions": 41
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6970a09e61b09adfdaf4ac52",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6970a0be37b2c43494b522d2",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6970a0f8a0bee0d5d413ef1b",
+        "numberOfQuestions": 109
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6970a117a5b5124e0c5ba2a8",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 50,
+    "pageSliceVersion": 1,
+    "slug": "coordination-compound",
+    "seo": {
+      "titleTag": "Coordination Compound - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Coordination Compound - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Coordination Compound - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Coordination Compound from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Coordination Compound from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Coordination Compound from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d6335f04a0ca527e75be7",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 29,
+    "title": "The p-Block Elements (XII)",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "6970aa92ef0985cefcc419e6",
+    "programTopicId": "6970aaae9504361fbfb5eb5e",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 29,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:37:09.012Z",
+    "updatedAt": "2026-07-22T20:04:16.239Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6970abd52e7bc434e78ffa1d",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6970abfc2e7bc434e78ffa49",
+        "numberOfQuestions": 53
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6970ac197b9c119a244708f7",
+        "numberOfQuestions": 37
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6970ac3961b09adfdaf4cfbf",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6970ac5bb313bc41177171c8",
+        "numberOfQuestions": 61
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6970ac7ba0bee0d5d4141532",
+        "numberOfQuestions": 12
+      }
+    ],
+    "totalPageCount": 60,
+    "pageSliceVersion": 1,
+    "slug": "the-p-block-elements-xii",
+    "seo": {
+      "titleTag": "The p-Block Elements (XII) - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "The p-Block Elements (XII) - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "The p-Block Elements (XII) - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read The p-Block Elements (XII) from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The p-Block Elements (XII) from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The p-Block Elements (XII) from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d635552dd4ee3a6cc34ae",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 30,
+    "title": "The d & f - Block Elements",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "67ab068a7e4c1890721afdcb",
+    "programTopicId": "6970c042ded2d2f51458a907",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 30,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:37:41.987Z",
+    "updatedAt": "2026-07-22T20:04:18.740Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6970c16397ecfb482b825b6b",
+        "numberOfQuestions": 47
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6970c18a61b09adfdaf55877",
+        "numberOfQuestions": 47
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6970c1b317653f4f0ab30eb7",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6970c1d261b09adfdaf5589c",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6970c1fd7b9c119a24473950",
+        "numberOfQuestions": 92
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6970c21c6ff0464a2f746503",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 36,
+    "pageSliceVersion": 1,
+    "slug": "the-d-f-block-elements",
+    "seo": {
+      "titleTag": "The d & f - Block Elements - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "The d & f - Block Elements - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "The d & f - Block Elements - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read The d & f - Block Elements from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The d & f - Block Elements from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The d & f - Block Elements from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d637fe6d1ae4b0ed05a10",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 31,
+    "title": "Principles of Qualitative Analysis Salt Analysis",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "6978444285105cb0811188f9",
+    "programTopicId": "6978446ca87192635184599f",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 31,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:38:23.281Z",
+    "updatedAt": "2026-07-22T20:04:20.874Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "697844b0711734b4e5758599",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "697844de61f8c943666c7ef5",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69784506e631702fb0b1cb29",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6978452f61f8c943666c7f00",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "69784552e5e678c056ec5c12",
+        "numberOfQuestions": 35
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6978457055d359787463e4e3",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 38,
+    "pageSliceVersion": 1,
+    "slug": "principles-of-qualitative-analysis-salt-analysis",
+    "seo": {
+      "titleTag": "Principles of Qualitative Analysis Salt Analysis - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Principles of Qualitative Analysis Salt Analysis - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Principles of Qualitative Analysis Salt Analysis - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Principles of Qualitative Analysis Salt Analysis from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Principles of Qualitative Analysis Salt Analysis from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Principles of Qualitative Analysis Salt Analysis from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d63a6fee073badb84122d",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 32,
+    "title": "General Principles and Processes of Isolation of Metals",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "697868bcc2f2ed9dcb38f527",
+    "programTopicId": "697868cff37d8324e10260c8",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 32,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:39:02.535Z",
+    "updatedAt": "2026-07-22T20:04:22.641Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6978699a44705e07fbc928df",
+        "numberOfQuestions": 46
+      },
+      {
+        "name": "Exercise-2 Setu (Bridge)",
+        "testId": "69786a8e591735762ee3c02c",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-3 Parikshit (JEE Advanced Level)",
+        "testId": "69786d96591735762ee3c486",
+        "numberOfQuestions": 61
+      },
+      {
+        "name": "Exercise-4 PYQ’s (Past Year Questions)",
+        "testId": "69786dcb8b5fa7589b9346e8",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69786e173c48fa01c534143c",
+        "numberOfQuestions": 15
+      }
+    ],
+    "totalPageCount": 26,
+    "pageSliceVersion": 1,
+    "slug": "general-principles-and-processes-of-isolation-of-metals",
+    "seo": {
+      "titleTag": "General Principles and Processes of Isolation of Metals - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "General Principles and Processes of Isolation of Metals - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "General Principles and Processes of Isolation of Metals - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read General Principles and Processes of Isolation of Metals from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read General Principles and Processes of Isolation of Metals from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read General Principles and Processes of Isolation of Metals from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d63d480c2e978e6394916",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 33,
+    "title": "The Solid States",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "69788d2b5b6fd83e5fa5702c",
+    "programTopicId": "69788d3d2b2412338ca28001",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 33,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:39:48.427Z",
+    "updatedAt": "2026-07-22T20:04:28.874Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69788d9dc80a3edcb679d3a8",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-2 Setu (Bridge)",
+        "testId": "69788dbb591735762ee53258",
+        "numberOfQuestions": 42
+      },
+      {
+        "name": "Exercise-3 Parikshit (JEE Advanced Level)",
+        "testId": "69788ddbc80a3edcb679d433",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-4 PYQ’s (Past Year Questions)",
+        "testId": "69788dff44705e07fbcaa69c",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-5 (PW Challengers)",
+        "testId": "69788e1e8b5fa7589b93f381",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 56,
+    "pageSliceVersion": 1,
+    "slug": "the-solid-states",
+    "seo": {
+      "titleTag": "The Solid States - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "The Solid States - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "The Solid States - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read The Solid States from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The Solid States from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The Solid States from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d63f820c4e503a105aa27",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 34,
+    "title": "Surface Chemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "6979a391fc126c24ed30a48c",
+    "programTopicId": "6979a3b6c52749358ecb69f7",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 34,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:40:24.218Z",
+    "updatedAt": "2026-07-22T20:04:32.563Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6979a4d9f5afe353b3c19e0e",
+        "numberOfQuestions": 56
+      },
+      {
+        "name": "Exercise-2 Setu (Bridge)",
+        "testId": "6979a4ee1264d58f04fadd90",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-3 Parikshit (JEE Advanced Level)",
+        "testId": "6979a50bb289b0a5d1261757",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-4 PYQ’s (Past Year Questions)",
+        "testId": "6979a526b289b0a5d1261762",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-5 (PW Challengers)",
+        "testId": "6979a5408b5fa7589b948226",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 52,
+    "pageSliceVersion": 1,
+    "slug": "surface-chemistry",
+    "seo": {
+      "titleTag": "Surface Chemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Surface Chemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Surface Chemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Surface Chemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Surface Chemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Surface Chemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d6420d563c716a9b98b66",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 35,
+    "title": "Polymers",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "697867146303027686f50613",
+    "programTopicId": "697867a9fc126c24ed2a1985",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 35,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:41:04.890Z",
+    "updatedAt": "2026-07-22T20:04:34.419Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "697867e98b3a8d8f7fe7efb5",
+        "numberOfQuestions": 43
+      },
+      {
+        "name": "Exercise-2 Setu (Bridge)",
+        "testId": "697868078b5fa7589b928cbe",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "Exercise-3 Parikshit (JEE Advanced Level)",
+        "testId": "69786fbdd5b350cb7b731743",
+        "numberOfQuestions": 51
+      },
+      {
+        "name": "Exercise-4 PYQ’s (Past Year Questions)",
+        "testId": "6978683ecc40d99d32ed5705",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-5 (PW Challengers)",
+        "testId": "6978685955d3597874642b0a",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 25,
+    "pageSliceVersion": 1,
+    "slug": "polymers",
+    "seo": {
+      "titleTag": "Polymers - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Polymers - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Polymers - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Polymers from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Polymers from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Polymers from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d644d20c4e503a105ab56",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 36,
+    "title": "Chemistry in Everyday Life",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "6979abdbb82845bfcf61ee59",
+    "programTopicId": "6979abf0c5e5c49e49c9ae26",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 36,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:41:49.060Z",
+    "updatedAt": "2026-07-22T20:04:36.217Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6979ac98f5afe353b3c1a688",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-2 Setu (Bridge)",
+        "testId": "6979ad8ecc40d99d32eeec7d",
+        "numberOfQuestions": 36
+      },
+      {
+        "name": "Exercise-3 Parikshit (JEE Advanced Level)",
+        "testId": "6979ae6bcdd5fab56103b1ef",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-4 PYQ’s (Past Year Questions)",
+        "testId": "6979af70f5afe353b3c1abcc",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-5 (PW Challengers)",
+        "testId": "6979b180f5afe353b3c1afec",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 30,
+    "pageSliceVersion": 1,
+    "slug": "chemistry-in-everyday-life",
+    "seo": {
+      "titleTag": "Chemistry in Everyday Life - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Chemistry in Everyday Life - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Chemistry in Everyday Life - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Chemistry in Everyday Life from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemistry in Everyday Life from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemistry in Everyday Life from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699d648b80c2e978e6394dce",
+    "bookId": "699d38b5ec1482b9f16010a3",
+    "status": "ACTIVE",
+    "displayOrder": 37,
+    "title": "Nuclear Chemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programChapterId": "6979b3c9a68e603776804ad6",
+    "programTopicId": "6979b3e279f69bafc3048d6b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 37,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-24T08:42:51.717Z",
+    "updatedAt": "2026-07-22T20:04:37.201Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6979b478711734b4e58183b9",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "Exercise-2 Setu (Bridge)",
+        "testId": "6979b536f5afe353b3c1b7cf",
+        "numberOfQuestions": 44
+      },
+      {
+        "name": "Exercise-3 Parikshit (JEE Advanced Level)",
+        "testId": "6979c6bc711734b4e581a1b1",
+        "numberOfQuestions": 32
+      },
+      {
+        "name": "Exercise-4 PYQ’s (Past Year Questions)",
+        "testId": "699e9f4ee23754f5b1f29056",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "Exercise-5 (PW Challengers)",
+        "testId": "6979e0f68b5fa7589b94ef6c",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 14,
+    "pageSliceVersion": 1,
+    "slug": "nuclear-chemistry",
+    "seo": {
+      "titleTag": "Nuclear Chemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Nuclear Chemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Nuclear Chemistry - Prayas JEE Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Nuclear Chemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Nuclear Chemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Nuclear Chemistry from Prayas JEE Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/55939a89-69a5-4c06-9749-0dd35da615cf.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  }
+]

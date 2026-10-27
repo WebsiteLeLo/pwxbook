@@ -1,0 +1,918 @@
+[
+  {
+    "_id": "6835910ebf9810593d044e93",
+    "bookId": "682bf69cc729ba3055f4213b",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Relation and Functions",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/306ee9ac-a0f8-4a07-ab80-5ae04ef5ff36.zip",
+      "_id": "68c3a85b67a09b3596b47499"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "6889bd96bbb3094ddd80a984",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "69394ee348bacc0d3eea7613"
+      },
+      {
+        "testId": "68862cac794c4910213f30a5",
+        "numberOfQuestions": 25,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69394ee348bacc0d3eea7614"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684a770586875fdc3036cb92",
+        "numberOfQuestions": 15,
+        "_id": "69394ee348bacc0d3eea7612"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "69394ee348bacc0d3eea7611"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6865322f8e0afa1f5381a1f0",
+        "numberOfQuestions": 25,
+        "_id": "69394ee348bacc0d3eea7610"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "6711f8b687f4b476962d7cbb",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf4d404a823331204404",
+    "programTopicId": "684a7609a080b21f31c3d1cf",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:48:45.393Z",
+    "updatedAt": "2025-12-10T10:43:47.912Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 16.51,
+    "pageStart": 0.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "relation-and-functions",
+    "seo": {
+      "titleTag": "Relation and Functions - Mathematics Part 1 (Class XII) | PW Books",
+      "coverImageAltText": "Relation and Functions - Mathematics Part 1 (Class XII) | PW Books",
+      "ogTitle": "Relation and Functions - Mathematics Part 1 (Class XII) | PW Books",
+      "shortDescription": "Read Relation and Functions from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Relation and Functions from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Relation and Functions from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d526ac98-2a07-4e88-9633-90f795341351.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6889bd96bbb3094ddd80a984",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "68862cac794c4910213f30a5",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 25
+      },
+      {
+        "testId": "684a770586875fdc3036cb92",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 45,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684a770586875fdc3036cb92",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6889bd96bbb3094ddd80a984",
+      "68862cac794c4910213f30a5",
+      "684a770586875fdc3036cb92",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835910ebf9810593d044e99",
+    "bookId": "682bf69cc729ba3055f4213b",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Inverse Trigonometric Function",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8241c455-1397-4dd6-bb28-76ca244d4935.zip",
+      "_id": "68c3a870513c977ca6e59574"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "6889bec3709c163d3785b1d6",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf15d35becdad28b670a"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684a7b0086875fdc3036ceef",
+        "numberOfQuestions": 15,
+        "_id": "691edf15d35becdad28b6709"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf15d35becdad28b6708"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "686532e96e463f75bf2f30d3",
+        "numberOfQuestions": 25,
+        "_id": "691edf15d35becdad28b6707"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf4d404a823331204404",
+    "programTopicId": "684a761ef32a4654ca99bab3",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:48:51.388Z",
+    "updatedAt": "2025-11-20T09:27:49.884Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 32.51,
+    "pageStart": 17.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "inverse-trigonometric-function",
+    "seo": {
+      "titleTag": "Inverse Trigonometric Function - Mathematics Part 1 (Class XII) | PW Books",
+      "coverImageAltText": "Inverse Trigonometric Function - Mathematics Part 1 (Class XII) | PW Books",
+      "ogTitle": "Inverse Trigonometric Function - Mathematics Part 1 (Class XII) | PW Books",
+      "shortDescription": "Read Inverse Trigonometric Function from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Inverse Trigonometric Function from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Inverse Trigonometric Function from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d526ac98-2a07-4e88-9633-90f795341351.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6889bec3709c163d3785b1d6",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "684a7b0086875fdc3036ceef",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684a7b0086875fdc3036ceef",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6889bec3709c163d3785b1d6",
+      "684a7b0086875fdc3036ceef",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835910ebf9810593d044ea0",
+    "bookId": "682bf69cc729ba3055f4213b",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Matrices",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3b4a7f7f-7a7a-495a-abce-bc9e0ac6377a.zip",
+      "_id": "68c7c912156ab27b627e745d"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "6889bf54066b7e7688e82cf2",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf1632008b82eb75ce0c"
+      },
+      {
+        "testId": "68862dd549e985129ff29b31",
+        "numberOfQuestions": 25,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "691edf1632008b82eb75ce0d"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684a7dc2bdf76919a36b0d76",
+        "numberOfQuestions": 15,
+        "_id": "691edf1632008b82eb75ce0b"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf1632008b82eb75ce0a"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68b2f5ca1c0f969b2f8e415e",
+        "numberOfQuestions": 25,
+        "_id": "691edf1632008b82eb75ce09"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf4d404a823331204404",
+    "programTopicId": "684a7633652e8d9393874802",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:48:54.925Z",
+    "updatedAt": "2025-11-20T09:27:50.232Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 74.51,
+    "pageStart": 33.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "matrices",
+    "seo": {
+      "titleTag": "Matrices - Mathematics Part 1 (Class XII) | PW Books",
+      "coverImageAltText": "Matrices - Mathematics Part 1 (Class XII) | PW Books",
+      "ogTitle": "Matrices - Mathematics Part 1 (Class XII) | PW Books",
+      "shortDescription": "Read Matrices from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Matrices from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Matrices from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d526ac98-2a07-4e88-9633-90f795341351.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6889bf54066b7e7688e82cf2",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "68862dd549e985129ff29b31",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 25
+      },
+      {
+        "testId": "684a7dc2bdf76919a36b0d76",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 45,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684a7dc2bdf76919a36b0d76",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6889bf54066b7e7688e82cf2",
+      "68862dd549e985129ff29b31",
+      "684a7dc2bdf76919a36b0d76",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835910ebf9810593d044ea6",
+    "bookId": "682bf69cc729ba3055f4213b",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Determinants",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/272ca7b8-786b-4085-9a18-e2a75e0e70fc.zip",
+      "_id": "68c3a89dda64931146a15a52"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "6889c0449f661810b61e6eb2",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf164ec7f0c03ab77940"
+      },
+      {
+        "testId": "68862e96bc32b56575dff410",
+        "numberOfQuestions": 25,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "691edf164ec7f0c03ab77941"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684bdc8dcd465280379ee74d",
+        "numberOfQuestions": 15,
+        "_id": "691edf164ec7f0c03ab7793f"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf164ec7f0c03ab7793e"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68b2f68b4884e593c75d9764",
+        "numberOfQuestions": 25,
+        "_id": "691edf164ec7f0c03ab7793d"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf4d404a823331204404",
+    "programTopicId": "684a765066781dab70997142",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:49:01.530Z",
+    "updatedAt": "2025-11-20T09:27:50.164Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 102.51,
+    "pageStart": 75.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "determinants",
+    "seo": {
+      "titleTag": "Determinants - Mathematics Part 1 (Class XII) | PW Books",
+      "coverImageAltText": "Determinants - Mathematics Part 1 (Class XII) | PW Books",
+      "ogTitle": "Determinants - Mathematics Part 1 (Class XII) | PW Books",
+      "shortDescription": "Read Determinants from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Determinants from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Determinants from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d526ac98-2a07-4e88-9633-90f795341351.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6889c0449f661810b61e6eb2",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "68862e96bc32b56575dff410",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 25
+      },
+      {
+        "testId": "684bdc8dcd465280379ee74d",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 45,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684bdc8dcd465280379ee74d",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6889c0449f661810b61e6eb2",
+      "68862e96bc32b56575dff410",
+      "684bdc8dcd465280379ee74d",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835a73bbf9810593d045203",
+    "bookId": "682bf69cc729ba3055f4213b",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Continuity & Differentiability",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/51b9ad32-59a1-43fa-b8e3-950508d227f4.zip",
+      "_id": "68c3a8b78d9c9f3c1fc5628b"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "6889c30d066b7e7688e83499",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf13843b489f270ea27d"
+      },
+      {
+        "testId": "68862f76ebf79f35d686479b",
+        "numberOfQuestions": 25,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "691edf13843b489f270ea27e"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684be5f3ae187e3faf15cfce",
+        "numberOfQuestions": 15,
+        "_id": "691edf13843b489f270ea27c"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf13843b489f270ea27b"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68b2f7571a5b75492fca842a",
+        "numberOfQuestions": 25,
+        "_id": "691edf13843b489f270ea27a"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf4d404a823331204404",
+    "programTopicId": "684bdd8bf8d1b533b8d5ff8e",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:49:11.388Z",
+    "updatedAt": "2025-11-20T09:27:47.531Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 145.51,
+    "pageStart": 103.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "continuity-differentiability",
+    "seo": {
+      "titleTag": "Continuity & Differentiability - Mathematics Part 1 (Class XII) | PW Books",
+      "coverImageAltText": "Continuity & Differentiability - Mathematics Part 1 (Class XII) | PW Books",
+      "ogTitle": "Continuity & Differentiability - Mathematics Part 1 (Class XII) | PW Books",
+      "shortDescription": "Read Continuity & Differentiability from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Continuity & Differentiability from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Continuity & Differentiability from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d526ac98-2a07-4e88-9633-90f795341351.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6889c30d066b7e7688e83499",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "68862f76ebf79f35d686479b",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 25
+      },
+      {
+        "testId": "684be5f3ae187e3faf15cfce",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 45,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684be5f3ae187e3faf15cfce",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6889c30d066b7e7688e83499",
+      "68862f76ebf79f35d686479b",
+      "684be5f3ae187e3faf15cfce",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835910e572bc9475e18e96e",
+    "bookId": "682bf69cc729ba3055f4213b",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Application of Derivatives",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a98fd765-42ab-4348-9b9e-bbda411aa2f1.zip",
+      "_id": "694cebc5db36ea73c1e90253"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "6889c3acbfbaf777059f81ae",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "694cebc5db36ea73c1e90251"
+      },
+      {
+        "testId": "688630e3ebf79f35d6864e69",
+        "numberOfQuestions": 25,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "694cebc5db36ea73c1e90252"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684be4f1490ca3987871421e",
+        "numberOfQuestions": 15,
+        "_id": "694cebc5db36ea73c1e90250"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "694cebc5db36ea73c1e9024f"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68b2f9360101d3dfa0538eb1",
+        "numberOfQuestions": 25,
+        "_id": "694cebc5db36ea73c1e9024e"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "676bf3d64b13857264256872",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf4d404a823331204404",
+    "programTopicId": "684bddb6162256c2e013163d",
+    "chapterVersion": 2,
+    "createdAt": "2025-07-30T07:49:23.561Z",
+    "updatedAt": "2025-12-25T07:46:13.605Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 186.51,
+    "pageStart": 146.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 6,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "application-of-derivatives",
+    "seo": {
+      "titleTag": "Application of Derivatives - Mathematics Part 1 (Class XII) | PW Books",
+      "coverImageAltText": "Application of Derivatives - Mathematics Part 1 (Class XII) | PW Books",
+      "ogTitle": "Application of Derivatives - Mathematics Part 1 (Class XII) | PW Books",
+      "shortDescription": "Read Application of Derivatives from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Application of Derivatives from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Application of Derivatives from Mathematics Part 1 (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d526ac98-2a07-4e88-9633-90f795341351.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6889c3acbfbaf777059f81ae",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "688630e3ebf79f35d6864e69",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 25
+      },
+      {
+        "testId": "684be4f1490ca3987871421e",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 45,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684be4f1490ca3987871421e",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6889c3acbfbaf777059f81ae",
+      "688630e3ebf79f35d6864e69",
+      "684be4f1490ca3987871421e",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  }
+]

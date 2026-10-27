@@ -1,0 +1,644 @@
+[
+  {
+    "_id": "69a292eeb3ea975ef58ebc4c",
+    "bookId": "699fe03b287fafa54cf6379f",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Life Processes",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T07:02:06.296Z",
+    "updatedAt": "2026-07-22T21:44:26.125Z",
+    "__v": 0,
+    "totalPageCount": 205,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a0264bf3af2092cde79a60",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a026b93547b247a349519a",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a02720f3af2092cde79aec",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a027873547b247a34953a0",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a0288377ba4addfa734a12",
+        "numberOfQuestions": 16
+      }
+    ],
+    "programChapterId": "699fc7932738646d8afc89af",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a025e6af871d9057d533f7",
+    "pageSliceVersion": 1,
+    "slug": "life-processes",
+    "seo": {
+      "titleTag": "Life Processes - Udaan Biology (Digital Module) | PW Books",
+      "coverImageAltText": "Life Processes - Udaan Biology (Digital Module) | PW Books",
+      "ogTitle": "Life Processes - Udaan Biology (Digital Module) | PW Books",
+      "shortDescription": "Read Life Processes from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Life Processes from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Life Processes from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/29652403-5b7c-4b14-b0ec-03b71d36f3fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "69a2932bf57970dff3f7a0da",
+    "bookId": "699fe03b287fafa54cf6379f",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Control and Coordination",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T07:03:07.718Z",
+    "updatedAt": "2026-07-22T21:44:32.352Z",
+    "__v": 0,
+    "totalPageCount": 125,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a02918fbe59364761f6248",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a02989df2aac02ec7dd159",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a029e837a9d1f4fac5ed80",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a02b80fbe59364761f661b",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a02c5cd293ab3522be75d6",
+        "numberOfQuestions": 5
+      }
+    ],
+    "programChapterId": "699fc7932738646d8afc89af",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a028dfa7da6f9c981d8f98",
+    "pageSliceVersion": 1,
+    "slug": "control-and-coordination",
+    "seo": {
+      "titleTag": "Control and Coordination - Udaan Biology (Digital Module) | PW Books",
+      "coverImageAltText": "Control and Coordination - Udaan Biology (Digital Module) | PW Books",
+      "ogTitle": "Control and Coordination - Udaan Biology (Digital Module) | PW Books",
+      "shortDescription": "Read Control and Coordination from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Control and Coordination from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Control and Coordination from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/29652403-5b7c-4b14-b0ec-03b71d36f3fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "69a29368759b088287a7a54c",
+    "bookId": "699fe03b287fafa54cf6379f",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "How Do Organisms Reproduce?",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T07:04:08.397Z",
+    "updatedAt": "2026-07-22T21:44:39.459Z",
+    "__v": 0,
+    "totalPageCount": 147,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a02e7ff3af2092cde7a35c",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a02ed83547b247a3496956",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a02f53e83099b37327ebb2",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a02fbbe83099b37327ebcc",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a0303ad293ab3522be7cba",
+        "numberOfQuestions": 12
+      }
+    ],
+    "programChapterId": "699fc7932738646d8afc89af",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a02e66969be29b6c7b0e7e",
+    "pageSliceVersion": 1,
+    "slug": "how-do-organisms-reproduce",
+    "seo": {
+      "titleTag": "How Do Organisms Reproduce? - Udaan Biology (Digital Module) | PW Books",
+      "coverImageAltText": "How Do Organisms Reproduce? - Udaan Biology (Digital Module) | PW Books",
+      "ogTitle": "How Do Organisms Reproduce? - Udaan Biology (Digital Module) | PW Books",
+      "shortDescription": "Read How Do Organisms Reproduce? from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read How Do Organisms Reproduce? from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read How Do Organisms Reproduce? from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/29652403-5b7c-4b14-b0ec-03b71d36f3fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "69a2939afb51d9301937832b",
+    "bookId": "699fe03b287fafa54cf6379f",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Heredity and Evolution",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T07:04:58.475Z",
+    "updatedAt": "2026-07-22T21:44:45.448Z",
+    "__v": 0,
+    "totalPageCount": 78,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a04df6f3af2092cde7c700",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a04eb2fbe59364762b6b2e",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a04f4be83099b37332fb02",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a117b3dc5f9a371611d44b",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a117e83547b247a35b0443",
+        "numberOfQuestions": 2
+      }
+    ],
+    "programChapterId": "699fc7932738646d8afc89af",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a04dd85f043641367db663",
+    "pageSliceVersion": 1,
+    "slug": "heredity-and-evolution",
+    "seo": {
+      "titleTag": "Heredity and Evolution - Udaan Biology (Digital Module) | PW Books",
+      "coverImageAltText": "Heredity and Evolution - Udaan Biology (Digital Module) | PW Books",
+      "ogTitle": "Heredity and Evolution - Udaan Biology (Digital Module) | PW Books",
+      "shortDescription": "Read Heredity and Evolution from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Heredity and Evolution from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Heredity and Evolution from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/29652403-5b7c-4b14-b0ec-03b71d36f3fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "69a293d010ab4b585731f255",
+    "bookId": "699fe03b287fafa54cf6379f",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Our Environment",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T07:05:52.407Z",
+    "updatedAt": "2026-07-22T21:44:52.510Z",
+    "__v": 0,
+    "totalPageCount": 101,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a1199c77ba4addfa73f2be",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a11a1a7d13555fa2e24b16",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a11a763547b247a35b06ab",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a11af9df2aac02ec7e70ef",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a11c027d13555fa2e24d28",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "699fc7932738646d8afc89af",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a11988b1455282e0f0b095",
+    "pageSliceVersion": 1,
+    "slug": "our-environment",
+    "seo": {
+      "titleTag": "Our Environment - Udaan Biology (Digital Module) | PW Books",
+      "coverImageAltText": "Our Environment - Udaan Biology (Digital Module) | PW Books",
+      "ogTitle": "Our Environment - Udaan Biology (Digital Module) | PW Books",
+      "shortDescription": "Read Our Environment from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Our Environment from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Our Environment from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/29652403-5b7c-4b14-b0ec-03b71d36f3fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "69a2940a70579d9c7ac609a1",
+    "bookId": "699fe03b287fafa54cf6379f",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Sustainable Management of Natural",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": false,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T07:06:50.716Z",
+    "updatedAt": "2026-07-22T21:44:56.728Z",
+    "__v": 0,
+    "totalPageCount": 69,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a11c777d13555fa2e24e01",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a11cdfdf2aac02ec7e7228",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a12ab2df2aac02ec7e9c83",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a12b32b4faf0d01e477d1d",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a12d29dc5f9a371611fc26",
+        "numberOfQuestions": 13
+      }
+    ],
+    "programChapterId": "699fc7932738646d8afc89af",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a11c4bb891ddcbe54c6a73",
+    "pageSliceVersion": 1,
+    "slug": "sustainable-management-of-natural",
+    "seo": {
+      "titleTag": "Sustainable Management of Natural - Udaan Biology (Digital Module) | PW Books",
+      "coverImageAltText": "Sustainable Management of Natural - Udaan Biology (Digital Module) | PW Books",
+      "ogTitle": "Sustainable Management of Natural - Udaan Biology (Digital Module) | PW Books",
+      "shortDescription": "Read Sustainable Management of Natural from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Sustainable Management of Natural from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Sustainable Management of Natural from Udaan Biology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/29652403-5b7c-4b14-b0ec-03b71d36f3fe.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  }
+]

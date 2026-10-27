@@ -1,0 +1,1910 @@
+[
+  {
+    "_id": "699fb83e9cbfed7997e7dba8",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "General Physics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e4b72e3b8c4fff246fae3",
+        "numberOfQuestions": 60,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6a52528360d4deb2df5899ad"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:04:30.019Z",
+    "updatedAt": "2026-07-22T21:42:31.713Z",
+    "__v": 0,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e4a5cc765e837c534bce9",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e4b72e3b8c4fff246fae3",
+        "numberOfQuestions": 60,
+        "_id": "6a52528360d4deb2df5899ac"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "general-physics",
+    "seo": {
+      "titleTag": "General Physics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "General Physics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "General Physics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read General Physics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read General Physics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read General Physics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e4b72e3b8c4fff246fae3",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 60
+      }
+    ],
+    "pyqQuestions": 60,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e4b72e3b8c4fff246fae3"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699fb852dbed4a1a37b82dbb",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Kinematics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e4db40d09f4eaec11e30e",
+        "numberOfQuestions": 34,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6a525294b60d5d081c835f0c"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:04:50.735Z",
+    "updatedAt": "2026-07-22T21:42:31.946Z",
+    "__v": 0,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e4d8dc765e837c534c744",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e4db40d09f4eaec11e30e",
+        "numberOfQuestions": 34,
+        "_id": "6a525294b60d5d081c835f0b"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "kinematics",
+    "seo": {
+      "titleTag": "Kinematics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Kinematics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "Kinematics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Kinematics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Kinematics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Kinematics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e4db40d09f4eaec11e30e",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 34
+      }
+    ],
+    "pyqQuestions": 34,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e4db40d09f4eaec11e30e"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699fb86824f2e15f3e1dfd7f",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Laws of Motion",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e7d75b89f5febf2cdb837",
+        "numberOfQuestions": 45,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6a5252a5d7894a8e85cba7ba"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:05:12.710Z",
+    "updatedAt": "2026-07-22T21:42:32.242Z",
+    "__v": 0,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e7d454814777d11330eb7",
+    "totalPageCount": 5,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e7d75b89f5febf2cdb837",
+        "numberOfQuestions": 45,
+        "_id": "6a5252a5d7894a8e85cba7b9"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "laws-of-motion",
+    "seo": {
+      "titleTag": "Laws of Motion - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Laws of Motion - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "Laws of Motion - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Laws of Motion from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Laws of Motion from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Laws of Motion from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e7d75b89f5febf2cdb837",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 45
+      }
+    ],
+    "pyqQuestions": 45,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e7d75b89f5febf2cdb837"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699fb882f4c12427cffcd456",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Work, Power and Energy",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e8d2e48ab6ff5e95b3073",
+        "numberOfQuestions": 34,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f98bb861833949e5641215"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:05:38.039Z",
+    "updatedAt": "2026-07-22T21:42:32.597Z",
+    "__v": 0,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e8d04207bc28afbff01ec",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e8d2e48ab6ff5e95b3073",
+        "numberOfQuestions": 34,
+        "_id": "69f98bb861833949e5641214"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "work-power-and-energy",
+    "seo": {
+      "titleTag": "Work, Power and Energy - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Work, Power and Energy - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "Work, Power and Energy - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Work, Power and Energy from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Work, Power and Energy from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Work, Power and Energy from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e8d2e48ab6ff5e95b3073",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 34
+      }
+    ],
+    "pyqQuestions": 34,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e8d2e48ab6ff5e95b3073"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699fb89856d3a06a26b34802",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "System of Particles and Rotational Motion",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e8ed8d2341f368a86be85",
+        "numberOfQuestions": 144,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f98c087cae60ea8e8087a3"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:06:00.553Z",
+    "updatedAt": "2026-07-22T21:42:33.573Z",
+    "__v": 0,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e8e792aba8aaba3b2646d",
+    "totalPageCount": 17,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e8ed8d2341f368a86be85",
+        "numberOfQuestions": 144,
+        "_id": "69f98c087cae60ea8e8087a2"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "system-of-particles-and-rotational-motion",
+    "seo": {
+      "titleTag": "System of Particles and Rotational Motion - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "System of Particles and Rotational Motion - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "System of Particles and Rotational Motion - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read System of Particles and Rotational Motion from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read System of Particles and Rotational Motion from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read System of Particles and Rotational Motion from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e8ed8d2341f368a86be85",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 144
+      }
+    ],
+    "pyqQuestions": 144,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e8ed8d2341f368a86be85"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699fb8afb9b8b332d68947f9",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Gravitation",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e93f923b7ff86a4149e90",
+        "numberOfQuestions": 38,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f98c6a0a271887c060fed7"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:06:23.337Z",
+    "updatedAt": "2026-07-22T21:42:33.896Z",
+    "__v": 0,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e93dfff98bc091010f8df",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e93f923b7ff86a4149e90",
+        "numberOfQuestions": 38,
+        "_id": "69f98c6a0a271887c060fed6"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "gravitation",
+    "seo": {
+      "titleTag": "Gravitation - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Gravitation - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "Gravitation - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Gravitation from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Gravitation from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Gravitation from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e93f923b7ff86a4149e90",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 38
+      }
+    ],
+    "pyqQuestions": 38,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e93f923b7ff86a4149e90"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699fb8c7e6b1d3e54eb4ba4d",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Properties of Matter",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e973bf5494c96a16c6574",
+        "numberOfQuestions": 86,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f98fb4aab7290997945887"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:06:47.669Z",
+    "updatedAt": "2026-07-22T21:42:34.492Z",
+    "__v": 0,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e969d28ac812f771d1aea",
+    "totalPageCount": 10,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e973bf5494c96a16c6574",
+        "numberOfQuestions": 86,
+        "_id": "69f98fb4aab7290997945886"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "properties-of-matter",
+    "seo": {
+      "titleTag": "Properties of Matter - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Properties of Matter - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "Properties of Matter - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Properties of Matter from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Properties of Matter from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Properties of Matter from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e973bf5494c96a16c6574",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 86
+      }
+    ],
+    "pyqQuestions": 86,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e973bf5494c96a16c6574"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699fb8e3b75a152b0a1fff99",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Heat and Thermodynamics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e989df5494c96a16c6837",
+        "numberOfQuestions": 161,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f98fcaa03f96eac36a7ab0"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:07:15.099Z",
+    "updatedAt": "2026-07-22T21:42:35.548Z",
+    "__v": 0,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e98763a9a95ca1a38e897",
+    "totalPageCount": 17,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e989df5494c96a16c6837",
+        "numberOfQuestions": 161,
+        "_id": "69f98fcaa03f96eac36a7aaf"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "heat-and-thermodynamics",
+    "seo": {
+      "titleTag": "Heat and Thermodynamics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Heat and Thermodynamics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "Heat and Thermodynamics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Heat and Thermodynamics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Heat and Thermodynamics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Heat and Thermodynamics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e989df5494c96a16c6837",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 161
+      }
+    ],
+    "pyqQuestions": 161,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e989df5494c96a16c6837"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699fb8fdf90eba06c72744c8",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Oscillations",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e9b2e0c56b334eb9fd3e4",
+        "numberOfQuestions": 49,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f98fe39426cc6f8570c41f"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:07:41.255Z",
+    "updatedAt": "2026-07-22T21:42:35.955Z",
+    "__v": 0,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e9b0af5f9b55df73c27cd",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e9b2e0c56b334eb9fd3e4",
+        "numberOfQuestions": 49,
+        "_id": "69f98fe39426cc6f8570c41e"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "oscillations",
+    "seo": {
+      "titleTag": "Oscillations - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Oscillations - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "Oscillations - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Oscillations from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Oscillations from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Oscillations from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e9b2e0c56b334eb9fd3e4",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 49
+      }
+    ],
+    "pyqQuestions": 49,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e9b2e0c56b334eb9fd3e4"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699fb9170b13c9370cd1cb6f",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Wave Motion",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e9c6ed2341f368a86ee67",
+        "numberOfQuestions": 104,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9900876fd2acdb035fe15"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:08:07.612Z",
+    "updatedAt": "2026-07-22T21:42:36.497Z",
+    "__v": 0,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e9c48a28ba80ff9a7f47e",
+    "totalPageCount": 9,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e9c6ed2341f368a86ee67",
+        "numberOfQuestions": 104,
+        "_id": "69f9900876fd2acdb035fe14"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "wave-motion",
+    "seo": {
+      "titleTag": "Wave Motion - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Wave Motion - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "Wave Motion - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Wave Motion from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Wave Motion from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Wave Motion from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e9c6ed2341f368a86ee67",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 104
+      }
+    ],
+    "pyqQuestions": 104,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e9c6ed2341f368a86ee67"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699fb933effe347cd6c83d8f",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Electric Charges and Field",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e9dc6e23754f5b1f28dae",
+        "numberOfQuestions": 47,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9901f4fdde6c378095d8b"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:08:35.134Z",
+    "updatedAt": "2026-07-22T21:42:36.950Z",
+    "__v": 0,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e9daaff98bc0910113195",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e9dc6e23754f5b1f28dae",
+        "numberOfQuestions": 46,
+        "_id": "69f9901f4fdde6c378095d8a"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "electric-charges-and-field",
+    "seo": {
+      "titleTag": "Electric Charges and Field - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Electric Charges and Field - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "Electric Charges and Field - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Electric Charges and Field from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electric Charges and Field from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electric Charges and Field from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e9dc6e23754f5b1f28dae",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 47
+      }
+    ],
+    "pyqQuestions": 47,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e9dc6e23754f5b1f28dae"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699fb95516a5153161cd9fd7",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Electrostatic Potential and Capacitance",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699e9fb45321cd3af43a4ea5",
+        "numberOfQuestions": 74,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9908a4da5528e12e1ef71"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:09:09.585Z",
+    "updatedAt": "2026-07-22T21:42:37.596Z",
+    "__v": 0,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699e9f8ee878ba1d9d36422a",
+    "totalPageCount": 10,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699e9fb45321cd3af43a4ea5",
+        "numberOfQuestions": 74,
+        "_id": "69f9908a4da5528e12e1ef70"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "electrostatic-potential-and-capacitance",
+    "seo": {
+      "titleTag": "Electrostatic Potential and Capacitance - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Electrostatic Potential and Capacitance - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "Electrostatic Potential and Capacitance - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Electrostatic Potential and Capacitance from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electrostatic Potential and Capacitance from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electrostatic Potential and Capacitance from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699e9fb45321cd3af43a4ea5",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 74
+      }
+    ],
+    "pyqQuestions": 74,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699e9fb45321cd3af43a4ea5"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699fb9720ae6222acf133edd",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Current Electricity",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ea5c748ab6ff5e95b8502",
+        "numberOfQuestions": 79,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f990b54fdde6c37809688b"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:09:38.209Z",
+    "updatedAt": "2026-07-22T21:42:38.252Z",
+    "__v": 0,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699ea3ce7f3ba3af1c153706",
+    "totalPageCount": 9,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ea5c748ab6ff5e95b8502",
+        "numberOfQuestions": 78,
+        "_id": "69f990b54fdde6c37809688a"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "current-electricity",
+    "seo": {
+      "titleTag": "Current Electricity - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Current Electricity - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "Current Electricity - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Current Electricity from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Current Electricity from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Current Electricity from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ea5c748ab6ff5e95b8502",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 79
+      }
+    ],
+    "pyqQuestions": 79,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ea5c748ab6ff5e95b8502"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699fb98ec33543b155ba3dff",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Magnetics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a6b64cde4f7cd1087ba1bc",
+        "numberOfQuestions": 91,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f990ceee4a61b6c720a953"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:10:06.478Z",
+    "updatedAt": "2026-07-22T21:42:39.211Z",
+    "__v": 0,
+    "totalPageCount": 11,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699ea656245e8005d534244a",
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "69a6b64cde4f7cd1087ba1bc",
+        "numberOfQuestions": 91,
+        "_id": "69f990ceee4a61b6c720a952"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "magnetics",
+    "seo": {
+      "titleTag": "Magnetics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Magnetics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "Magnetics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Magnetics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Magnetics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Magnetics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a6b64cde4f7cd1087ba1bc",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 91
+      }
+    ],
+    "pyqQuestions": 91,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a6b64cde4f7cd1087ba1bc"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699fb9a742b4e453b066fb34",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "Electromagnetic Induction, Alternating Current and Electromagnetic Waves",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699eac69d0a0c733091504cd",
+        "numberOfQuestions": 79,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f991043925eaf7faf4c978"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:10:31.706Z",
+    "updatedAt": "2026-07-22T21:42:40.140Z",
+    "__v": 0,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699eac34207bc28afbffa8cc",
+    "totalPageCount": 12,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699eac69d0a0c733091504cd",
+        "numberOfQuestions": 78,
+        "_id": "69f991043925eaf7faf4c977"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "electromagnetic-induction-alternating-current-and-electromagnetic-waves",
+    "seo": {
+      "titleTag": "Electromagnetic Induction, Alternating Current and Electromagnetic Waves - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Electromagnetic Induction, Alternating Current and Electromagnetic Waves - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "Electromagnetic Induction, Alternating Current and Electromagnetic Waves - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Electromagnetic Induction, Alternating Current and Electromagnetic Waves from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electromagnetic Induction, Alternating Current and Electromagnetic Waves from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electromagnetic Induction, Alternating Current and Electromagnetic Waves from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699eac69d0a0c733091504cd",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 79
+      }
+    ],
+    "pyqQuestions": 79,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699eac69d0a0c733091504cd"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699fb9c1df6987f806d4d2c2",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 16,
+    "title": "Optics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699eaf66e23754f5b1f2f534",
+        "numberOfQuestions": 182,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9911e457479f5c9deb754"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 16,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:10:57.599Z",
+    "updatedAt": "2026-07-22T21:42:41.439Z",
+    "__v": 0,
+    "totalPageCount": 20,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699eaf3f5b074ea881e41f57",
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699eaf66e23754f5b1f2f534",
+        "numberOfQuestions": 182,
+        "_id": "69f9911e457479f5c9deb753"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "optics",
+    "seo": {
+      "titleTag": "Optics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Optics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "Optics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Optics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Optics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Optics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699eaf66e23754f5b1f2f534",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 182
+      }
+    ],
+    "pyqQuestions": 182,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699eaf66e23754f5b1f2f534"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "699fb9dda7f9114d80d2e5f1",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 17,
+    "title": "Modern Physics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69a6b6ca77949283b76a9915",
+        "numberOfQuestions": 176,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f99136b627b5c0ef183dea"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 17,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:11:25.790Z",
+    "updatedAt": "2026-07-22T21:42:42.313Z",
+    "__v": 0,
+    "totalPageCount": 15,
+    "programChapterId": "699d878b9b5e3d1c65cee80c",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "699eb10941588b974e1b37b8",
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "69a6b6ca77949283b76a9915",
+        "numberOfQuestions": 176,
+        "_id": "69f99136b627b5c0ef183de9"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "modern-physics",
+    "seo": {
+      "titleTag": "Modern Physics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "Modern Physics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "Modern Physics - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read Modern Physics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Modern Physics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Modern Physics from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69a6b6ca77949283b76a9915",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 176
+      }
+    ],
+    "pyqQuestions": 176,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69a6b6ca77949283b76a9915"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "69a2bb6616e63905a8fa8f20",
+    "bookId": "699eba2b7ea25487df809513",
+    "status": "ACTIVE",
+    "displayOrder": 18,
+    "title": "JEE Advanced Solved Paper",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programTopicId": "69a011325f8c222c7b12f20b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 18,
+    "customPracticeSet": [
+      {
+        "name": "Solved Paper 1",
+        "testId": "69a012ad7d13555fa2d41985",
+        "numberOfQuestions": 48
+      },
+      {
+        "name": "Solved Paper 2",
+        "testId": "69a015adeb9426a6ed6df4e2",
+        "numberOfQuestions": 48
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T09:54:46.517Z",
+    "updatedAt": "2026-07-22T21:42:43.401Z",
+    "__v": 0,
+    "totalPageCount": 12,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "69a012ad7d13555fa2d41985",
+        "numberOfQuestions": 48,
+        "_id": "69f9bfa74699757e392e1bd1"
+      },
+      {
+        "testId": "69a015adeb9426a6ed6df4e2",
+        "numberOfQuestions": 48,
+        "_id": "69f9bfa74699757e392e1bd2"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "jee-advanced-solved-paper",
+    "seo": {
+      "titleTag": "JEE Advanced Solved Paper - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "coverImageAltText": "JEE Advanced Solved Paper - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "ogTitle": "JEE Advanced Solved Paper - JEE Advanced 48 Years (2025-1978) Physics (Digital Book) | PW Books",
+      "shortDescription": "Read JEE Advanced Solved Paper from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read JEE Advanced Solved Paper from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read JEE Advanced Solved Paper from JEE Advanced 48 Years (2025-1978) Physics (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3a83adba-39b2-4289-a256-5ca757aed64f.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  }
+]

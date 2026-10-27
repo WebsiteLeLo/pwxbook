@@ -1,0 +1,3501 @@
+[
+  {
+    "_id": "693925b33fe9f343a551b849",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Mole Concept",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943be1721cf27946b599995",
+        "numberOfQuestions": 13,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a5251568cabd4afe3de0008"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "676bf3d64b13857264256872",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 1,
+    "pageEnd": 14,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "importance": [],
+    "createdAt": "2025-12-10T07:48:03.482Z",
+    "updatedAt": "2026-07-22T19:05:30.239Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697b084181354aa80325dddb",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a20bab3c34731cd83c0d5",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943b9503e93ae25bb863709",
+    "totalPageCount": 14,
+    "pageSliceVersion": 1,
+    "slug": "mole-concept",
+    "seo": {
+      "titleTag": "Mole Concept - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Mole Concept - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Mole Concept - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Mole Concept from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Mole Concept from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Mole Concept from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943be1721cf27946b599995",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 13
+      }
+    ],
+    "pyqQuestions": 13,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943be1721cf27946b599995"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693925f8ef7cdc9aec544d8d",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Atomic Structure",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943bf03ef07631f592613a7",
+        "numberOfQuestions": 17,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a52516144562e65eb10d356"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "676bf3d64b13857264256872",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 15,
+    "pageEnd": 32,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "importance": [],
+    "createdAt": "2025-12-10T07:49:12.991Z",
+    "updatedAt": "2026-07-22T19:05:31.745Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697b09606047243e5a68bb0f",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a26a35e7f67d126d3d732",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943b95fa649ca566b353010",
+    "totalPageCount": 18,
+    "pageSliceVersion": 1,
+    "slug": "atomic-structure",
+    "seo": {
+      "titleTag": "Atomic Structure - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Atomic Structure - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Atomic Structure - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Atomic Structure from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Atomic Structure from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Atomic Structure from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943bf03ef07631f592613a7",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 17
+      }
+    ],
+    "pyqQuestions": 17,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943bf03ef07631f592613a7"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693926509d6bb27a26efb517",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Thermodynamics",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943bfd45a78670ed2515ec2",
+        "numberOfQuestions": 15,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a525170c619def2fe79b3fd"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "676bf3d64b13857264256872",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 33,
+    "pageEnd": 54,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "importance": [],
+    "createdAt": "2025-12-10T07:50:40.833Z",
+    "updatedAt": "2026-07-22T19:05:32.730Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697b0b50d0cc5db34c89f4e0",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a43f4b3c34731cd83f847",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943b96ee71fad9fc39493e0",
+    "totalPageCount": 22,
+    "pageSliceVersion": 1,
+    "slug": "thermodynamics",
+    "seo": {
+      "titleTag": "Thermodynamics - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Thermodynamics - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Thermodynamics - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Thermodynamics from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Thermodynamics from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Thermodynamics from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943bfd45a78670ed2515ec2",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 15
+      }
+    ],
+    "pyqQuestions": 15,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943bfd45a78670ed2515ec2"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6939268679e2ab0b2009e1e9",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Thermochemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943c0a5d3f38080de7a66a7",
+        "numberOfQuestions": 2,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3a49e06d1e1b25de02b46c"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "676bf3d64b13857264256872",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 55,
+    "pageEnd": 68,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "importance": [],
+    "createdAt": "2025-12-10T07:51:34.431Z",
+    "updatedAt": "2026-07-22T19:05:33.494Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69450e97da7f0b76db3f76bd",
+        "numberOfQuestions": 21
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a4945d1de792895070e1c",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943b97d3e93ae25bb863807",
+    "totalPageCount": 14,
+    "pageSliceVersion": 1,
+    "slug": "thermochemistry",
+    "seo": {
+      "titleTag": "Thermochemistry - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Thermochemistry - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Thermochemistry - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Thermochemistry from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Thermochemistry from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Thermochemistry from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943c0a5d3f38080de7a66a7",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 2
+      }
+    ],
+    "pyqQuestions": 2,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943c0a5d3f38080de7a66a7"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693979a3d8ca8ae4d06cdc47",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Chemical Equilibrium",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943c1665a78670ed25162bd",
+        "numberOfQuestions": 7,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3a4c0924a9436928f254ff"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "6711f8b687f4b476962d7cbb",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 69,
+    "pageEnd": 85,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "importance": [],
+    "createdAt": "2025-12-10T13:46:11.398Z",
+    "updatedAt": "2026-07-22T19:05:34.516Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c386c7137f03d5fd73fef",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a4bd5d1de792895071a2c",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943b98c531891b311942858",
+    "totalPageCount": 17,
+    "pageSliceVersion": 1,
+    "slug": "chemical-equilibrium",
+    "seo": {
+      "titleTag": "Chemical Equilibrium - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Chemical Equilibrium - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Chemical Equilibrium - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Chemical Equilibrium from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Equilibrium from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Equilibrium from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943c1665a78670ed25162bd",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 7
+      }
+    ],
+    "pyqQuestions": 7,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943c1665a78670ed25162bd"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a6457b492118343273eab",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Ionic Equilibrium",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943cbd654f12da7f8a56eeb",
+        "numberOfQuestions": 12,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3cb2b250273172d4a97b90"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 86,
+    "pageEnd": 112,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "importance": [],
+    "createdAt": "2025-12-11T06:27:35.171Z",
+    "updatedAt": "2026-07-22T19:05:35.810Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c39817137f03d5fd742e9",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3cb28fa39b1d2e6916e74d",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943b99e333f3bc75e9a9624",
+    "totalPageCount": 27,
+    "pageSliceVersion": 1,
+    "slug": "ionic-equilibrium",
+    "seo": {
+      "titleTag": "Ionic Equilibrium - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Ionic Equilibrium - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Ionic Equilibrium - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Ionic Equilibrium from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Ionic Equilibrium from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Ionic Equilibrium from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943cbd654f12da7f8a56eeb",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 12
+      }
+    ],
+    "pyqQuestions": 12,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943cbd654f12da7f8a56eeb"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a64ba0e5d38b83138e23f",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Redox Reactions",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943cc9aef07631f592661b1",
+        "numberOfQuestions": 8,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3cb4b996560707c91e0f1f"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 113,
+    "pageEnd": 130,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "importance": [],
+    "createdAt": "2025-12-11T06:29:14.673Z",
+    "updatedAt": "2026-07-22T19:05:36.697Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c3ada14376705c0ac4f97",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3cb434639693b775894d97",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943b9af387d238775a5e661",
+    "totalPageCount": 18,
+    "pageSliceVersion": 1,
+    "slug": "redox-reactions",
+    "seo": {
+      "titleTag": "Redox Reactions - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Redox Reactions - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Redox Reactions - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Redox Reactions from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Redox Reactions from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Redox Reactions from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943cc9aef07631f592661b1",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 8
+      }
+    ],
+    "pyqQuestions": 8,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943cc9aef07631f592661b1"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a65856a40c33c2bb18d86",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Solutions",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943cd6d8c65ca3063a38650",
+        "numberOfQuestions": 18,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3cbb650951ac78687e3874"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 131,
+    "pageEnd": 139,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "importance": [],
+    "createdAt": "2025-12-11T06:32:37.915Z",
+    "updatedAt": "2026-07-22T19:05:37.091Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c400f2241e85e9f9894ea",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3cbad3e3c3b16c6beabcfe",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943b9bffa436be58d114eab",
+    "totalPageCount": 9,
+    "pageSliceVersion": 1,
+    "slug": "solutions",
+    "seo": {
+      "titleTag": "Solutions - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Solutions - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Solutions - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Solutions from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Solutions from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Solutions from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943cd6d8c65ca3063a38650",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 18
+      }
+    ],
+    "pyqQuestions": 18,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943cd6d8c65ca3063a38650"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a65f2ca54250771d41ee7",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Electrochemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943ce258c65ca3063a38b01",
+        "numberOfQuestions": 18,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3cbce1da1940db422afc0e"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 140,
+    "pageEnd": 154,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "importance": [],
+    "createdAt": "2025-12-11T06:34:26.749Z",
+    "updatedAt": "2026-07-22T19:05:37.855Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c40f314376705c0ac5446",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3cbcbb96ea4bc3b99f4765",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943b9d08edcd887c466e6d8",
+    "totalPageCount": 15,
+    "pageSliceVersion": 1,
+    "slug": "electrochemistry",
+    "seo": {
+      "titleTag": "Electrochemistry - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Electrochemistry - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Electrochemistry - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Electrochemistry from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electrochemistry from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electrochemistry from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943ce258c65ca3063a38b01",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 18
+      }
+    ],
+    "pyqQuestions": 18,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943ce258c65ca3063a38b01"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a665924d921a9ac7bc789",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Chemical Kinetics",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943cf09f79acc304dcf0e5d",
+        "numberOfQuestions": 16,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3cbe6ec71af8bfc79c205b"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 155,
+    "pageEnd": 165,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "importance": [],
+    "createdAt": "2025-12-11T06:36:09.066Z",
+    "updatedAt": "2026-07-22T19:05:38.400Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c41d65edcec132b131d62",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3cbddd639693b775895eb4",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943b9e08edcd887c466e729",
+    "totalPageCount": 11,
+    "pageSliceVersion": 1,
+    "slug": "chemical-kinetics",
+    "seo": {
+      "titleTag": "Chemical Kinetics - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Chemical Kinetics - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Chemical Kinetics - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Chemical Kinetics from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Kinetics from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Kinetics from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943cf09f79acc304dcf0e5d",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 16
+      }
+    ],
+    "pyqQuestions": 16,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943cf09f79acc304dcf0e5d"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a66e8f32a5c6fd6295745",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Periodic Table",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943db1954f12da7f8a58ea7",
+        "numberOfQuestions": 10,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a5479738a6f75cf682b40ae"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 166,
+    "pageEnd": 172,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "importance": [],
+    "createdAt": "2025-12-11T06:38:32.135Z",
+    "updatedAt": "2026-07-22T19:05:38.736Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c441d14376705c0ac5c2a",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a24877dc01873017609cc",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943ba06a649ca566b35331d",
+    "totalPageCount": 7,
+    "pageSliceVersion": 1,
+    "slug": "periodic-table",
+    "seo": {
+      "titleTag": "Periodic Table - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Periodic Table - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Periodic Table - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Periodic Table from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Periodic Table from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Periodic Table from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943db1954f12da7f8a58ea7",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 10,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943db1954f12da7f8a58ea7"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a67755fb0848dcbfffe29",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Chemical Bonding",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943dbf888142e0fe7372ada",
+        "numberOfQuestions": 21,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3a285ef3711b33bd422ff2"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 173,
+    "pageEnd": 194,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "importance": [],
+    "createdAt": "2025-12-11T06:40:53.029Z",
+    "updatedAt": "2026-07-22T19:05:39.704Z",
+    "__v": 0,
+    "isVideoEnabled": true,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c4fbd64810d21c8b856ef",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a27a4284300f57111a87c",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943ba21a4d9331058ad6b6b",
+    "totalPageCount": 22,
+    "pageSliceVersion": 1,
+    "slug": "chemical-bonding",
+    "seo": {
+      "titleTag": "Chemical Bonding - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Chemical Bonding - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Chemical Bonding - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Chemical Bonding from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Bonding from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Bonding from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943dbf888142e0fe7372ada",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 21
+      }
+    ],
+    "pyqQuestions": 21,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943dbf888142e0fe7372ada"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a6801f2defb5e1831be58",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "p-Block",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943dcc621cf27946b59da59",
+        "numberOfQuestions": 23,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3a462640003b800d6f739e"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 195,
+    "pageEnd": 264,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "importance": [],
+    "createdAt": "2025-12-11T06:43:13.205Z",
+    "updatedAt": "2026-07-22T19:05:43.011Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c50bc7ff3c6271548f7ba",
+        "numberOfQuestions": 113
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a45005f7fe0d96805a3b4",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943c5f54f7035dc951b24f4",
+    "totalPageCount": 70,
+    "pageSliceVersion": 1,
+    "slug": "p-block",
+    "seo": {
+      "titleTag": "p-Block - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "p-Block - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "p-Block - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read p-Block from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read p-Block from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read p-Block from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943dcc621cf27946b59da59",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 23
+      }
+    ],
+    "pyqQuestions": 23,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943dcc621cf27946b59da59"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a686c01da6b8736308f2f",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "d & f-Block",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943dd64ef07631f592726db",
+        "numberOfQuestions": 21,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3a4b2c307e72ff3508e97e"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 265,
+    "pageEnd": 282,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "importance": [],
+    "createdAt": "2025-12-11T06:45:00.772Z",
+    "updatedAt": "2026-07-22T19:05:43.790Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c556714376705c0ac7fa3",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a4aa4b3c34731cd83ff4c",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943c6114b1e72a5a1425493",
+    "totalPageCount": 18,
+    "pageSliceVersion": 1,
+    "slug": "d-f-block",
+    "seo": {
+      "titleTag": "d & f-Block - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "d & f-Block - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "d & f-Block - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read d & f-Block from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read d & f-Block from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read d & f-Block from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943dd64ef07631f592726db",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 21
+      }
+    ],
+    "pyqQuestions": 21,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943dd64ef07631f592726db"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a68cd5fb0848dcb0008f1",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "Coordination Compound",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943c7b9ef07631f592645c8",
+        "numberOfQuestions": 17,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3a5e2540003b800d719bbb"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 283,
+    "pageEnd": 313,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "importance": [],
+    "createdAt": "2025-12-11T06:46:37.703Z",
+    "updatedAt": "2026-07-22T19:05:45.046Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c563714376705c0ac80bb",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a5cf2f1e45642da2cbeba",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943c62bd34b701b69cc0286",
+    "totalPageCount": 31,
+    "pageSliceVersion": 1,
+    "slug": "coordination-compound",
+    "seo": {
+      "titleTag": "Coordination Compound - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Coordination Compound - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Coordination Compound - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Coordination Compound from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Coordination Compound from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Coordination Compound from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943c7b9ef07631f592645c8",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 17
+      }
+    ],
+    "pyqQuestions": 17,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943c7b9ef07631f592645c8"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a692cb8faa3e0f8db212d",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 16,
+    "title": "Heating Effects",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 314,
+    "pageEnd": 320,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "importance": [],
+    "createdAt": "2025-12-11T06:48:12.062Z",
+    "updatedAt": "2026-07-22T19:05:45.312Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c6b4e14376705c0acb1d7",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3cb0bb93b56ccbe3dfa1e2",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943c63f945f081003c017ff",
+    "totalPageCount": 7,
+    "pageSliceVersion": 1,
+    "slug": "heating-effects",
+    "seo": {
+      "titleTag": "Heating Effects - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Heating Effects - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Heating Effects - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Heating Effects from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Heating Effects from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Heating Effects from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a69a5b4921183432754ab",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 17,
+    "title": "IUPAC Nomenclature",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943c82d8c65ca3063a36968",
+        "numberOfQuestions": 3,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a54797e45c20a7af17b0e58"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 321,
+    "pageEnd": 329,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "importance": [],
+    "createdAt": "2025-12-11T06:50:13.431Z",
+    "updatedAt": "2026-07-22T19:05:45.970Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c6bfe7ff3c627154931a0",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a201e5e7f67d126d39986",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943c656390d9f05b1463007",
+    "totalPageCount": 9,
+    "pageSliceVersion": 1,
+    "slug": "iupac-nomenclature",
+    "seo": {
+      "titleTag": "IUPAC Nomenclature - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "IUPAC Nomenclature - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "IUPAC Nomenclature - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read IUPAC Nomenclature from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read IUPAC Nomenclature from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read IUPAC Nomenclature from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943c82d8c65ca3063a36968",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 3
+      }
+    ],
+    "pyqQuestions": 3,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943c82d8c65ca3063a36968"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a69f701da6b8736309740",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 18,
+    "title": "Isomerism",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943c8a0f44a010be7007681",
+        "numberOfQuestions": 2,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3a292d4453db98048ffe74"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 330,
+    "pageEnd": 347,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "importance": [],
+    "createdAt": "2025-12-11T06:51:35.289Z",
+    "updatedAt": "2026-07-22T19:05:47.207Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c6c958e909c1d1eee0192",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a289d5f7fe0d968056b79",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943c677bfc4e12973a443fc",
+    "totalPageCount": 18,
+    "pageSliceVersion": 1,
+    "slug": "isomerism",
+    "seo": {
+      "titleTag": "Isomerism - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Isomerism - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Isomerism - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Isomerism from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Isomerism from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Isomerism from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943c8a0f44a010be7007681",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 2
+      }
+    ],
+    "pyqQuestions": 2,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943c8a0f44a010be7007681"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a6a4c0a963421ddef18b5",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 19,
+    "title": "GOC",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943c91354f12da7f8a56bad",
+        "numberOfQuestions": 5,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3a4215f3711b33bd4467c8"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 348,
+    "pageEnd": 390,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "importance": [],
+    "createdAt": "2025-12-11T06:53:00.736Z",
+    "updatedAt": "2026-07-22T19:05:50.348Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c6d4b7ff3c62715493353",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a2b4a5f7fe0d9680570be",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943c691ecd9774c5885b4bd",
+    "totalPageCount": 43,
+    "pageSliceVersion": 1,
+    "slug": "goc",
+    "seo": {
+      "titleTag": "GOC - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "GOC - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "GOC - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read GOC from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read GOC from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read GOC from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943c91354f12da7f8a56bad",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 5
+      }
+    ],
+    "pyqQuestions": 5,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943c91354f12da7f8a56bad"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a6ada957e7296be0af0ea",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 20,
+    "title": "Qualitative, Quantitative Analysis and Purification",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943cc2021cf27946b59b2d4",
+        "numberOfQuestions": 3,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3a474d24a9436928f1ec28"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 391,
+    "pageEnd": 401,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "importance": [],
+    "createdAt": "2025-12-11T06:55:22.083Z",
+    "updatedAt": "2026-07-22T19:05:51.273Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c6e51cd01e33c4342bc27",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a46975e7f67d126d40994",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943cab4150d6ce681d6c749",
+    "totalPageCount": 11,
+    "pageSliceVersion": 1,
+    "slug": "qualitative-quantitative-analysis-and-purification",
+    "seo": {
+      "titleTag": "Qualitative, Quantitative Analysis and Purification - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Qualitative, Quantitative Analysis and Purification - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Qualitative, Quantitative Analysis and Purification - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Qualitative, Quantitative Analysis and Purification from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Qualitative, Quantitative Analysis and Purification from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Qualitative, Quantitative Analysis and Purification from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943cc2021cf27946b59b2d4",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 3
+      }
+    ],
+    "pyqQuestions": 3,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943cc2021cf27946b59b2d4"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a6b3b4ae9da38a93aa07d",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 21,
+    "title": "Hydrocarbons",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943ccc05a78670ed2517c3f",
+        "numberOfQuestions": 17,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3a5ece6aabeffce73bd482"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 402,
+    "pageEnd": 426,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "importance": [],
+    "createdAt": "2025-12-11T06:56:59.985Z",
+    "updatedAt": "2026-07-22T19:05:53.231Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69b79e33a97e1d00e63c9661",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a5e6dea87cb910b3c7658",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943cacc945f081003c02c93",
+    "totalPageCount": 25,
+    "pageSliceVersion": 1,
+    "slug": "hydrocarbons",
+    "seo": {
+      "titleTag": "Hydrocarbons - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Hydrocarbons - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Hydrocarbons - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Hydrocarbons from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Hydrocarbons from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Hydrocarbons from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943ccc05a78670ed2517c3f",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 17
+      }
+    ],
+    "pyqQuestions": 17,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943ccc05a78670ed2517c3f"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a6bee3d143723cda7b520",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 22,
+    "title": "Haloalkanes & Haloarenes",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943cd548c65ca3063a38558",
+        "numberOfQuestions": 11,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3cb03036097a730305ce07"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 427,
+    "pageEnd": 443,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "importance": [],
+    "createdAt": "2025-12-11T06:59:58.962Z",
+    "updatedAt": "2026-07-22T19:05:54.685Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69b79f5d5f95f201f41dd593",
+        "numberOfQuestions": 56
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3caf17a39b1d2e6916e57c",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943cae3955b6c2621b48555",
+    "totalPageCount": 17,
+    "pageSliceVersion": 1,
+    "slug": "haloalkanes-haloarenes",
+    "seo": {
+      "titleTag": "Haloalkanes & Haloarenes - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Haloalkanes & Haloarenes - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Haloalkanes & Haloarenes - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Haloalkanes & Haloarenes from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Haloalkanes & Haloarenes from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Haloalkanes & Haloarenes from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943cd548c65ca3063a38558",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 11
+      }
+    ],
+    "pyqQuestions": 11,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943cd548c65ca3063a38558"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a6c82c90cc32dca14c6c3",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 23,
+    "title": "Alcohols, Phenols and Ethers",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943cde421cf27946b59bf68",
+        "numberOfQuestions": 17,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3cb3fec5108411baa47c5f"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 444,
+    "pageEnd": 469,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "importance": [],
+    "createdAt": "2025-12-11T07:02:26.032Z",
+    "updatedAt": "2026-07-22T19:05:56.726Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69b7a01628859bf807e8f6a6",
+        "numberOfQuestions": 52
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3cb381fc0016c233ce1f28",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943cafc8edcd887c467301e",
+    "totalPageCount": 26,
+    "pageSliceVersion": 1,
+    "slug": "alcohols-phenols-and-ethers",
+    "seo": {
+      "titleTag": "Alcohols, Phenols and Ethers - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Alcohols, Phenols and Ethers - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Alcohols, Phenols and Ethers - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Alcohols, Phenols and Ethers from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Alcohols, Phenols and Ethers from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Alcohols, Phenols and Ethers from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943cde421cf27946b59bf68",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 17
+      }
+    ],
+    "pyqQuestions": 17,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943cde421cf27946b59bf68"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a6cdbcd93ccd8351133cb",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 24,
+    "title": "Aldehyde, Ketones & Carboxylic Acids",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943d7a721cf27946b59cb89",
+        "numberOfQuestions": 26,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3cb60bda1940db422a5e34"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 470,
+    "pageEnd": 498,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "importance": [],
+    "createdAt": "2025-12-11T07:03:55.034Z",
+    "updatedAt": "2026-07-22T19:05:59.073Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69b7a145da84c8bfe8fdb00d",
+        "numberOfQuestions": 54
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3cb57a9d383519cd94e8a8",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943d5830901d5aad50ec099",
+    "totalPageCount": 29,
+    "pageSliceVersion": 1,
+    "slug": "aldehyde-ketones-carboxylic-acids",
+    "seo": {
+      "titleTag": "Aldehyde, Ketones & Carboxylic Acids - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Aldehyde, Ketones & Carboxylic Acids - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Aldehyde, Ketones & Carboxylic Acids - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Aldehyde, Ketones & Carboxylic Acids from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Aldehyde, Ketones & Carboxylic Acids from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Aldehyde, Ketones & Carboxylic Acids from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943d7a721cf27946b59cb89",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 26
+      }
+    ],
+    "pyqQuestions": 26,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943d7a721cf27946b59cb89"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a6debecbee9b25a8738ed",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 25,
+    "title": "Amines and Diazonium Salts",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943d80f54f12da7f8a58306",
+        "numberOfQuestions": 11,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3cbc3711b2066f671f8a1b"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 499,
+    "pageEnd": 511,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "importance": [],
+    "createdAt": "2025-12-11T07:08:27.113Z",
+    "updatedAt": "2026-07-22T19:06:00.075Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69b7a24fda84c8bfe8fdb197",
+        "numberOfQuestions": 52
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3cbbb0f5f60db95c72b557",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943d597da7fbd5d917f1ef8",
+    "totalPageCount": 13,
+    "pageSliceVersion": 1,
+    "slug": "amines-and-diazonium-salts",
+    "seo": {
+      "titleTag": "Amines and Diazonium Salts - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Amines and Diazonium Salts - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Amines and Diazonium Salts - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Amines and Diazonium Salts from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Amines and Diazonium Salts from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Amines and Diazonium Salts from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943d80f54f12da7f8a58306",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 11
+      }
+    ],
+    "pyqQuestions": 11,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943d80f54f12da7f8a58306"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a6e4c9bc21d7d839871e8",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 26,
+    "title": "Biomolecules",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943d8a988142e0fe7370e29",
+        "numberOfQuestions": 11,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3cbd9d37e23f5a0672ffa6"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 512,
+    "pageEnd": 540,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "importance": [],
+    "createdAt": "2025-12-11T07:10:04.484Z",
+    "updatedAt": "2026-07-22T19:06:02.304Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69b7a3a8a97e1d00e63c9df0",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3cbd0596ea4bc3b99f4830",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943d5ab51613873b3747f35",
+    "totalPageCount": 29,
+    "pageSliceVersion": 1,
+    "slug": "biomolecules",
+    "seo": {
+      "titleTag": "Biomolecules - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Biomolecules - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Biomolecules - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Biomolecules from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biomolecules from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biomolecules from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943d8a988142e0fe7370e29",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 11
+      }
+    ],
+    "pyqQuestions": 11,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943d8a988142e0fe7370e29"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a6efcd373cef970c22def",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 27,
+    "title": "Reagent Guide",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943d939f44a010be7008c33",
+        "numberOfQuestions": 11,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a33b1129bdd0809d0b7e77d"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 541,
+    "pageEnd": 575,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "importance": [],
+    "createdAt": "2025-12-11T07:13:00.322Z",
+    "updatedAt": "2026-07-22T19:06:05.385Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69b7a51dcbdec5fd3dea045d",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a33afd37c47c1782183c3f1",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943d5bf1cf5f6cebf21ac44",
+    "totalPageCount": 35,
+    "pageSliceVersion": 1,
+    "slug": "reagent-guide",
+    "seo": {
+      "titleTag": "Reagent Guide - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Reagent Guide - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Reagent Guide - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Reagent Guide from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Reagent Guide from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Reagent Guide from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943d939f44a010be7008c33",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 11
+      }
+    ],
+    "pyqQuestions": 11,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943d939f44a010be7008c33"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a6f703d143723cda7c2fc",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 28,
+    "title": "Name Reactions",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943d9ecf79acc304dcf6078",
+        "numberOfQuestions": 5,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3cc66f50273172d4ab42ec"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 576,
+    "pageEnd": 604,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "importance": [],
+    "createdAt": "2025-12-11T07:14:56.011Z",
+    "updatedAt": "2026-07-22T19:06:07.855Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69b7a64558885320239b58c3",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3cc57196ea4bc3b99f5f9c",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "6943d5d2bfc4e12973a4896c",
+    "totalPageCount": 29,
+    "pageSliceVersion": 1,
+    "slug": "name-reactions",
+    "seo": {
+      "titleTag": "Name Reactions - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Name Reactions - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Name Reactions - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Name Reactions from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Name Reactions from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Name Reactions from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943d9ecf79acc304dcf6078",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 5
+      }
+    ],
+    "pyqQuestions": 5,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943d9ecf79acc304dcf6078"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a6fcb2306d8a847ba0d35",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 29,
+    "title": "Important Oxidizing and Reducing Agent",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 605,
+    "pageEnd": 607,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "importance": [],
+    "createdAt": "2025-12-11T07:16:27.908Z",
+    "updatedAt": "2026-07-22T19:06:08.102Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69b7a7595f95f201f4255646",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3cc699a39b1d2e69170aca",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69452d7ff37c58b5ce3ab08c",
+    "totalPageCount": 3,
+    "pageSliceVersion": 1,
+    "slug": "important-oxidizing-and-reducing-agent",
+    "seo": {
+      "titleTag": "Important Oxidizing and Reducing Agent - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Important Oxidizing and Reducing Agent - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Important Oxidizing and Reducing Agent - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Important Oxidizing and Reducing Agent from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Important Oxidizing and Reducing Agent from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Important Oxidizing and Reducing Agent from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a703ac90cc32dca14d2f0",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 30,
+    "title": "Solvent and Nucleophilicity",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 608,
+    "pageEnd": 610,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "importance": [],
+    "createdAt": "2025-12-11T07:18:18.226Z",
+    "updatedAt": "2026-07-22T19:06:08.355Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69b7a8297cb5317fd1128dc0",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3cc8e893b56ccbe3dfe572",
+        "numberOfQuestions": 7
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69452e4ec4ab17b95a525daf",
+    "totalPageCount": 3,
+    "pageSliceVersion": 1,
+    "slug": "solvent-and-nucleophilicity",
+    "seo": {
+      "titleTag": "Solvent and Nucleophilicity - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Solvent and Nucleophilicity - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Solvent and Nucleophilicity - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Solvent and Nucleophilicity from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Solvent and Nucleophilicity from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Solvent and Nucleophilicity from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a70970e6ba5975efcde5b",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 31,
+    "title": "Heating Effects",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 611,
+    "pageEnd": 615,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "importance": [],
+    "createdAt": "2025-12-11T07:19:51.779Z",
+    "updatedAt": "2026-07-22T19:06:08.858Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69b7a8ef4f2da479095a7cf1",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3ccf8e9d383519cd951b34",
+        "numberOfQuestions": 7
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69452f0d9758260c4d385d7f",
+    "totalPageCount": 5,
+    "pageSliceVersion": 1,
+    "slug": "heating-effects-2",
+    "seo": {
+      "titleTag": "Heating Effects - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Heating Effects - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Heating Effects - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Heating Effects from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Heating Effects from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Heating Effects from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "693a71060e6ba5975efce0d9",
+    "bookId": "693921cfb7d8e6307ea599ea",
+    "status": "ACTIVE",
+    "displayOrder": 32,
+    "title": "Principles Related to Practical Chemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 616,
+    "pageEnd": 664,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 16,
+    "importance": [],
+    "createdAt": "2025-12-11T07:21:42.976Z",
+    "updatedAt": "2026-07-22T19:06:12.684Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69b7a9df7cb5317fd11530b0",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3cca52e3c3b16c6beadb95",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6943b9353375457ce7b443c0",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "69452f997119dfadf9855597",
+    "totalPageCount": 49,
+    "pageSliceVersion": 1,
+    "slug": "principles-related-to-practical-chemistry",
+    "seo": {
+      "titleTag": "Principles Related to Practical Chemistry - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Principles Related to Practical Chemistry - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "ogTitle": "Principles Related to Practical Chemistry - Chemistry Med Easy 4.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Principles Related to Practical Chemistry from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Principles Related to Practical Chemistry from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Principles Related to Practical Chemistry from Chemistry Med Easy 4.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2ecb786-1868-41a7-b873-75fbb9eedb9b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  }
+]

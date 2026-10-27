@@ -1,0 +1,3492 @@
+[
+  {
+    "_id": "699fbcfa5d33650d5e3c1466",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Some Basic Concepts of Chemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ec5a15321cd3af43a907d",
+        "numberOfQuestions": 54,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6a5253cacd000a4cfe3bc9b5"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:24:42.280Z",
+    "updatedAt": "2026-07-22T21:42:43.649Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ec580ccb7a9e2a00e0188",
+    "totalPageCount": 3,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ec5a15321cd3af43a907d",
+        "numberOfQuestions": 54,
+        "_id": "6a5253cacd000a4cfe3bc9b4"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "some-basic-concepts-of-chemistry",
+    "seo": {
+      "titleTag": "Some Basic Concepts of Chemistry - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Some Basic Concepts of Chemistry - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Some Basic Concepts of Chemistry - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Some Basic Concepts of Chemistry from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Some Basic Concepts of Chemistry from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Some Basic Concepts of Chemistry from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ec5a15321cd3af43a907d",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 54
+      }
+    ],
+    "pyqQuestions": 54,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ec5a15321cd3af43a907d"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbd110ae6222acf1348cd",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Atomic Structure",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ec6b123b7ff86a415a7db",
+        "numberOfQuestions": 96,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6a5253d960d4deb2df58c84f"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:25:05.887Z",
+    "updatedAt": "2026-07-22T21:42:44.141Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ec68e4402e91baeb18f4f",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ec6b123b7ff86a415a7db",
+        "numberOfQuestions": 96,
+        "_id": "6a5253d960d4deb2df58c84e"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "atomic-structure",
+    "seo": {
+      "titleTag": "Atomic Structure - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Atomic Structure - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Atomic Structure - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Atomic Structure from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Atomic Structure from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Atomic Structure from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ec6b123b7ff86a415a7db",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 96
+      }
+    ],
+    "pyqQuestions": 96,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ec6b123b7ff86a415a7db"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbd2f80d16a7c1ccab66d",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Periodic Classification and Periodic Properties",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ec822fe9a182dcdd14e88",
+        "numberOfQuestions": 39,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6a5253e2f3fa5dbc7e748227"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:25:35.032Z",
+    "updatedAt": "2026-08-13T05:32:37.332Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ec7f7feaba032359c02c3",
+    "totalPageCount": 2,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ec822fe9a182dcdd14e88",
+        "numberOfQuestions": 23,
+        "_id": "6a5253e2f3fa5dbc7e748226"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "periodic-classification-and-periodic-properties",
+    "seo": {
+      "titleTag": "Periodic Classification and Periodic Properties - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Periodic Classification and Periodic Properties - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Periodic Classification and Periodic Properties - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Periodic Classification and Periodic Properties from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Periodic Classification and Periodic Properties from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Periodic Classification and Periodic Properties from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ec822fe9a182dcdd14e88",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 39
+      }
+    ],
+    "pyqQuestions": 39,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ec822fe9a182dcdd14e88"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbd44a7f9114d80d2fc20",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Chemical Bonding",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ec9a1f5494c96a16cfc14",
+        "numberOfQuestions": 114,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9aaf14699757e392c8958"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:25:56.508Z",
+    "updatedAt": "2026-07-22T21:42:44.855Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ec9832732292665df829d",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ec9a1f5494c96a16cfc14",
+        "numberOfQuestions": 114,
+        "_id": "69f9aaf14699757e392c8957"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "chemical-bonding",
+    "seo": {
+      "titleTag": "Chemical Bonding - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Chemical Bonding - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Chemical Bonding - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Chemical Bonding from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Bonding from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Bonding from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ec9a1f5494c96a16cfc14",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 114
+      }
+    ],
+    "pyqQuestions": 114,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ec9a1f5494c96a16cfc14"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbd5ab9b8b332d689659e",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "States of Matter",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ecc53d2341f368a87cebe",
+        "numberOfQuestions": 61,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9ab44a4490e608326ee24"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:26:18.303Z",
+    "updatedAt": "2026-07-22T21:42:45.300Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ecc3cbe6df6c325d13e9b",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ecc53d2341f368a87cebe",
+        "numberOfQuestions": 61,
+        "_id": "69f9ab44a4490e608326ee23"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "states-of-matter",
+    "seo": {
+      "titleTag": "States of Matter - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "States of Matter - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "States of Matter - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read States of Matter from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read States of Matter from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read States of Matter from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ecc53d2341f368a87cebe",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 61
+      }
+    ],
+    "pyqQuestions": 61,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ecc53d2341f368a87cebe"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbd7434382dac599848fd",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Thermodynamics and Thermochemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ece3423b7ff86a415b77d",
+        "numberOfQuestions": 82,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9ab8dbb62bd3d348ab85b"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:26:44.581Z",
+    "updatedAt": "2026-07-22T21:42:46.196Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ece19207bc28afb005589",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ece3423b7ff86a415b77d",
+        "numberOfQuestions": 82,
+        "_id": "69f9ab8dbb62bd3d348ab85a"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "thermodynamics-and-thermochemistry",
+    "seo": {
+      "titleTag": "Thermodynamics and Thermochemistry - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Thermodynamics and Thermochemistry - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Thermodynamics and Thermochemistry - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Thermodynamics and Thermochemistry from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Thermodynamics and Thermochemistry from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Thermodynamics and Thermochemistry from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ece3423b7ff86a415b77d",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 82
+      }
+    ],
+    "pyqQuestions": 82,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ece3423b7ff86a415b77d"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbd8f89bf8c4bc752969b",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Chemical and Ionic Equilibrium .",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ecfc623b7ff86a415bd0e",
+        "numberOfQuestions": 84,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69a13221921243324e799e2e"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:27:11.135Z",
+    "updatedAt": "2026-07-22T21:42:47.035Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ecfaaff98bc091012236d",
+    "totalPageCount": 7,
+    "pageSliceVersion": 1,
+    "slug": "chemical-and-ionic-equilibrium",
+    "seo": {
+      "titleTag": "Chemical and Ionic Equilibrium . - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Chemical and Ionic Equilibrium . - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Chemical and Ionic Equilibrium . - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Chemical and Ionic Equilibrium . from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical and Ionic Equilibrium . from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical and Ionic Equilibrium . from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ecfc623b7ff86a415bd0e",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 84
+      }
+    ],
+    "pyqQuestions": 84,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ecfc623b7ff86a415bd0e"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbda6da678d4e05de7d73",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "s-block Elements",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ed1b5250ec69b1339e9c6",
+        "numberOfQuestions": 32,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9abc6948cc8c0e3a7350a"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:27:34.515Z",
+    "updatedAt": "2026-07-30T14:08:20.634Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ed197799084b514e6300e",
+    "totalPageCount": 2,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ed1b5250ec69b1339e9c6",
+        "numberOfQuestions": 32,
+        "_id": "69f9abc6948cc8c0e3a73509"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "s-block-elements",
+    "seo": {
+      "titleTag": "s-block Elements - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "s-block Elements - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "s-block Elements - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read s-block Elements from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read s-block Elements from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read s-block Elements from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ed1b5250ec69b1339e9c6",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 32
+      }
+    ],
+    "pyqQuestions": 32,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ed1b5250ec69b1339e9c6"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbdc189bf8c4bc752976f",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "p-block Elements-I",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ed459d0a0c73309159b5e",
+        "numberOfQuestions": 48,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9ac1318f305a8bb065d6a"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:28:01.698Z",
+    "updatedAt": "2026-07-22T21:42:47.565Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ed442bbfe07f4729729a5",
+    "totalPageCount": 3,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ed459d0a0c73309159b5e",
+        "numberOfQuestions": 48,
+        "_id": "69f9ac1318f305a8bb065d69"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "p-block-elements-i",
+    "seo": {
+      "titleTag": "p-block Elements-I - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "p-block Elements-I - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "p-block Elements-I - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read p-block Elements-I from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read p-block Elements-I from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read p-block Elements-I from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ed459d0a0c73309159b5e",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 48
+      }
+    ],
+    "pyqQuestions": 48,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ed459d0a0c73309159b5e"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbde03ceb744450edfa7a",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Organic Chemistry-Some Basic Principles and Techniques",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ed50ad0a0c73309159fbc",
+        "numberOfQuestions": 85,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9ac35f262843f25e0b13e"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:28:33.001Z",
+    "updatedAt": "2026-07-22T21:42:48.399Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ed4f3feaba032359c42dc",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ed50ad0a0c73309159fbc",
+        "numberOfQuestions": 85,
+        "_id": "69f9ac35f262843f25e0b13d"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "organic-chemistry-some-basic-principles-and-techniques",
+    "seo": {
+      "titleTag": "Organic Chemistry-Some Basic Principles and Techniques - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Organic Chemistry-Some Basic Principles and Techniques - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Organic Chemistry-Some Basic Principles and Techniques - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Organic Chemistry-Some Basic Principles and Techniques from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Organic Chemistry-Some Basic Principles and Techniques from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Organic Chemistry-Some Basic Principles and Techniques from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ed50ad0a0c73309159fbc",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 85
+      }
+    ],
+    "pyqQuestions": 85,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ed50ad0a0c73309159fbc"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbdf7f344056d8d25f966",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Hydrocarbons",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ed664d0a0c7330915a36e",
+        "numberOfQuestions": 74,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9aca8f4803b1898a045fe"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:28:55.851Z",
+    "updatedAt": "2026-07-22T21:42:49.088Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ed63781b0d4601103b7ac",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ed664d0a0c7330915a36e",
+        "numberOfQuestions": 74,
+        "_id": "69f9aca8f4803b1898a045fd"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "hydrocarbons",
+    "seo": {
+      "titleTag": "Hydrocarbons - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Hydrocarbons - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Hydrocarbons - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Hydrocarbons from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Hydrocarbons from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Hydrocarbons from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ed664d0a0c7330915a36e",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 74
+      }
+    ],
+    "pyqQuestions": 74,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ed664d0a0c7330915a36e"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbe1168f0967b6303f0eb",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Benzene and Alkyl Benzene.",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ed790f5494c96a16d372a",
+        "numberOfQuestions": 40,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9acc318f305a8bb0669e5"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:29:21.945Z",
+    "updatedAt": "2026-07-22T21:42:49.588Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ed76ef5f9b55df73d5a7f",
+    "totalPageCount": 5,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ed790f5494c96a16d372a",
+        "numberOfQuestions": 40,
+        "_id": "69f9acc318f305a8bb0669e4"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "benzene-and-alkyl-benzene",
+    "seo": {
+      "titleTag": "Benzene and Alkyl Benzene. - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Benzene and Alkyl Benzene. - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Benzene and Alkyl Benzene. - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Benzene and Alkyl Benzene. from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Benzene and Alkyl Benzene. from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Benzene and Alkyl Benzene. from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ed790f5494c96a16d372a",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 40
+      }
+    ],
+    "pyqQuestions": 40,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ed790f5494c96a16d372a"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbe28d77f79c65614a0b5",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "The Solid State",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ed8c323b7ff86a415eccc",
+        "numberOfQuestions": 28,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9ad1caad34cde209d3cec"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:29:44.437Z",
+    "updatedAt": "2026-07-22T21:42:49.941Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ed8a9207bc28afb008e41",
+    "totalPageCount": 3,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ed8c323b7ff86a415eccc",
+        "numberOfQuestions": 28,
+        "_id": "69f9ad1caad34cde209d3ceb"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "the-solid-state",
+    "seo": {
+      "titleTag": "The Solid State - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "The Solid State - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "The Solid State - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read The Solid State from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The Solid State from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The Solid State from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ed8c323b7ff86a415eccc",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 28
+      }
+    ],
+    "pyqQuestions": 28,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ed8c323b7ff86a415eccc"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbe40a839ad465609e8d3",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Solutions and Colligative Properties",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699eda2c23b7ff86a415ef17",
+        "numberOfQuestions": 55,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9ad45728a0abb49fecf04"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:30:08.802Z",
+    "updatedAt": "2026-07-22T21:42:50.354Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ed9ecd0823a84d8d41085",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699eda2c23b7ff86a415ef17",
+        "numberOfQuestions": 55,
+        "_id": "69f9ad45728a0abb49fecf03"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "solutions-and-colligative-properties",
+    "seo": {
+      "titleTag": "Solutions and Colligative Properties - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Solutions and Colligative Properties - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Solutions and Colligative Properties - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Solutions and Colligative Properties from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Solutions and Colligative Properties from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Solutions and Colligative Properties from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699eda2c23b7ff86a415ef17",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 55
+      }
+    ],
+    "pyqQuestions": 55,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699eda2c23b7ff86a415ef17"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbe5ad77f79c65614a1e5",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "Redox Reactions and Electrochemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699edb4a23b7ff86a415f1c5",
+        "numberOfQuestions": 110,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9ad62948cc8c0e3a75247"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:30:34.750Z",
+    "updatedAt": "2026-07-22T21:42:51.104Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699edb1a4814777d1134e2c0",
+    "totalPageCount": 9,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699edb4a23b7ff86a415f1c5",
+        "numberOfQuestions": 110,
+        "_id": "69f9ad62948cc8c0e3a75246"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "redox-reactions-and-electrochemistry",
+    "seo": {
+      "titleTag": "Redox Reactions and Electrochemistry - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Redox Reactions and Electrochemistry - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Redox Reactions and Electrochemistry - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Redox Reactions and Electrochemistry from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Redox Reactions and Electrochemistry from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Redox Reactions and Electrochemistry from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699edb4a23b7ff86a415f1c5",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 110
+      }
+    ],
+    "pyqQuestions": 110,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699edb4a23b7ff86a415f1c5"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbe839d167bfc92979e39",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 16,
+    "title": "Chemical Kinetics",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699edce448ab6ff5e95d2b09",
+        "numberOfQuestions": 63,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9adf105526809663211f2"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 16,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:31:15.608Z",
+    "updatedAt": "2026-07-22T21:42:51.791Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699edcc7ec8fa70653f00177",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699edce448ab6ff5e95d2b09",
+        "numberOfQuestions": 63,
+        "_id": "69f9adf105526809663211f1"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "chemical-kinetics",
+    "seo": {
+      "titleTag": "Chemical Kinetics - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Chemical Kinetics - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Chemical Kinetics - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Chemical Kinetics from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Kinetics from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Kinetics from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699edce448ab6ff5e95d2b09",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 63
+      }
+    ],
+    "pyqQuestions": 63,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699edce448ab6ff5e95d2b09"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbe9b1b8aa62c8b2dcc5d",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 17,
+    "title": "Nuclear Chemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699edf3a23b7ff86a415f8b6",
+        "numberOfQuestions": 27,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9ae2cbb62bd3d348ae777"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 17,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:31:39.567Z",
+    "updatedAt": "2026-08-01T17:51:25.602Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ede55492c5db7f933e894",
+    "totalPageCount": 2,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699edf3a23b7ff86a415f8b6",
+        "numberOfQuestions": 27,
+        "_id": "69f9ae2cbb62bd3d348ae776"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "nuclear-chemistry",
+    "seo": {
+      "titleTag": "Nuclear Chemistry - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Nuclear Chemistry - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Nuclear Chemistry - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Nuclear Chemistry from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Nuclear Chemistry from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Nuclear Chemistry from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699edf3a23b7ff86a415f8b6",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 27
+      }
+    ],
+    "pyqQuestions": 27,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699edf3a23b7ff86a415f8b6"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbeb17f530f4b020f591a",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 18,
+    "title": "Surface Chemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699edfa8d2341f368a8856ba",
+        "numberOfQuestions": 16,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9ae52948cc8c0e3a7635c"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 18,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:32:01.329Z",
+    "updatedAt": "2026-08-05T12:40:25.373Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699edf89e273ab4baf8af4f6",
+    "totalPageCount": 2,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699edfa8d2341f368a8856ba",
+        "numberOfQuestions": 16,
+        "_id": "69f9ae52948cc8c0e3a7635b"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "surface-chemistry",
+    "seo": {
+      "titleTag": "Surface Chemistry - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Surface Chemistry - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Surface Chemistry - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Surface Chemistry from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Surface Chemistry from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Surface Chemistry from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699edfa8d2341f368a8856ba",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 16
+      }
+    ],
+    "pyqQuestions": 16,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699edfa8d2341f368a8856ba"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbecdd77f79c65614a3fe",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 19,
+    "title": "Extraction of Metals",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ee092d2341f368a8857be",
+        "numberOfQuestions": 74,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9ae84728a0abb49fee5b8"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 19,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:32:29.426Z",
+    "updatedAt": "2026-07-22T21:42:52.765Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ee06ce0e05b96301beec3",
+    "totalPageCount": 5,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ee092d2341f368a8857be",
+        "numberOfQuestions": 74,
+        "_id": "69f9ae84728a0abb49fee5b7"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "extraction-of-metals",
+    "seo": {
+      "titleTag": "Extraction of Metals - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Extraction of Metals - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Extraction of Metals - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Extraction of Metals from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Extraction of Metals from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Extraction of Metals from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ee092d2341f368a8857be",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 74
+      }
+    ],
+    "pyqQuestions": 74,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ee092d2341f368a8857be"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fbee9da678d4e05de892c",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 20,
+    "title": "p-Block Elements-II",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ee209dffb5d21ad91d64c",
+        "numberOfQuestions": 150,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9aea99f712af9704b6ab0"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 20,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:32:57.615Z",
+    "updatedAt": "2026-07-22T21:42:53.481Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ee1ecfc22a09fa2756740",
+    "totalPageCount": 8,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ee209dffb5d21ad91d64c",
+        "numberOfQuestions": 150,
+        "_id": "69f9aea99f712af9704b6aaf"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "p-block-elements-ii",
+    "seo": {
+      "titleTag": "p-Block Elements-II - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "p-Block Elements-II - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "p-Block Elements-II - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read p-Block Elements-II from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read p-Block Elements-II from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read p-Block Elements-II from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ee209dffb5d21ad91d64c",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 150
+      }
+    ],
+    "pyqQuestions": 150,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ee209dffb5d21ad91d64c"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fc1e4f4c12427cffcf16d",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 21,
+    "title": "Transition and Inner-Transition Elements.",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ee3a3c49a63ddbeaa36f9",
+        "numberOfQuestions": 59,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9af2784ca5945f5f9f101"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 21,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:45:40.487Z",
+    "updatedAt": "2026-07-22T21:42:53.872Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ee37d81b0d4601103fc76",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ee3a3c49a63ddbeaa36f9",
+        "numberOfQuestions": 59,
+        "_id": "69f9af2784ca5945f5f9f100"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "transition-and-inner-transition-elements",
+    "seo": {
+      "titleTag": "Transition and Inner-Transition Elements. - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Transition and Inner-Transition Elements. - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Transition and Inner-Transition Elements. - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Transition and Inner-Transition Elements. from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Transition and Inner-Transition Elements. from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Transition and Inner-Transition Elements. from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ee3a3c49a63ddbeaa36f9",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 59
+      }
+    ],
+    "pyqQuestions": 59,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ee3a3c49a63ddbeaa36f9"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fc1fd68f0967b6303ff5c",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 22,
+    "title": "Coordination Compounds",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ee50f4f7742b885d4d17a",
+        "numberOfQuestions": 69,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9af54f262843f25e0e958"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 22,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:46:05.335Z",
+    "updatedAt": "2026-07-22T21:42:54.417Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ee4f0cc894741d5777922",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ee50f4f7742b885d4d17a",
+        "numberOfQuestions": 69,
+        "_id": "69f9af54f262843f25e0e957"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "coordination-compounds",
+    "seo": {
+      "titleTag": "Coordination Compounds - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Coordination Compounds - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Coordination Compounds - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Coordination Compounds from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Coordination Compounds from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Coordination Compounds from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ee50f4f7742b885d4d17a",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 69
+      }
+    ],
+    "pyqQuestions": 69,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ee50f4f7742b885d4d17a"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fc21cda678d4e05de9b50",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 23,
+    "title": "Alkyl Halides",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699ee98748ab6ff5e95d555b",
+        "numberOfQuestions": 45,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9afdeaacb9e7336b212c4"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 23,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:46:36.375Z",
+    "updatedAt": "2026-07-22T21:42:54.946Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699ee9633e9233e19e37f4b4",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699ee98748ab6ff5e95d555b",
+        "numberOfQuestions": 45,
+        "_id": "69f9afdeaacb9e7336b212c3"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "alkyl-halides",
+    "seo": {
+      "titleTag": "Alkyl Halides - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Alkyl Halides - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Alkyl Halides - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Alkyl Halides from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Alkyl Halides from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Alkyl Halides from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699ee98748ab6ff5e95d555b",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 45
+      }
+    ],
+    "pyqQuestions": 45,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699ee98748ab6ff5e95d555b"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fc23534382dac59986ade",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 24,
+    "title": "Aryl Halides and Phenols",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f01dbfe9a182dcdd2439d",
+        "numberOfQuestions": 39,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9b006c44e4e8af82c2d1e"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 24,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:47:01.594Z",
+    "updatedAt": "2026-07-22T21:42:55.378Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f005aa28ba80ff9a9ea8f",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699f01dbfe9a182dcdd2439d",
+        "numberOfQuestions": 39,
+        "_id": "69f9b006c44e4e8af82c2d1d"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "aryl-halides-and-phenols",
+    "seo": {
+      "titleTag": "Aryl Halides and Phenols - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Aryl Halides and Phenols - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Aryl Halides and Phenols - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Aryl Halides and Phenols from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Aryl Halides and Phenols from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Aryl Halides and Phenols from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f01dbfe9a182dcdd2439d",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 39
+      }
+    ],
+    "pyqQuestions": 39,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f01dbfe9a182dcdd2439d"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fc2576fbcfaf7871d99eb",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 25,
+    "title": "Alcohols and Ethers",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f037f48ab6ff5e95e0879",
+        "numberOfQuestions": 32,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9b03e728a0abb49ff0507"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 25,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:47:35.348Z",
+    "updatedAt": "2026-07-22T21:42:55.747Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f02f8853eee33de2ae489",
+    "totalPageCount": 3,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699f037f48ab6ff5e95e0879",
+        "numberOfQuestions": 32,
+        "_id": "69f9b03e728a0abb49ff0506"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "alcohols-and-ethers",
+    "seo": {
+      "titleTag": "Alcohols and Ethers - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Alcohols and Ethers - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Alcohols and Ethers - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Alcohols and Ethers from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Alcohols and Ethers from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Alcohols and Ethers from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f037f48ab6ff5e95e0879",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 32
+      }
+    ],
+    "pyqQuestions": 32,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f037f48ab6ff5e95e0879"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fc276d1ef0c31cae4c1d0",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 26,
+    "title": "Aldehydes and Ketones.",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f0697e23754f5b1f49360",
+        "numberOfQuestions": 84,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9b0a7f262843f25e10089"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 26,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:48:06.428Z",
+    "updatedAt": "2026-07-22T21:42:56.645Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f066bfeaba032359d69e3",
+    "totalPageCount": 8,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699f0697e23754f5b1f49360",
+        "numberOfQuestions": 84,
+        "_id": "69f9b0a7f262843f25e10088"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "aldehydes-and-ketones",
+    "seo": {
+      "titleTag": "Aldehydes and Ketones. - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Aldehydes and Ketones. - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Aldehydes and Ketones. - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Aldehydes and Ketones. from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Aldehydes and Ketones. from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Aldehydes and Ketones. from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f0697e23754f5b1f49360",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 84
+      }
+    ],
+    "pyqQuestions": 84,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f0697e23754f5b1f49360"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fc29d9ce9bf5b48c54a33",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 27,
+    "title": "Carboxylic Acids and their Derivatives",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f0896250ec69b133a1f68",
+        "numberOfQuestions": 65,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9b0c2fe6acd7ac46cf85b"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 27,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:48:45.839Z",
+    "updatedAt": "2026-07-22T21:42:57.206Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f08715c0e363f2eee2474",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699f0896250ec69b133a1f68",
+        "numberOfQuestions": 65,
+        "_id": "69f9b0c2fe6acd7ac46cf85a"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "carboxylic-acids-and-their-derivatives",
+    "seo": {
+      "titleTag": "Carboxylic Acids and their Derivatives - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Carboxylic Acids and their Derivatives - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Carboxylic Acids and their Derivatives - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Carboxylic Acids and their Derivatives from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Carboxylic Acids and their Derivatives from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Carboxylic Acids and their Derivatives from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f0896250ec69b133a1f68",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 65
+      }
+    ],
+    "pyqQuestions": 65,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f0896250ec69b133a1f68"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fc2bdf761a8cfe92dd674",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 28,
+    "title": "Aliphatic Compounds Containing Nitrogen.",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f0a6223b7ff86a416d4f5",
+        "numberOfQuestions": 21,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9b10cf4803b1898a09457"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 28,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:49:17.052Z",
+    "updatedAt": "2026-07-30T14:22:52.313Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f0a37853eee33de2b10ce",
+    "totalPageCount": 2,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699f0a6223b7ff86a416d4f5",
+        "numberOfQuestions": 21,
+        "_id": "69f9b10cf4803b1898a09456"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "aliphatic-compounds-containing-nitrogen",
+    "seo": {
+      "titleTag": "Aliphatic Compounds Containing Nitrogen. - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Aliphatic Compounds Containing Nitrogen. - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Aliphatic Compounds Containing Nitrogen. - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Aliphatic Compounds Containing Nitrogen. from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Aliphatic Compounds Containing Nitrogen. from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Aliphatic Compounds Containing Nitrogen. from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f0a6223b7ff86a416d4f5",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 21
+      }
+    ],
+    "pyqQuestions": 21,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f0a6223b7ff86a416d4f5"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fc2d98c194a50d212ed36",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 29,
+    "title": "Aromatic Compounds Containing Nitrogen",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f0e07d0a0c73309162cee",
+        "numberOfQuestions": 54,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9b149f262843f25e10bcd"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 29,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:49:45.833Z",
+    "updatedAt": "2026-07-22T21:42:58.123Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f0de941588b974e1d3655",
+    "totalPageCount": 7,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699f0e07d0a0c73309162cee",
+        "numberOfQuestions": 54,
+        "_id": "69f9b149f262843f25e10bcc"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "aromatic-compounds-containing-nitrogen",
+    "seo": {
+      "titleTag": "Aromatic Compounds Containing Nitrogen - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Aromatic Compounds Containing Nitrogen - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Aromatic Compounds Containing Nitrogen - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Aromatic Compounds Containing Nitrogen from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Aromatic Compounds Containing Nitrogen from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Aromatic Compounds Containing Nitrogen from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f0e07d0a0c73309162cee",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 54
+      }
+    ],
+    "pyqQuestions": 54,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f0e07d0a0c73309162cee"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fc2f34b46ad5220d8bb68",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 30,
+    "title": "Biomolecules.",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699f0f8b48ab6ff5e95e1348",
+        "numberOfQuestions": 22,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9b186d13df6cfde555816"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 30,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:50:11.352Z",
+    "updatedAt": "2026-07-22T21:42:58.542Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699f0f719466ebbc67e9c7f2",
+    "totalPageCount": 4,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699f0f8b48ab6ff5e95e1348",
+        "numberOfQuestions": 22,
+        "_id": "69f9b186d13df6cfde555815"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "biomolecules",
+    "seo": {
+      "titleTag": "Biomolecules. - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Biomolecules. - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Biomolecules. - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Biomolecules. from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biomolecules. from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biomolecules. from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699f0f8b48ab6ff5e95e1348",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 22
+      }
+    ],
+    "pyqQuestions": 22,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699f0f8b48ab6ff5e95e1348"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fc3118d220b6e47c894ed",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 31,
+    "title": "Polymers and Chemistry in Everyday Life",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fc7682f1d7b039b4f98e5",
+        "numberOfQuestions": 13,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9b1a364f51a6a85709657"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 31,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:50:41.634Z",
+    "updatedAt": "2026-07-30T14:24:50.673Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699fc6958f755b1fd2bdf551",
+    "totalPageCount": 2,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fc7682f1d7b039b4f98e5",
+        "numberOfQuestions": 13,
+        "_id": "69f9b1a364f51a6a85709656"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "polymers-and-chemistry-in-everyday-life",
+    "seo": {
+      "titleTag": "Polymers and Chemistry in Everyday Life - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Polymers and Chemistry in Everyday Life - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Polymers and Chemistry in Everyday Life - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Polymers and Chemistry in Everyday Life from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Polymers and Chemistry in Everyday Life from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Polymers and Chemistry in Everyday Life from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fc7682f1d7b039b4f98e5",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 13
+      }
+    ],
+    "pyqQuestions": 13,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fc7682f1d7b039b4f98e5"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "699fc330b53240670acc0d20",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 32,
+    "title": "Qualitative Analysis of Inorganic Salts",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "699fc7d47d13555fa2d30142",
+        "numberOfQuestions": 83,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69f9b1d2ac18410c390cc32d"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 32,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-26T03:51:12.559Z",
+    "updatedAt": "2026-07-22T21:42:59.368Z",
+    "__v": 0,
+    "programChapterId": "699e7e0c799084b514e4922f",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "699fc7af3ddf138911fe2153",
+    "totalPageCount": 6,
+    "chapterType": "CORE_CHAPTER",
+    "readSet": [
+      {
+        "testId": "699fc7d47d13555fa2d30142",
+        "numberOfQuestions": 83,
+        "_id": "69f9b1d2ac18410c390cc32c"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "qualitative-analysis-of-inorganic-salts",
+    "seo": {
+      "titleTag": "Qualitative Analysis of Inorganic Salts - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "Qualitative Analysis of Inorganic Salts - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "Qualitative Analysis of Inorganic Salts - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read Qualitative Analysis of Inorganic Salts from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Qualitative Analysis of Inorganic Salts from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Qualitative Analysis of Inorganic Salts from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "699fc7d47d13555fa2d30142",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 83
+      }
+    ],
+    "pyqQuestions": 83,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "699fc7d47d13555fa2d30142"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "69a2bc1e6f97b091cd94d07a",
+    "bookId": "699ebab6db9cfcfe4fc9fb29",
+    "status": "ACTIVE",
+    "displayOrder": 33,
+    "title": "JEE Advanced Solved Paper",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "6996b35277894bdf40ebece5",
+    "programTopicId": "69a011325f8c222c7b12f20b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 33,
+    "customPracticeSet": [
+      {
+        "name": "Solved Paper 1",
+        "testId": "69a012ad7d13555fa2d41985",
+        "numberOfQuestions": 48
+      },
+      {
+        "name": "Solved Paper 2",
+        "testId": "69a015adeb9426a6ed6df4e2",
+        "numberOfQuestions": 48
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T09:57:50.778Z",
+    "updatedAt": "2026-07-22T21:43:00.422Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "chapterType": "QUESTION_PAPER",
+    "readSet": [
+      {
+        "testId": "69a012ad7d13555fa2d41985",
+        "numberOfQuestions": 48,
+        "_id": "69f9bfeebb62bd3d348c45d5"
+      },
+      {
+        "testId": "69a015adeb9426a6ed6df4e2",
+        "numberOfQuestions": 48,
+        "_id": "69f9bfeebb62bd3d348c45d6"
+      }
+    ],
+    "pageSliceVersion": 1,
+    "slug": "jee-advanced-solved-paper",
+    "seo": {
+      "titleTag": "JEE Advanced Solved Paper - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "coverImageAltText": "JEE Advanced Solved Paper - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "ogTitle": "JEE Advanced Solved Paper - JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book) | PW Books",
+      "shortDescription": "Read JEE Advanced Solved Paper from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read JEE Advanced Solved Paper from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read JEE Advanced Solved Paper from JEE Advanced 48 Years (2025-1978) Chemistry (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/651b8baf-d684-4afd-842e-399f3d5a6103.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  }
+]

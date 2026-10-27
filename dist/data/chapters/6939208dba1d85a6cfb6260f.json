@@ -1,0 +1,1697 @@
+[
+  {
+    "_id": "6939244748bacc0d3ee9bd66",
+    "bookId": "6939208dba1d85a6cfb6260f",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Animal Kingdom",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6944f8b1fe5e38e6bb23a8a8",
+        "numberOfQuestions": 31,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6aca8a50365dcdcff5f87b90"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "676bf3d64b13857264256872",
+    "updatedBy": "68405475450edb732ac28b03",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 1,
+    "pageEnd": 43,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "importance": [],
+    "createdAt": "2025-12-10T07:41:59.014Z",
+    "updatedAt": "2026-10-10T18:56:16.606Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69451da8fe5e38e6bb240aa4",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision  1 : MCQ",
+        "testId": "6a3cedabe5caa68930e2164d",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Quick Revision  2 : MCQ",
+        "testId": "6a4dea658df66a3f3d8c0406",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6944e8afd8f21681bda227f5",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "6944f38e25b8577d4e48cbf6",
+    "totalPageCount": 43,
+    "pageSliceVersion": 1,
+    "slug": "animal-kingdom",
+    "seo": {
+      "titleTag": "Animal Kingdom - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Animal Kingdom - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Animal Kingdom - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Animal Kingdom from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Animal Kingdom from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Animal Kingdom from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d8c556e-46af-4512-8613-8ae9226ae03b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6944f8b1fe5e38e6bb23a8a8",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 31
+      }
+    ],
+    "pyqQuestions": 31,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6944f8b1fe5e38e6bb23a8a8"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6939247b61dfe56f09b23f1d",
+    "bookId": "6939208dba1d85a6cfb6260f",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Structural Organisation in Animals",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6944ebdc508ecc4c8cab1af3",
+        "numberOfQuestions": 4,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a5250dc023b1233eead2b31"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "676bf3d64b13857264256872",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 44,
+    "pageEnd": 93,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "importance": [],
+    "createdAt": "2025-12-10T07:42:51.254Z",
+    "updatedAt": "2026-07-22T19:05:09.418Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "6945156ea324e78d3965a4ae",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Quick Revision  1 : MCQ",
+        "testId": "6a3ceec193b56ccbe3e049ab",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Quick Revision  2 : MCQ",
+        "testId": "6a4decc88df66a3f3d8c06ae",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6944e8afd8f21681bda227f5",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "6944e911df3907d29639fc68",
+    "totalPageCount": 50,
+    "pageSliceVersion": 1,
+    "slug": "structural-organisation-in-animals",
+    "seo": {
+      "titleTag": "Structural Organisation in Animals - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Structural Organisation in Animals - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Structural Organisation in Animals - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Structural Organisation in Animals from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Structural Organisation in Animals from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Structural Organisation in Animals from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d8c556e-46af-4512-8613-8ae9226ae03b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6944ebdc508ecc4c8cab1af3",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 4
+      }
+    ],
+    "pyqQuestions": 4,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6944ebdc508ecc4c8cab1af3"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "693924b1f98d2f1663056b22",
+    "bookId": "6939208dba1d85a6cfb6260f",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Biomolecules",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6944f90191f4df8b00b9da21",
+        "numberOfQuestions": 36,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a5250ed8ae75350e9a5aeb3"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "676bf3d64b13857264256872",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 94,
+    "pageEnd": 139,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "importance": [],
+    "createdAt": "2025-12-10T07:43:45.410Z",
+    "updatedAt": "2026-07-22T19:05:11.407Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69451e41e7f0b21233610f90",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision  1 : MCQ",
+        "testId": "6a3cef55fc0016c233cecc25",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Quick Revision  2 : MCQ",
+        "testId": "6a4dede86d28fa7f7c9b641b",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6944e8afd8f21681bda227f5",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "6944f39df37c58b5ce398e87",
+    "totalPageCount": 46,
+    "pageSliceVersion": 1,
+    "slug": "biomolecules",
+    "seo": {
+      "titleTag": "Biomolecules - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Biomolecules - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Biomolecules - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Biomolecules from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biomolecules from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biomolecules from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d8c556e-46af-4512-8613-8ae9226ae03b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6944f90191f4df8b00b9da21",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 36
+      }
+    ],
+    "pyqQuestions": 36,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6944f90191f4df8b00b9da21"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "693924dd3e7a0428ffafb698",
+    "bookId": "6939208dba1d85a6cfb6260f",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Breathing and Exchange of Gases",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6944ec829537319e1ec1781b",
+        "numberOfQuestions": 15,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a4df5e8cb99988f49cbdaae"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "676bf3d64b13857264256872",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 140,
+    "pageEnd": 173,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "importance": [],
+    "createdAt": "2025-12-10T07:44:29.626Z",
+    "updatedAt": "2026-07-22T19:05:12.655Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "6945206bfe5e38e6bb24152d",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Quick Revision  1 : MCQ",
+        "testId": "6a3cf09efc0016c233ced3c0",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Quick Revision  2 : MCQ",
+        "testId": "6a4df59398f22da07e34a3c6",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6944e8afd8f21681bda227f5",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "6944e9320946d96eeeafe3c8",
+    "totalPageCount": 34,
+    "pageSliceVersion": 1,
+    "slug": "breathing-and-exchange-of-gases",
+    "seo": {
+      "titleTag": "Breathing and Exchange of Gases - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Breathing and Exchange of Gases - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Breathing and Exchange of Gases - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Breathing and Exchange of Gases from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Breathing and Exchange of Gases from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Breathing and Exchange of Gases from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d8c556e-46af-4512-8613-8ae9226ae03b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6944ec829537319e1ec1781b",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 15
+      }
+    ],
+    "pyqQuestions": 15,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6944ec829537319e1ec1781b"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "693a6ac2fb87ff9b73cf2c77",
+    "bookId": "6939208dba1d85a6cfb6260f",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Body Fluids and Circulation",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6944ed52fe5e38e6bb238798",
+        "numberOfQuestions": 20,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a4dfa7d013880beb72274e6"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 174,
+    "pageEnd": 214,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "importance": [],
+    "createdAt": "2025-12-11T06:54:58.738Z",
+    "updatedAt": "2026-07-22T19:05:13.934Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "694515c679b85394fb4d133d",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision  1 : MCQ",
+        "testId": "6a3f7c5e7c150516165cc0a9",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Quick Revision  2 : MCQ",
+        "testId": "6a4df9c7e35df2ebcd9fff0f",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6944e8afd8f21681bda227f5",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "6944e95659d9d6f9078ab76a",
+    "totalPageCount": 41,
+    "pageSliceVersion": 1,
+    "slug": "body-fluids-and-circulation",
+    "seo": {
+      "titleTag": "Body Fluids and Circulation - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Body Fluids and Circulation - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Body Fluids and Circulation - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Body Fluids and Circulation from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Body Fluids and Circulation from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Body Fluids and Circulation from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d8c556e-46af-4512-8613-8ae9226ae03b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6944ed52fe5e38e6bb238798",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 20
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6944ed52fe5e38e6bb238798"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "693a6b107776db76acf33216",
+    "bookId": "6939208dba1d85a6cfb6260f",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Excretory Products and their Elimination",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6944f1663d79f1e51f1f5557",
+        "numberOfQuestions": 14,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a4dfd22013880beb722b528"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 215,
+    "pageEnd": 237,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "importance": [],
+    "createdAt": "2025-12-11T06:56:16.734Z",
+    "updatedAt": "2026-07-22T19:05:14.943Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69451611fe5e38e6bb23debc",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision  1 : MCQ",
+        "testId": "6a3f7d1908c7c8f9e82ef8f3",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Quick Revision  2 : MCQ",
+        "testId": "6a4dfc1f8df66a3f3d8c2255",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6944e8afd8f21681bda227f5",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "6944e9804dda36bdbbb54f2a",
+    "totalPageCount": 23,
+    "pageSliceVersion": 1,
+    "slug": "excretory-products-and-their-elimination",
+    "seo": {
+      "titleTag": "Excretory Products and their Elimination - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Excretory Products and their Elimination - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Excretory Products and their Elimination - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Excretory Products and their Elimination from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Excretory Products and their Elimination from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Excretory Products and their Elimination from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d8c556e-46af-4512-8613-8ae9226ae03b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6944f1663d79f1e51f1f5557",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 14
+      }
+    ],
+    "pyqQuestions": 14,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6944f1663d79f1e51f1f5557"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "693a6b4f2306d8a847b9fb4e",
+    "bookId": "6939208dba1d85a6cfb6260f",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Locomotion and Movement",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6944f20d3d79f1e51f1f5638",
+        "numberOfQuestions": 17,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3f7dfb08637c103f35ea80"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 238,
+    "pageEnd": 275,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "importance": [],
+    "createdAt": "2025-12-11T06:57:19.761Z",
+    "updatedAt": "2026-07-22T19:05:16.668Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69451ac53d79f1e51f2040ed",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3f7dd14ee9a8e982a439ee",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6944e8afd8f21681bda227f5",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "6944e9a233f855c4aeb9fb74",
+    "totalPageCount": 38,
+    "pageSliceVersion": 1,
+    "slug": "locomotion-and-movement",
+    "seo": {
+      "titleTag": "Locomotion and Movement - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Locomotion and Movement - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Locomotion and Movement - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Locomotion and Movement from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Locomotion and Movement from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Locomotion and Movement from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d8c556e-46af-4512-8613-8ae9226ae03b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6944f20d3d79f1e51f1f5638",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 17
+      }
+    ],
+    "pyqQuestions": 17,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6944f20d3d79f1e51f1f5638"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "693a6b8824d921a9ac7bdb9a",
+    "bookId": "6939208dba1d85a6cfb6260f",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Neural Control and Coordination",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6944f7bc6394d5c8c5ca18b9",
+        "numberOfQuestions": 6,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3f7eb7503c9f4867fc5c67"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 276,
+    "pageEnd": 295,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "importance": [],
+    "createdAt": "2025-12-11T06:58:16.850Z",
+    "updatedAt": "2026-07-22T19:05:17.827Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69451af1fe5e38e6bb23fe2b",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3f7e8d4ee9a8e982a4842f",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6944e8afd8f21681bda227f5",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "6944f35e278036c4236a0604",
+    "totalPageCount": 20,
+    "pageSliceVersion": 1,
+    "slug": "neural-control-and-coordination",
+    "seo": {
+      "titleTag": "Neural Control and Coordination - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Neural Control and Coordination - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Neural Control and Coordination - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Neural Control and Coordination from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Neural Control and Coordination from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Neural Control and Coordination from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d8c556e-46af-4512-8613-8ae9226ae03b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6944f7bc6394d5c8c5ca18b9",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 6
+      }
+    ],
+    "pyqQuestions": 6,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6944f7bc6394d5c8c5ca18b9"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "693a6bc9936266a9bd73966f",
+    "bookId": "6939208dba1d85a6cfb6260f",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Chemical Coordination and Integration",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6944f849fe5e38e6bb23a869",
+        "numberOfQuestions": 20,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3f7f8b18ae9ad2471a5899"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 296,
+    "pageEnd": 331,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "importance": [],
+    "createdAt": "2025-12-11T06:59:21.834Z",
+    "updatedAt": "2026-07-22T19:05:19.839Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69451b3aa324e78d3965b796",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3f7f644ee9a8e982a4862d",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6944e8afd8f21681bda227f5",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "6944f37c11b3e69aafdbe9f2",
+    "totalPageCount": 36,
+    "pageSliceVersion": 1,
+    "slug": "chemical-coordination-and-integration",
+    "seo": {
+      "titleTag": "Chemical Coordination and Integration - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Chemical Coordination and Integration - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Chemical Coordination and Integration - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Chemical Coordination and Integration from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Coordination and Integration from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Coordination and Integration from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d8c556e-46af-4512-8613-8ae9226ae03b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6944f849fe5e38e6bb23a869",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 20
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6944f849fe5e38e6bb23a869"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "693a6c0bca54250771d4371c",
+    "bookId": "6939208dba1d85a6cfb6260f",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Human Reproduction",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6944ec29508ecc4c8cab1c02",
+        "numberOfQuestions": 28,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3f80511137194ae7e19779"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 332,
+    "pageEnd": 384,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "importance": [],
+    "createdAt": "2025-12-11T07:00:27.652Z",
+    "updatedAt": "2026-07-22T19:05:22.315Z",
+    "__v": 0,
+    "isVideoEnabled": true,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69451fbb9537319e1ec308e5",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3f803bc82c837567a89de6",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6944e8afd8f21681bda227f5",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "6944e9236125afa00ad4a00c",
+    "totalPageCount": 53,
+    "pageSliceVersion": 1,
+    "slug": "human-reproduction",
+    "seo": {
+      "titleTag": "Human Reproduction - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Human Reproduction - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Human Reproduction - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Human Reproduction from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Human Reproduction from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Human Reproduction from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d8c556e-46af-4512-8613-8ae9226ae03b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6944ec29508ecc4c8cab1c02",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 28
+      }
+    ],
+    "pyqQuestions": 28,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6944ec29508ecc4c8cab1c02"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "693a6c4bb88d38fa2bd97da5",
+    "bookId": "6939208dba1d85a6cfb6260f",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Reproductive Health",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6944ed08a43d2d654f9ed2db",
+        "numberOfQuestions": 20,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a41ffeddb96642d703ade07"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 385,
+    "pageEnd": 406,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "importance": [],
+    "createdAt": "2025-12-11T07:01:31.927Z",
+    "updatedAt": "2026-07-22T19:05:23.233Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "694515a9fe5e38e6bb23db9d",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a41ff6cddfe882725976f21",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6944e8afd8f21681bda227f5",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "6944e94363162e8f018aca68",
+    "totalPageCount": 22,
+    "pageSliceVersion": 1,
+    "slug": "reproductive-health",
+    "seo": {
+      "titleTag": "Reproductive Health - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Reproductive Health - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Reproductive Health - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Reproductive Health from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Reproductive Health from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Reproductive Health from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d8c556e-46af-4512-8613-8ae9226ae03b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6944ed08a43d2d654f9ed2db",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 20
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6944ed08a43d2d654f9ed2db"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "693a6c88ebff7de3fead3b2a",
+    "bookId": "6939208dba1d85a6cfb6260f",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Evolution",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6944f802fe5e38e6bb23a852",
+        "numberOfQuestions": 26,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a4200a69f1a65dd2d85f5a9"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 407,
+    "pageEnd": 452,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "importance": [],
+    "createdAt": "2025-12-11T07:02:32.915Z",
+    "updatedAt": "2026-07-22T19:05:25.161Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69451b1bf8bc8bf6407327b6",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a420079ddfe882725976fd2",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6944e8afd8f21681bda227f5",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "6944f36d33f855c4aeba3cd3",
+    "totalPageCount": 46,
+    "pageSliceVersion": 1,
+    "slug": "evolution",
+    "seo": {
+      "titleTag": "Evolution - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Evolution - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Evolution - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Evolution from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Evolution from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Evolution from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d8c556e-46af-4512-8613-8ae9226ae03b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6944f802fe5e38e6bb23a852",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 26
+      }
+    ],
+    "pyqQuestions": 26,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6944f802fe5e38e6bb23a852"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "693a6cc9b8faa3e0f8db2efd",
+    "bookId": "6939208dba1d85a6cfb6260f",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Human Health and Disease",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6944f111e7f0b212335fe047",
+        "numberOfQuestions": 26,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a4201cd0283dba976a1073a"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 453,
+    "pageEnd": 495,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "importance": [],
+    "createdAt": "2025-12-11T07:03:37.630Z",
+    "updatedAt": "2026-07-22T19:05:26.936Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "694515e63d79f1e51f1ffa0d",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a4201575545cd744fe3b37f",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6944e8afd8f21681bda227f5",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "6944e965e718d2d37acbd045",
+    "totalPageCount": 43,
+    "pageSliceVersion": 1,
+    "slug": "human-health-and-disease",
+    "seo": {
+      "titleTag": "Human Health and Disease - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Human Health and Disease - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Human Health and Disease - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Human Health and Disease from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Human Health and Disease from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Human Health and Disease from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d8c556e-46af-4512-8613-8ae9226ae03b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6944f111e7f0b212335fe047",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 26
+      }
+    ],
+    "pyqQuestions": 26,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6944f111e7f0b212335fe047"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "693a6d032d2e018701a1fc31",
+    "bookId": "6939208dba1d85a6cfb6260f",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Biotechnology: Principles and Processes",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": false,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6944f1bb508ecc4c8cab2dbf",
+        "numberOfQuestions": 46,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a420375584dc88f9b0dcfac"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 496,
+    "pageEnd": 528,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "importance": [],
+    "createdAt": "2025-12-11T07:04:35.326Z",
+    "updatedAt": "2026-07-22T19:05:28.230Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "6945162ce7f0b21233603127",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a4203011a34f0caeb19be07",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6944e8afd8f21681bda227f5",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "6944e990c4ab17b95a50f6de",
+    "totalPageCount": 33,
+    "pageSliceVersion": 1,
+    "slug": "biotechnology-principles-and-processes",
+    "seo": {
+      "titleTag": "Biotechnology: Principles and Processes - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Biotechnology: Principles and Processes - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Biotechnology: Principles and Processes - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Biotechnology: Principles and Processes from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biotechnology: Principles and Processes from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biotechnology: Principles and Processes from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d8c556e-46af-4512-8613-8ae9226ae03b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6944f1bb508ecc4c8cab2dbf",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 46
+      }
+    ],
+    "pyqQuestions": 46,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6944f1bb508ecc4c8cab2dbf"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "693a6d556cc5bdb8c53b4988",
+    "bookId": "6939208dba1d85a6cfb6260f",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "Biotechnology and its Applications",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6944f7696394d5c8c5ca1841",
+        "numberOfQuestions": 29,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a4204a200628d31fdf0ee05"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 529,
+    "pageEnd": 553,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "importance": [],
+    "createdAt": "2025-12-11T07:05:57.557Z",
+    "updatedAt": "2026-07-22T19:05:29.259Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69451ad8fe5e38e6bb23fe25",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a420474ddfe88272597f888",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6944e8afd8f21681bda227f5",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "6944e9b763162e8f018accf0",
+    "totalPageCount": 25,
+    "pageSliceVersion": 1,
+    "slug": "biotechnology-and-its-applications",
+    "seo": {
+      "titleTag": "Biotechnology and its Applications - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Biotechnology and its Applications - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Biotechnology and its Applications - Zoology Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Biotechnology and its Applications from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biotechnology and its Applications from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biotechnology and its Applications from Zoology Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d8c556e-46af-4512-8613-8ae9226ae03b.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6944f7696394d5c8c5ca1841",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 29
+      }
+    ],
+    "pyqQuestions": 29,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6944f7696394d5c8c5ca1841"
+    ],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  }
+]

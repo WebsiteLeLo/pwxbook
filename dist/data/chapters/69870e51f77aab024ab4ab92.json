@@ -1,0 +1,1072 @@
+[
+  {
+    "_id": "698965e3d516a4ee818c1115",
+    "bookId": "69870e51f77aab024ab4ab92",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Structural Organization in Animals (including Frog)",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T04:43:15.324Z",
+    "updatedAt": "2026-07-22T19:37:27.156Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698ac6a340a02cf87025cae0",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698ac852d96a5ebef16d4ef2",
+        "numberOfQuestions": 37
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698ac7c3812dcc72300a37f0",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698ac7357e780f5733e0351d",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698ac92ef511980dd478e228",
+        "numberOfQuestions": 20
+      }
+    ],
+    "programChapterId": "698ac58502af0afc850ce327",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698ac5a8267a7373647c4e7d",
+    "totalPageCount": 34,
+    "pageSliceVersion": 1,
+    "slug": "structural-organization-in-animals-including-frog",
+    "seo": {
+      "titleTag": "Structural Organization in Animals (including Frog) - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "coverImageAltText": "Structural Organization in Animals (including Frog) - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "ogTitle": "Structural Organization in Animals (including Frog) - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "shortDescription": "Read Structural Organization in Animals (including Frog) from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Structural Organization in Animals (including Frog) from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Structural Organization in Animals (including Frog) from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0b979845-04be-455b-adf0-7c3df6f79d30.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "69896610d516a4ee818c1248",
+    "bookId": "69870e51f77aab024ab4ab92",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Biomolecules",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T04:44:00.008Z",
+    "updatedAt": "2026-07-22T19:37:30.113Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698acd31a04fdeb369801446",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698acefbcf6e724fb8dfb742",
+        "numberOfQuestions": 53
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698ace64d96a5ebef16d6ca7",
+        "numberOfQuestions": 32
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698acdd57e780f5733e04ac1",
+        "numberOfQuestions": 56
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698acfafbbcfb66e0df1508b",
+        "numberOfQuestions": 42
+      }
+    ],
+    "programChapterId": "698ac58502af0afc850ce327",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698ac5b4a26125ef9a564aaa",
+    "totalPageCount": 57,
+    "pageSliceVersion": 1,
+    "slug": "biomolecules",
+    "seo": {
+      "titleTag": "Biomolecules - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "coverImageAltText": "Biomolecules - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "ogTitle": "Biomolecules - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "shortDescription": "Read Biomolecules from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biomolecules from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biomolecules from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0b979845-04be-455b-adf0-7c3df6f79d30.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6989664bd516a4ee818c12e5",
+    "bookId": "69870e51f77aab024ab4ab92",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Breathing and Exchange of Gases",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T04:44:59.369Z",
+    "updatedAt": "2026-07-22T19:37:32.968Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698ad4b5bbcfb66e0df170a6",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698ad6fe2919bee57a96d270",
+        "numberOfQuestions": 64
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698ad68740e7d613c2cb4395",
+        "numberOfQuestions": 44
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698ad5f97e780f5733e0707e",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698ad7a1f511980dd4793426",
+        "numberOfQuestions": 24
+      }
+    ],
+    "programChapterId": "698ac58502af0afc850ce327",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698ac5bed67db219e57784ad",
+    "totalPageCount": 35,
+    "pageSliceVersion": 1,
+    "slug": "breathing-and-exchange-of-gases",
+    "seo": {
+      "titleTag": "Breathing and Exchange of Gases - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "coverImageAltText": "Breathing and Exchange of Gases - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "ogTitle": "Breathing and Exchange of Gases - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "shortDescription": "Read Breathing and Exchange of Gases from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Breathing and Exchange of Gases from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Breathing and Exchange of Gases from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0b979845-04be-455b-adf0-7c3df6f79d30.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6989667b5d4c67b92220eff1",
+    "bookId": "69870e51f77aab024ab4ab92",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Body Fluids and Circulation",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T04:45:47.316Z",
+    "updatedAt": "2026-07-22T19:37:34.975Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698aed91cf6e724fb8e00d0e",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698aef0f2919bee57a971437",
+        "numberOfQuestions": 77
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698aee857e780f5733e0cbff",
+        "numberOfQuestions": 44
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698aee0440a02cf87027426a",
+        "numberOfQuestions": 47
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698aefab40e7d613c2cb96dc",
+        "numberOfQuestions": 24
+      }
+    ],
+    "programChapterId": "698ac58502af0afc850ce327",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698ac5ca164744a485a9d2a3",
+    "totalPageCount": 40,
+    "pageSliceVersion": 1,
+    "slug": "body-fluids-and-circulation",
+    "seo": {
+      "titleTag": "Body Fluids and Circulation - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "coverImageAltText": "Body Fluids and Circulation - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "ogTitle": "Body Fluids and Circulation - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "shortDescription": "Read Body Fluids and Circulation from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Body Fluids and Circulation from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Body Fluids and Circulation from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0b979845-04be-455b-adf0-7c3df6f79d30.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "698966a62d5a73cd2e8fd32d",
+    "bookId": "69870e51f77aab024ab4ab92",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Excretory Products & their Elimination",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T04:46:30.356Z",
+    "updatedAt": "2026-07-22T19:37:36.698Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698af06fcf6e724fb8e01b02",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698af1e07e780f5733e0d28a",
+        "numberOfQuestions": 67
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698af160cf6e724fb8e01bb0",
+        "numberOfQuestions": 34
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698af0eabbcfb66e0df25626",
+        "numberOfQuestions": 38
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698af2b5f511980dd47a73e5",
+        "numberOfQuestions": 22
+      }
+    ],
+    "programChapterId": "698ac58502af0afc850ce327",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698ac5d4a3b3d4f41ca9a369",
+    "totalPageCount": 35,
+    "pageSliceVersion": 1,
+    "slug": "excretory-products-their-elimination",
+    "seo": {
+      "titleTag": "Excretory Products & their Elimination - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "coverImageAltText": "Excretory Products & their Elimination - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "ogTitle": "Excretory Products & their Elimination - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "shortDescription": "Read Excretory Products & their Elimination from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Excretory Products & their Elimination from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Excretory Products & their Elimination from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0b979845-04be-455b-adf0-7c3df6f79d30.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "698966dd0c4e4ee49de960d4",
+    "bookId": "69870e51f77aab024ab4ab92",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Locomotion & Movement",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T04:47:25.123Z",
+    "updatedAt": "2026-07-22T19:37:39.530Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698afb6340e7d613c2cbb6a5",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698afdc0cf6e724fb8e0aa66",
+        "numberOfQuestions": 66
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698afc97cf6e724fb8e0a825",
+        "numberOfQuestions": 35
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698afbfdcf6e724fb8e0a7c5",
+        "numberOfQuestions": 47
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698afe58bbcfb66e0df27c62",
+        "numberOfQuestions": 18
+      }
+    ],
+    "programChapterId": "698ac58502af0afc850ce327",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698ac5e0d1d062d2d386a045",
+    "totalPageCount": 40,
+    "pageSliceVersion": 1,
+    "slug": "locomotion-movement",
+    "seo": {
+      "titleTag": "Locomotion & Movement - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "coverImageAltText": "Locomotion & Movement - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "ogTitle": "Locomotion & Movement - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "shortDescription": "Read Locomotion & Movement from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Locomotion & Movement from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Locomotion & Movement from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0b979845-04be-455b-adf0-7c3df6f79d30.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "69898810537e0df90159f9b6",
+    "bookId": "69870e51f77aab024ab4ab92",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Neural Control & Coordination",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T07:09:04.822Z",
+    "updatedAt": "2026-07-22T19:37:41.539Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698aff42d96a5ebef16ef6c2",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698b00e1812dcc72300c19f8",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698b005a7e780f5733e14933",
+        "numberOfQuestions": 34
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698affbb2bf64ef228eb4c81",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698b018dbbcfb66e0df27fbb",
+        "numberOfQuestions": 11
+      }
+    ],
+    "programChapterId": "698ac58502af0afc850ce327",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698ac5eda26125ef9a564ce4",
+    "totalPageCount": 43,
+    "pageSliceVersion": 1,
+    "slug": "neural-control-coordination",
+    "seo": {
+      "titleTag": "Neural Control & Coordination - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "coverImageAltText": "Neural Control & Coordination - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "ogTitle": "Neural Control & Coordination - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "shortDescription": "Read Neural Control & Coordination from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Neural Control & Coordination from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Neural Control & Coordination from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0b979845-04be-455b-adf0-7c3df6f79d30.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "698967370c4e4ee49de96397",
+    "bookId": "69870e51f77aab024ab4ab92",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Chemical Coordination & Integration",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T04:48:55.961Z",
+    "updatedAt": "2026-07-22T19:37:43.944Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698b043440e7d613c2cbff79",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698b05af40a02cf8702851e4",
+        "numberOfQuestions": 71
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698b0536bbcfb66e0df2a95c",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698b04b8cf6e724fb8e0b551",
+        "numberOfQuestions": 53
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698b06592bf64ef228eb8627",
+        "numberOfQuestions": 32
+      }
+    ],
+    "programChapterId": "698ac58502af0afc850ce327",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698ac5f91a36ac30f3848630",
+    "totalPageCount": 39,
+    "pageSliceVersion": 1,
+    "slug": "chemical-coordination-integration",
+    "seo": {
+      "titleTag": "Chemical Coordination & Integration - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "coverImageAltText": "Chemical Coordination & Integration - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "ogTitle": "Chemical Coordination & Integration - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "shortDescription": "Read Chemical Coordination & Integration from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Coordination & Integration from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Coordination & Integration from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0b979845-04be-455b-adf0-7c3df6f79d30.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6989676bd516a4ee818c14f5",
+    "bookId": "69870e51f77aab024ab4ab92",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Animal Kingdom",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T04:49:47.351Z",
+    "updatedAt": "2026-07-22T19:37:47.163Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698b21bb2bf64ef228ebf2fc",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698b231d40a02cf8702e9015",
+        "numberOfQuestions": 123
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698b22a740e7d613c2cc7e3a",
+        "numberOfQuestions": 44
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698b222a2919bee57a9775ac",
+        "numberOfQuestions": 34
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698b23c1f511980dd48195b8",
+        "numberOfQuestions": 36
+      }
+    ],
+    "programChapterId": "698ac58502af0afc850ce327",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698ac60340d613bb307d85ed",
+    "totalPageCount": 65,
+    "pageSliceVersion": 1,
+    "slug": "animal-kingdom",
+    "seo": {
+      "titleTag": "Animal Kingdom - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "coverImageAltText": "Animal Kingdom - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "ogTitle": "Animal Kingdom - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "shortDescription": "Read Animal Kingdom from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Animal Kingdom from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Animal Kingdom from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0b979845-04be-455b-adf0-7c3df6f79d30.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "698967a35d4c67b92220f9ff",
+    "bookId": "69870e51f77aab024ab4ab92",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Cockroach and Frog",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-09T04:50:43.476Z",
+    "updatedAt": "2026-07-22T19:37:48.510Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698c0fab26282c14dc7d89b3",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698c111a6fde19b4f3defa67",
+        "numberOfQuestions": 34
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698c109eb77722029eede400",
+        "numberOfQuestions": 29
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698c10232dc74030ca59f997",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c11b40f25596225358c26",
+        "numberOfQuestions": 22
+      }
+    ],
+    "programChapterId": "698ac58502af0afc850ce327",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698ac60edaeff993f7ca0ec5",
+    "totalPageCount": 25,
+    "pageSliceVersion": 1,
+    "slug": "cockroach-and-frog",
+    "seo": {
+      "titleTag": "Cockroach and Frog - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "coverImageAltText": "Cockroach and Frog - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "ogTitle": "Cockroach and Frog - Arjuna NEET Zoology (Digital Module) | PW Books",
+      "shortDescription": "Read Cockroach and Frog from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Cockroach and Frog from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Cockroach and Frog from Arjuna NEET Zoology (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0b979845-04be-455b-adf0-7c3df6f79d30.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  }
+]

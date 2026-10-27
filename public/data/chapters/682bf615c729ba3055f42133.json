@@ -1,0 +1,685 @@
+[
+  {
+    "_id": "6835af66572bc9475e18ed07",
+    "bookId": "682bf615c729ba3055f42133",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Development",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e6998787-484f-409a-ba35-6673adb2e531.zip",
+      "_id": "694ceb51162722185552e200"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "686fa18e28f654b701aa62b3",
+        "numberOfQuestions": 59,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "698483968595269816458000"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "698483968595269816457fff"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "698483968595269816457ffe"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6855732b5dda30f5b090d4dd",
+        "numberOfQuestions": 13,
+        "_id": "698483968595269816457ffd"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "685572c8ca3b2045258c7ced",
+    "chapterVersion": 3,
+    "createdAt": "2025-06-20T08:29:43.810Z",
+    "updatedAt": "2026-02-05T11:48:38.579Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 18.51,
+    "pageStart": 0.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "development",
+    "seo": {
+      "titleTag": "Development - Understanding Economic Development (Class X) | PW Books",
+      "coverImageAltText": "Development - Understanding Economic Development (Class X) | PW Books",
+      "ogTitle": "Development - Understanding Economic Development (Class X) | PW Books",
+      "shortDescription": "Read Development from Understanding Economic Development (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Development from Understanding Economic Development (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Development from Understanding Economic Development (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e6d617a7-f950-4ef4-a4a5-ce7c71f1bbbd.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "686fa18e28f654b701aa62b3",
+        "type": "Board PYQs",
+        "numberOfQuestions": 59
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 59,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "686fa18e28f654b701aa62b3",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835af66572bc9475e18ed0d",
+    "bookId": "682bf615c729ba3055f42133",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Sectors of Indian Economy",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a6163bf5-6030-43c1-8790-a9ab7a13ea98.zip",
+      "_id": "694ceb80162722185552e3c8"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "686fa31346d19d3a434257bb",
+        "numberOfQuestions": 76,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6984839db90489be5df6da86"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "6984839db90489be5df6da85"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "6984839db90489be5df6da84"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6855738584c4c92c8e5d7206",
+        "numberOfQuestions": 20,
+        "_id": "6984839db90489be5df6da83"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "685572d608c8fccfa69d9ffa",
+    "chapterVersion": 3,
+    "createdAt": "2025-06-20T08:29:48.650Z",
+    "updatedAt": "2026-02-05T11:48:45.522Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 36.51,
+    "pageStart": 19.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "sectors-of-indian-economy",
+    "seo": {
+      "titleTag": "Sectors of Indian Economy - Understanding Economic Development (Class X) | PW Books",
+      "coverImageAltText": "Sectors of Indian Economy - Understanding Economic Development (Class X) | PW Books",
+      "ogTitle": "Sectors of Indian Economy - Understanding Economic Development (Class X) | PW Books",
+      "shortDescription": "Read Sectors of Indian Economy from Understanding Economic Development (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Sectors of Indian Economy from Understanding Economic Development (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Sectors of Indian Economy from Understanding Economic Development (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e6d617a7-f950-4ef4-a4a5-ce7c71f1bbbd.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "686fa31346d19d3a434257bb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 76
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 76,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "686fa31346d19d3a434257bb",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835af66572bc9475e18ed13",
+    "bookId": "682bf615c729ba3055f42133",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Money and Credit",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a37ddf92-63b9-4f05-adfd-b6113e871ee7.zip",
+      "_id": "694ceb6845a8b55e9528eef5"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "686fa41146d19d3a43425933",
+        "numberOfQuestions": 59,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "698483be53df56d32ab83031"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "698483be53df56d32ab83030"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "698483be53df56d32ab8302f"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685573e1e6584c506d57343c",
+        "numberOfQuestions": 14,
+        "_id": "698483be53df56d32ab8302e"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "685572e3ca3b2045258c7cf8",
+    "chapterVersion": 3,
+    "createdAt": "2025-06-20T08:29:54.566Z",
+    "updatedAt": "2026-02-05T11:49:18.027Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 57.51,
+    "pageStart": 37.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "money-and-credit",
+    "seo": {
+      "titleTag": "Money and Credit - Understanding Economic Development (Class X) | PW Books",
+      "coverImageAltText": "Money and Credit - Understanding Economic Development (Class X) | PW Books",
+      "ogTitle": "Money and Credit - Understanding Economic Development (Class X) | PW Books",
+      "shortDescription": "Read Money and Credit from Understanding Economic Development (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Money and Credit from Understanding Economic Development (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Money and Credit from Understanding Economic Development (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e6d617a7-f950-4ef4-a4a5-ce7c71f1bbbd.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "686fa41146d19d3a43425933",
+        "type": "Board PYQs",
+        "numberOfQuestions": 59
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 59,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "686fa41146d19d3a43425933",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835af66572bc9475e18ed19",
+    "bookId": "682bf615c729ba3055f42133",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Globalisation and Indian Economy",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b1c95000-58ab-4f2a-832d-892c06205e51.zip",
+      "_id": "68c3c1b706486ab1c91a786a"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "68837ff8dc8403ccf792c045",
+        "numberOfQuestions": 51,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "698483c57e262c9d3efb7e34"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "698483c57e262c9d3efb7e33"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "698483c57e262c9d3efb7e32"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6855743974c52accd6f0426a",
+        "numberOfQuestions": 15,
+        "_id": "698483c57e262c9d3efb7e31"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "685572ee0e2940f8ba0ae9f7",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:29:58.319Z",
+    "updatedAt": "2026-02-05T11:49:25.187Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 74.51,
+    "pageStart": 58.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "globalisation-and-indian-economy",
+    "seo": {
+      "titleTag": "Globalisation and Indian Economy - Understanding Economic Development (Class X) | PW Books",
+      "coverImageAltText": "Globalisation and Indian Economy - Understanding Economic Development (Class X) | PW Books",
+      "ogTitle": "Globalisation and Indian Economy - Understanding Economic Development (Class X) | PW Books",
+      "shortDescription": "Read Globalisation and Indian Economy from Understanding Economic Development (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Globalisation and Indian Economy from Understanding Economic Development (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Globalisation and Indian Economy from Understanding Economic Development (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e6d617a7-f950-4ef4-a4a5-ce7c71f1bbbd.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68837ff8dc8403ccf792c045",
+        "type": "Board PYQs",
+        "numberOfQuestions": 51
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 51,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68837ff8dc8403ccf792c045",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835af66572bc9475e18ed1f",
+    "bookId": "682bf615c729ba3055f42133",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Consumer Rights",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9bf859ba-5433-4cec-803d-7cdc8954f8f7.zip",
+      "_id": "694ceb38d398eec728153fcc"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "694ceb38d398eec728153fcb"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "694ceb38d398eec728153fca"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "694ceb38d398eec728153fc9"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68557481094846634c047b19",
+        "numberOfQuestions": 13,
+        "_id": "694ceb38d398eec728153fc8"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "676bf3d64b13857264256872",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "6855730cf300a3549a2ff133",
+    "chapterVersion": 3,
+    "createdAt": "2025-06-20T08:30:03.969Z",
+    "updatedAt": "2025-12-25T07:43:52.633Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 89.51,
+    "pageStart": 75.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "consumer-rights",
+    "seo": {
+      "titleTag": "Consumer Rights - Understanding Economic Development (Class X) | PW Books",
+      "coverImageAltText": "Consumer Rights - Understanding Economic Development (Class X) | PW Books",
+      "ogTitle": "Consumer Rights - Understanding Economic Development (Class X) | PW Books",
+      "shortDescription": "Read Consumer Rights from Understanding Economic Development (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Consumer Rights from Understanding Economic Development (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Consumer Rights from Understanding Economic Development (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e6d617a7-f950-4ef4-a4a5-ce7c71f1bbbd.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  }
+]

@@ -1,0 +1,687 @@
+[
+  {
+    "_id": "6835ad50572bc9475e18ecb8",
+    "bookId": "682bf58fc729ba3055f4212b",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Power sharing",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4d46ae0b-ed7a-48a1-ab41-948b96b0f6ed.zip",
+      "_id": "68c3c0d3a9662cfcb897fa42"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "68837aea8779c0ee0ecc61c1",
+        "numberOfQuestions": 61,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "69723f2c1b3aa5691f9fb752"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "69723f2c1b3aa5691f9fb751"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "69723f2c1b3aa5691f9fb750"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685555ccd0ae493cb48f0787",
+        "numberOfQuestions": 9,
+        "_id": "69723f2c1b3aa5691f9fb74f"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "685555842dda9cb86ded9d7f",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:29:07.292Z",
+    "updatedAt": "2026-01-22T15:15:56.549Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 11.51,
+    "pageStart": 0.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": false,
+    "isAiExplanationEnabled": true,
+    "slug": "power-sharing",
+    "seo": {
+      "titleTag": "Power sharing - Democratic Politics  Part 2 (Class X) | PW Books",
+      "coverImageAltText": "Power sharing - Democratic Politics  Part 2 (Class X) | PW Books",
+      "ogTitle": "Power sharing - Democratic Politics  Part 2 (Class X) | PW Books",
+      "shortDescription": "Read Power sharing from Democratic Politics  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Power sharing from Democratic Politics  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Power sharing from Democratic Politics  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/08304a70-7ee1-47b0-83c7-ea786a76c2f1.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68837aea8779c0ee0ecc61c1",
+        "type": "Board PYQs",
+        "numberOfQuestions": 61
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 61,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68837aea8779c0ee0ecc61c1",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835ad50572bc9475e18eca0",
+    "bookId": "682bf58fc729ba3055f4212b",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Federalism",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cb84ea5d-f855-41a2-a1d5-47aa5429028c.zip",
+      "_id": "68c3c0e997ea96665776760d"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "68837c788779c0ee0ecc635e",
+        "numberOfQuestions": 60,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "69723f3554eafa37f5b2d935"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "69723f3554eafa37f5b2d934"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "69723f3554eafa37f5b2d933"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68555b42a26d79addb5427f9",
+        "numberOfQuestions": 12,
+        "_id": "69723f3554eafa37f5b2d932"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "68555599ca3b2045258c7663",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:29:10.323Z",
+    "updatedAt": "2026-01-22T15:16:05.569Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 27.51,
+    "pageStart": 12.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": false,
+    "isAiExplanationEnabled": true,
+    "slug": "federalism",
+    "seo": {
+      "titleTag": "Federalism - Democratic Politics  Part 2 (Class X) | PW Books",
+      "coverImageAltText": "Federalism - Democratic Politics  Part 2 (Class X) | PW Books",
+      "ogTitle": "Federalism - Democratic Politics  Part 2 (Class X) | PW Books",
+      "shortDescription": "Read Federalism from Democratic Politics  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Federalism from Democratic Politics  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Federalism from Democratic Politics  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/08304a70-7ee1-47b0-83c7-ea786a76c2f1.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68837c788779c0ee0ecc635e",
+        "type": "Board PYQs",
+        "numberOfQuestions": 60
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 60,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68837c788779c0ee0ecc635e",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835ad50572bc9475e18ecc4",
+    "bookId": "682bf58fc729ba3055f4212b",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Gender, Religion and Caste",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7a5f71cd-df8b-4b22-b5fb-add7ecec407d.zip",
+      "_id": "694ce8e32b8edbed2a57919c"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "68837d202c9e5385a0dcbd97",
+        "numberOfQuestions": 37,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "69723f3ff83a179c1591ea65"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "69723f3ff83a179c1591ea64"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "69723f3ff83a179c1591ea63"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68555b981a32e81be71013eb",
+        "numberOfQuestions": 12,
+        "_id": "69723f3ff83a179c1591ea62"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "685555ae4a58bd51661925b8",
+    "chapterVersion": 3,
+    "createdAt": "2025-06-20T08:29:13.431Z",
+    "updatedAt": "2026-01-22T15:16:15.389Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 44.51,
+    "pageStart": 28.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": false,
+    "isAiExplanationEnabled": true,
+    "slug": "gender-religion-and-caste",
+    "seo": {
+      "titleTag": "Gender, Religion and Caste - Democratic Politics  Part 2 (Class X) | PW Books",
+      "coverImageAltText": "Gender, Religion and Caste - Democratic Politics  Part 2 (Class X) | PW Books",
+      "ogTitle": "Gender, Religion and Caste - Democratic Politics  Part 2 (Class X) | PW Books",
+      "shortDescription": "Read Gender, Religion and Caste from Democratic Politics  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Gender, Religion and Caste from Democratic Politics  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Gender, Religion and Caste from Democratic Politics  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/08304a70-7ee1-47b0-83c7-ea786a76c2f1.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68837d202c9e5385a0dcbd97",
+        "type": "Board PYQs",
+        "numberOfQuestions": 37
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 37,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68837d202c9e5385a0dcbd97",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835ad50572bc9475e18ecca",
+    "bookId": "682bf58fc729ba3055f4212b",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Political parties",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/88f9b270-b883-44c0-9c0f-270a1d39caf9.zip",
+      "_id": "694ce91a2b8edbed2a579227"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "68837de3a226f10d30011b92",
+        "numberOfQuestions": 53,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "69723f49cc541768f8d40c91"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "69723f49cc541768f8d40c90"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "69723f49cc541768f8d40c8f"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68556581d72fa160819e97e4",
+        "numberOfQuestions": 11,
+        "_id": "69723f49cc541768f8d40c8e"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "6855653ddd745a6f4010c6aa",
+    "chapterVersion": 3,
+    "createdAt": "2025-06-20T08:29:16.309Z",
+    "updatedAt": "2026-01-22T15:16:25.417Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 61.51,
+    "pageStart": 45.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": false,
+    "isAiExplanationEnabled": true,
+    "slug": "political-parties",
+    "seo": {
+      "titleTag": "Political parties - Democratic Politics  Part 2 (Class X) | PW Books",
+      "coverImageAltText": "Political parties - Democratic Politics  Part 2 (Class X) | PW Books",
+      "ogTitle": "Political parties - Democratic Politics  Part 2 (Class X) | PW Books",
+      "shortDescription": "Read Political parties from Democratic Politics  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Political parties from Democratic Politics  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Political parties from Democratic Politics  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/08304a70-7ee1-47b0-83c7-ea786a76c2f1.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68837de3a226f10d30011b92",
+        "type": "Board PYQs",
+        "numberOfQuestions": 53
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 53,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68837de3a226f10d30011b92",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835ad50572bc9475e18ecb2",
+    "bookId": "682bf58fc729ba3055f4212b",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Outcomes of Democracy",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8d4c68e4-90eb-43ce-84d4-ea4e55358ad5.zip",
+      "_id": "694ce9011194d8a92c0b6c3a"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "68837f190b96057fb22eb028",
+        "numberOfQuestions": 43,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "69723f5327b05ddac626e4e1"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "69723f5327b05ddac626e4e0"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "69723f5327b05ddac626e4df"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685565d8661f9415aa9c707c",
+        "numberOfQuestions": 8,
+        "_id": "69723f5327b05ddac626e4de"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "685565c21252ac7d422d1cdd",
+    "chapterVersion": 3,
+    "createdAt": "2025-06-20T08:29:19.073Z",
+    "updatedAt": "2026-01-22T15:16:35.713Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 74.51,
+    "pageStart": 62.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": false,
+    "isAiExplanationEnabled": true,
+    "slug": "outcomes-of-democracy",
+    "seo": {
+      "titleTag": "Outcomes of Democracy - Democratic Politics  Part 2 (Class X) | PW Books",
+      "coverImageAltText": "Outcomes of Democracy - Democratic Politics  Part 2 (Class X) | PW Books",
+      "ogTitle": "Outcomes of Democracy - Democratic Politics  Part 2 (Class X) | PW Books",
+      "shortDescription": "Read Outcomes of Democracy from Democratic Politics  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Outcomes of Democracy from Democratic Politics  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Outcomes of Democracy from Democratic Politics  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/08304a70-7ee1-47b0-83c7-ea786a76c2f1.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68837f190b96057fb22eb028",
+        "type": "Board PYQs",
+        "numberOfQuestions": 43
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 43,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68837f190b96057fb22eb028",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  }
+]

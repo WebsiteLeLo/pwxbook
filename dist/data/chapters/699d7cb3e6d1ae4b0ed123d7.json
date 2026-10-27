@@ -1,0 +1,4565 @@
+[
+  {
+    "_id": "699ee9d0ade254587cd8dd1f",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "The Living World",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "676bf3d64b13857264256872",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:23:44.484Z",
+    "updatedAt": "2026-10-26T05:25:16.740Z",
+    "__v": 0,
+    "totalPageCount": 7,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "69abff90e0c73ed2de831e7e",
+        "numberOfQuestions": 76
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69abff9fa59c19886991080b",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69abffafe0c73ed2de831e90",
+        "numberOfQuestions": 19
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69abffc0c915f17a2d7ff031",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69abffcf0b202391cff2bff4",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69abffe07fd302cf071e7052",
+        "numberOfQuestions": 3
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69abfff07fd302cf071e7068",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69ac00090b202391cff2c005",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69ac00182bd3b844290f943c",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69ac00282bd3b844290f9452",
+        "numberOfQuestions": 3
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69abff7bed2a44c80ec3c004",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "the-living-world",
+    "seo": {
+      "coverImageAltText": "The Living World - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read The Living World from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "titleTag": "The Living World - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "metaDescription": "Read The Living World from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogTitle": "The Living World - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogDescription": "Read The Living World from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true,
+      "breadcrumb": []
+    },
+    "pyqToggle": true,
+    "dualPageView": true,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eea170765e97e400117eb",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Biological Classification",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:24:55.482Z",
+    "updatedAt": "2026-07-24T06:16:22.254Z",
+    "__v": 0,
+    "totalPageCount": 13,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a62fee274c7348100a37aad",
+        "numberOfQuestions": 113
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69aa8d99da5bea3f19b91e35",
+        "numberOfQuestions": 22
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aa8df0f3dcf673bdef9c18",
+        "numberOfQuestions": 17
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aa8e57993c5b0a26fd89d2",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aa8ef173adacd11ba65258",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69aa8f4f993c5b0a26fd8a7a",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69aa8fd2b1d16eafc085a6bc",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aa90320b202391cff0fdbb",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aa90df8d5723cf1387f28d",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aa9141febdfe6f89d39571",
+        "numberOfQuestions": 7
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69aa76b40ae05913107c034d",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "biological-classification",
+    "seo": {
+      "titleTag": "Biological Classification - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Biological Classification - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Biological Classification - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Biological Classification from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biological Classification from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biological Classification from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eea6e14f2886d4ab28719",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Plant Kingdom",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:26:22.470Z",
+    "updatedAt": "2026-07-24T11:28:37.811Z",
+    "__v": 0,
+    "totalPageCount": 13,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a634afb4049dc5594178ec3",
+        "numberOfQuestions": 104
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69abfc9212cb6bdc967dff47",
+        "numberOfQuestions": 16
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69abfca6c877f1ef9a03befa",
+        "numberOfQuestions": 17
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69abfcbb12cb6bdc967dff76",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69abfccfb593fdfc49ce15fe",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69abfce4c877f1ef9a03bf64",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69abfd05a51fcd715522eca8",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69abfd1da59c1988699103f2",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69abfd2f0b202391cff2bbe2",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69abfd43b593fdfc49ce172a",
+        "numberOfQuestions": 19
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69abfc69f548a13bf3939947",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "plant-kingdom",
+    "seo": {
+      "titleTag": "Plant Kingdom - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Plant Kingdom - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Plant Kingdom - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Plant Kingdom from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Plant Kingdom from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Plant Kingdom from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eeaa7db9cfcfe4fcb56fe",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Animal Kingdom",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:27:19.304Z",
+    "updatedAt": "2026-07-24T06:16:03.617Z",
+    "__v": 0,
+    "totalPageCount": 19,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a62fdcd06ce3d0555c25020",
+        "numberOfQuestions": 128
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69aa8951b6daa1ddff045eec",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aa89b90b202391cff0f638",
+        "numberOfQuestions": 23
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aa8a2afe6b03ea129f974b",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aa8a94fe6b03ea129f9799",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69aa8af373adacd11ba64cdc",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69aa8b58b1d16eafc085a2c6",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aa8bb4993c5b0a26fd868e",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aa8c168d5723cf1387e97d",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aa8c738d5723cf1387e9d0",
+        "numberOfQuestions": 23
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a95543b47d8b32b88b6381",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "animal-kingdom",
+    "seo": {
+      "titleTag": "Animal Kingdom - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Animal Kingdom - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Animal Kingdom - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Animal Kingdom from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Animal Kingdom from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Animal Kingdom from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eead60f6889b97636fd2a",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Morphology of Flowering Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:28:06.864Z",
+    "updatedAt": "2026-07-24T11:26:30.710Z",
+    "__v": 0,
+    "totalPageCount": 20,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6347c04049dc5594178715",
+        "numberOfQuestions": 108
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69abd839a51fcd7155225d1f",
+        "numberOfQuestions": 25
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69abd850a59c198869909fdb",
+        "numberOfQuestions": 22
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69abd8643da52fa8e38993c2",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69abd87fb593fdfc49cd95b1",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69abd891e0c73ed2de82c6cd",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69abd8a9a59c19886990a020",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69abd8c2c877f1ef9a03772b",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69abd8dab593fdfc49cd96f6",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69abd8ed2bd3b844290ee939",
+        "numberOfQuestions": 22
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69abd80ced2a44c80ec33412",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "morphology-of-flowering-plants",
+    "seo": {
+      "titleTag": "Morphology of Flowering Plants - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Morphology of Flowering Plants - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Morphology of Flowering Plants - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Morphology of Flowering Plants from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Morphology of Flowering Plants from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Morphology of Flowering Plants from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eeb062b0e17d0b533a9ab",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Anatomy of Flowering Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:28:54.426Z",
+    "updatedAt": "2026-07-24T06:15:43.549Z",
+    "__v": 0,
+    "totalPageCount": 12,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a62fcf006ce3d0555c24e99",
+        "numberOfQuestions": 77
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69a95942c7fb331f5fc0d8e5",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69a95a8276d63eb7a8239d3c",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69a95cfc376040ad7ba54558",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69a95e5f6c29052db876d5b2",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69a96149f76d4ce586d962eb",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69a961fb26874d43a9cb9c0f",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69a96472f76d4ce586d96621",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69a96665376040ad7ba55c1b",
+        "numberOfQuestions": 18
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69a96955f76d4ce586d96869",
+        "numberOfQuestions": 12
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69a95539d2c15bcc38f3f2dc",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "anatomy-of-flowering-plants",
+    "seo": {
+      "titleTag": "Anatomy of Flowering Plants - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Anatomy of Flowering Plants - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Anatomy of Flowering Plants - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Anatomy of Flowering Plants from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Anatomy of Flowering Plants from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Anatomy of Flowering Plants from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eeb43ba2a35cf243eaf0d",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Structural Organisation in Animals",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:29:55.671Z",
+    "updatedAt": "2026-07-22T20:07:13.761Z",
+    "__v": 0,
+    "totalPageCount": 20,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "69abfeb6c915f17a2d7fee6c",
+        "numberOfQuestions": 90
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69abfec62bd3b844290f8c88",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69abfed7a59c198869910634",
+        "numberOfQuestions": 19
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69abfee7a59c198869910658",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69abfef6e0c73ed2de831da3",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69abff102bd3b844290f9210",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69abff23b593fdfc49ce1b7d",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69abff42b593fdfc49ce1bbd",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69abff54c915f17a2d7fef63",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69abff63e0c73ed2de831e63",
+        "numberOfQuestions": 22
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69abfe9d685722f78f86b9d5",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "structural-organisation-in-animals",
+    "seo": {
+      "titleTag": "Structural Organisation in Animals - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Structural Organisation in Animals - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Structural Organisation in Animals - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Structural Organisation in Animals from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Structural Organisation in Animals from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Structural Organisation in Animals from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eeb79f1bc521a90406361",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Cell : The Unit of Life",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:30:49.925Z",
+    "updatedAt": "2026-07-24T08:54:51.885Z",
+    "__v": 0,
+    "totalPageCount": 15,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6320944049dc55941702e7",
+        "numberOfQuestions": 111
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69aac6effebdfe6f89d47793",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aac770fe6b03ea12a06e8b",
+        "numberOfQuestions": 19
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aac7d70b202391cff171e4",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aac836b1d16eafc086409a",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69aac892993c5b0a26fe63a1",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69aac8f20b202391cff172ee",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aac94e17bb932745b6899b",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aaca34fe6b03ea12a07371",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aacaa1b6daa1ddff051d73",
+        "numberOfQuestions": 21
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69aa9211bb29d045dc9a9a73",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "cell-the-unit-of-life",
+    "seo": {
+      "titleTag": "Cell : The Unit of Life - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Cell : The Unit of Life - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Cell : The Unit of Life - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Cell : The Unit of Life from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Cell : The Unit of Life from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Cell : The Unit of Life from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eebbc55b9617590a2b48d",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Biomolecules",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:31:56.262Z",
+    "updatedAt": "2026-07-24T06:16:45.183Z",
+    "__v": 0,
+    "totalPageCount": 17,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a630223a4846bdbf8a63c84",
+        "numberOfQuestions": 106
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69aa92affebdfe6f89d39928",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aa9312febdfe6f89d39b3d",
+        "numberOfQuestions": 23
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aa938f73adacd11ba66003",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aa93fa8d5723cf1387fad3",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69aa9450fe6b03ea129fa9fb",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69aa94c0b6daa1ddff047474",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aa951b993c5b0a26fd9d01",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aa9577993c5b0a26fd9fdd",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aa95f1f3dcf673bdefac40",
+        "numberOfQuestions": 27
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69aa91e093f94bad0cfbc15b",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "biomolecules",
+    "seo": {
+      "titleTag": "Biomolecules - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Biomolecules - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Biomolecules - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Biomolecules from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biomolecules from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biomolecules from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eec0805c5e303255748ed",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Cell Cycle and Cell Division",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:33:12.113Z",
+    "updatedAt": "2026-07-24T08:54:36.801Z",
+    "__v": 0,
+    "totalPageCount": 8,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a631fa3831df464d9dc2147",
+        "numberOfQuestions": 99
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69aab350b1d16eafc08620ab",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aab3e2993c5b0a26fe462a",
+        "numberOfQuestions": 21
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aab456da5bea3f19b96b22",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aab4aeb6daa1ddff04ed26",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69aab510993c5b0a26fe4e72",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69aab561b1d16eafc0862237",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aab5d7f3dcf673bdf0531d",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aab6480b202391cff15395",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aab695f3dcf673bdf0541b",
+        "numberOfQuestions": 24
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69aa92065af701ac10c1f9fa",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "cell-cycle-and-cell-division",
+    "seo": {
+      "titleTag": "Cell Cycle and Cell Division - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Cell Cycle and Cell Division - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Cell Cycle and Cell Division - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Cell Cycle and Cell Division from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Cell Cycle and Cell Division from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Cell Cycle and Cell Division from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eec4078591332a466c727",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Photosynthesis in Higher Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:34:08.591Z",
+    "updatedAt": "2026-07-24T11:27:48.155Z",
+    "__v": 0,
+    "totalPageCount": 16,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a634938b5929576957c70ef",
+        "numberOfQuestions": 151
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69aaa10e0b202391cff12671",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aaa1d6993c5b0a26fe1737",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aaa88cb6daa1ddff04c609",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aaa96d993c5b0a26fe2f1d",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69aaaa27febdfe6f89d42817",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69aaaad5993c5b0a26fe3132",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aaadf7b6daa1ddff04d742",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aaae968d5723cf13887077",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aaaf740b202391cff14952",
+        "numberOfQuestions": 17
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69aa9d3045f3d081e96f8385",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "photosynthesis-in-higher-plants",
+    "seo": {
+      "titleTag": "Photosynthesis in Higher Plants - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Photosynthesis in Higher Plants - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Photosynthesis in Higher Plants - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Photosynthesis in Higher Plants from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Photosynthesis in Higher Plants from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Photosynthesis in Higher Plants from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eec82a7a8bb64b742edf8",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Respiration in Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:35:14.948Z",
+    "updatedAt": "2026-07-24T12:10:09.132Z",
+    "__v": 0,
+    "totalPageCount": 13,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6306b8b5929576957b7b14",
+        "numberOfQuestions": 100
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69abfdc8a51fcd715522ef62",
+        "numberOfQuestions": 18
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69abfdd7a51fcd715522ef76",
+        "numberOfQuestions": 21
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69abfdefe0c73ed2de831c11",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69abfdffa59c198869910526",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69abfe152bd3b844290f8ae2",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69abfe47e0c73ed2de831c8c",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69abfe58b593fdfc49ce19e9",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69abfe707fd302cf071e6cb5",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69abfe862bd3b844290f8c04",
+        "numberOfQuestions": 12
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69abfd67693b397c0e44ba41",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "respiration-in-plants",
+    "seo": {
+      "titleTag": "Respiration in Plants - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Respiration in Plants - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Respiration in Plants - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Respiration in Plants from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Respiration in Plants from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Respiration in Plants from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eecc32be4d971e15e9b3a",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Plant Growth and Development",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:36:19.387Z",
+    "updatedAt": "2026-07-24T11:28:05.429Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a634a0eb5929576957c746e",
+        "numberOfQuestions": 94
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69abd940c877f1ef9a0377d3",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69abd95112cb6bdc967d94f1",
+        "numberOfQuestions": 16
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69abd963e0c73ed2de82c82f",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69abd9793da52fa8e389989c",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69abd9967fd302cf071dda00",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69abd9aba51fcd71552260d2",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69abd9bd7fd302cf071dda1d",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69abd9d0e0c73ed2de82c858",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69abd9e50b202391cff2696a",
+        "numberOfQuestions": 17
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69abd905a2aad158ddbd25d9",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "plant-growth-and-development",
+    "seo": {
+      "titleTag": "Plant Growth and Development - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Plant Growth and Development - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Plant Growth and Development - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Plant Growth and Development from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Plant Growth and Development from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Plant Growth and Development from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eecf575995b4ede3304e4",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Breathing and Exchange of Gases",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:37:09.170Z",
+    "updatedAt": "2026-07-24T08:54:16.007Z",
+    "__v": 0,
+    "totalPageCount": 11,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a631ecfa4846bdbf8a6be63",
+        "numberOfQuestions": 100
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69aaaeb10b202391cff148ff",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aaaf2a17bb932745b6392a",
+        "numberOfQuestions": 18
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aaaf86993c5b0a26fe3c70",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aab05dfe6b03ea12a024d6",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69aab0b4da5bea3f19b965dd",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69aab11273adacd11ba6b272",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aab16bf3dcf673bdf04974",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aab1bff3dcf673bdf04a1e",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aab2560b202391cff14b7a",
+        "numberOfQuestions": 13
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69aa91fa36435d943b8030cb",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "breathing-and-exchange-of-gases",
+    "seo": {
+      "titleTag": "Breathing and Exchange of Gases - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Breathing and Exchange of Gases - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Breathing and Exchange of Gases - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Breathing and Exchange of Gases from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Breathing and Exchange of Gases from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Breathing and Exchange of Gases from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eed26ade254587cd8f4fb",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "Body Fluids and Circulation",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:37:58.504Z",
+    "updatedAt": "2026-07-24T08:53:56.946Z",
+    "__v": 0,
+    "totalPageCount": 15,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6304d506ce3d0555c25ff0",
+        "numberOfQuestions": 117
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69aaa94ab1d16eafc08616b5",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aaa9a8b6daa1ddff04ca87",
+        "numberOfQuestions": 24
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aaaa31993c5b0a26fe303f",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aaaab3febdfe6f89d429bc",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69aaab20b6daa1ddff04d0cd",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69aaaba28d5723cf13886204",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aaabfd8d5723cf13886408",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aaac59b1d16eafc0861a3e",
+        "numberOfQuestions": 16
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aaacc6fe6b03ea12a01c1c",
+        "numberOfQuestions": 14
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69aa91ea5ad7ecad1d6ee8b4",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "body-fluids-and-circulation",
+    "seo": {
+      "titleTag": "Body Fluids and Circulation - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Body Fluids and Circulation - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Body Fluids and Circulation - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Body Fluids and Circulation from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Body Fluids and Circulation from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Body Fluids and Circulation from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eed6bb8b84f6bfaac8d7a",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 16,
+    "title": "Excretory Products and their Elimination",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 16,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:39:07.733Z",
+    "updatedAt": "2026-07-24T11:25:47.382Z",
+    "__v": 0,
+    "totalPageCount": 12,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a633437b5929576957c1d75",
+        "numberOfQuestions": 106
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69aac0cdb6daa1ddff050c0d",
+        "numberOfQuestions": 17
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aac0e2b1d16eafc0863239",
+        "numberOfQuestions": 22
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aac0f417bb932745b6792b",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aac1058d5723cf1388a936",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69aac11c73adacd11ba6d368",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69aac130993c5b0a26fe5d19",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aac148febdfe6f89d46d91",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aac1630b202391cff16ad4",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aac180b6daa1ddff050ce1",
+        "numberOfQuestions": 9
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69aac0845ad7ecad1d6f8a9d",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "excretory-products-and-their-elimination",
+    "seo": {
+      "titleTag": "Excretory Products and their Elimination - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Excretory Products and their Elimination - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Excretory Products and their Elimination - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Excretory Products and their Elimination from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Excretory Products and their Elimination from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Excretory Products and their Elimination from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eeda5930544962b6645f4",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 17,
+    "title": "Locomotion and Movement",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 17,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:40:05.186Z",
+    "updatedAt": "2026-07-24T11:26:04.114Z",
+    "__v": 0,
+    "totalPageCount": 12,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6334fe8440a5a267b180c6",
+        "numberOfQuestions": 104
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69abd73aa51fcd7155225b4c",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69abd74ac877f1ef9a037097",
+        "numberOfQuestions": 22
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69abd75ea59c198869909e08",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69abd779a59c198869909e11",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69abd78ba59c198869909e19",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69abd7a012cb6bdc967d918a",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69abd7b83da52fa8e3899055",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69abd7d1b593fdfc49cd945f",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69abd7e7a51fcd7155225c7b",
+        "numberOfQuestions": 13
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69abd7011691ffd0c1768b7e",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "locomotion-and-movement",
+    "seo": {
+      "titleTag": "Locomotion and Movement - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Locomotion and Movement - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Locomotion and Movement - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Locomotion and Movement from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Locomotion and Movement from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Locomotion and Movement from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eede034eb084d5c7b7a5a",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 18,
+    "title": "Neural Control and Coordination",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b0e34904-5558-49e6-b100-1b389383a73d.pdf",
+      "_id": "699eede034eb084d5c7b7a5b"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": true,
+    "displayChapterNumber": 18,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:41:04.399Z",
+    "updatedAt": "2026-07-24T11:29:19.678Z",
+    "__v": 0,
+    "totalPageCount": 9,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a63486fb5929576957c6f90",
+        "numberOfQuestions": 57
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69aa92edb6daa1ddff046baa",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aa93930b202391cff10aa8",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aa942d17bb932745b5d88c",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aa94d48d5723cf1387fdb3",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69aa974cfebdfe6f89d3a6af",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69aa98ccfe6b03ea129fbbec",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aa9aa1f3dcf673bdefbd57",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aa9b7af3dcf673bdefbfde",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aa9c238d5723cf1388208f",
+        "numberOfQuestions": 7
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69aa91c4f000d31558868332",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "neural-control-and-coordination",
+    "seo": {
+      "titleTag": "Neural Control and Coordination - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Neural Control and Coordination - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Neural Control and Coordination - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Neural Control and Coordination from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Neural Control and Coordination from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Neural Control and Coordination from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699eee2bfd72b0eca5559830",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 19,
+    "title": "Chemical Coordination and Integration",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 19,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T12:42:19.742Z",
+    "updatedAt": "2026-07-24T08:55:16.673Z",
+    "__v": 0,
+    "totalPageCount": 11,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6327604049dc55941728ce",
+        "numberOfQuestions": 104
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69aacce1febdfe6f89d48684",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69aacd448d5723cf1388c845",
+        "numberOfQuestions": 23
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69aacdb38d5723cf1388c8de",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69aace1617bb932745b69197",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69aace790b202391cff17be8",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69aacefab6daa1ddff052339",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69aacf6bfebdfe6f89d489d2",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69aacfcffe6b03ea12a085b0",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69aad07f17bb932745b6958e",
+        "numberOfQuestions": 13
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69aa921ac6245131fd8fb9ab",
+    "chapterType": "CORE_CHAPTER",
+    "class": "11",
+    "pageSliceVersion": 1,
+    "slug": "chemical-coordination-and-integration",
+    "seo": {
+      "titleTag": "Chemical Coordination and Integration - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Chemical Coordination and Integration - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Chemical Coordination and Integration - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Chemical Coordination and Integration from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Coordination and Integration from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Coordination and Integration from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699f14b40765e97e4002966a",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 20,
+    "title": "Sexual Reproduction in Flowering Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 20,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:26:44.866Z",
+    "updatedAt": "2026-07-24T12:14:38.226Z",
+    "__v": 0,
+    "totalPageCount": 17,
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69ae8d2a5affd2cd7f9fd136",
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a63431c06ce3d0555c2f3c6",
+        "numberOfQuestions": 121
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69ae93f09994f62c27d6f1d2",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69ae93fc40d1e521e974b9ac",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69ae9407a84e1043f89e5b7b",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69ae94448aacd74bc73b4ff5",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69ae9454aa64f88434c5f035",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69ae9471f5f1aab727c0bb5c",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69ae9484fdffdc88da0a7c42",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69ae9497f5f1aab727c0bbc6",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69ae94a9fdffdc88da0a7c5f",
+        "numberOfQuestions": 19
+      }
+    ],
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "sexual-reproduction-in-flowering-plants",
+    "seo": {
+      "titleTag": "Sexual Reproduction in Flowering Plants - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Sexual Reproduction in Flowering Plants - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Sexual Reproduction in Flowering Plants - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Sexual Reproduction in Flowering Plants from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Sexual Reproduction in Flowering Plants from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Sexual Reproduction in Flowering Plants from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699f14ce0cb03703d01d213b",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 21,
+    "title": "Human Reproduction",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 21,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:27:10.926Z",
+    "updatedAt": "2026-07-24T12:11:30.976Z",
+    "__v": 0,
+    "totalPageCount": 15,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a63338174c7348100a40a0a",
+        "numberOfQuestions": 132
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69ac0c33c877f1ef9a03dfb8",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69ac0c452bd3b844290faf97",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69ac0c523da52fa8e38a39d4",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69ac0c5fc915f17a2d801afb",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69ac0c71b593fdfc49ce4468",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69ac0c803da52fa8e38a3a14",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69ac0c90e0c73ed2de8341d0",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69ac0caab593fdfc49ce452f",
+        "numberOfQuestions": 18
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69ac0cc17fd302cf071ea956",
+        "numberOfQuestions": 23
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69ac0c0f4f9e4608f65f6113",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "human-reproduction",
+    "seo": {
+      "titleTag": "Human Reproduction - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Human Reproduction - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Human Reproduction - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Human Reproduction from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Human Reproduction from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Human Reproduction from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699f14ee1d227cf59c4cbf1b",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 22,
+    "title": "Reproductive Health",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 22,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:27:42.627Z",
+    "updatedAt": "2026-07-24T12:11:46.028Z",
+    "__v": 0,
+    "totalPageCount": 7,
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69ae8d1dcf3dd911730ef450",
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a63415eb5929576957c5499",
+        "numberOfQuestions": 63
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69ae8dbf1312eb3bf70985e9",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69ae8dcc5b3677e7cb868b3f",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69ae8dd80b202391cf4e22e8",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69ae8de8f5f1aab727c0a358",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69ae8df89994f62c27d5a1da",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69ae8e070b202391cf4e4e6e",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69ae8e16fdffdc88da09add0",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69ae8e2740d1e521e9733c9a",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69ae8e39aa64f88434c5e876",
+        "numberOfQuestions": 16
+      }
+    ],
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "reproductive-health",
+    "seo": {
+      "titleTag": "Reproductive Health - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Reproductive Health - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Reproductive Health - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Reproductive Health from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Reproductive Health from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Reproductive Health from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699f150eef51b2b9e2c42aa4",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 23,
+    "title": "Principles of Inheritance and Variation",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 23,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:28:14.244Z",
+    "updatedAt": "2026-07-24T12:12:01.174Z",
+    "__v": 0,
+    "totalPageCount": 18,
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69ae825ff9b422759ce6a1ef",
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a633ff0a4846bdbf8a775b0",
+        "numberOfQuestions": 164
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69ae828ef5f1aab727c08505",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69ae82a2c7ce655d61b8dea7",
+        "numberOfQuestions": 24
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69ae82b21312eb3bf7094f7e",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69ae82c540d1e521e9726880",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69ae82d3c7ce655d61b8decf",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69ae82e55b3677e7cb866551",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69ae82f40b202391cf4d5889",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69ae95a40b202391cf4ec140",
+        "numberOfQuestions": 18
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69ae83241312eb3bf7094fd6",
+        "numberOfQuestions": 30
+      }
+    ],
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "principles-of-inheritance-and-variation",
+    "seo": {
+      "titleTag": "Principles of Inheritance and Variation - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Principles of Inheritance and Variation - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Principles of Inheritance and Variation - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Principles of Inheritance and Variation from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Principles of Inheritance and Variation from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Principles of Inheritance and Variation from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699f152ea7a8bb64b743a9bb",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 24,
+    "title": "Molecular Basis of Inheritance",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 24,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:28:46.132Z",
+    "updatedAt": "2026-07-24T12:12:15.492Z",
+    "__v": 0,
+    "totalPageCount": 26,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a63391d4049dc55941759a3",
+        "numberOfQuestions": 133
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69ae80df8aacd74bc73b30e0",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69ae80eca84e1043f89c46ee",
+        "numberOfQuestions": 22
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69ae80fdc7ce655d61b8dc96",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69ae811440d1e521e9726636",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69ae8123f5f1aab727c08193",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69ae8131a84e1043f89c4714",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69ae814ba84e1043f89c4716",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69ae815b5b3677e7cb866370",
+        "numberOfQuestions": 28
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69ae8170a84e1043f89c4763",
+        "numberOfQuestions": 39
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69ae805a299c9d2f0a927f23",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "molecular-basis-of-inheritance",
+    "seo": {
+      "titleTag": "Molecular Basis of Inheritance - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Molecular Basis of Inheritance - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Molecular Basis of Inheritance - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Molecular Basis of Inheritance from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Molecular Basis of Inheritance from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Molecular Basis of Inheritance from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699f154d43e1a1b55cfabbd9",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 25,
+    "title": "Evolution",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 25,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:29:17.678Z",
+    "updatedAt": "2026-07-24T12:12:29.146Z",
+    "__v": 0,
+    "totalPageCount": 14,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a632784257a04ad24436773",
+        "numberOfQuestions": 136
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69ae7560aa64f88434c5ca01",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69abfdb8c915f17a2d7fed40",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69abfdc5e0c73ed2de831bdc",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69abfd9912cb6bdc967e01e8",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69abfdd23da52fa8e38a0855",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69abfddec877f1ef9a03c0e7",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69abfdf2a51fcd715522efa7",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69abfe0cb593fdfc49ce193e",
+        "numberOfQuestions": 18
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69abfe1b2bd3b844290f8b25",
+        "numberOfQuestions": 18
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69abfd8385a0138e88fde5eb",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "evolution",
+    "seo": {
+      "titleTag": "Evolution - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Evolution - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Evolution - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Evolution from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Evolution from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Evolution from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699f156efdab84b5971b6eed",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 26,
+    "title": "Human Health and Disease",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 26,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:29:50.746Z",
+    "updatedAt": "2026-07-22T20:07:41.781Z",
+    "__v": 0,
+    "totalPageCount": 22,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "69ae99d2a84e1043f89e7630",
+        "numberOfQuestions": 96
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69ae9a629994f62c27d71bb7",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69ac0348e0c73ed2de832358",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69ac0354b593fdfc49ce2934",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69ac036012cb6bdc967e1123",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69ac036dc877f1ef9a03d21b",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69ac038f3da52fa8e38a14f3",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69ac03b27fd302cf071e835d",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69ac03c8a59c1988699112f0",
+        "numberOfQuestions": 23
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69ac03f47fd302cf071e83c0",
+        "numberOfQuestions": 16
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69ac02ba57d618ed253b1204",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "human-health-and-disease",
+    "seo": {
+      "titleTag": "Human Health and Disease - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Human Health and Disease - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Human Health and Disease - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Human Health and Disease from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Human Health and Disease from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Human Health and Disease from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699f158e7f33d4868ab4a36e",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 27,
+    "title": "Microbes in Human Welfare",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 27,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:30:22.973Z",
+    "updatedAt": "2026-07-24T12:12:48.104Z",
+    "__v": 0,
+    "totalPageCount": 7,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6336954049dc559417537f",
+        "numberOfQuestions": 94
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69ae9cd69994f62c27d721a4",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69ac1163a59c19886991240b",
+        "numberOfQuestions": 22
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69ac11703da52fa8e38a43dd",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69ac1181a59c198869912420",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69ac118e3da52fa8e38a440a",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69ac119e0b202391cff2efd5",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69ac11b00b202391cff2efdd",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69ac11c112cb6bdc967e3437",
+        "numberOfQuestions": 17
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69ac11d2c915f17a2d802120",
+        "numberOfQuestions": 9
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69ac114790dea6dfcbae8672",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "microbes-in-human-welfare",
+    "seo": {
+      "titleTag": "Microbes in Human Welfare - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Microbes in Human Welfare - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Microbes in Human Welfare - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Microbes in Human Welfare from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Microbes in Human Welfare from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Microbes in Human Welfare from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699f15c07a1d896d4fa6817c",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 28,
+    "title": "Biotechnology  : Principles and Processes",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 28,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:31:12.524Z",
+    "updatedAt": "2026-07-24T12:13:20.443Z",
+    "__v": 0,
+    "totalPageCount": 14,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a630d22646a41d435c8a78b",
+        "numberOfQuestions": 100
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69ae6c1eaa64f88434c5a964",
+        "numberOfQuestions": 16
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69abcd347fd302cf071dae1f",
+        "numberOfQuestions": 18
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69abcdf20b202391cff24ee0",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69abcea72bd3b844290ecac0",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69abd013c915f17a2d7f9a4e",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69abd0c0c877f1ef9a035ca5",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69abd1560b202391cff253b7",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69abd261a51fcd7155223cc4",
+        "numberOfQuestions": 19
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69abd3133da52fa8e3898073",
+        "numberOfQuestions": 28
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69abcbe04023f6cd58d3d7ff",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 2,
+    "slug": "biotechnology-principles-and-processes",
+    "seo": {
+      "titleTag": "Biotechnology  : Principles and Processes - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Biotechnology  : Principles and Processes - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Biotechnology  : Principles and Processes - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Biotechnology  : Principles and Processes from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biotechnology  : Principles and Processes from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biotechnology  : Principles and Processes from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699f15e16a9b636c66f2011c",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 29,
+    "title": "Biotechnology and its Applications",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 29,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:31:45.218Z",
+    "updatedAt": "2026-07-24T12:13:35.646Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a6324794049dc5594170a39",
+        "numberOfQuestions": 72
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69ae6e1dfdffdc88dafe229f",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69abd64c12cb6bdc967d8a10",
+        "numberOfQuestions": 18
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69abe9990b202391cff28222",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69abeb5f2bd3b844290f2aa8",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69abed7ea59c19886990d6ea",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69abedf212cb6bdc967dcc45",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69abee67c915f17a2d7fcb44",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69abeeecc877f1ef9a039fde",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69abef99c877f1ef9a03a092",
+        "numberOfQuestions": 20
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69abd639a7282abe75418848",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "biotechnology-and-its-applications",
+    "seo": {
+      "titleTag": "Biotechnology and its Applications - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Biotechnology and its Applications - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Biotechnology and its Applications - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Biotechnology and its Applications from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biotechnology and its Applications from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biotechnology and its Applications from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699f15fdf7706e59d7c22af0",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 30,
+    "title": "Organisms and Populations",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 30,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:32:13.320Z",
+    "updatedAt": "2026-07-24T12:13:50.245Z",
+    "__v": 0,
+    "totalPageCount": 10,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a633c5106ce3d0555c2e50b",
+        "numberOfQuestions": 93
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69ae81b040d1e521e9726732",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69ae81c040d1e521e9726743",
+        "numberOfQuestions": 22
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69ae81d00b202391cf4d0868",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69ae81dfc7ce655d61b8ddb1",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69ae81ef40d1e521e9726763",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69ae82019994f62c27d40fcb",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69ae82145b3677e7cb866452",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69ae822fa84e1043f89c9751",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69ae8243aa64f88434c5dbae",
+        "numberOfQuestions": 20
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69ae81838ac991b122938959",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "organisms-and-populations",
+    "seo": {
+      "titleTag": "Organisms and Populations - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Organisms and Populations - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Organisms and Populations - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Organisms and Populations from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Organisms and Populations from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Organisms and Populations from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699f1616664311420ab3131c",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 31,
+    "title": "Ecosystem",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 31,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:32:38.830Z",
+    "updatedAt": "2026-07-24T12:14:04.055Z",
+    "__v": 0,
+    "totalPageCount": 8,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a63267b646a41d435c9182b",
+        "numberOfQuestions": 72
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69ae734cfdffdc88da00392f",
+        "numberOfQuestions": 6
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69abf06fa59c19886990d9a7",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69abf0ceb593fdfc49cdd535",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69abf0d92bd3b844290f3b09",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69abf0e9c915f17a2d7fd236",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69abf0f62bd3b844290f3b46",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69abf103a59c19886990dabf",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69abf11012cb6bdc967dd888",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69abf1202bd3b844290f3ba4",
+        "numberOfQuestions": 11
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69abf039504ee40ac917a8aa",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "ecosystem",
+    "seo": {
+      "titleTag": "Ecosystem - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Ecosystem - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Ecosystem - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Ecosystem from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Ecosystem from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Ecosystem from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699f1636868f2c798fae1946",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 32,
+    "title": "Biodiversity and Conservation",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 32,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-25T15:33:10.464Z",
+    "updatedAt": "2026-07-24T12:14:18.085Z",
+    "__v": 0,
+    "totalPageCount": 7,
+    "customPracticeSet": [
+      {
+        "name": "NCERT Topic-wise MCQs",
+        "testId": "6a630b91257a04ad24431d10",
+        "numberOfQuestions": 100
+      },
+      {
+        "name": "Matching Type MCQs",
+        "testId": "69ae6ab00b202391cf3dd0e6",
+        "numberOfQuestions": 13
+      },
+      {
+        "name": "Correct & Incorrect MCQs",
+        "testId": "69abc2a43da52fa8e38940fd",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Statement Based MCQs",
+        "testId": "69abc3fba51fcd71552216cc",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "Assertion & Reason MCQs",
+        "testId": "69abc537b593fdfc49cd46bc",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "Image Based Questions",
+        "testId": "69abc656c877f1ef9a0346f3",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Sequence & Multi-correct MCQs",
+        "testId": "69abc7107fd302cf071d973f",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "High Order Time Intensive MCQs",
+        "testId": "69abc7b2a51fcd715522209a",
+        "numberOfQuestions": 2
+      },
+      {
+        "name": "NCERT Exemplar MCQs",
+        "testId": "69abc86db593fdfc49cd5085",
+        "numberOfQuestions": 20
+      },
+      {
+        "name": "NEET & AIIMS Past Year MCQs",
+        "testId": "69abc9552bd3b844290ead93",
+        "numberOfQuestions": 17
+      }
+    ],
+    "programChapterId": "69a9551f8ca8828525019f9f",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "69abc02f1e02b0f123bdf336",
+    "chapterType": "CORE_CHAPTER",
+    "class": "12",
+    "pageSliceVersion": 1,
+    "slug": "biodiversity-and-conservation",
+    "seo": {
+      "titleTag": "Biodiversity and Conservation - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Biodiversity and Conservation - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Biodiversity and Conservation - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Biodiversity and Conservation from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biodiversity and Conservation from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biodiversity and Conservation from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6a1e9729430ba3396bfa5e5c",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 33,
+    "title": "NEET 2025 Paper",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "chapterType": "QUESTION_PAPER",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "69a1378e4db979a7873a632e",
+    "programTopicId": "69a1379a634b7d612053f7ac",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 33,
+    "customPracticeSet": [
+      {
+        "name": "NEET 2025 Paper",
+        "testId": "69a137bbd7a092e9616b0627",
+        "numberOfQuestions": 180
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-06-02T08:41:13.009Z",
+    "updatedAt": "2026-07-22T20:07:52.232Z",
+    "__v": 0,
+    "totalPageCount": 14,
+    "pageSliceVersion": 1,
+    "slug": "neet-2025-paper",
+    "seo": {
+      "titleTag": "NEET 2025 Paper - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "NEET 2025 Paper - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "NEET 2025 Paper - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read NEET 2025 Paper from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read NEET 2025 Paper from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read NEET 2025 Paper from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6ac5e98e7fc1eeb065cd6c49",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 34,
+    "title": "Re - NEET 2026",
+    "slug": "re-neet-2026",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "chapterType": "QUESTION_PAPER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "6ac5dddc23796b474993970f",
+    "programTopicId": "6ac5de00ff2de03c806ed37f",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 34,
+    "customPracticeSet": [
+      {
+        "name": "Re - NEET 2026",
+        "testId": "6ac5dec8b1f078061d9709a5",
+        "numberOfQuestions": 90
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-10-07T06:41:18.293Z",
+    "updatedAt": "2026-10-07T06:41:18.986Z",
+    "__v": 0,
+    "pageSliceVersion": 1,
+    "totalPageCount": 11,
+    "seo": {
+      "titleTag": "Re - NEET 2026 - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "Re - NEET 2026 - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "Re - NEET 2026 - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read Re - NEET 2026 from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Re - NEET 2026 from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Re - NEET 2026 from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6ac71e1256e22bd468309e21",
+    "bookId": "699d7cb3e6d1ae4b0ed123d7",
+    "status": "ACTIVE",
+    "displayOrder": 35,
+    "title": "NEET 2026",
+    "slug": "neet-2026",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "chapterType": "QUESTION_PAPER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "programSectionId": "6996b32ade75125d5973d6c3",
+    "programChapterId": "6ac652b52e61792dde9c2809",
+    "programTopicId": "6ac652c2439bbba607b7a811",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 35,
+    "customPracticeSet": [
+      {
+        "name": "NEET 2026",
+        "testId": "6ac6553db5dfd2bc956efcd4",
+        "numberOfQuestions": 90
+      }
+    ],
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-10-08T04:37:38.256Z",
+    "updatedAt": "2026-10-08T04:37:40.598Z",
+    "__v": 0,
+    "pageSliceVersion": 1,
+    "totalPageCount": 38,
+    "seo": {
+      "titleTag": "NEET 2026 - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "coverImageAltText": "NEET 2026 - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "ogTitle": "NEET 2026 - NCERT Punch 5.0 Biology (Digital Book) | PW Books",
+      "shortDescription": "Read NEET 2026 from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read NEET 2026 from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read NEET 2026 from NCERT Punch 5.0 Biology (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2ecadf43-a64c-419d-bf82-696df893b367.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  }
+]

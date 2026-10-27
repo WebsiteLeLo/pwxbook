@@ -1,0 +1,3888 @@
+[
+  {
+    "_id": "693922da28e238cbd5a71259",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Basic Maths",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "676bf3d64b13857264256872",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 1,
+    "pageEnd": 38,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "importance": [],
+    "createdAt": "2025-12-10T07:35:54.227Z",
+    "updatedAt": "2026-07-22T19:03:58.924Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697af2e2cc05d4ee8b67199d",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a1a665db54e2565ca24e9",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e6a5c75ea3492d9f40f7",
+    "totalPageCount": 38,
+    "pageSliceVersion": 1,
+    "slug": "basic-maths",
+    "seo": {
+      "titleTag": "Basic Maths - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Basic Maths - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Basic Maths - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Basic Maths from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Basic Maths from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Basic Maths from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693923142ad9cea314bb9331",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Vector",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "676bf3d64b13857264256872",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 39,
+    "pageEnd": 55,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "importance": [],
+    "createdAt": "2025-12-10T07:36:52.353Z",
+    "updatedAt": "2026-09-07T09:26:23.932Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697af3e4a273c4c602757218",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a1b17ea87cb910b3b84c2",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e6c5eab0a1010009695c",
+    "totalPageCount": 17,
+    "pageSliceVersion": 1,
+    "slug": "vector",
+    "seo": {
+      "titleTag": "Vector - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Vector - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Vector - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Vector from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Vector from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Vector from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "69392363b981f8defbe0d113",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Units & Dimensions",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69424867b02fabf549f459ed",
+        "numberOfQuestions": 18,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a5250945213dd3901e25906"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "676bf3d64b13857264256872",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 56,
+    "pageEnd": 84,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "importance": [],
+    "createdAt": "2025-12-10T07:38:11.545Z",
+    "updatedAt": "2026-07-22T19:04:02.769Z",
+    "__v": 0,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e6d9cbecb4ca77247e50",
+    "isVideoEnabled": false,
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697af56514394827262a4f2b",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a1c27ea87cb910b3b85d2",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 29,
+    "pageSliceVersion": 1,
+    "slug": "units-dimensions",
+    "seo": {
+      "titleTag": "Units & Dimensions - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Units & Dimensions - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Units & Dimensions - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Units & Dimensions from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Units & Dimensions from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Units & Dimensions from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69424867b02fabf549f459ed",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 18
+      }
+    ],
+    "pyqQuestions": 18,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69424867b02fabf549f459ed"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693923979dcd5b25c9eb988c",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Motion in 1-D",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6942737a25fa6ecf2428ca9a",
+        "numberOfQuestions": 10,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3a22454453db98048f5f9a"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "676bf3d64b13857264256872",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 85,
+    "pageEnd": 112,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "importance": [],
+    "createdAt": "2025-12-10T07:39:04.002Z",
+    "updatedAt": "2026-07-22T19:04:04.887Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e6e8b4259728fdf9d1c5",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697af6fd3d19fbcd46ef4df8",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a1e755db54e2565ca29e2",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 28,
+    "pageSliceVersion": 1,
+    "slug": "motion-in-1-d",
+    "seo": {
+      "titleTag": "Motion in 1-D - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Motion in 1-D - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Motion in 1-D - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Motion in 1-D from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Motion in 1-D from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Motion in 1-D from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6942737a25fa6ecf2428ca9a",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 10,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6942737a25fa6ecf2428ca9a"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a5f43d373cef970c1f2ec",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Motion in a Plane",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6942767d1fdb90fb067c9df3",
+        "numberOfQuestions": 6,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3a2257307e72ff35055f29"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 113,
+    "pageEnd": 130,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "importance": [],
+    "createdAt": "2025-12-11T06:05:55.686Z",
+    "updatedAt": "2026-07-22T19:04:06.272Z",
+    "__v": 0,
+    "isVideoEnabled": true,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e6fbe26ace0db7efbf70",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697af7b46047243e5a688e73",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a1f435db54e2565ca2bb0",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 18,
+    "pageSliceVersion": 1,
+    "slug": "motion-in-a-plane",
+    "seo": {
+      "titleTag": "Motion in a Plane - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Motion in a Plane - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Motion in a Plane - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Motion in a Plane from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Motion in a Plane from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Motion in a Plane from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6942767d1fdb90fb067c9df3",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 6
+      }
+    ],
+    "pyqQuestions": 6,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6942767d1fdb90fb067c9df3"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a5fdb5b72fc56d1da3674",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Newton's Laws of Motion",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "694392bcf79acc304dcd5eb5",
+        "numberOfQuestions": 7,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3a22724354875ec73f0d10"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 131,
+    "pageEnd": 153,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "importance": [],
+    "createdAt": "2025-12-11T06:08:27.698Z",
+    "updatedAt": "2026-07-22T19:04:07.990Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e70c1cf5f6cebf145c6d",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697af8bc3d19fbcd46ef5163",
+        "numberOfQuestions": 49
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a205fd1de792895067042",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 23,
+    "pageSliceVersion": 1,
+    "slug": "newton-s-laws-of-motion",
+    "seo": {
+      "titleTag": "Newton's Laws of Motion - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Newton's Laws of Motion - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Newton's Laws of Motion - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Newton's Laws of Motion from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Newton's Laws of Motion from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Newton's Laws of Motion from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "694392bcf79acc304dcd5eb5",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 7
+      }
+    ],
+    "pyqQuestions": 7,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "694392bcf79acc304dcd5eb5"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a6038ca54250771d40481",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Friction",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "694393c3502d7cfc821761f5",
+        "numberOfQuestions": 5,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3a2281e0eba49c95fab304"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 154,
+    "pageEnd": 169,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "importance": [],
+    "createdAt": "2025-12-11T06:10:00.834Z",
+    "updatedAt": "2026-07-22T19:04:09.228Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e71cb7c76c9ac6ed4b60",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697af95fd0cc5db34c89c87d",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a21585f7fe0d968055c5a",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 16,
+    "pageSliceVersion": 1,
+    "slug": "friction",
+    "seo": {
+      "titleTag": "Friction - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Friction - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Friction - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Friction from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Friction from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Friction from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "694393c3502d7cfc821761f5",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 5
+      }
+    ],
+    "pyqQuestions": 5,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "694393c3502d7cfc821761f5"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a6090b88d38fa2bd94653",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Circular Motion",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943970588142e0fe7352599",
+        "numberOfQuestions": 2,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b7737d24f93e20faf1a1c"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 170,
+    "pageEnd": 185,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "importance": [],
+    "createdAt": "2025-12-11T06:11:28.087Z",
+    "updatedAt": "2026-07-22T19:04:10.699Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e72b8bcb3390e83886b4",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697afa9014394827262aa89c",
+        "numberOfQuestions": 22
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a27f95f7fe0d9680569c0",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 16,
+    "pageSliceVersion": 1,
+    "slug": "circular-motion",
+    "seo": {
+      "titleTag": "Circular Motion - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Circular Motion - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Circular Motion - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Circular Motion from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Circular Motion from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Circular Motion from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943970588142e0fe7352599",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 2
+      }
+    ],
+    "pyqQuestions": 2,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943970588142e0fe7352599"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a60e203584df5bf18ea65",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Work, Energy and Power",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943980721cf27946b58c1e6",
+        "numberOfQuestions": 9,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b77490951ac7868679232"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 186,
+    "pageEnd": 205,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "importance": [],
+    "createdAt": "2025-12-11T06:12:50.218Z",
+    "updatedAt": "2026-07-22T19:04:12.523Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e739bf98dadbafe9ca61",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697afc72a273c4c602758701",
+        "numberOfQuestions": 57
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a47d9f1e45642da2ca850",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 20,
+    "pageSliceVersion": 1,
+    "slug": "work-energy-and-power",
+    "seo": {
+      "titleTag": "Work, Energy and Power - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Work, Energy and Power - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Work, Energy and Power - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Work, Energy and Power from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Work, Energy and Power from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Work, Energy and Power from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943980721cf27946b58c1e6",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 9
+      }
+    ],
+    "pyqQuestions": 9,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943980721cf27946b58c1e6"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a61292005734c511299ac",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Center of Mass",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943995fef07631f5924e187",
+        "numberOfQuestions": 1,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b77550951ac786867933b"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 206,
+    "pageEnd": 219,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "importance": [],
+    "createdAt": "2025-12-11T06:14:01.864Z",
+    "updatedAt": "2026-07-22T19:04:13.821Z",
+    "__v": 0,
+    "isVideoEnabled": true,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e7469610a6b0f542bd59",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697afd2568175f1818797142",
+        "numberOfQuestions": 42
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a4888d1de792895070da8",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 14,
+    "pageSliceVersion": 1,
+    "slug": "center-of-mass",
+    "seo": {
+      "titleTag": "Center of Mass - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Center of Mass - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Center of Mass - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Center of Mass from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Center of Mass from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Center of Mass from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943995fef07631f5924e187",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 1
+      }
+    ],
+    "pyqQuestions": 1,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943995fef07631f5924e187"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a617b24de04300be015b5",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Collision",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69439a10ef07631f5924e6c2",
+        "numberOfQuestions": 1,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b776fba36c10e323c9099"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 220,
+    "pageEnd": 231,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "importance": [],
+    "createdAt": "2025-12-11T06:15:23.099Z",
+    "updatedAt": "2026-07-22T19:04:14.917Z",
+    "__v": 0,
+    "isVideoEnabled": true,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e756358b90319e29cfa5",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697afebd14394827262aaedc",
+        "numberOfQuestions": 18
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a4966284300f57111dde3",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 12,
+    "pageSliceVersion": 1,
+    "slug": "collision",
+    "seo": {
+      "titleTag": "Collision - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Collision - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Collision - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Collision from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Collision from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Collision from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69439a10ef07631f5924e6c2",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 1
+      }
+    ],
+    "pyqQuestions": 1,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69439a10ef07631f5924e6c2"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a61c5d73472cbf602b51b",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Rotational Motion",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69439bd088142e0fe7354cdd",
+        "numberOfQuestions": 9,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b777c03a2c3e495839bd4"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 232,
+    "pageEnd": 269,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "importance": [],
+    "createdAt": "2025-12-11T06:16:37.133Z",
+    "updatedAt": "2026-07-22T19:04:18.274Z",
+    "__v": 0,
+    "isVideoEnabled": true,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e766f419050e804343df",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697b022f8a51ece77b663e08",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a4a88ea87cb910b3c5e71",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 38,
+    "pageSliceVersion": 1,
+    "slug": "rotational-motion",
+    "seo": {
+      "titleTag": "Rotational Motion - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Rotational Motion - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Rotational Motion - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Rotational Motion from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Rotational Motion from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Rotational Motion from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69439bd088142e0fe7354cdd",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 9
+      }
+    ],
+    "pyqQuestions": 9,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69439bd088142e0fe7354cdd"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a62274ae9da38a93a75a6",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Gravitation",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69439cf1f79acc304dcdad69",
+        "numberOfQuestions": 17,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b7787ba36c10e323c92ad"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 270,
+    "pageEnd": 294,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "importance": [],
+    "createdAt": "2025-12-11T06:18:15.137Z",
+    "updatedAt": "2026-07-22T19:04:20.392Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e7721d87f98691189610",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "6945387f91f4df8b00bac820",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a4d63b3c34731cd84008f",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 25,
+    "pageSliceVersion": 1,
+    "slug": "gravitation",
+    "seo": {
+      "titleTag": "Gravitation - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Gravitation - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Gravitation - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Gravitation from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Gravitation from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Gravitation from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69439cf1f79acc304dcdad69",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 17
+      }
+    ],
+    "pyqQuestions": 17,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69439cf1f79acc304dcdad69"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a6318ecbee9b25a8708e0",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Elasticity",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69439debf79acc304dcdb83d",
+        "numberOfQuestions": 5,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b7792d5624ddc91ca4bb7"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 295,
+    "pageEnd": 311,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "importance": [],
+    "createdAt": "2025-12-11T06:22:16.200Z",
+    "updatedAt": "2026-07-22T19:04:21.798Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e781eab0a10100096cbd",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "6945422da324e78d39663605",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a4f5a284300f57111e237",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 17,
+    "pageSliceVersion": 2,
+    "slug": "elasticity",
+    "seo": {
+      "titleTag": "Elasticity - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Elasticity - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Elasticity - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Elasticity from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Elasticity from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Elasticity from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69439debf79acc304dcdb83d",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 5
+      }
+    ],
+    "pyqQuestions": 5,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69439debf79acc304dcdb83d"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a63ae251bdcbddd5d27a8",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "Fluid Mechanics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69439ed2f79acc304dcdbf3f",
+        "numberOfQuestions": 9,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b779c1035e453e696c5a6"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 312,
+    "pageEnd": 351,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "importance": [],
+    "createdAt": "2025-12-11T06:24:46.443Z",
+    "updatedAt": "2026-07-22T19:04:25.123Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e78e7083c56c30ea18bf",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "6945431fda7f0b76db409bb2",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a5557d1de792895072215",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 40,
+    "pageSliceVersion": 1,
+    "slug": "fluid-mechanics",
+    "seo": {
+      "titleTag": "Fluid Mechanics - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Fluid Mechanics - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Fluid Mechanics - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Fluid Mechanics from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Fluid Mechanics from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Fluid Mechanics from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69439ed2f79acc304dcdbf3f",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 9
+      }
+    ],
+    "pyqQuestions": 9,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69439ed2f79acc304dcdbf3f"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a6401edd78a06034e33cb",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 16,
+    "title": "Thermal Properties of Matter",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69439f97502d7cfc82176fa7",
+        "numberOfQuestions": 4,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b77a9d7d9ba982cac8e0d"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 352,
+    "pageEnd": 370,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 16,
+    "importance": [],
+    "createdAt": "2025-12-11T06:26:09.735Z",
+    "updatedAt": "2026-07-22T19:04:26.989Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e79ea134aa053d5a47ec",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "6945440d9537319e1ec39427",
+        "numberOfQuestions": 33
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a5605f1e45642da2cb69d",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 19,
+    "pageSliceVersion": 1,
+    "slug": "thermal-properties-of-matter",
+    "seo": {
+      "titleTag": "Thermal Properties of Matter - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Thermal Properties of Matter - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Thermal Properties of Matter - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Thermal Properties of Matter from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Thermal Properties of Matter from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Thermal Properties of Matter from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69439f97502d7cfc82176fa7",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 4
+      }
+    ],
+    "pyqQuestions": 4,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69439f97502d7cfc82176fa7"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a64531df45b9b5e40d9ad",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 17,
+    "title": "Heat Transfer",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943a045f44a010be7ffaa72",
+        "numberOfQuestions": 1,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b77d2ed42310f5866d4fc"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 371,
+    "pageEnd": 380,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 17,
+    "importance": [],
+    "createdAt": "2025-12-11T06:27:31.852Z",
+    "updatedAt": "2026-07-22T19:04:27.938Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e7abbf98dadbafe9cc27",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69454544b40ee50055a9ea25",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a56a6284300f57111ec40",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 10,
+    "pageSliceVersion": 1,
+    "slug": "heat-transfer",
+    "seo": {
+      "titleTag": "Heat Transfer - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Heat Transfer - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Heat Transfer - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Heat Transfer from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Heat Transfer from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Heat Transfer from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943a045f44a010be7ffaa72",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 1
+      }
+    ],
+    "pyqQuestions": 1,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943a045f44a010be7ffaa72"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a649548c7e702e2d3daaf",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 18,
+    "title": "KTG & Thermodynamics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943bd805a78670ed25158da",
+        "numberOfQuestions": 21,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b77de4de76fe94d481d92"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 381,
+    "pageEnd": 413,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 18,
+    "importance": [],
+    "createdAt": "2025-12-11T06:28:37.492Z",
+    "updatedAt": "2026-07-22T19:04:30.677Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e7bb03442e996755ec9d",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "6945329ea43d2d654f9f867f",
+        "numberOfQuestions": 120
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a5794f1e45642da2cb76e",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 33,
+    "pageSliceVersion": 1,
+    "slug": "ktg-thermodynamics",
+    "seo": {
+      "titleTag": "KTG & Thermodynamics - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "KTG & Thermodynamics - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "KTG & Thermodynamics - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read KTG & Thermodynamics from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read KTG & Thermodynamics from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read KTG & Thermodynamics from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943bd805a78670ed25158da",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 21
+      }
+    ],
+    "pyqQuestions": 21,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943bd805a78670ed25158da"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a64d8936266a9bd737c4b",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 19,
+    "title": "Simple Harmonic Motion",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943be4b21cf27946b5999a8",
+        "numberOfQuestions": 12,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b77f3c73105c8469861a2"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 414,
+    "pageEnd": 436,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 19,
+    "importance": [],
+    "createdAt": "2025-12-11T06:29:44.220Z",
+    "updatedAt": "2026-07-22T19:04:32.641Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e7cecbecb4ca77248246",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "69453579e7f0b2123361456c",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a5871f1e45642da2cb856",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 23,
+    "pageSliceVersion": 1,
+    "slug": "simple-harmonic-motion",
+    "seo": {
+      "titleTag": "Simple Harmonic Motion - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Simple Harmonic Motion - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Simple Harmonic Motion - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Simple Harmonic Motion from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Simple Harmonic Motion from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Simple Harmonic Motion from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943be4b21cf27946b5999a8",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 12
+      }
+    ],
+    "pyqQuestions": 12,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943be4b21cf27946b5999a8"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a651a8b5f3bf7f463f7b9",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 20,
+    "title": "Wave and Sound Motion",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943c209ef07631f5926248b",
+        "numberOfQuestions": 5,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b77ffd24f93e20faf2bf8"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 437,
+    "pageEnd": 465,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 20,
+    "importance": [],
+    "createdAt": "2025-12-11T06:30:50.965Z",
+    "updatedAt": "2026-07-22T19:04:34.859Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6940e7dcda7fbd5d9171d11c",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "694536c091f4df8b00baba10",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3a5920d1de792895072714",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 29,
+    "pageSliceVersion": 1,
+    "slug": "wave-and-sound-motion",
+    "seo": {
+      "titleTag": "Wave and Sound Motion - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Wave and Sound Motion - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Wave and Sound Motion - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Wave and Sound Motion from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Wave and Sound Motion from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Wave and Sound Motion from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943c209ef07631f5926248b",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 5
+      }
+    ],
+    "pyqQuestions": 5,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943c209ef07631f5926248b"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a65577776db76acf316bb",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 21,
+    "title": "Electrostatics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "694389605a78670ed2505607",
+        "numberOfQuestions": 12,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b781bfb30f7d477a54b26"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 466,
+    "pageEnd": 493,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 21,
+    "importance": [],
+    "createdAt": "2025-12-11T06:31:51.621Z",
+    "updatedAt": "2026-07-22T19:04:37.046Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "694385b5da7fbd5d917da97b",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c46ffa138f91bc4026c2b",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3b691fb679d4e95ddd1038",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 28,
+    "pageSliceVersion": 1,
+    "slug": "electrostatics",
+    "seo": {
+      "titleTag": "Electrostatics - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Electrostatics - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Electrostatics - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Electrostatics from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electrostatics from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electrostatics from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "694389605a78670ed2505607",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 12
+      }
+    ],
+    "pyqQuestions": 12,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "694389605a78670ed2505607"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a65d2f49a603e3bc39cd1",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 22,
+    "title": "Electric Potential",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943919b88142e0fe734f467",
+        "numberOfQuestions": 13,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b7826a015ecbc9aed448f"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 494,
+    "pageEnd": 515,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 22,
+    "importance": [],
+    "createdAt": "2025-12-11T06:33:54.521Z",
+    "updatedAt": "2026-07-22T19:04:38.477Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "694389b43e93ae25bb855bec",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c479da138f91bc4026c67",
+        "numberOfQuestions": 38
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3b69c82e227b1346cda3cd",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 18,
+    "pageSliceVersion": 1,
+    "slug": "electric-potential",
+    "seo": {
+      "titleTag": "Electric Potential - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Electric Potential - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Electric Potential - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Electric Potential from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electric Potential from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electric Potential from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943919b88142e0fe734f467",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 13
+      }
+    ],
+    "pyqQuestions": 13,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943919b88142e0fe734f467"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a661e2306d8a847b9e459",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 23,
+    "title": "Capacitor",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "694393cff44a010be7ff476e",
+        "numberOfQuestions": 10,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b78300d49217059697df2"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 516,
+    "pageEnd": 538,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 23,
+    "importance": [],
+    "createdAt": "2025-12-11T06:35:10.169Z",
+    "updatedAt": "2026-07-22T19:04:40.067Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "694391e3ca7458babf07908a",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c48310af05e895db3e887",
+        "numberOfQuestions": 22
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3b6a6cf85086230a35e651",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 20,
+    "pageSliceVersion": 1,
+    "slug": "capacitor",
+    "seo": {
+      "titleTag": "Capacitor - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Capacitor - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Capacitor - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Capacitor from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Capacitor from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Capacitor from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "694393cff44a010be7ff476e",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 10,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "694393cff44a010be7ff476e"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a66a29bc21d7d83985050",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 24,
+    "title": "Current Electricity",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "694394df5a78670ed25072aa",
+        "numberOfQuestions": 33,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b783a997d19f505ce3f74"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 539,
+    "pageEnd": 562,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 24,
+    "importance": [],
+    "createdAt": "2025-12-11T06:37:22.364Z",
+    "updatedAt": "2026-07-22T19:04:41.881Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "694394184ac3acab6e93a37e",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c48c07ff3c6271548ee93",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3b6bac2e227b1346cda5b2",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 25,
+    "pageSliceVersion": 1,
+    "slug": "current-electricity",
+    "seo": {
+      "titleTag": "Current Electricity - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Current Electricity - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Current Electricity - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Current Electricity from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Current Electricity from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Current Electricity from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "694394df5a78670ed25072aa",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 33
+      }
+    ],
+    "pyqQuestions": 33,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "694394df5a78670ed25072aa"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a66e7c90cc32dca14ace1",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 25,
+    "title": "Magnetic Effect of Electric Current",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69439659ef07631f5924c915",
+        "numberOfQuestions": 17,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b78446c4d00bd31da9777"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 563,
+    "pageEnd": 596,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 25,
+    "importance": [],
+    "createdAt": "2025-12-11T06:38:31.798Z",
+    "updatedAt": "2026-07-22T19:04:44.577Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69439529ca7458babf07a2cf",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c495514376705c0ac60fd",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3b6c6558587623019fdd5e",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 34,
+    "pageSliceVersion": 1,
+    "slug": "magnetic-effect-of-electric-current",
+    "seo": {
+      "titleTag": "Magnetic Effect of Electric Current - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Magnetic Effect of Electric Current - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Magnetic Effect of Electric Current - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Magnetic Effect of Electric Current from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Magnetic Effect of Electric Current from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Magnetic Effect of Electric Current from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69439659ef07631f5924c915",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 17
+      }
+    ],
+    "pyqQuestions": 17,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69439659ef07631f5924c915"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a6737a5ac66804d2480be",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 26,
+    "title": "Magnetism & Matter",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943978a88142e0fe7352a04",
+        "numberOfQuestions": 9,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b784ec73105c84698693d"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 597,
+    "pageEnd": 615,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 26,
+    "importance": [],
+    "createdAt": "2025-12-11T06:39:51.390Z",
+    "updatedAt": "2026-07-22T19:04:46.206Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "694396ca26b6b3231be5e4d7",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c541f7137f03d5fd7674d",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3b7314f85086230a360655",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 19,
+    "pageSliceVersion": 1,
+    "slug": "magnetism-matter",
+    "seo": {
+      "titleTag": "Magnetism & Matter - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Magnetism & Matter - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Magnetism & Matter - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Magnetism & Matter from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Magnetism & Matter from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Magnetism & Matter from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943978a88142e0fe7352a04",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 9
+      }
+    ],
+    "pyqQuestions": 9,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943978a88142e0fe7352a04"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a677942540768c4093a43",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 27,
+    "title": "Electromagnetic Induction",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69439b95c50bdbe0941f14f0",
+        "numberOfQuestions": 9,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b7859add86228af5dcee6"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 616,
+    "pageEnd": 637,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 27,
+    "importance": [],
+    "createdAt": "2025-12-11T06:40:57.019Z",
+    "updatedAt": "2026-07-22T19:04:47.923Z",
+    "__v": 0,
+    "isVideoEnabled": true,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6943991851613873b3736f44",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c883fcd01e33c43432f51",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3b73ebecb9afa88bd26c2b",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 22,
+    "pageSliceVersion": 1,
+    "slug": "electromagnetic-induction",
+    "seo": {
+      "titleTag": "Electromagnetic Induction - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Electromagnetic Induction - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Electromagnetic Induction - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Electromagnetic Induction from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electromagnetic Induction from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electromagnetic Induction from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69439b95c50bdbe0941f14f0",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 9
+      }
+    ],
+    "pyqQuestions": 9,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69439b95c50bdbe0941f14f0"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a67d1cd93ccd835111bfa",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 28,
+    "title": "Alternating Current",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69439caf0d25bee231dd535b",
+        "numberOfQuestions": 17,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b787ffb30f7d477a5536d"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 638,
+    "pageEnd": 661,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 28,
+    "importance": [],
+    "createdAt": "2025-12-11T06:42:25.562Z",
+    "updatedAt": "2026-07-22T19:04:50.042Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69439c08ecd9774c5884fcdb",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "697c88c02241e85e9f999565",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3b7551ddd0994be1a2963a",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 24,
+    "pageSliceVersion": 1,
+    "slug": "alternating-current",
+    "seo": {
+      "titleTag": "Alternating Current - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Alternating Current - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Alternating Current - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Alternating Current from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Alternating Current from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Alternating Current from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69439caf0d25bee231dd535b",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 17
+      }
+    ],
+    "pyqQuestions": 17,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69439caf0d25bee231dd535b"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a682c7776db76acf32a21",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 29,
+    "title": "Electromagnetic Wave",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69439e40502d7cfc82176f0c",
+        "numberOfQuestions": 16,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b788ada1940db421454fa"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 662,
+    "pageEnd": 671,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 29,
+    "importance": [],
+    "createdAt": "2025-12-11T06:43:56.328Z",
+    "updatedAt": "2026-07-22T19:04:50.875Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69439cf11cf5f6cebf20b02e",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "694544dfa43d2d654f9fbd16",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3b765cf85086230a361807",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 10,
+    "pageSliceVersion": 1,
+    "slug": "electromagnetic-wave",
+    "seo": {
+      "titleTag": "Electromagnetic Wave - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Electromagnetic Wave - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Electromagnetic Wave - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Electromagnetic Wave from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electromagnetic Wave from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electromagnetic Wave from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69439e40502d7cfc82176f0c",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 16
+      }
+    ],
+    "pyqQuestions": 16,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69439e40502d7cfc82176f0c"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a6872957e7296be0ae317",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 30,
+    "title": "Ray Optics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "69439f9021cf27946b58ce74",
+        "numberOfQuestions": 23,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b86656b855b2ec6cf65c3"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 672,
+    "pageEnd": 709,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 30,
+    "importance": [],
+    "createdAt": "2025-12-11T06:45:06.382Z",
+    "updatedAt": "2026-07-22T19:04:54.178Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69439e7bd03a0acf008abec0",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "6945454ffe5e38e6bb24754d",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3b803d52cc4fe9c94b3a2c",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 38,
+    "pageSliceVersion": 1,
+    "slug": "ray-optics",
+    "seo": {
+      "titleTag": "Ray Optics - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Ray Optics - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Ray Optics - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Ray Optics from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Ray Optics from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Ray Optics from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "69439f9021cf27946b58ce74",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 23
+      }
+    ],
+    "pyqQuestions": 23,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "69439f9021cf27946b58ce74"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a68e04ba8b3649dbc381f",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 31,
+    "title": "Wave Optics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943a09c93968c459300bac1",
+        "numberOfQuestions": 9,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b8673331dbc0127800923"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 710,
+    "pageEnd": 734,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 31,
+    "importance": [],
+    "createdAt": "2025-12-11T06:46:56.030Z",
+    "updatedAt": "2026-07-22T19:04:56.341Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69439ff6c9157a298b18fa85",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "694546f779b85394fb4e883a",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3b80e5b679d4e95ddd4ffc",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 25,
+    "pageSliceVersion": 1,
+    "slug": "wave-optics",
+    "seo": {
+      "titleTag": "Wave Optics - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Wave Optics - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Wave Optics - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Wave Optics from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Wave Optics from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Wave Optics from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943a09c93968c459300bac1",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 9
+      }
+    ],
+    "pyqQuestions": 9,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943a09c93968c459300bac1"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a692e41c105ddb0267663",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 32,
+    "title": "Dual Nature",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943a170ef07631f59252021",
+        "numberOfQuestions": 15,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b86d969b0cfc682f2df61"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 735,
+    "pageEnd": 757,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 32,
+    "importance": [],
+    "createdAt": "2025-12-11T06:48:14.227Z",
+    "updatedAt": "2026-07-22T19:04:58.095Z",
+    "__v": 0,
+    "isVideoEnabled": true,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6943a0d24b1e72a5a141ad7b",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "694547a8fe5e38e6bb247fd9",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3b8321ddd0994be1a2a6e9",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 23,
+    "pageSliceVersion": 1,
+    "slug": "dual-nature",
+    "seo": {
+      "titleTag": "Dual Nature - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Dual Nature - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Dual Nature - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Dual Nature from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Dual Nature from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Dual Nature from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943a170ef07631f59252021",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 15
+      }
+    ],
+    "pyqQuestions": 15,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943a170ef07631f59252021"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a6978299e96206edc8da2",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 33,
+    "title": "Atoms",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943adc2ef07631f59256987",
+        "numberOfQuestions": 10,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b867f4b6f92a6b5da99ec"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 758,
+    "pageEnd": 774,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 33,
+    "importance": [],
+    "createdAt": "2025-12-11T06:49:28.830Z",
+    "updatedAt": "2026-07-22T19:04:59.715Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6943a463a4d9331058ad0ea4",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "6945481379b85394fb4e891a",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3b83ed1f39df03221bf4ae",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 17,
+    "pageSliceVersion": 1,
+    "slug": "atoms",
+    "seo": {
+      "titleTag": "Atoms - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Atoms - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Atoms - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Atoms from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Atoms from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Atoms from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943adc2ef07631f59256987",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 10,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943adc2ef07631f59256987"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a69c2251bdcbddd5d3a03",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 34,
+    "title": "Nuclei",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943ae7193968c459300cdb8",
+        "numberOfQuestions": 12,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b86894b6f92a6b5da9ae1"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 775,
+    "pageEnd": 800,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 34,
+    "importance": [],
+    "createdAt": "2025-12-11T06:50:42.527Z",
+    "updatedAt": "2026-07-22T19:05:01.727Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6943a4730b614cfdbee6c984",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "694548a6da7f0b76db40a3f2",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3b84df5858762301a0a980",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 26,
+    "pageSliceVersion": 1,
+    "slug": "nuclei",
+    "seo": {
+      "titleTag": "Nuclei - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Nuclei - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Nuclei - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Nuclei from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Nuclei from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Nuclei from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943ae7193968c459300cdb8",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 12
+      }
+    ],
+    "pyqQuestions": 12,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943ae7193968c459300cdb8"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "693a6a1bedd78a06034e4739",
+    "bookId": "69391ef49dcd5b25c9eb875f",
+    "status": "ACTIVE",
+    "displayOrder": 35,
+    "title": "Semiconductor",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "6943af0a21cf27946b58e971",
+        "numberOfQuestions": 4,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6a3b8694d7d9ba982cadd6b3"
+      }
+    ],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pageStart": 801,
+    "pageEnd": 828,
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 35,
+    "importance": [],
+    "createdAt": "2025-12-11T06:52:11.779Z",
+    "updatedAt": "2026-07-22T19:05:03.942Z",
+    "__v": 0,
+    "isVideoEnabled": false,
+    "programChapterId": "6940e536bae66c13a790ceca",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6943a485333f3bc75e9a3630",
+    "customPracticeSet": [
+      {
+        "name": "Kattar NEET Practice Set",
+        "testId": "694549c7e7f0b212336169bf",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Quick Revision MCQ",
+        "testId": "6a3b8595f85086230a362dbb",
+        "numberOfQuestions": 10
+      }
+    ],
+    "totalPageCount": 28,
+    "pageSliceVersion": 1,
+    "slug": "semiconductor",
+    "seo": {
+      "titleTag": "Semiconductor - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "coverImageAltText": "Semiconductor - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "ogTitle": "Semiconductor - Physics Med Easy 2.0 (Digital Book) | PW Books",
+      "shortDescription": "Read Semiconductor from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Semiconductor from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Semiconductor from Physics Med Easy 2.0 (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38ed2ed8-0606-4bba-a02e-15fb006ca127.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [
+      {
+        "testId": "6943af0a21cf27946b58e971",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 4
+      }
+    ],
+    "pyqQuestions": 4,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [
+      "6943af0a21cf27946b58e971"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  }
+]

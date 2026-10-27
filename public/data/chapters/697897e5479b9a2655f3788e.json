@@ -1,0 +1,1298 @@
+[
+  {
+    "_id": "69789afdf6e324bebed9b4e0",
+    "bookId": "697897e5479b9a2655f3788e",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Solutions",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-27T11:01:17.325Z",
+    "updatedAt": "2026-07-22T19:34:40.980Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "69802f940271ec00cf0b85a8",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "6980349bac60b060f3d6beb0",
+        "numberOfQuestions": 97
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "6980328f5eba21331dc85a55",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "69803149a1290375f3a5736f",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698035b67ff3c627154cedff",
+        "numberOfQuestions": 21
+      }
+    ],
+    "programChapterId": "697c77449014e1399a1768c6",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "697c776abbbceb42efe69a9d",
+    "totalPageCount": 51,
+    "pageSliceVersion": 1,
+    "slug": "solutions",
+    "seo": {
+      "titleTag": "Solutions - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Solutions - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Solutions - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Solutions from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Solutions from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Solutions from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8f654049-1b3c-4513-9210-d8c600c4d017.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6979a01b0690f0fb6f25cc81",
+    "bookId": "697897e5479b9a2655f3788e",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Electrochemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-28T05:35:23.614Z",
+    "updatedAt": "2026-07-22T19:34:43.642Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "6980399f10bf2ebcaf840397",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "69805afa0271ec00cf0bd1fd",
+        "numberOfQuestions": 110
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "69805a11b1d65d66b90bf33f",
+        "numberOfQuestions": 36
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "6980592c74ddd895d7387ce4",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "6980661f7ff3c627154d5ece",
+        "numberOfQuestions": 23
+      }
+    ],
+    "programChapterId": "697c77449014e1399a1768c6",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "697c777bb2457d9f266dc40c",
+    "totalPageCount": 48,
+    "pageSliceVersion": 1,
+    "slug": "electrochemistry",
+    "seo": {
+      "titleTag": "Electrochemistry - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Electrochemistry - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Electrochemistry - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Electrochemistry from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electrochemistry from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electrochemistry from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8f654049-1b3c-4513-9210-d8c600c4d017.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6979ce646ed1ebe4afcebccc",
+    "bookId": "697897e5479b9a2655f3788e",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Chemical Kinetics",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-28T08:52:52.583Z",
+    "updatedAt": "2026-07-22T19:34:45.930Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "69807ffb10bf2ebcaf848c38",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698082005eba21331dca47a6",
+        "numberOfQuestions": 74
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "6980811974ddd895d7394a4f",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "6980809d5eba21331dca410c",
+        "numberOfQuestions": 34
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "6980828f74ddd895d739b166",
+        "numberOfQuestions": 27
+      }
+    ],
+    "programChapterId": "697c77449014e1399a1768c6",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "697c77e2c26f392e907cf779",
+    "totalPageCount": 51,
+    "pageSliceVersion": 1,
+    "slug": "chemical-kinetics",
+    "seo": {
+      "titleTag": "Chemical Kinetics - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Chemical Kinetics - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Chemical Kinetics - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Chemical Kinetics from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Kinetics from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Kinetics from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8f654049-1b3c-4513-9210-d8c600c4d017.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "697b24e519945793b035750f",
+    "bookId": "697897e5479b9a2655f3788e",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Haloalkanes and Haloarenes",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-29T09:14:13.033Z",
+    "updatedAt": "2026-07-22T19:34:49.147Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698084986352dbd6d8350e8f",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698089a706a45d327e053993",
+        "numberOfQuestions": 93
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698085a8a1290375f3a8471a",
+        "numberOfQuestions": 22
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698085216352dbd6d83572dd",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "69808a2310bf2ebcaf84a3be",
+        "numberOfQuestions": 11
+      }
+    ],
+    "programChapterId": "697c77449014e1399a1768c6",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "697c77f3c5479ab7e653d390",
+    "totalPageCount": 73,
+    "pageSliceVersion": 1,
+    "slug": "haloalkanes-and-haloarenes",
+    "seo": {
+      "titleTag": "Haloalkanes and Haloarenes - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Haloalkanes and Haloarenes - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Haloalkanes and Haloarenes - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Haloalkanes and Haloarenes from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Haloalkanes and Haloarenes from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Haloalkanes and Haloarenes from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8f654049-1b3c-4513-9210-d8c600c4d017.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "697c4b0b767aa12653d3967b",
+    "bookId": "697897e5479b9a2655f3788e",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Alcohols, Phenols and Ethers",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-30T06:09:15.778Z",
+    "updatedAt": "2026-07-22T19:34:51.790Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "6980932374ddd895d73ec98f",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698094fa10bf2ebcaf84b93c",
+        "numberOfQuestions": 80
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "6980942e10bf2ebcaf84b852",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698093a3a1290375f3ac2c19",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698097f4a1290375f3b0a8ee",
+        "numberOfQuestions": 18
+      }
+    ],
+    "programChapterId": "697c77449014e1399a1768c6",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "697c7838ddb2a6b166ca1e69",
+    "totalPageCount": 60,
+    "pageSliceVersion": 1,
+    "slug": "alcohols-phenols-and-ethers",
+    "seo": {
+      "titleTag": "Alcohols, Phenols and Ethers - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Alcohols, Phenols and Ethers - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Alcohols, Phenols and Ethers - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Alcohols, Phenols and Ethers from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Alcohols, Phenols and Ethers from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Alcohols, Phenols and Ethers from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8f654049-1b3c-4513-9210-d8c600c4d017.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "697c85f156d909d41cd2d485",
+    "bookId": "697897e5479b9a2655f3788e",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Aldehydes, Ketones and Carboxylic Acids",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-30T10:20:33.191Z",
+    "updatedAt": "2026-07-22T19:34:55.155Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698098d25eba21331dd35f80",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "69809a9910bf2ebcaf84c709",
+        "numberOfQuestions": 113
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "69809a00af0718f9ab4e5239",
+        "numberOfQuestions": 35
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "6980995a10bf2ebcaf84be94",
+        "numberOfQuestions": 34
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "69809aff5eba21331dd46362",
+        "numberOfQuestions": 28
+      }
+    ],
+    "programChapterId": "697c77449014e1399a1768c6",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "697c7849e40dbed0e50f519f",
+    "totalPageCount": 59,
+    "pageSliceVersion": 1,
+    "slug": "aldehydes-ketones-and-carboxylic-acids",
+    "seo": {
+      "titleTag": "Aldehydes, Ketones and Carboxylic Acids - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Aldehydes, Ketones and Carboxylic Acids - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Aldehydes, Ketones and Carboxylic Acids - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Aldehydes, Ketones and Carboxylic Acids from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Aldehydes, Ketones and Carboxylic Acids from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Aldehydes, Ketones and Carboxylic Acids from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8f654049-1b3c-4513-9210-d8c600c4d017.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "697cdbd56505ccc80968d336",
+    "bookId": "697897e5479b9a2655f3788e",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Amines",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-30T16:27:01.270Z",
+    "updatedAt": "2026-07-22T19:34:56.750Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "69809c847ff3c627154e3458",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "69809e92a1290375f3b4a0bd",
+        "numberOfQuestions": 79
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "69809e00af0718f9ab4e55ae",
+        "numberOfQuestions": 25
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "69809d48af0718f9ab4e54f8",
+        "numberOfQuestions": 32
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "69809efeb1d65d66b90d1be7",
+        "numberOfQuestions": 18
+      }
+    ],
+    "programChapterId": "697c77449014e1399a1768c6",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "697c785c7da43f188c6b683a",
+    "totalPageCount": 32,
+    "pageSliceVersion": 1,
+    "slug": "amines",
+    "seo": {
+      "titleTag": "Amines - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Amines - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Amines - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Amines from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Amines from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Amines from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8f654049-1b3c-4513-9210-d8c600c4d017.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "697dbd2c0eaee7b062357a7f",
+    "bookId": "697897e5479b9a2655f3788e",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Biomolecules",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-31T08:28:28.022Z",
+    "updatedAt": "2026-07-22T19:34:59.263Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "6980a2656352dbd6d844ea9f",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "6980a9216352dbd6d849195b",
+        "numberOfQuestions": 61
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "6980a63f10bf2ebcaf84ddb7",
+        "numberOfQuestions": 25
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "6980a32906a45d327e15a528",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "6980a9fc0271ec00cf0cd8be",
+        "numberOfQuestions": 19
+      }
+    ],
+    "programChapterId": "697c77449014e1399a1768c6",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "697c78899014e1399a176ff5",
+    "totalPageCount": 49,
+    "pageSliceVersion": 1,
+    "slug": "biomolecules",
+    "seo": {
+      "titleTag": "Biomolecules - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Biomolecules - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Biomolecules - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Biomolecules from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biomolecules from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biomolecules from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8f654049-1b3c-4513-9210-d8c600c4d017.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "697b26112803e9e0c7066250",
+    "bookId": "697897e5479b9a2655f3788e",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Coordination Compound",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-29T09:19:13.061Z",
+    "updatedAt": "2026-07-22T19:35:02.490Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698173f81ed374a1186eeddc",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698175a3d81c58afc5406100",
+        "numberOfQuestions": 99
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "6981750d36916b4ff18fd33f",
+        "numberOfQuestions": 35
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "69817487787b30a7efe10780",
+        "numberOfQuestions": 28
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "6981765e7ff3c627154e8ddc",
+        "numberOfQuestions": 25
+      }
+    ],
+    "programChapterId": "697c77449014e1399a1768c6",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "697c78ac3c6bd1db00e35400",
+    "totalPageCount": 67,
+    "pageSliceVersion": 1,
+    "slug": "coordination-compound",
+    "seo": {
+      "titleTag": "Coordination Compound - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Coordination Compound - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Coordination Compound - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Coordination Compound from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Coordination Compound from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Coordination Compound from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8f654049-1b3c-4513-9210-d8c600c4d017.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "697b43ed19945793b0360532",
+    "bookId": "697897e5479b9a2655f3788e",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "The p-Block Elements (XII) (Group 15, 16, 17, 18)",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-29T11:26:37.559Z",
+    "updatedAt": "2026-07-22T19:35:04.463Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "6981770d787b30a7efe1089f",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698178737621ea7b9da6b82b",
+        "numberOfQuestions": 73
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698177fd36916b4ff18fd73f",
+        "numberOfQuestions": 24
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "6981777dca342353575421ca",
+        "numberOfQuestions": 24
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698178f9e8bc6b2974e9a786",
+        "numberOfQuestions": 22
+      }
+    ],
+    "programChapterId": "697c77449014e1399a1768c6",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "697c78bc516927b3c1e73dbb",
+    "totalPageCount": 51,
+    "pageSliceVersion": 1,
+    "slug": "the-p-block-elements-xii-group-15-16-17-18",
+    "seo": {
+      "titleTag": "The p-Block Elements (XII) (Group 15, 16, 17, 18) - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "The p-Block Elements (XII) (Group 15, 16, 17, 18) - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "The p-Block Elements (XII) (Group 15, 16, 17, 18) - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read The p-Block Elements (XII) (Group 15, 16, 17, 18) from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The p-Block Elements (XII) (Group 15, 16, 17, 18) from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The p-Block Elements (XII) (Group 15, 16, 17, 18) from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8f654049-1b3c-4513-9210-d8c600c4d017.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "697b5f1028ff47ba1353f3da",
+    "bookId": "697897e5479b9a2655f3788e",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "The d and f-Block Elements",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-29T13:22:24.915Z",
+    "updatedAt": "2026-07-22T19:35:06.820Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "69817b5e36916b4ff18fdd6a",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "69817cd9e8bc6b2974e9acea",
+        "numberOfQuestions": 115
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "69817c7828cd487767474b56",
+        "numberOfQuestions": 24
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "69817bdae8bc6b2974e9ab9f",
+        "numberOfQuestions": 32
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "69817d707621ea7b9da6bea7",
+        "numberOfQuestions": 22
+      }
+    ],
+    "programChapterId": "697c77449014e1399a1768c6",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "697c78dc0e808e84e62b1d27",
+    "totalPageCount": 52,
+    "pageSliceVersion": 1,
+    "slug": "the-d-and-f-block-elements",
+    "seo": {
+      "titleTag": "The d and f-Block Elements - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "The d and f-Block Elements - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "The d and f-Block Elements - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read The d and f-Block Elements from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The d and f-Block Elements from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The d and f-Block Elements from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8f654049-1b3c-4513-9210-d8c600c4d017.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "697c7289226e6c48e20e3892",
+    "bookId": "697897e5479b9a2655f3788e",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Practical Chemistry",
+    "noOfSections": "1",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-30T08:57:45.958Z",
+    "updatedAt": "2026-07-22T19:35:09.156Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "69817f2e7621ea7b9da6c234",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "6981809bca34235357548db3",
+        "numberOfQuestions": 46
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "69818003d81c58afc5406692",
+        "numberOfQuestions": 25
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "69817f8f28cd487767474be0",
+        "numberOfQuestions": 22
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "69818111787b30a7efe10c4f",
+        "numberOfQuestions": 2
+      }
+    ],
+    "programChapterId": "697c77449014e1399a1768c6",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "697c78eb11ecb762947f53b6",
+    "totalPageCount": 59,
+    "pageSliceVersion": 1,
+    "slug": "practical-chemistry",
+    "seo": {
+      "titleTag": "Practical Chemistry - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "coverImageAltText": "Practical Chemistry - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "ogTitle": "Practical Chemistry - Lakshya NEET Chemistry (Digital Module) | PW Books",
+      "shortDescription": "Read Practical Chemistry from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Practical Chemistry from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Practical Chemistry from Lakshya NEET Chemistry (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8f654049-1b3c-4513-9210-d8c600c4d017.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  }
+]

@@ -1,0 +1,1576 @@
+[
+  {
+    "_id": "68358c6cbf9810593d044db7",
+    "bookId": "682bf652042db2abc7792d77",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Sets",
+    "noOfSections": "15",
+    "subject": "60d0fe4f5311236168a109cc",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ffc76880-81e4-4add-9a79-df55d70d793b.zip",
+      "_id": "68c7c821db72343bd3fa12e8"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "68861159997522fb0b9b665e",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf1309bb254c5da198fd"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "68496bc93372f20ed9431e52",
+        "numberOfQuestions": 15,
+        "_id": "691edf1309bb254c5da198fc"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf1309bb254c5da198fb"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68b2ee8b1a5b75492fca6715",
+        "numberOfQuestions": 25,
+        "_id": "691edf1309bb254c5da198fa"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf47177818c0ed5b645a",
+    "programTopicId": "68496b778b6c1e39ae9e8690",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:40:05.352Z",
+    "updatedAt": "2025-11-20T09:27:47.711Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 22.51,
+    "pageStart": 0.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "sets",
+    "seo": {
+      "titleTag": "Sets - Mathematics (Class XI) | PW Books",
+      "coverImageAltText": "Sets - Mathematics (Class XI) | PW Books",
+      "ogTitle": "Sets - Mathematics (Class XI) | PW Books",
+      "shortDescription": "Read Sets from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Sets from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Sets from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e0aa7862-c5e8-4582-825b-f112ad207cae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68861159997522fb0b9b665e",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "68496bc93372f20ed9431e52",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "68496bc93372f20ed9431e52",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68861159997522fb0b9b665e",
+      "68496bc93372f20ed9431e52",
+      "60d0fe4f5311236168a109cb"
+    ]
+  },
+  {
+    "_id": "68358c6cbf9810593d044dbd",
+    "bookId": "682bf652042db2abc7792d77",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Relations and Functions",
+    "noOfSections": "15",
+    "subject": "60d0fe4f5311236168a109cc",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/455b8d89-6555-4646-abe0-d5e4b8bc20a2.zip",
+      "_id": "68c7c82a9c63f604667388a8"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "6886144861dd7a843ed7003c",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "69394e4b4a816b5471f03581"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "68497160b9aec3b47cb8923c",
+        "numberOfQuestions": 15,
+        "_id": "69394e4b4a816b5471f03580"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "69394e4b4a816b5471f0357f"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68b2ef97eadcf521b1866ab4",
+        "numberOfQuestions": 25,
+        "_id": "69394e4b4a816b5471f0357e"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "6711f8b687f4b476962d7cbb",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf47177818c0ed5b645a",
+    "programTopicId": "684970d2a504a6cee5df0d6f",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:40:15.182Z",
+    "updatedAt": "2025-12-10T10:41:15.047Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 41.51,
+    "pageStart": 23.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "relations-and-functions",
+    "seo": {
+      "titleTag": "Relations and Functions - Mathematics (Class XI) | PW Books",
+      "coverImageAltText": "Relations and Functions - Mathematics (Class XI) | PW Books",
+      "ogTitle": "Relations and Functions - Mathematics (Class XI) | PW Books",
+      "shortDescription": "Read Relations and Functions from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Relations and Functions from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Relations and Functions from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e0aa7862-c5e8-4582-825b-f112ad207cae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6886144861dd7a843ed7003c",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "68497160b9aec3b47cb8923c",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "68497160b9aec3b47cb8923c",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6886144861dd7a843ed7003c",
+      "68497160b9aec3b47cb8923c",
+      "60d0fe4f5311236168a109cb"
+    ]
+  },
+  {
+    "_id": "68358c6cbf9810593d044dc4",
+    "bookId": "682bf652042db2abc7792d77",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Trigonometric Functions",
+    "noOfSections": "15",
+    "subject": "60d0fe4f5311236168a109cc",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7f259e1d-f4c8-44a4-93f0-ad698497c2d0.zip",
+      "_id": "68c3a588aefea64f3c940866"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "688615f0afdfe85db21a4782",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6982f3f61d35ad9df757ea89"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684976dd4894afbcc24dfd5d",
+        "numberOfQuestions": 15,
+        "_id": "6982f3f61d35ad9df757ea88"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "6982f3f61d35ad9df757ea87"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68d176bfdba00ed3b24baf2f",
+        "numberOfQuestions": 25,
+        "_id": "6982f3f61d35ad9df757ea86"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "695ce6d1b8a4be0a001cf93b",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf47177818c0ed5b645a",
+    "programTopicId": "68497696ff2467b0de074e2d",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:40:23.177Z",
+    "updatedAt": "2026-02-04T07:23:34.073Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 74.51,
+    "pageStart": 42.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": false,
+    "isAiExplanationEnabled": true,
+    "slug": "trigonometric-functions",
+    "seo": {
+      "titleTag": "Trigonometric Functions - Mathematics (Class XI) | PW Books",
+      "coverImageAltText": "Trigonometric Functions - Mathematics (Class XI) | PW Books",
+      "ogTitle": "Trigonometric Functions - Mathematics (Class XI) | PW Books",
+      "shortDescription": "Read Trigonometric Functions from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Trigonometric Functions from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Trigonometric Functions from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e0aa7862-c5e8-4582-825b-f112ad207cae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688615f0afdfe85db21a4782",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "684976dd4894afbcc24dfd5d",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684976dd4894afbcc24dfd5d",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688615f0afdfe85db21a4782",
+      "684976dd4894afbcc24dfd5d",
+      "60d0fe4f5311236168a109cb"
+    ]
+  },
+  {
+    "_id": "68358c6cbf9810593d044dca",
+    "bookId": "682bf652042db2abc7792d77",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Complex Numbers and Quadratic Equations",
+    "noOfSections": "15",
+    "subject": "60d0fe4f5311236168a109cc",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7d011bee-e09d-4320-bb4c-ea6a8fecbe26.zip",
+      "_id": "68c7c837c6b939aad0dc466b"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>dummy importance</p>\n</body>\n</html>",
+        "exams": "IIT-JEE",
+        "graphs": []
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688616f8794c4910213f2556",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf154fdc0e50452a24a6"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684979675768717252005526",
+        "numberOfQuestions": 15,
+        "_id": "691edf154fdc0e50452a24a5"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf154fdc0e50452a24a4"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6864f9ea308a20bac3a27b93",
+        "numberOfQuestions": 25,
+        "_id": "691edf154fdc0e50452a24a3"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf47177818c0ed5b645a",
+    "programTopicId": "6849791ad3ac6490fc9c3d92",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:40:31.598Z",
+    "updatedAt": "2025-11-20T09:27:49.523Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 87.51,
+    "pageStart": 75.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "complex-numbers-and-quadratic-equations",
+    "seo": {
+      "titleTag": "Complex Numbers and Quadratic Equations - Mathematics (Class XI) | PW Books",
+      "coverImageAltText": "Complex Numbers and Quadratic Equations - Mathematics (Class XI) | PW Books",
+      "ogTitle": "Complex Numbers and Quadratic Equations - Mathematics (Class XI) | PW Books",
+      "shortDescription": "Read Complex Numbers and Quadratic Equations from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Complex Numbers and Quadratic Equations from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Complex Numbers and Quadratic Equations from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e0aa7862-c5e8-4582-825b-f112ad207cae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688616f8794c4910213f2556",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "684979675768717252005526",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684979675768717252005526",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688616f8794c4910213f2556",
+      "684979675768717252005526",
+      "60d0fe4f5311236168a109cb"
+    ]
+  },
+  {
+    "_id": "68358c6c572bc9475e18e8fe",
+    "bookId": "682bf652042db2abc7792d77",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Linear Inequalities",
+    "noOfSections": "15",
+    "subject": "60d0fe4f5311236168a109cc",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/dd3530cd-cdbf-4c48-953a-23b413c0bf51.zip",
+      "_id": "68c3a5bc62e5e63ec361edcb"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "688618b8997522fb0b9b673a",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf16787158dc79064bea"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "68497be72f9510e9d8bff7e7",
+        "numberOfQuestions": 15,
+        "_id": "691edf16787158dc79064be9"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf16787158dc79064be8"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6864fb8b500a2b219f046adb",
+        "numberOfQuestions": 25,
+        "_id": "691edf16787158dc79064be7"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf47177818c0ed5b645a",
+    "programTopicId": "68497ba34a67b6b9494ac298",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:40:34.837Z",
+    "updatedAt": "2025-11-20T09:27:50.507Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 98.51,
+    "pageStart": 88.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "linear-inequalities",
+    "seo": {
+      "titleTag": "Linear Inequalities - Mathematics (Class XI) | PW Books",
+      "coverImageAltText": "Linear Inequalities - Mathematics (Class XI) | PW Books",
+      "ogTitle": "Linear Inequalities - Mathematics (Class XI) | PW Books",
+      "shortDescription": "Read Linear Inequalities from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Linear Inequalities from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Linear Inequalities from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e0aa7862-c5e8-4582-825b-f112ad207cae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688618b8997522fb0b9b673a",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "68497be72f9510e9d8bff7e7",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "68497be72f9510e9d8bff7e7",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688618b8997522fb0b9b673a",
+      "68497be72f9510e9d8bff7e7",
+      "60d0fe4f5311236168a109cb"
+    ]
+  },
+  {
+    "_id": "68358c6c572bc9475e18e904",
+    "bookId": "682bf652042db2abc7792d77",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Permutations and Combinations",
+    "noOfSections": "15",
+    "subject": "60d0fe4f5311236168a109cc",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9f8c4efa-a636-4f1d-b178-0b808b77f07d.zip",
+      "_id": "68c3a7223d26959e456254ec"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "688619afebf79f35d6863d8e",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "69394e588357f8c1972a22a3"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "68497e3d69980e1300f6f26e",
+        "numberOfQuestions": 15,
+        "_id": "69394e588357f8c1972a22a2"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "69394e588357f8c1972a22a1"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6864fc12308a20bac3a27ca7",
+        "numberOfQuestions": 25,
+        "_id": "69394e588357f8c1972a22a0"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "6711f8b687f4b476962d7cbb",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf47177818c0ed5b645a",
+    "programTopicId": "68497de9565058e96d9e5b96",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:40:39.030Z",
+    "updatedAt": "2025-12-10T10:41:28.585Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 124.51,
+    "pageStart": 99.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 6,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "permutations-and-combinations",
+    "seo": {
+      "titleTag": "Permutations and Combinations - Mathematics (Class XI) | PW Books",
+      "coverImageAltText": "Permutations and Combinations - Mathematics (Class XI) | PW Books",
+      "ogTitle": "Permutations and Combinations - Mathematics (Class XI) | PW Books",
+      "shortDescription": "Read Permutations and Combinations from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Permutations and Combinations from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Permutations and Combinations from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e0aa7862-c5e8-4582-825b-f112ad207cae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688619afebf79f35d6863d8e",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "68497e3d69980e1300f6f26e",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "68497e3d69980e1300f6f26e",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688619afebf79f35d6863d8e",
+      "68497e3d69980e1300f6f26e",
+      "60d0fe4f5311236168a109cb"
+    ]
+  },
+  {
+    "_id": "68358c6c572bc9475e18e90b",
+    "bookId": "682bf652042db2abc7792d77",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Binomial Theorem",
+    "noOfSections": "15",
+    "subject": "60d0fe4f5311236168a109cc",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f89280e5-9454-4b19-a215-7393260541ca.zip",
+      "_id": "68c7c842b4417e7c1d780c46"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "68861b5f997522fb0b9b67c0",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf154fdc0e50452a24ae"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "6849823d4894afbcc24e38fd",
+        "numberOfQuestions": 15,
+        "_id": "691edf154fdc0e50452a24ad"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf154fdc0e50452a24ac"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68b2f0a3d8229a21991b60d4",
+        "numberOfQuestions": 25,
+        "_id": "691edf154fdc0e50452a24ab"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf47177818c0ed5b645a",
+    "programTopicId": "684981eb7f3905aee5c460fd",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:40:43.390Z",
+    "updatedAt": "2025-11-20T09:27:49.898Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 133.51,
+    "pageStart": 125.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 7,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "binomial-theorem",
+    "seo": {
+      "titleTag": "Binomial Theorem - Mathematics (Class XI) | PW Books",
+      "coverImageAltText": "Binomial Theorem - Mathematics (Class XI) | PW Books",
+      "ogTitle": "Binomial Theorem - Mathematics (Class XI) | PW Books",
+      "shortDescription": "Read Binomial Theorem from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Binomial Theorem from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Binomial Theorem from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e0aa7862-c5e8-4582-825b-f112ad207cae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68861b5f997522fb0b9b67c0",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "6849823d4894afbcc24e38fd",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "6849823d4894afbcc24e38fd",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68861b5f997522fb0b9b67c0",
+      "6849823d4894afbcc24e38fd",
+      "60d0fe4f5311236168a109cb"
+    ]
+  },
+  {
+    "_id": "68358c6c572bc9475e18e911",
+    "bookId": "682bf652042db2abc7792d77",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Sequences and Series",
+    "noOfSections": "15",
+    "subject": "60d0fe4f5311236168a109cc",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/eba1aafc-6c43-4eda-8d34-13f8ceba305a.zip",
+      "_id": "68c7c84d9c63f60466738b32"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "68862736bc32b56575dbc28d",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "69394e82a12db2f909ac5747"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "68498455d35fb6e8e29ed7da",
+        "numberOfQuestions": 15,
+        "_id": "69394e82a12db2f909ac5746"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "69394e82a12db2f909ac5745"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68b2f13991da647c7d36387f",
+        "numberOfQuestions": 25,
+        "_id": "69394e82a12db2f909ac5744"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "6711f8b687f4b476962d7cbb",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf47177818c0ed5b645a",
+    "programTopicId": "684983b902c071e8a874ae02",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:40:45.823Z",
+    "updatedAt": "2025-12-10T10:42:10.932Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 149.51,
+    "pageStart": 134.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 8,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "sequences-and-series",
+    "seo": {
+      "titleTag": "Sequences and Series - Mathematics (Class XI) | PW Books",
+      "coverImageAltText": "Sequences and Series - Mathematics (Class XI) | PW Books",
+      "ogTitle": "Sequences and Series - Mathematics (Class XI) | PW Books",
+      "shortDescription": "Read Sequences and Series from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Sequences and Series from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Sequences and Series from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e0aa7862-c5e8-4582-825b-f112ad207cae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68862736bc32b56575dbc28d",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "68498455d35fb6e8e29ed7da",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "68498455d35fb6e8e29ed7da",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68862736bc32b56575dbc28d",
+      "68498455d35fb6e8e29ed7da",
+      "60d0fe4f5311236168a109cb"
+    ]
+  },
+  {
+    "_id": "68358c6c572bc9475e18e918",
+    "bookId": "682bf652042db2abc7792d77",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Straight Lines",
+    "noOfSections": "15",
+    "subject": "60d0fe4f5311236168a109cc",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5326fb8a-cf86-4a60-aef8-52eb199eddf7.zip",
+      "_id": "68c7c8568071de0e5c18f16a"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "68861e9f231f2ca23add1040",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf15c2fbc01f42145af0"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684987772f9510e9d8c01b3b",
+        "numberOfQuestions": 15,
+        "_id": "691edf15c2fbc01f42145aef"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf15c2fbc01f42145aee"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68b2f220298bd4bb581b68b4",
+        "numberOfQuestions": 25,
+        "_id": "691edf15c2fbc01f42145aed"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf47177818c0ed5b645a",
+    "programTopicId": "68498731a2750e0598efbadb",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:40:49.952Z",
+    "updatedAt": "2025-11-20T09:27:49.356Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 174.51,
+    "pageStart": 150.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 9,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "straight-lines",
+    "seo": {
+      "titleTag": "Straight Lines - Mathematics (Class XI) | PW Books",
+      "coverImageAltText": "Straight Lines - Mathematics (Class XI) | PW Books",
+      "ogTitle": "Straight Lines - Mathematics (Class XI) | PW Books",
+      "shortDescription": "Read Straight Lines from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Straight Lines from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Straight Lines from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e0aa7862-c5e8-4582-825b-f112ad207cae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68861e9f231f2ca23add1040",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "684987772f9510e9d8c01b3b",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684987772f9510e9d8c01b3b",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68861e9f231f2ca23add1040",
+      "684987772f9510e9d8c01b3b",
+      "60d0fe4f5311236168a109cb"
+    ]
+  },
+  {
+    "_id": "68358c6c572bc9475e18e91e",
+    "bookId": "682bf652042db2abc7792d77",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Conic Sections",
+    "noOfSections": "15",
+    "subject": "60d0fe4f5311236168a109cc",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6d5b33d9-2c79-466b-a2cd-3bfcd65d470e.zip",
+      "_id": "68c7c85e835ba6cdc3841901"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "68862276ebf79f35d68640b5",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf16b57365fd3c629e42"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684a618a2c758e707c1b4d20",
+        "numberOfQuestions": 15,
+        "_id": "691edf16b57365fd3c629e41"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf16b57365fd3c629e40"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68b2f2e680deae89cbcf48a3",
+        "numberOfQuestions": 25,
+        "_id": "691edf16b57365fd3c629e3f"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf47177818c0ed5b645a",
+    "programTopicId": "684a608566781dab70995aca",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:40:56.004Z",
+    "updatedAt": "2025-11-20T09:27:50.498Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 206.51,
+    "pageStart": 175.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 10,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "conic-sections",
+    "seo": {
+      "titleTag": "Conic Sections - Mathematics (Class XI) | PW Books",
+      "coverImageAltText": "Conic Sections - Mathematics (Class XI) | PW Books",
+      "ogTitle": "Conic Sections - Mathematics (Class XI) | PW Books",
+      "shortDescription": "Read Conic Sections from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Conic Sections from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Conic Sections from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e0aa7862-c5e8-4582-825b-f112ad207cae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68862276ebf79f35d68640b5",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "684a618a2c758e707c1b4d20",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684a618a2c758e707c1b4d20",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68862276ebf79f35d68640b5",
+      "684a618a2c758e707c1b4d20",
+      "60d0fe4f5311236168a109cb"
+    ]
+  },
+  {
+    "_id": "68358c6cbf9810593d044dd1",
+    "bookId": "682bf652042db2abc7792d77",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Introduction to Three Dimensinal Geometry",
+    "noOfSections": "15",
+    "subject": "60d0fe4f5311236168a109cc",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5a23e378-75e1-4411-9784-4e3d666dfc94.zip",
+      "_id": "68c3a65462e5e63ec361fb48"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf14787158dc79064bd3"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684a6bc449f20cb4796a9664",
+        "numberOfQuestions": 15,
+        "_id": "691edf14787158dc79064bd2"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf14787158dc79064bd1"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "686003d80d7f9abcf0228e7d",
+        "numberOfQuestions": 25,
+        "_id": "691edf14787158dc79064bd0"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf47177818c0ed5b645a",
+    "programTopicId": "684a6285264652a61415edee",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:41:06.635Z",
+    "updatedAt": "2025-11-20T09:27:48.986Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 215.51,
+    "pageStart": 207.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 11,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "introduction-to-three-dimensinal-geometry",
+    "seo": {
+      "titleTag": "Introduction to Three Dimensinal Geometry - Mathematics (Class XI) | PW Books",
+      "coverImageAltText": "Introduction to Three Dimensinal Geometry - Mathematics (Class XI) | PW Books",
+      "ogTitle": "Introduction to Three Dimensinal Geometry - Mathematics (Class XI) | PW Books",
+      "shortDescription": "Read Introduction to Three Dimensinal Geometry from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Introduction to Three Dimensinal Geometry from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Introduction to Three Dimensinal Geometry from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e0aa7862-c5e8-4582-825b-f112ad207cae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "684a6bc449f20cb4796a9664",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684a6bc449f20cb4796a9664",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb",
+      "684a6bc449f20cb4796a9664"
+    ]
+  },
+  {
+    "_id": "68358c6cbf9810593d044dd7",
+    "bookId": "682bf652042db2abc7792d77",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Limits and Derivatives",
+    "noOfSections": "15",
+    "subject": "60d0fe4f5311236168a109cc",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/87f65874-8ba0-47f6-ae44-f0547bb8d27b.zip",
+      "_id": "68c7c8de805376273f8baeb8"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "688650b2555daff4075d806d",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "69394e90b7a83c0310445dbf"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684a6d8749f20cb4796a99d5",
+        "numberOfQuestions": 15,
+        "_id": "69394e90b7a83c0310445dbe"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "69394e90b7a83c0310445dbd"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68b2f3784884e593c75d71eb",
+        "numberOfQuestions": 25,
+        "_id": "69394e90b7a83c0310445dbc"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "6711f8b687f4b476962d7cbb",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf47177818c0ed5b645a",
+    "programTopicId": "684a629f18dd195c72edba36",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:41:09.246Z",
+    "updatedAt": "2025-12-10T10:42:24.339Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 255.51,
+    "pageStart": 216.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 12,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "limits-and-derivatives",
+    "seo": {
+      "titleTag": "Limits and Derivatives - Mathematics (Class XI) | PW Books",
+      "coverImageAltText": "Limits and Derivatives - Mathematics (Class XI) | PW Books",
+      "ogTitle": "Limits and Derivatives - Mathematics (Class XI) | PW Books",
+      "shortDescription": "Read Limits and Derivatives from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Limits and Derivatives from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Limits and Derivatives from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e0aa7862-c5e8-4582-825b-f112ad207cae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688650b2555daff4075d806d",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "684a6d8749f20cb4796a99d5",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684a6d8749f20cb4796a99d5",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688650b2555daff4075d806d",
+      "684a6d8749f20cb4796a99d5",
+      "60d0fe4f5311236168a109cb"
+    ]
+  },
+  {
+    "_id": "68358c6cbf9810593d044dde",
+    "bookId": "682bf652042db2abc7792d77",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Statistics",
+    "noOfSections": "15",
+    "subject": "60d0fe4f5311236168a109cc",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fcbaf911-7530-40b5-986d-67f654be9176.zip",
+      "_id": "68c7c8e9802fa275f93fc3a4"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "68862b0b997522fb0b9b6e2b",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf1532008b82eb75ce06"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684a70b022fc19910150722d",
+        "numberOfQuestions": 15,
+        "_id": "691edf1532008b82eb75ce05"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf1532008b82eb75ce04"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68b2f45feadcf521b1867737",
+        "numberOfQuestions": 25,
+        "_id": "691edf1532008b82eb75ce03"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf47177818c0ed5b645a",
+    "programTopicId": "684a62bb58cfc85126339532",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:41:14.567Z",
+    "updatedAt": "2025-11-20T09:27:49.761Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 287.51,
+    "pageStart": 256.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 13,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "statistics",
+    "seo": {
+      "titleTag": "Statistics - Mathematics (Class XI) | PW Books",
+      "coverImageAltText": "Statistics - Mathematics (Class XI) | PW Books",
+      "ogTitle": "Statistics - Mathematics (Class XI) | PW Books",
+      "shortDescription": "Read Statistics from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Statistics from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Statistics from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e0aa7862-c5e8-4582-825b-f112ad207cae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68862b0b997522fb0b9b6e2b",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "684a70b022fc19910150722d",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684a70b022fc19910150722d",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68862b0b997522fb0b9b6e2b",
+      "684a70b022fc19910150722d",
+      "60d0fe4f5311236168a109cb"
+    ]
+  },
+  {
+    "_id": "68358c6cbf9810593d044de4",
+    "bookId": "682bf652042db2abc7792d77",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Probability",
+    "noOfSections": "15",
+    "subject": "60d0fe4f5311236168a109cc",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ad299545-2099-4e8d-9d3b-5a14ac358998.zip",
+      "_id": "68c7c8f15c80de2643228504"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "68862bb6afdfe85db22ab023",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf1501091cb9bd49bd37"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "684a7234e53634956523f47e",
+        "numberOfQuestions": 15,
+        "_id": "691edf1501091cb9bd49bd36"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf1501091cb9bd49bd35"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68b2f4ea4884e593c75d7deb",
+        "numberOfQuestions": 25,
+        "_id": "691edf1501091cb9bd49bd34"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programChapterId": "683edf47177818c0ed5b645a",
+    "programTopicId": "684a62d49e4d477d4c71f130",
+    "chapterVersion": 1,
+    "createdAt": "2025-07-30T07:41:20.066Z",
+    "updatedAt": "2025-11-20T09:27:49.504Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 313.51,
+    "pageStart": 288.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 14,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "probability",
+    "seo": {
+      "titleTag": "Probability - Mathematics (Class XI) | PW Books",
+      "coverImageAltText": "Probability - Mathematics (Class XI) | PW Books",
+      "ogTitle": "Probability - Mathematics (Class XI) | PW Books",
+      "shortDescription": "Read Probability from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Probability from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Probability from Mathematics (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e0aa7862-c5e8-4582-825b-f112ad207cae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68862bb6afdfe85db22ab023",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "684a7234e53634956523f47e",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "684a7234e53634956523f47e",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68862bb6afdfe85db22ab023",
+      "684a7234e53634956523f47e",
+      "60d0fe4f5311236168a109cb"
+    ]
+  }
+]

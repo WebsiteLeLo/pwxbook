@@ -1,0 +1,985 @@
+[
+  {
+    "_id": "6835ae92bf9810593d045331",
+    "bookId": "682bf5c6042db2abc7792d6f",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Resources and Development",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a35b1dfa-588c-4529-92cd-cc9f2f5b0789.zip",
+      "_id": "694ceaa41194d8a92c0b76d0"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "68593937e0ac6b8e518015d8",
+        "numberOfQuestions": 36,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6ac62e613ec9e2d28795fecf"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "6ac62e613ec9e2d28795fece"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "6ac62e613ec9e2d28795fecd"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685566c1cb23828e25e1dcd6",
+        "numberOfQuestions": 8,
+        "_id": "6ac62e613ec9e2d28795fecc"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "6a27fe5d8a7f8976af24ceca",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "68556696b5c430bf9faa2001",
+    "chapterVersion": 2,
+    "importance": [],
+    "createdAt": "2025-06-20T08:27:43.953Z",
+    "updatedAt": "2026-10-07T11:34:57.423Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 11.51,
+    "pageStart": 0.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "resources-and-development",
+    "seo": {
+      "titleTag": "Resources and Development - Contemporary India  Part 2 (Class X) | PW Books",
+      "coverImageAltText": "Resources and Development - Contemporary India  Part 2 (Class X) | PW Books",
+      "ogTitle": "Resources and Development - Contemporary India  Part 2 (Class X) | PW Books",
+      "shortDescription": "Read Resources and Development from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Resources and Development from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Resources and Development from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/495cb38a-c911-43b2-99d2-921f7360c053.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68593937e0ac6b8e518015d8",
+        "type": "Board PYQs",
+        "numberOfQuestions": 36
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 36,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68593937e0ac6b8e518015d8",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835ae92bf9810593d045337",
+    "bookId": "682bf5c6042db2abc7792d6f",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Forest and Wildlife resources",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/eb008fb1-dbba-4791-83d4-ab12de703ce9.zip",
+      "_id": "694cea3028d4800004944afc"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "685939a7a4254155d888f4d7",
+        "numberOfQuestions": 10,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6980874911c9d0d828b1b93e"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "6980874911c9d0d828b1b93d"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "6980874911c9d0d828b1b93c"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6855679e84c4c92c8e5d69d1",
+        "numberOfQuestions": 6,
+        "_id": "6980874911c9d0d828b1b93b"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "68556725ba7a9b0953643841",
+    "chapterVersion": 2,
+    "importance": [],
+    "createdAt": "2025-06-20T08:27:48.700Z",
+    "updatedAt": "2026-02-02T11:15:21.928Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 17.51,
+    "pageStart": 12.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "forest-and-wildlife-resources",
+    "seo": {
+      "titleTag": "Forest and Wildlife resources - Contemporary India  Part 2 (Class X) | PW Books",
+      "coverImageAltText": "Forest and Wildlife resources - Contemporary India  Part 2 (Class X) | PW Books",
+      "ogTitle": "Forest and Wildlife resources - Contemporary India  Part 2 (Class X) | PW Books",
+      "shortDescription": "Read Forest and Wildlife resources from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Forest and Wildlife resources from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Forest and Wildlife resources from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/495cb38a-c911-43b2-99d2-921f7360c053.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "685939a7a4254155d888f4d7",
+        "type": "Board PYQs",
+        "numberOfQuestions": 10
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 10,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "685939a7a4254155d888f4d7",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835ae92bf9810593d04533d",
+    "bookId": "682bf5c6042db2abc7792d6f",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Water resources",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/322ccc7e-9219-4c50-8129-c54b05861eae.zip",
+      "_id": "694ceabe91a9d8cf6c7bb569"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [
+      {
+        "testId": "68593a27463a70031f073b29",
+        "numberOfQuestions": 18,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6980875312dd1b2252412fe3"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "6980875312dd1b2252412fe2"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "6980875312dd1b2252412fe1"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685567ede6584c506d572b3f",
+        "numberOfQuestions": 8,
+        "_id": "6980875312dd1b2252412fe0"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "685567315345aa1e09367deb",
+    "chapterVersion": 2,
+    "importance": [],
+    "createdAt": "2025-06-20T08:27:50.395Z",
+    "updatedAt": "2026-02-02T11:15:31.351Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 28.51,
+    "pageStart": 18.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "water-resources",
+    "seo": {
+      "titleTag": "Water resources - Contemporary India  Part 2 (Class X) | PW Books",
+      "coverImageAltText": "Water resources - Contemporary India  Part 2 (Class X) | PW Books",
+      "ogTitle": "Water resources - Contemporary India  Part 2 (Class X) | PW Books",
+      "shortDescription": "Read Water resources from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Water resources from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Water resources from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/495cb38a-c911-43b2-99d2-921f7360c053.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68593a27463a70031f073b29",
+        "type": "Board PYQs",
+        "numberOfQuestions": 18
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 18,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68593a27463a70031f073b29",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835ae92bf9810593d045343",
+    "bookId": "682bf5c6042db2abc7792d6f",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Agriculture",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/21c589d1-9292-44ca-a3aa-ba2eb634a046.zip",
+      "_id": "694ce9f0db36ea73c1e8fa38"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "68593a93f89519615c385e2b",
+        "numberOfQuestions": 36,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6980875b525770407e93cf82"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "6980875b525770407e93cf81"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "6980875b525770407e93cf80"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685569db21cd22ed28a67334",
+        "numberOfQuestions": 8,
+        "_id": "6980875b525770407e93cf7f"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "6855673b0ae02ed866839393",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:27:53.163Z",
+    "updatedAt": "2026-02-02T11:15:39.436Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 40.51,
+    "pageStart": 29.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "agriculture",
+    "seo": {
+      "titleTag": "Agriculture - Contemporary India  Part 2 (Class X) | PW Books",
+      "coverImageAltText": "Agriculture - Contemporary India  Part 2 (Class X) | PW Books",
+      "ogTitle": "Agriculture - Contemporary India  Part 2 (Class X) | PW Books",
+      "shortDescription": "Read Agriculture from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Agriculture from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Agriculture from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/495cb38a-c911-43b2-99d2-921f7360c053.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68593a93f89519615c385e2b",
+        "type": "Board PYQs",
+        "numberOfQuestions": 36
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 36,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68593a93f89519615c385e2b",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835ae92bf9810593d045349",
+    "bookId": "682bf5c6042db2abc7792d6f",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Mineral and Energy Resources",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e3ce7b18-7026-47d5-b04b-0607d618e284.zip",
+      "_id": "694cea82201ceab69b9e90a6"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "687a026e7e70ec27728f5091",
+        "numberOfQuestions": 34,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "69808763367f33f07aa063d4"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "69808763367f33f07aa063d3"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "69808763367f33f07aa063d2"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68556a27d72fa160819e9d80",
+        "numberOfQuestions": 10,
+        "_id": "69808763367f33f07aa063d1"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "68556745e93229aa9a1cb1ae",
+    "chapterVersion": 3,
+    "createdAt": "2025-06-20T08:27:57.433Z",
+    "updatedAt": "2026-02-02T11:15:47.152Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 56.51,
+    "pageStart": 41.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "mineral-and-energy-resources",
+    "seo": {
+      "titleTag": "Mineral and Energy Resources - Contemporary India  Part 2 (Class X) | PW Books",
+      "coverImageAltText": "Mineral and Energy Resources - Contemporary India  Part 2 (Class X) | PW Books",
+      "ogTitle": "Mineral and Energy Resources - Contemporary India  Part 2 (Class X) | PW Books",
+      "shortDescription": "Read Mineral and Energy Resources from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Mineral and Energy Resources from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Mineral and Energy Resources from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/495cb38a-c911-43b2-99d2-921f7360c053.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "687a026e7e70ec27728f5091",
+        "type": "Board PYQs",
+        "numberOfQuestions": 34
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 34,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "687a026e7e70ec27728f5091",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835ae92bf9810593d04534f",
+    "bookId": "682bf5c6042db2abc7792d6f",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Manufacturing industries",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a4ae0f8b-5ca9-4ab1-9c90-5e6e9b93fbea.zip",
+      "_id": "694cea660cefd520a34c3f71"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "686f9d98ee9a61f2fb62ee27",
+        "numberOfQuestions": 44,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6980876cea91ea2210784971"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "6980876cea91ea2210784970"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "6980876cea91ea221078496f"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6855722184c4c92c8e5d714d",
+        "numberOfQuestions": 6,
+        "_id": "6980876cea91ea221078496e"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "6855674f73274d6e658b7602",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:28:02.554Z",
+    "updatedAt": "2026-02-02T11:15:56.306Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 69.51,
+    "pageStart": 57.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "manufacturing-industries",
+    "seo": {
+      "titleTag": "Manufacturing industries - Contemporary India  Part 2 (Class X) | PW Books",
+      "coverImageAltText": "Manufacturing industries - Contemporary India  Part 2 (Class X) | PW Books",
+      "ogTitle": "Manufacturing industries - Contemporary India  Part 2 (Class X) | PW Books",
+      "shortDescription": "Read Manufacturing industries from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Manufacturing industries from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Manufacturing industries from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/495cb38a-c911-43b2-99d2-921f7360c053.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "686f9d98ee9a61f2fb62ee27",
+        "type": "Board PYQs",
+        "numberOfQuestions": 44
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 44,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "686f9d98ee9a61f2fb62ee27",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "6835ae92bf9810593d045355",
+    "bookId": "682bf5c6042db2abc7792d6f",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Lifelines of Indian Economy",
+    "noOfSections": "15",
+    "subject": "682ac477c42a98eb879f940a",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c04de12d-fe0e-475b-b35b-cea0ec23eb5c.zip",
+      "_id": "694cea4c51e6e8a620a7cbca"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "686fa09746d19d3a434255e7",
+        "numberOfQuestions": 33,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "698087723cf7fefb3a1816fe"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "698087723cf7fefb3a1816fd"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "698087723cf7fefb3a1816fc"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6855727684c4c92c8e5d716c",
+        "numberOfQuestions": 12,
+        "_id": "698087723cf7fefb3a1816fb"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf76177818c0ed5b64cb",
+    "programTopicId": "68556758dd745a6f4010c757",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:28:06.925Z",
+    "updatedAt": "2026-02-02T11:16:02.774Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 83.51,
+    "pageStart": 70.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "lifelines-of-indian-economy",
+    "seo": {
+      "titleTag": "Lifelines of Indian Economy - Contemporary India  Part 2 (Class X) | PW Books",
+      "coverImageAltText": "Lifelines of Indian Economy - Contemporary India  Part 2 (Class X) | PW Books",
+      "ogTitle": "Lifelines of Indian Economy - Contemporary India  Part 2 (Class X) | PW Books",
+      "shortDescription": "Read Lifelines of Indian Economy from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Lifelines of Indian Economy from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Lifelines of Indian Economy from Contemporary India  Part 2 (Class X). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/495cb38a-c911-43b2-99d2-921f7360c053.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "686fa09746d19d3a434255e7",
+        "type": "Board PYQs",
+        "numberOfQuestions": 33
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 33,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "686fa09746d19d3a434255e7",
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  }
+]

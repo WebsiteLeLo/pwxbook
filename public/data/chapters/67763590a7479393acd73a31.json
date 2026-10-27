@@ -1,0 +1,2129 @@
+[
+  {
+    "_id": "6776ba7fcf7f97b31c8b374e",
+    "bookId": "67763590a7479393acd73a31",
+    "status": "ACTIVE",
+    "noOfSections": "14",
+    "programChapterId": "67ac7229fa9b33ea0724c831",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac724c114416e81fd45ed7",
+    "displayOrder": 1,
+    "title": "Electric Charges And Fields",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cebafbd7-bbc9-49d1-a2a1-cc9e3a8bf088.zip",
+      "_id": "68d28ac67579d7ec8c8854a8"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-1_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The Electric Charges and Fields chapter builds the foundation for electrostatics. It explains the concept of electric charge, Coulombs law, and electric field, which are necessary for understanding electricity and magnetism. The chapter also covers Gauss law, which helps in calculating electric fields for different charge distributions. Understanding this chapter is essential for solving problems related to electrostatic force, field, and potential.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The Electricharges and Fields chapter builds the foundation for electrostatics. It explains the concept of electric charge, Coulombs law, and electric field, which are necessary for understanding electricity and magnetism. The chapter also covers Gauss law, which helps in calculating electric fields for different charge distributions. Understanding this chapter is essential for solving problems related to electrostatic force, field, and potential.</p>\n</body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 12
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 19
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 11
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68d179dd9cbc66d6edcf2ac6",
+        "numberOfQuestions": 97,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e8ec5e25eed8ea57312f"
+      },
+      {
+        "testId": "68d17ae824ed13d4a86c5a82",
+        "numberOfQuestions": 111,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971e8ec5e25eed8ea573130"
+      },
+      {
+        "testId": "688529d884e5a6b37bd0a0c1",
+        "numberOfQuestions": 11,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e8ec5e25eed8ea573131"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d8d72ba445b8571f30e85",
+        "numberOfQuestions": 31,
+        "_id": "6971e8ec5e25eed8ea57312e"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852996371682bf1676e7159",
+        "numberOfQuestions": 56,
+        "_id": "6971e8ec5e25eed8ea57312d"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68d17928102da4a7f5a97ce6",
+        "numberOfQuestions": 23,
+        "_id": "6971e8ec5e25eed8ea57312c"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.717Z",
+    "updatedAt": "2026-01-22T09:07:56.035Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 43.51,
+    "pageStart": 0.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "electric-charges-and-fields",
+    "seo": {
+      "titleTag": "Electric Charges And Fields - Physics Part I (Class XII) | PW Books",
+      "coverImageAltText": "Electric Charges And Fields - Physics Part I (Class XII) | PW Books",
+      "ogTitle": "Electric Charges And Fields - Physics Part I (Class XII) | PW Books",
+      "shortDescription": "Read Electric Charges And Fields from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electric Charges And Fields from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electric Charges And Fields from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3b7c020a-1e27-4625-aebb-82ccfedbec0b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68d179dd9cbc66d6edcf2ac6",
+        "type": "Board PYQs",
+        "numberOfQuestions": 97
+      },
+      {
+        "testId": "68d17ae824ed13d4a86c5a82",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 111
+      },
+      {
+        "testId": "688529d884e5a6b37bd0a0c1",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 11
+      },
+      {
+        "testId": "682d8d72ba445b8571f30e85",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 31
+      },
+      {
+        "testId": "6852996371682bf1676e7159",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 56
+      }
+    ],
+    "pyqQuestions": 219,
+    "exemplerQuestions": 31,
+    "mcqQuestions": 56,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d8d72ba445b8571f30e85",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852996371682bf1676e7159",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68d179dd9cbc66d6edcf2ac6",
+      "68d17ae824ed13d4a86c5a82",
+      "688529d884e5a6b37bd0a0c1",
+      "682d8d72ba445b8571f30e85",
+      "6852996371682bf1676e7159"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3755",
+    "bookId": "67763590a7479393acd73a31",
+    "status": "ACTIVE",
+    "noOfSections": "15",
+    "programChapterId": "67ac73e4edf0051bb4f71286",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac73f2d0de15a9292dbc4d",
+    "displayOrder": 2,
+    "title": "Electrostatic Potential And Capacitance",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b7997638-4859-4f63-b717-f6e6a16f9333.zip",
+      "_id": "68d28a64aed6268f6c8b27dd"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-2_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>Electrostatic Potential and Capacitance are important for understanding how electric charges create potential and store energy. It covers key topics like electric dipole, electrostatic potential, capacitance, and the effect of dielectrics on capacitors. The chapter explains how dielectric materials increase capacitance by reducing the electric field. These concepts are widely used in electrical circuits and devices. Understanding this chapter is essential for solving problems related to electric fields, potential energy, and charge storage.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>Electrostatic Potential and Capacitance are important for understanding how electric charges create potential and store energy. It covers key topics like electric dipole, electrostatic potential, capacitance, and the effect of dielectrics on capacitors. The chapter explains how dielectric materials increase capacitance by reducing the electric field. These concepts are widely used in electrical circuits and devices. Understanding this chapter is essential for solving problems related to electric fields, potential energy, and charge storage.</p>\n</body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 15
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 11
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682be279d8dbee178183fc7e",
+        "numberOfQuestions": 74,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e9079267c2fd2bfb8d08"
+      },
+      {
+        "testId": "6886732861dd7a843ef2c342",
+        "numberOfQuestions": 126,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971e9079267c2fd2bfb8d09"
+      },
+      {
+        "testId": "68852ab217d8f819e9d7c5f7",
+        "numberOfQuestions": 21,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e9079267c2fd2bfb8d0a"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d8c8be65d5574ecc50086",
+        "numberOfQuestions": 33,
+        "_id": "6971e9079267c2fd2bfb8d07"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "68529d05597e0e3c1765506d",
+        "numberOfQuestions": 68,
+        "_id": "6971e9079267c2fd2bfb8d06"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68d131f1c3fde3c5ca0bf0ca",
+        "numberOfQuestions": 11,
+        "_id": "6971e9079267c2fd2bfb8d05"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.721Z",
+    "updatedAt": "2026-01-22T09:08:23.425Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 79.51,
+    "pageStart": 44.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "electrostatic-potential-and-capacitance",
+    "seo": {
+      "titleTag": "Electrostatic Potential And Capacitance - Physics Part I (Class XII) | PW Books",
+      "coverImageAltText": "Electrostatic Potential And Capacitance - Physics Part I (Class XII) | PW Books",
+      "ogTitle": "Electrostatic Potential And Capacitance - Physics Part I (Class XII) | PW Books",
+      "shortDescription": "Read Electrostatic Potential And Capacitance from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electrostatic Potential And Capacitance from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electrostatic Potential And Capacitance from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3b7c020a-1e27-4625-aebb-82ccfedbec0b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682be279d8dbee178183fc7e",
+        "type": "Board PYQs",
+        "numberOfQuestions": 74
+      },
+      {
+        "testId": "6886732861dd7a843ef2c342",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 126
+      },
+      {
+        "testId": "68852ab217d8f819e9d7c5f7",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 21
+      },
+      {
+        "testId": "682d8c8be65d5574ecc50086",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 33
+      },
+      {
+        "testId": "68529d05597e0e3c1765506d",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 68
+      }
+    ],
+    "pyqQuestions": 221,
+    "exemplerQuestions": 33,
+    "mcqQuestions": 68,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d8c8be65d5574ecc50086",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "68529d05597e0e3c1765506d",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682be279d8dbee178183fc7e",
+      "6886732861dd7a843ef2c342",
+      "68852ab217d8f819e9d7c5f7",
+      "682d8c8be65d5574ecc50086",
+      "68529d05597e0e3c1765506d"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b375c",
+    "bookId": "67763590a7479393acd73a31",
+    "status": "ACTIVE",
+    "noOfSections": "13",
+    "programChapterId": "67ac7458607417bea4909cd3",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac74658633c220395552af",
+    "displayOrder": 3,
+    "title": "Current Electricity",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/541e97fd-8fdc-401e-8992-fdc7f857ed12.zip",
+      "_id": "68d537f1989aa8890bb81ba7"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-3_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>Current Electricity is important for understanding the flow of electric charge in circuits. It covers key topics like Ohm&rsquo;s law, resistance, resistivity, electrical energy, and power, which are essential in circuit analysis. The chapter also explains series and parallel combinations of resistors, Kirchhoff&rsquo;s laws, and Wheatstone bridge experiments. These concepts are widely used in electrical engineering and real-life applications. Understanding this chapter is important for solving problems related to electric current, voltage, and circuit components.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 27
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 12
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 36
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 32
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 40
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 38
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>Current Electricity is important for understanding the flow of electric charge in circuits. It covers key topics like Ohm&rsquo;s law, resistance, resistivity, electrical energy, and power, which are essential in circuit analysis. The chapter also explains series and parallel combinations of resistors, Kirchhoff&rsquo;s laws, and Wheatstone bridge experiments. These concepts are widely used in electrical engineering and real-life applications. Understanding this chapter is important for solving problems related to electric current, voltage, and circuit components.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2020",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>Current Electricity is important for understanding the flow of electric charge in circuits. It covers key topics like Ohm&rsquo;s law, resistance, resistivity, electrical energy, and power, which are essential in circuit analysis. The chapter also explains series and parallel combinations of resistors, Kirchhoff&rsquo;s laws, and Wheatstone bridge experiments. These concepts are widely used in electrical engineering and real-life applications. Understanding this chapter is important for solving problems related to electric current, voltage, and circuit components.</p>\n</body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 28
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 24
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 15
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682be37d680d0dd27643ccf6",
+        "numberOfQuestions": 155,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e92454eafa37f5b10f4b"
+      },
+      {
+        "testId": "6886753bebf79f35d6866e11",
+        "numberOfQuestions": 232,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971e92454eafa37f5b10f4c"
+      },
+      {
+        "testId": "68852b5a84e5a6b37bd0a10b",
+        "numberOfQuestions": 30,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e92454eafa37f5b10f4d"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d8bef05ffdbf64744347b",
+        "numberOfQuestions": 26,
+        "_id": "6971e92454eafa37f5b10f4a"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "68529eaf1877d4aa376ad44d",
+        "numberOfQuestions": 67,
+        "_id": "6971e92454eafa37f5b10f49"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f4916ab6d6b3b36834e02",
+        "numberOfQuestions": 9,
+        "_id": "6971e92454eafa37f5b10f48"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.724Z",
+    "updatedAt": "2026-01-22T09:08:52.781Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 105.51,
+    "pageStart": 80.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "current-electricity",
+    "seo": {
+      "titleTag": "Current Electricity - Physics Part I (Class XII) | PW Books",
+      "coverImageAltText": "Current Electricity - Physics Part I (Class XII) | PW Books",
+      "ogTitle": "Current Electricity - Physics Part I (Class XII) | PW Books",
+      "shortDescription": "Read Current Electricity from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Current Electricity from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Current Electricity from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3b7c020a-1e27-4625-aebb-82ccfedbec0b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682be37d680d0dd27643ccf6",
+        "type": "Board PYQs",
+        "numberOfQuestions": 155
+      },
+      {
+        "testId": "6886753bebf79f35d6866e11",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 232
+      },
+      {
+        "testId": "68852b5a84e5a6b37bd0a10b",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 30
+      },
+      {
+        "testId": "682d8bef05ffdbf64744347b",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 26
+      },
+      {
+        "testId": "68529eaf1877d4aa376ad44d",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 67
+      }
+    ],
+    "pyqQuestions": 417,
+    "exemplerQuestions": 26,
+    "mcqQuestions": 67,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d8bef05ffdbf64744347b",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "68529eaf1877d4aa376ad44d",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682be37d680d0dd27643ccf6",
+      "6886753bebf79f35d6866e11",
+      "68852b5a84e5a6b37bd0a10b",
+      "682d8bef05ffdbf64744347b",
+      "68529eaf1877d4aa376ad44d"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3763",
+    "bookId": "67763590a7479393acd73a31",
+    "status": "ACTIVE",
+    "noOfSections": "10",
+    "programChapterId": "67ac74dcc80b72fc8a22bf75",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac74eb844860d61132791b",
+    "displayOrder": 4,
+    "title": "Moving Charges And Magnetism",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/48a9d22e-33bd-4f83-82e9-8b2af759753e.zip",
+      "_id": "68d28a82feed34404118177f"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-1_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter explains how moving electric charges produce magnetic fields. It covers key topics like Biot-Savart law, Ampere’s circuital law, Lorentz force, and the motion of charged particles in a magnetic field. It also includes torque on a current-carrying loop, the concept of a magnetic dipole, and the working of devices like cyclotrons and galvanometers. These concepts are widely used in electromagnetism and modern technology. Understanding this chapter is essential for solving problems related to magnetic fields, forces on charges, and current-carrying conductors.t his</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 19
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 19
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 15
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 25
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 26
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 26
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter explains how moving electric charges produce magnetic fields. It covers key topics like Biot-Savart law, Ampere’s circuital law, Lorentz force, and the motion of charged particles in a magnetic field. It also includes torque on a current-carrying loop, the concept of a magnetic dipole, and the working of devices like cyclotrons and galvanometers. These concepts are widely used in electromagnetism and modern technology. Understanding this chapter is essential for solving problems related to magnetic fields, forces on charges, and current-carrying conductors.t his</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 15
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 21
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 14
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682be500f9ece6a9f09a3548",
+        "numberOfQuestions": 133,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e92fa55a4329db755224"
+      },
+      {
+        "testId": "6886780aebf79f35d6866f41",
+        "numberOfQuestions": 156,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971e92fa55a4329db755225"
+      },
+      {
+        "testId": "68852c1b84e5a6b37bd0a138",
+        "numberOfQuestions": 13,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e92fa55a4329db755226"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d8b06f8819792af5f2841",
+        "numberOfQuestions": 29,
+        "_id": "6971e92fa55a4329db755223"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "68529fc50b9062ff944d96fa",
+        "numberOfQuestions": 56,
+        "_id": "6971e92fa55a4329db755222"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68d12ab09519cde64454dea0",
+        "numberOfQuestions": 13,
+        "_id": "6971e92fa55a4329db755221"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.727Z",
+    "updatedAt": "2026-01-22T09:09:03.899Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 134.51,
+    "pageStart": 106.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "moving-charges-and-magnetism",
+    "seo": {
+      "titleTag": "Moving Charges And Magnetism - Physics Part I (Class XII) | PW Books",
+      "coverImageAltText": "Moving Charges And Magnetism - Physics Part I (Class XII) | PW Books",
+      "ogTitle": "Moving Charges And Magnetism - Physics Part I (Class XII) | PW Books",
+      "shortDescription": "Read Moving Charges And Magnetism from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Moving Charges And Magnetism from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Moving Charges And Magnetism from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3b7c020a-1e27-4625-aebb-82ccfedbec0b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682be500f9ece6a9f09a3548",
+        "type": "Board PYQs",
+        "numberOfQuestions": 133
+      },
+      {
+        "testId": "6886780aebf79f35d6866f41",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 156
+      },
+      {
+        "testId": "68852c1b84e5a6b37bd0a138",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 13
+      },
+      {
+        "testId": "682d8b06f8819792af5f2841",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 29
+      },
+      {
+        "testId": "68529fc50b9062ff944d96fa",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 56
+      }
+    ],
+    "pyqQuestions": 302,
+    "exemplerQuestions": 29,
+    "mcqQuestions": 56,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d8b06f8819792af5f2841",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "68529fc50b9062ff944d96fa",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682be500f9ece6a9f09a3548",
+      "6886780aebf79f35d6866f41",
+      "68852c1b84e5a6b37bd0a138",
+      "682d8b06f8819792af5f2841",
+      "68529fc50b9062ff944d96fa"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b376a",
+    "bookId": "67763590a7479393acd73a31",
+    "status": "ACTIVE",
+    "noOfSections": "5",
+    "programChapterId": "67ac766b8633c22039555316",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac76938ae6443f2684b9aa",
+    "displayOrder": 5,
+    "title": "Magnetism And Matter",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9e7cc81b-da31-439b-af32-16bfd6508571.zip",
+      "_id": "68d28a8eb49011674522a68e"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-2_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Magnetism and Matter explain the properties of magnets and magnetic materials. It covers important topics like the bar magnet, Gauss’s law of magnetism, magnetization, and magnetic intensity. It also explains the magnetic properties of materials, such as diamagnetic, paramagnetic, and ferromagnetic substances. The chapter includes earth’s magnetism and hysteresis, which help in understanding natural and artificial magnets. Learning these concepts is useful for solving problems related to magnetic fields, dipoles, and material magnetization.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Magnetism and Matter explain the properties of magnets and magnetic materials. It covers important topics like the bar magnet, Gauss’s law of magnetism, magnetization, and magnetic intensity. It also explains the magnetic properties of materials, such as diamagnetic, paramagnetic, and ferromagnetic substances. The chapter includes earth’s magnetism and hysteresis, which help in understanding natural and artificial magnets. Learning these concepts is useful for solving problems related to magnetic fields, dipoles, and material magnetization.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2020",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Magnetism and Matter explain the properties of magnets and magnetic materials. It covers important topics like the bar magnet, Gauss’s law of magnetism, magnetization, and magnetic intensity. It also explains the magnetic properties of materials, such as diamagnetic, paramagnetic, and ferromagnetic substances. The chapter includes earth’s magnetism and hysteresis, which help in understanding natural and artificial magnets. Learning these concepts is useful for solving problems related to magnetic fields, dipoles, and material magnetization.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682dc9f0ce28f27f0a006b41",
+        "numberOfQuestions": 30,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e95c2f75126a58f74bab"
+      },
+      {
+        "testId": "68867cf661dd7a843ef2c736",
+        "numberOfQuestions": 31,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971e95c2f75126a58f74bac"
+      },
+      {
+        "testId": "68852cf784e5a6b37bd0a17a",
+        "numberOfQuestions": 9,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e95c2f75126a58f74bad"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d8979f8819792af5f2800",
+        "numberOfQuestions": 21,
+        "_id": "6971e95c2f75126a58f74baa"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852a045434628372c9f3181",
+        "numberOfQuestions": 50,
+        "_id": "6971e95c2f75126a58f74ba9"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68d12c6dc382e5613c6e2d37",
+        "numberOfQuestions": 7,
+        "_id": "6971e95c2f75126a58f74ba8"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.732Z",
+    "updatedAt": "2026-01-22T09:09:48.844Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 152.51,
+    "pageStart": 135.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "magnetism-and-matter",
+    "seo": {
+      "titleTag": "Magnetism And Matter - Physics Part I (Class XII) | PW Books",
+      "coverImageAltText": "Magnetism And Matter - Physics Part I (Class XII) | PW Books",
+      "ogTitle": "Magnetism And Matter - Physics Part I (Class XII) | PW Books",
+      "shortDescription": "Read Magnetism And Matter from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Magnetism And Matter from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Magnetism And Matter from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3b7c020a-1e27-4625-aebb-82ccfedbec0b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682dc9f0ce28f27f0a006b41",
+        "type": "Board PYQs",
+        "numberOfQuestions": 30
+      },
+      {
+        "testId": "68867cf661dd7a843ef2c736",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 31
+      },
+      {
+        "testId": "68852cf784e5a6b37bd0a17a",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 9
+      },
+      {
+        "testId": "682d8979f8819792af5f2800",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 21
+      },
+      {
+        "testId": "6852a045434628372c9f3181",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 50
+      }
+    ],
+    "pyqQuestions": 70,
+    "exemplerQuestions": 21,
+    "mcqQuestions": 50,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d8979f8819792af5f2800",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852a045434628372c9f3181",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682dc9f0ce28f27f0a006b41",
+      "68867cf661dd7a843ef2c736",
+      "68852cf784e5a6b37bd0a17a",
+      "682d8979f8819792af5f2800",
+      "6852a045434628372c9f3181"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3771",
+    "bookId": "67763590a7479393acd73a31",
+    "status": "ACTIVE",
+    "noOfSections": "8",
+    "programChapterId": "67ac79b04c5372c20a668f51",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac79d8607417bea4909e78",
+    "displayOrder": 6,
+    "title": "Electromagnetic Induction",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6986c473-fe08-4d95-a381-630b426e5a62.zip",
+      "_id": "68bfcf0c3e28480c99b09c76"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-3_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter is important for understanding how changing magnetic fields generate electric currents. It covers key topics like Faraday and Henry’s experiments, magnetic flux, Faraday’s laws, Lenz’s law, and motional EMF, which explain the principles of induction. The chapter also includes inductance (self and mutual) and the working of an AC generator, which are essential in power generation and electrical applications. These concepts are widely used in transformers, generators, and wireless energy transfer. Understanding this chapter helps in solving problems related to induced EMF, energy conversion, and magnetic effects.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 14
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter is important for understanding how changing magnetic fields generate electric currents. It covers key topics like Faraday and Henry’s experiments, magnetic flux, Faraday’s laws, Lenz’s law, and motional EMF, which explain the principles of induction. The chapter also includes inductance (self and mutual) and the working of an AC generator, which are essential in power generation and electrical applications. These concepts are widely used in transformers, generators, and wireless energy transfer. Understanding this chapter helps in solving problems related to induced EMF, energy conversion, and magnetic effects.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter is important for understanding how changing magnetic fields generate electric currents. It covers key topics like Faraday and Henry’s experiments, magnetic flux, Faraday’s laws, Lenz’s law, and motional EMF, which explain the principles of induction. The chapter also includes inductance (self and mutual) and the working of an AC generator, which are essential in power generation and electrical applications. These concepts are widely used in transformers, generators, and wireless energy transfer. Understanding this chapter helps in solving problems related to induced EMF, energy conversion, and magnetic effects.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 15
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 7
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682bf011ecb87668873deed3",
+        "numberOfQuestions": 85,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e96cafe99d07b6c9288f"
+      },
+      {
+        "testId": "68867dde555daff4075d953d",
+        "numberOfQuestions": 67,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971e96cafe99d07b6c92890"
+      },
+      {
+        "testId": "6884edbed41801453dc8d284",
+        "numberOfQuestions": 6,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e96cafe99d07b6c92891"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d7f76e65d5574ecc4fb6a",
+        "numberOfQuestions": 32,
+        "_id": "6971e96cafe99d07b6c9288e"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6852a11e332c9a98d7aa4b45",
+        "numberOfQuestions": 61,
+        "_id": "6971e96cafe99d07b6c9288d"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f4aa13a6bdb2cc68de1be",
+        "numberOfQuestions": 8,
+        "_id": "6971e96cafe99d07b6c9288c"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.738Z",
+    "updatedAt": "2026-01-22T09:10:04.023Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 175.51,
+    "pageStart": 153.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 6,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "electromagnetic-induction",
+    "seo": {
+      "titleTag": "Electromagnetic Induction - Physics Part I (Class XII) | PW Books",
+      "coverImageAltText": "Electromagnetic Induction - Physics Part I (Class XII) | PW Books",
+      "ogTitle": "Electromagnetic Induction - Physics Part I (Class XII) | PW Books",
+      "shortDescription": "Read Electromagnetic Induction from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electromagnetic Induction from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electromagnetic Induction from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3b7c020a-1e27-4625-aebb-82ccfedbec0b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682bf011ecb87668873deed3",
+        "type": "Board PYQs",
+        "numberOfQuestions": 85
+      },
+      {
+        "testId": "68867dde555daff4075d953d",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 67
+      },
+      {
+        "testId": "6884edbed41801453dc8d284",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 6
+      },
+      {
+        "testId": "682d7f76e65d5574ecc4fb6a",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 32
+      },
+      {
+        "testId": "6852a11e332c9a98d7aa4b45",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 61
+      }
+    ],
+    "pyqQuestions": 158,
+    "exemplerQuestions": 32,
+    "mcqQuestions": 61,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d7f76e65d5574ecc4fb6a",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6852a11e332c9a98d7aa4b45",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682bf011ecb87668873deed3",
+      "68867dde555daff4075d953d",
+      "6884edbed41801453dc8d284",
+      "682d7f76e65d5574ecc4fb6a",
+      "6852a11e332c9a98d7aa4b45"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3778",
+    "bookId": "67763590a7479393acd73a31",
+    "status": "ACTIVE",
+    "noOfSections": "8",
+    "programChapterId": "67ac7acdab7dedd14c65799b",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac7af3064f296309e92871",
+    "displayOrder": 7,
+    "title": "Alternating Current",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e0a8666a-37d1-46f4-819f-713727f102df.zip",
+      "_id": "68bfcf1dc085b1756a556fcd"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-4_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Alternating Current is important for understanding how AC circuits function in real life. It covers key topics like AC voltage applied to resistors, inductors, capacitors, and series LCR circuits, along with phasor representation and resonance. The chapter also explains power in AC circuits, the power factor, and the working of transformers, which are essential in electricity transmission. These concepts are widely used in power distribution, household wiring, and electrical devices. Understanding this chapter helps in solving problems related to impedance, AC power, and circuit behavior.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 33
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 27
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 19
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 23
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Alternating Current is important for understanding how AC circuits function in real life. It covers key topics like AC voltage applied to resistors, inductors, capacitors, and series LCR circuits, along with phasor representation and resonance. The chapter also explains power in AC circuits, the power factor, and the working of transformers, which are essential in electricity transmission. These concepts are widely used in power distribution, household wiring, and electrical devices. Understanding this chapter helps in solving problems related to impedance, AC power, and circuit behavior.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2020",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Alternating Current is important for understanding how AC circuits function in real life. It covers key topics like AC voltage applied to resistors, inductors, capacitors, and series LCR circuits, along with phasor representation and resonance. The chapter also explains power in AC circuits, the power factor, and the working of transformers, which are essential in electricity transmission. These concepts are widely used in power distribution, household wiring, and electrical devices. Understanding this chapter helps in solving problems related to impedance, AC power, and circuit behavior.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 13
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 20
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 9
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682beef0523b2b5fc5d2828b",
+        "numberOfQuestions": 87,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e9784c89d8074349c664"
+      },
+      {
+        "testId": "68867f584e7a5c65f4d87799",
+        "numberOfQuestions": 121,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971e9784c89d8074349c665"
+      },
+      {
+        "testId": "6884f0751cdb3bcddb758d59",
+        "numberOfQuestions": 16,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e9784c89d8074349c666"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d81f7f8819792af5f25d1",
+        "numberOfQuestions": 31,
+        "_id": "6971e9784c89d8074349c663"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "68552c20ed051a6845c79f91",
+        "numberOfQuestions": 84,
+        "_id": "6971e9784c89d8074349c662"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f4b0e42ad11cc622d1cb1",
+        "numberOfQuestions": 8,
+        "_id": "6971e9784c89d8074349c661"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.739Z",
+    "updatedAt": "2026-01-22T09:10:16.584Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 199.51,
+    "pageStart": 176.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 7,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "alternating-current",
+    "seo": {
+      "titleTag": "Alternating Current - Physics Part I (Class XII) | PW Books",
+      "coverImageAltText": "Alternating Current - Physics Part I (Class XII) | PW Books",
+      "ogTitle": "Alternating Current - Physics Part I (Class XII) | PW Books",
+      "shortDescription": "Read Alternating Current from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Alternating Current from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Alternating Current from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3b7c020a-1e27-4625-aebb-82ccfedbec0b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682beef0523b2b5fc5d2828b",
+        "type": "Board PYQs",
+        "numberOfQuestions": 87
+      },
+      {
+        "testId": "68867f584e7a5c65f4d87799",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 121
+      },
+      {
+        "testId": "6884f0751cdb3bcddb758d59",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 16
+      },
+      {
+        "testId": "682d81f7f8819792af5f25d1",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 31
+      },
+      {
+        "testId": "68552c20ed051a6845c79f91",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 84
+      }
+    ],
+    "pyqQuestions": 224,
+    "exemplerQuestions": 31,
+    "mcqQuestions": 84,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d81f7f8819792af5f25d1",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "68552c20ed051a6845c79f91",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682beef0523b2b5fc5d2828b",
+      "68867f584e7a5c65f4d87799",
+      "6884f0751cdb3bcddb758d59",
+      "682d81f7f8819792af5f25d1",
+      "68552c20ed051a6845c79f91"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3786",
+    "bookId": "67763590a7479393acd73a31",
+    "status": "ACTIVE",
+    "noOfSections": "4",
+    "programChapterId": "67ac7b9e12a2fd05b9e779b0",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac7bb2edf0051bb4f71a70",
+    "displayOrder": 8,
+    "title": "Electromagnetic Waves",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/87482154-2a0e-4f45-a739-62687f13ad68.zip",
+      "_id": "68bfcf3062d2c0ba0ceceac5"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-5 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Electromagnetic Waves are important for understanding how electric and magnetic fields combine to form waves that travel through space. It covers key topics like Maxwell’s equations, displacement current, and the properties of electromagnetic waves. The chapter also explains the electromagnetic spectrum and its different types, such as radio waves, microwaves, infrared, visible light, and X-rays, along with their applications. These concepts are widely used in communication, medical imaging, and wireless technology. Understanding this chapter helps in solving problems related to wave propagation, energy transmission, and spectrum analysis.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 13
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Electromagnetic Waves are important for understanding how electric and magnetic fields combine to form waves that travel through space. It covers key topics like Maxwell’s equations, displacement current, and the properties of electromagnetic waves. The chapter also explains the electromagnetic spectrum and its different types, such as radio waves, microwaves, infrared, visible light, and X-rays, along with their applications. These concepts are widely used in communication, medical imaging, and wireless technology. Understanding this chapter helps in solving problems related to wave propagation, energy transmission, and spectrum analysis.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Electromagnetic Waves are important for understanding how electric and magnetic fields combine to form waves that travel through space. It covers key topics like Maxwell’s equations, displacement current, and the properties of electromagnetic waves. The chapter also explains the electromagnetic spectrum and its different types, such as radio waves, microwaves, infrared, visible light, and X-rays, along with their applications. These concepts are widely used in communication, medical imaging, and wireless technology. Understanding this chapter helps in solving problems related to wave propagation, energy transmission, and spectrum analysis.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 13
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 10
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682bee2165d1ecbd1dcfd040",
+        "numberOfQuestions": 87,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971e98ab864d8844c223c32"
+      },
+      {
+        "testId": "6886805ea7e21d0cd36ce7c8",
+        "numberOfQuestions": 71,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971e98ab864d8844c223c33"
+      },
+      {
+        "testId": "6884f1547db6370a6503f4bf",
+        "numberOfQuestions": 14,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971e98ab864d8844c223c34"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d83eef8819792af5f2697",
+        "numberOfQuestions": 32,
+        "_id": "6971e98ab864d8844c223c31"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "68552d11d21feeb46ac49183",
+        "numberOfQuestions": 41,
+        "_id": "6971e98ab864d8844c223c30"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f4b86aefb54d168bc81d4",
+        "numberOfQuestions": 10,
+        "_id": "6971e98ab864d8844c223c2f"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.745Z",
+    "updatedAt": "2026-01-22T09:10:34.885Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 214.5,
+    "pageStart": 200.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 8,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "electromagnetic-waves",
+    "seo": {
+      "titleTag": "Electromagnetic Waves - Physics Part I (Class XII) | PW Books",
+      "coverImageAltText": "Electromagnetic Waves - Physics Part I (Class XII) | PW Books",
+      "ogTitle": "Electromagnetic Waves - Physics Part I (Class XII) | PW Books",
+      "shortDescription": "Read Electromagnetic Waves from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electromagnetic Waves from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electromagnetic Waves from Physics Part I (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3b7c020a-1e27-4625-aebb-82ccfedbec0b.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682bee2165d1ecbd1dcfd040",
+        "type": "Board PYQs",
+        "numberOfQuestions": 87
+      },
+      {
+        "testId": "6886805ea7e21d0cd36ce7c8",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 71
+      },
+      {
+        "testId": "6884f1547db6370a6503f4bf",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 14
+      },
+      {
+        "testId": "682d83eef8819792af5f2697",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 32
+      },
+      {
+        "testId": "68552d11d21feeb46ac49183",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 41
+      }
+    ],
+    "pyqQuestions": 172,
+    "exemplerQuestions": 32,
+    "mcqQuestions": 41,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d83eef8819792af5f2697",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "68552d11d21feeb46ac49183",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682bee2165d1ecbd1dcfd040",
+      "6886805ea7e21d0cd36ce7c8",
+      "6884f1547db6370a6503f4bf",
+      "682d83eef8819792af5f2697",
+      "68552d11d21feeb46ac49183"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  }
+]

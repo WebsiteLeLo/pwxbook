@@ -1,0 +1,1412 @@
+[
+  {
+    "_id": "6776ba7fcf7f97b31c8b37b0",
+    "bookId": "67763972a7479393acd73a33",
+    "status": "ACTIVE",
+    "noOfSections": "10",
+    "programChapterId": "67aafd1761962f997243b3a7",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67aafd25b330713286449555",
+    "displayOrder": 1,
+    "title": "Some Basic Concepts Of Chemistry",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/94d54506-a8c0-4dcc-9309-b41481ece154.zip",
+      "_id": "68d27307ec8b17d919c35215"
+    },
+    "entryFilePath": "/OEBPS/Text/Unit-1_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This chapter is an initial step toward the world of chemistry and is useful in upcoming chapters and the building blocks of chemistry many questions come from this chapter in JEE/NEET/Boards exams.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This chapter is an initial step into the world of chemistry. It is useful for all upcoming chapters and is a building block of chemistry. Many questions come from this chapter in JEE/NEET/Boards exams.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 12
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 24
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 20
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6886f49607f2ef1caa94f07c",
+        "numberOfQuestions": 100,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847dd9584ca9f6c1093314"
+      },
+      {
+        "testId": "6886263a997522fb0b9b69b2",
+        "numberOfQuestions": 11,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847dd9584ca9f6c1093315"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682ee1ea42ad11cc622cce33",
+        "numberOfQuestions": 45,
+        "_id": "69847dd9584ca9f6c1093313"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684d4da461d547c0510b9d5c",
+        "numberOfQuestions": 14,
+        "_id": "69847dd9584ca9f6c1093312"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6885d65c231f2ca23ada6f8d",
+        "numberOfQuestions": 36,
+        "_id": "69847dd9584ca9f6c1093311"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.771Z",
+    "updatedAt": "2026-02-05T11:24:09.066Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 27.51,
+    "pageStart": 0.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "some-basic-concepts-of-chemistry",
+    "seo": {
+      "titleTag": "Some Basic Concepts Of Chemistry - Chemistry Part I (Class XI) | PW Books",
+      "coverImageAltText": "Some Basic Concepts Of Chemistry - Chemistry Part I (Class XI) | PW Books",
+      "ogTitle": "Some Basic Concepts Of Chemistry - Chemistry Part I (Class XI) | PW Books",
+      "shortDescription": "Read Some Basic Concepts Of Chemistry from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Some Basic Concepts Of Chemistry from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Some Basic Concepts Of Chemistry from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3fa9b88f-fe76-4de8-8b6f-216796342e66.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6886f49607f2ef1caa94f07c",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 100
+      },
+      {
+        "testId": "6886263a997522fb0b9b69b2",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 11
+      },
+      {
+        "testId": "682ee1ea42ad11cc622cce33",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 45
+      },
+      {
+        "testId": "684d4da461d547c0510b9d5c",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 14
+      }
+    ],
+    "pyqQuestions": 111,
+    "exemplerQuestions": 45,
+    "mcqQuestions": 14,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682ee1ea42ad11cc622cce33",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684d4da461d547c0510b9d5c",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6886f49607f2ef1caa94f07c",
+      "6886263a997522fb0b9b69b2",
+      "682ee1ea42ad11cc622cce33",
+      "684d4da461d547c0510b9d5c"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b37b7",
+    "bookId": "67763972a7479393acd73a33",
+    "status": "ACTIVE",
+    "noOfSections": "6",
+    "programChapterId": "67ab05dfc4bd2cd30b0ba66a",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab060027d18990934fcddd",
+    "displayOrder": 2,
+    "title": "Structure Of Atom",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/91e719f7-1c8d-4fb2-a433-ef2162f3743b.zip",
+      "_id": "6929592289c3e20cebdd589f"
+    },
+    "entryFilePath": "/OEBPS/Text/Unit-2_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter is very helpful in understanding upcoming chapters as it provides insighintoof the atom and its properties, and electronic configuration which is helpful in upcoming chapters and in jee/neet so many questions come from this chapter.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 13
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 22
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 23
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 26
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 22
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter is very helpful in understanding upcoming chapters as it provides insight into the atom and its properties, and electronic configuration which is helpful in upcoming chapters and in jee/neet so many questions come from this chapter.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68d133b03ac77064447032dd",
+        "numberOfQuestions": 95,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847e0cf24c83724068895d"
+      },
+      {
+        "testId": "68862722997522fb0b9b69b9",
+        "numberOfQuestions": 8,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847e0cf24c83724068895e"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682ee286fefe8ed89362e230",
+        "numberOfQuestions": 57,
+        "_id": "69847e0cf24c83724068895c"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684d4ec52ca6de5211c15050",
+        "numberOfQuestions": 71,
+        "_id": "69847e0cf24c83724068895b"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6885d73161dd7a843ecc80ba",
+        "numberOfQuestions": 67,
+        "_id": "69847e0cf24c83724068895a"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.773Z",
+    "updatedAt": "2026-02-05T11:25:00.944Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 72.51,
+    "pageStart": 28.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "structure-of-atom",
+    "seo": {
+      "titleTag": "Structure Of Atom - Chemistry Part I (Class XI) | PW Books",
+      "coverImageAltText": "Structure Of Atom - Chemistry Part I (Class XI) | PW Books",
+      "ogTitle": "Structure Of Atom - Chemistry Part I (Class XI) | PW Books",
+      "shortDescription": "Read Structure Of Atom from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Structure Of Atom from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Structure Of Atom from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3fa9b88f-fe76-4de8-8b6f-216796342e66.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68d133b03ac77064447032dd",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 95
+      },
+      {
+        "testId": "68862722997522fb0b9b69b9",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 8
+      },
+      {
+        "testId": "682ee286fefe8ed89362e230",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 57
+      },
+      {
+        "testId": "684d4ec52ca6de5211c15050",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 71
+      }
+    ],
+    "pyqQuestions": 103,
+    "exemplerQuestions": 57,
+    "mcqQuestions": 71,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682ee286fefe8ed89362e230",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684d4ec52ca6de5211c15050",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68d133b03ac77064447032dd",
+      "68862722997522fb0b9b69b9",
+      "682ee286fefe8ed89362e230",
+      "684d4ec52ca6de5211c15050"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b37be",
+    "bookId": "67763972a7479393acd73a33",
+    "status": "ACTIVE",
+    "noOfSections": "7",
+    "programChapterId": "67aafe45cd4d7143323b0e3b",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67aafe54fab721007481a1d9",
+    "displayOrder": 3,
+    "title": "Classification Of Elements And Periodicity In Properties",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1bbaf3b7-b738-4c99-8b30-88fcbb5f2128.zip",
+      "_id": "68d26f3d927c96944dd8e87b"
+    },
+    "entryFilePath": "/OEBPS/Text/Unit-3_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter helps us in understanding properties related to various elements and also helps them to classify them and also helps in upcoming chapters and good number of questions were asked from this chapter in jee/neet/boards examinations.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 16
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 16
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 15
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 21
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter helps us in understanding properties related to various elements and also helps them to classify them and also helps in upcoming chapters and good number of questions were asked from this chapter in jee/neet/boards examinations.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6886fa21d71e482dafa7622c",
+        "numberOfQuestions": 123,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847e148864003bf17e31bd"
+      },
+      {
+        "testId": "688627f1231f2ca23ae2bbc3",
+        "numberOfQuestions": 15,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847e148864003bf17e31be"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682ee3986f1a6d5045816225",
+        "numberOfQuestions": 57,
+        "_id": "69847e148864003bf17e31bc"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684d509b82e67a0af831a487",
+        "numberOfQuestions": 54,
+        "_id": "69847e148864003bf17e31bb"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68d13645dba00ed3b23fb1c4",
+        "numberOfQuestions": 40,
+        "_id": "69847e148864003bf17e31ba"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.776Z",
+    "updatedAt": "2026-02-05T11:25:08.368Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 98.51,
+    "pageStart": 73.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "classification-of-elements-and-periodicity-in-properties",
+    "seo": {
+      "titleTag": "Classification Of Elements And Periodicity In Properties - Chemistry Part I (Class XI) | PW Books",
+      "coverImageAltText": "Classification Of Elements And Periodicity In Properties - Chemistry Part I (Class XI) | PW Books",
+      "ogTitle": "Classification Of Elements And Periodicity In Properties - Chemistry Part I (Class XI) | PW Books",
+      "shortDescription": "Read Classification Of Elements And Periodicity In Properties from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Classification Of Elements And Periodicity In Properties from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Classification Of Elements And Periodicity In Properties from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3fa9b88f-fe76-4de8-8b6f-216796342e66.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6886fa21d71e482dafa7622c",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 123
+      },
+      {
+        "testId": "688627f1231f2ca23ae2bbc3",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "682ee3986f1a6d5045816225",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 57
+      },
+      {
+        "testId": "684d509b82e67a0af831a487",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 54
+      }
+    ],
+    "pyqQuestions": 138,
+    "exemplerQuestions": 57,
+    "mcqQuestions": 54,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682ee3986f1a6d5045816225",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684d509b82e67a0af831a487",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6886fa21d71e482dafa7622c",
+      "688627f1231f2ca23ae2bbc3",
+      "682ee3986f1a6d5045816225",
+      "684d509b82e67a0af831a487"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b37c5",
+    "bookId": "67763972a7479393acd73a33",
+    "status": "ACTIVE",
+    "noOfSections": "9",
+    "programChapterId": "67ab05ea60da46b9f08e9d1a",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab05f3c444394223818bcf",
+    "displayOrder": 4,
+    "title": "Chemical Bonding And Molecular Structure",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4ee55c8e-4b89-4e09-8e7e-367bb618baf5.zip",
+      "_id": "68bfcfd838b9b065399e1e45"
+    },
+    "entryFilePath": "/OEBPS/Text/Unit-4_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>Chemical Bonding is a very important chapter as it provides basics of how elements combine and form molecules, and compounds and also deals with their properties this chapter is also helpful in upcoming chapters and a good amount of questions arise from this chapter in various examinations.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 12
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 21
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 23
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 23
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 42
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>Chemical Bonding is a very important chapter as it provides basics of how elements combine and form molecules, and compounds and also deals with their properties this chapter is also helpful in upcoming chapters and a good amount of questions arise from this chapter in various examinations.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6886fb559499abc8630abeab",
+        "numberOfQuestions": 128,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847e1b8ad433b57d736da5"
+      },
+      {
+        "testId": "6886289cebf79f35d68641b9",
+        "numberOfQuestions": 17,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847e1b8ad433b57d736da6"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682ee4ce3a6bdb2cc68da243",
+        "numberOfQuestions": 68,
+        "_id": "69847e1b8ad433b57d736da4"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684d51e70b9062ff942c3297",
+        "numberOfQuestions": 119,
+        "_id": "69847e1b8ad433b57d736da3"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f08511b5b3dac4b719469",
+        "numberOfQuestions": 40,
+        "_id": "69847e1b8ad433b57d736da2"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.781Z",
+    "updatedAt": "2026-02-05T11:25:15.798Z",
+    "__v": 0,
+    "chapterVersion": 4,
+    "isImportant": 0,
+    "pageEnd": 134.51,
+    "pageStart": 99.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "chemical-bonding-and-molecular-structure",
+    "seo": {
+      "titleTag": "Chemical Bonding And Molecular Structure - Chemistry Part I (Class XI) | PW Books",
+      "coverImageAltText": "Chemical Bonding And Molecular Structure - Chemistry Part I (Class XI) | PW Books",
+      "ogTitle": "Chemical Bonding And Molecular Structure - Chemistry Part I (Class XI) | PW Books",
+      "shortDescription": "Read Chemical Bonding And Molecular Structure from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Chemical Bonding And Molecular Structure from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Chemical Bonding And Molecular Structure from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3fa9b88f-fe76-4de8-8b6f-216796342e66.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6886fb559499abc8630abeab",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 128
+      },
+      {
+        "testId": "6886289cebf79f35d68641b9",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 17
+      },
+      {
+        "testId": "682ee4ce3a6bdb2cc68da243",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 68
+      },
+      {
+        "testId": "684d51e70b9062ff942c3297",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 119
+      }
+    ],
+    "pyqQuestions": 145,
+    "exemplerQuestions": 68,
+    "mcqQuestions": 119,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682ee4ce3a6bdb2cc68da243",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684d51e70b9062ff942c3297",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6886fb559499abc8630abeab",
+      "6886289cebf79f35d68641b9",
+      "682ee4ce3a6bdb2cc68da243",
+      "684d51e70b9062ff942c3297"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b37cc",
+    "bookId": "67763972a7479393acd73a33",
+    "status": "ACTIVE",
+    "noOfSections": "7",
+    "programChapterId": "67ab060bc10b39b11dfe3d5c",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab0610e20ea4a56eb2c89d",
+    "displayOrder": 5,
+    "title": "Thermodynamics",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/dc2148d5-6dad-468b-b8f1-a5fede04af77.zip",
+      "_id": "68bfcfe630b4122758db4983"
+    },
+    "entryFilePath": "/OEBPS/Text/Unit-6 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter it helps in understanding the concepts of energy, heat, work, etc. Concepts from this chapter will help in chapters like Chemical Equilibrium and electrochemistry, etc and also so many questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 21
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 13
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 23
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 23
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 20
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter it helps in understanding the concepts of energy, heat, work, etc. Concepts from this chapter will help in chapters like Chemical Equilibrium and electrochemistry, etc and also so many questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 7
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6886fcaa6baaa6292e1e52f5",
+        "numberOfQuestions": 116,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847e25c0fc255a25795f9c"
+      },
+      {
+        "testId": "6886292a5ae4daf27d706ae4",
+        "numberOfQuestions": 15,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847e25c0fc255a25795f9d"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682ee57dfefe8ed89362e6b3",
+        "numberOfQuestions": 62,
+        "_id": "69847e25c0fc255a25795f9b"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684d52ec2e4f62e7c3334304",
+        "numberOfQuestions": 56,
+        "_id": "69847e25c0fc255a25795f9a"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f08c3312ea687f5dd41c4",
+        "numberOfQuestions": 22,
+        "_id": "69847e25c0fc255a25795f99"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.786Z",
+    "updatedAt": "2026-02-05T11:25:25.456Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 166.51,
+    "pageStart": 135.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "thermodynamics",
+    "seo": {
+      "titleTag": "Thermodynamics - Chemistry Part I (Class XI) | PW Books",
+      "coverImageAltText": "Thermodynamics - Chemistry Part I (Class XI) | PW Books",
+      "ogTitle": "Thermodynamics - Chemistry Part I (Class XI) | PW Books",
+      "shortDescription": "Read Thermodynamics from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Thermodynamics from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Thermodynamics from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3fa9b88f-fe76-4de8-8b6f-216796342e66.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6886fcaa6baaa6292e1e52f5",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 116
+      },
+      {
+        "testId": "6886292a5ae4daf27d706ae4",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "682ee57dfefe8ed89362e6b3",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 62
+      },
+      {
+        "testId": "684d52ec2e4f62e7c3334304",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 56
+      }
+    ],
+    "pyqQuestions": 131,
+    "exemplerQuestions": 62,
+    "mcqQuestions": 56,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682ee57dfefe8ed89362e6b3",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684d52ec2e4f62e7c3334304",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6886fcaa6baaa6292e1e52f5",
+      "6886292a5ae4daf27d706ae4",
+      "682ee57dfefe8ed89362e6b3",
+      "684d52ec2e4f62e7c3334304"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b37d3",
+    "bookId": "67763972a7479393acd73a33",
+    "status": "ACTIVE",
+    "noOfSections": "13",
+    "programChapterId": "67ab0619c444394223818be3",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab061ec007a74578f3bf4e",
+    "displayOrder": 6,
+    "title": "Equilibrium",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9ce51f98-45f5-45fb-9df1-a526659c68b9.zip",
+      "_id": "69295cc6040cca21e55717be"
+    },
+    "entryFilePath": "/OEBPS/Text/final_output_with_ids_with_sections.html",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter in this we get to know about processes like reversibility and how a process attains equilibrium also we get to know about acid, bases, and pH-related calculations. Overall learnings from from this chapter will help in upcoming chapters like electrochemistry, and chemical kinetics. So many questions arise in different examinations from this chapter.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter in this we get to know about processes like reversibility and how a process attains equilibrium and also we get to know about acid, bases, and pH-related calculations. Overall learnings from this chapter will help in upcoming chapters like in electrochemistry, and chemical kinetics. So many questions arise in different examinations from this chapter.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 19
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 32
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 20
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 23
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 20
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68862a23afdfe85db2294226",
+        "numberOfQuestions": 19,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847e2c1aeb5b6d9317208a"
+      },
+      {
+        "testId": "6886fe07231f2ca23af5b136",
+        "numberOfQuestions": 125,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847e2c1aeb5b6d9317208b"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682ee62f3ede0046be93c820",
+        "numberOfQuestions": 54,
+        "_id": "69847e2c1aeb5b6d93172089"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6851980a9751ebed6bf2d96f",
+        "numberOfQuestions": 126,
+        "_id": "69847e2c1aeb5b6d93172088"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f092f4897b8dbfdd8d031",
+        "numberOfQuestions": 73,
+        "_id": "69847e2c1aeb5b6d93172087"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.789Z",
+    "updatedAt": "2026-02-05T11:25:32.992Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 214.5,
+    "pageStart": 167.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 6,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "equilibrium",
+    "seo": {
+      "titleTag": "Equilibrium - Chemistry Part I (Class XI) | PW Books",
+      "coverImageAltText": "Equilibrium - Chemistry Part I (Class XI) | PW Books",
+      "ogTitle": "Equilibrium - Chemistry Part I (Class XI) | PW Books",
+      "shortDescription": "Read Equilibrium from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Equilibrium from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Equilibrium from Chemistry Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3fa9b88f-fe76-4de8-8b6f-216796342e66.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68862a23afdfe85db2294226",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 19
+      },
+      {
+        "testId": "6886fe07231f2ca23af5b136",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 125
+      },
+      {
+        "testId": "682ee62f3ede0046be93c820",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 54
+      },
+      {
+        "testId": "6851980a9751ebed6bf2d96f",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 126
+      }
+    ],
+    "pyqQuestions": 144,
+    "exemplerQuestions": 54,
+    "mcqQuestions": 126,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682ee62f3ede0046be93c820",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6851980a9751ebed6bf2d96f",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68862a23afdfe85db2294226",
+      "6886fe07231f2ca23af5b136",
+      "682ee62f3ede0046be93c820",
+      "6851980a9751ebed6bf2d96f"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  }
+]

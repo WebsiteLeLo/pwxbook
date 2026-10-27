@@ -1,0 +1,419 @@
+[
+  {
+    "_id": "69a247cd05664f09f558c67b",
+    "bookId": "699fdf7240a7151958fa79ae",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Light Reflection and Refraction",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T01:41:33.447Z",
+    "updatedAt": "2026-07-22T21:43:32.802Z",
+    "__v": 0,
+    "totalPageCount": 154,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a17b953547b247a364234f",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a17c69d7a092e9616c08cd",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a17cd8f3af2092cde8e0a6",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a17c0f9ec1472cd3692258",
+        "numberOfQuestions": 7
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a17d51e83099b3733cc2e3",
+        "numberOfQuestions": 18
+      }
+    ],
+    "programChapterId": "699fc7bea7da6f9c981ba512",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a0577e5f8c222c7b1465e4",
+    "pageSliceVersion": 1,
+    "slug": "light-reflection-and-refraction",
+    "seo": {
+      "titleTag": "Light Reflection and Refraction - Udaan Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Light Reflection and Refraction - Udaan Physics (Digital Module) | PW Books",
+      "ogTitle": "Light Reflection and Refraction - Udaan Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Light Reflection and Refraction from Udaan Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Light Reflection and Refraction from Udaan Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Light Reflection and Refraction from Udaan Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f3e0ea35-3fd3-4b00-be5a-71b2b7312c52.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "69a247e5ec530fba8552f98c",
+    "bookId": "699fdf7240a7151958fa79ae",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Human Eye and the Colourful World",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T01:41:57.103Z",
+    "updatedAt": "2026-07-22T21:43:39.183Z",
+    "__v": 0,
+    "totalPageCount": 96,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a17ff67d13555fa2e9f8d2",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a180efe83099b3733cc97b",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a1814ef5bfc247450a13b2",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a1804ddc5f9a371613a5a6",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a181acf5bfc247450a13cf",
+        "numberOfQuestions": 13
+      }
+    ],
+    "programChapterId": "699fc7bea7da6f9c981ba512",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a05791e7bb7194bbf30dbe",
+    "pageSliceVersion": 1,
+    "slug": "human-eye-and-the-colourful-world",
+    "seo": {
+      "titleTag": "Human Eye and the Colourful World - Udaan Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Human Eye and the Colourful World - Udaan Physics (Digital Module) | PW Books",
+      "ogTitle": "Human Eye and the Colourful World - Udaan Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Human Eye and the Colourful World from Udaan Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Human Eye and the Colourful World from Udaan Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Human Eye and the Colourful World from Udaan Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f3e0ea35-3fd3-4b00-be5a-71b2b7312c52.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "69a247fe9a50122b494e408f",
+    "bookId": "699fdf7240a7151958fa79ae",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Electricity",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T01:42:22.817Z",
+    "updatedAt": "2026-07-22T21:43:48.917Z",
+    "__v": 0,
+    "totalPageCount": 127,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a17de237a9d1f4fadb19ed",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 Match the columns",
+        "testId": "69a17ea29ec1472cd3692b78",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-3 Assertion Reason",
+        "testId": "69a17f09d7a092e9616c13b9",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-4 Statement based",
+        "testId": "69a17e3ee83099b3733cc426",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Exercise-5 MCQ",
+        "testId": "69a17f76dc5f9a371613a368",
+        "numberOfQuestions": 19
+      }
+    ],
+    "programChapterId": "699fc7bea7da6f9c981ba512",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a05787093ecc727fa21438",
+    "pageSliceVersion": 1,
+    "slug": "electricity",
+    "seo": {
+      "titleTag": "Electricity - Udaan Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Electricity - Udaan Physics (Digital Module) | PW Books",
+      "ogTitle": "Electricity - Udaan Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Electricity from Udaan Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electricity from Udaan Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electricity from Udaan Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f3e0ea35-3fd3-4b00-be5a-71b2b7312c52.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "69a2481dc0a2fa8176464152",
+    "bookId": "699fdf7240a7151958fa79ae",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Magnetic Effects of Electric Current",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-28T01:42:53.523Z",
+    "updatedAt": "2026-07-22T21:43:58.505Z",
+    "__v": 0,
+    "totalPageCount": 129,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 True/False",
+        "testId": "69a18247dc5f9a371613a6b6",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Exercise-2 MCQ",
+        "testId": "69a182ad37a9d1f4fadb29a0",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "699fc7bea7da6f9c981ba512",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "69a0579d21a6ddb3e42c7f42",
+    "pageSliceVersion": 1,
+    "slug": "magnetic-effects-of-electric-current",
+    "seo": {
+      "titleTag": "Magnetic Effects of Electric Current - Udaan Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Magnetic Effects of Electric Current - Udaan Physics (Digital Module) | PW Books",
+      "ogTitle": "Magnetic Effects of Electric Current - Udaan Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Magnetic Effects of Electric Current from Udaan Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Magnetic Effects of Electric Current from Udaan Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Magnetic Effects of Electric Current from Udaan Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f3e0ea35-3fd3-4b00-be5a-71b2b7312c52.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  }
+]

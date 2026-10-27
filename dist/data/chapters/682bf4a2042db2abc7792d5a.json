@@ -1,0 +1,542 @@
+[
+  {
+    "_id": "6835b261bf9810593d0453f5",
+    "bookId": "682bf4a2042db2abc7792d5a",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "The Story of Village Palampur",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d31c366a-43a0-48a0-8fb2-4753f76750f2.zip",
+      "_id": "68c3c4e4a9662cfcb8981b85"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf16f3179d9ffca513c3"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "691edf16f3179d9ffca513c2"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf16f3179d9ffca513c1"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685be5e78c2ad66a55f7110e",
+        "numberOfQuestions": 14,
+        "_id": "691edf16f3179d9ffca513c0"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "685be5c659030f868f152c29",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:24:06.777Z",
+    "updatedAt": "2025-11-20T09:27:50.472Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 14.51,
+    "pageStart": 0.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "the-story-of-village-palampur",
+    "seo": {
+      "titleTag": "The Story of Village Palampur - Economics Class IX | PW Books",
+      "coverImageAltText": "The Story of Village Palampur - Economics Class IX | PW Books",
+      "ogTitle": "The Story of Village Palampur - Economics Class IX | PW Books",
+      "shortDescription": "Read The Story of Village Palampur from Economics Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The Story of Village Palampur from Economics Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The Story of Village Palampur from Economics Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9e8ca429-1321-4851-b7f5-bd20c9f2bf6a.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835b261bf9810593d0453fb",
+    "bookId": "682bf4a2042db2abc7792d5a",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "People as Resource",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d5a7d7ba-1506-49be-ad3d-b969c64dc5d3.zip",
+      "_id": "68c3c4ffa9662cfcb8981c9c"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf142e2504b66ea926cf"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "691edf142e2504b66ea926ce"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf142e2504b66ea926cd"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685be7876c5ab0f96218f4e1",
+        "numberOfQuestions": 15,
+        "_id": "691edf142e2504b66ea926cc"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "685be69c4bfb022b1b1ef120",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:24:11.557Z",
+    "updatedAt": "2025-11-20T09:27:48.797Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 27.51,
+    "pageStart": 15.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "people-as-resource",
+    "seo": {
+      "titleTag": "People as Resource - Economics Class IX | PW Books",
+      "coverImageAltText": "People as Resource - Economics Class IX | PW Books",
+      "ogTitle": "People as Resource - Economics Class IX | PW Books",
+      "shortDescription": "Read People as Resource from Economics Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read People as Resource from Economics Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read People as Resource from Economics Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9e8ca429-1321-4851-b7f5-bd20c9f2bf6a.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835b261bf9810593d045401",
+    "bookId": "682bf4a2042db2abc7792d5a",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Poverty as a Challenge",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4ed36ff7-0b36-4d08-a721-7df8ac5eb898.zip",
+      "_id": "68c3c5204df6d7b75fb411b4"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf14c2fbc01f42145ae2"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "691edf14c2fbc01f42145ae1"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf14c2fbc01f42145ae0"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685be862b9027497881e71b2",
+        "numberOfQuestions": 9,
+        "_id": "691edf14c2fbc01f42145adf"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "685be80bd5eef9d3cb02298b",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:24:15.170Z",
+    "updatedAt": "2025-11-20T09:27:48.603Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 40.51,
+    "pageStart": 28.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "poverty-as-a-challenge",
+    "seo": {
+      "titleTag": "Poverty as a Challenge - Economics Class IX | PW Books",
+      "coverImageAltText": "Poverty as a Challenge - Economics Class IX | PW Books",
+      "ogTitle": "Poverty as a Challenge - Economics Class IX | PW Books",
+      "shortDescription": "Read Poverty as a Challenge from Economics Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Poverty as a Challenge from Economics Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Poverty as a Challenge from Economics Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9e8ca429-1321-4851-b7f5-bd20c9f2bf6a.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835b261bf9810593d045407",
+    "bookId": "682bf4a2042db2abc7792d5a",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Food Security in India",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/069a4abe-3bea-41b6-96b8-8013b156ccb2.zip",
+      "_id": "694ce78dd9f39d323faeeb50"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "694ce78dd9f39d323faeeb4f"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "694ce78dd9f39d323faeeb4e"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "694ce78dd9f39d323faeeb4d"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "685be9908c2ad66a55f7206f",
+        "numberOfQuestions": 15,
+        "_id": "694ce78dd9f39d323faeeb4c"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "676bf3d64b13857264256872",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "685be8f0d105ca292cd8168d",
+    "chapterVersion": 3,
+    "createdAt": "2025-06-20T08:24:18.202Z",
+    "updatedAt": "2025-12-25T07:28:13.893Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 54.51,
+    "pageStart": 41.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "food-security-in-india",
+    "seo": {
+      "titleTag": "Food Security in India - Economics Class IX | PW Books",
+      "coverImageAltText": "Food Security in India - Economics Class IX | PW Books",
+      "ogTitle": "Food Security in India - Economics Class IX | PW Books",
+      "shortDescription": "Read Food Security in India from Economics Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Food Security in India from Economics Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Food Security in India from Economics Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9e8ca429-1321-4851-b7f5-bd20c9f2bf6a.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  }
+]

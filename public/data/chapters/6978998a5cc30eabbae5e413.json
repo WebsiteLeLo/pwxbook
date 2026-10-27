@@ -1,0 +1,751 @@
+[
+  {
+    "_id": "69789c916fd02612fde0e263",
+    "bookId": "6978998a5cc30eabbae5e413",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Sexual Reproduction in Flowering Plant",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-27T11:08:01.112Z",
+    "updatedAt": "2026-07-22T19:35:32.803Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "6980803fa1290375f3a7fdd9",
+        "numberOfQuestions": 16
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698081e16352dbd6d834fad4",
+        "numberOfQuestions": 81
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "6980815c7ff3c627154d92dc",
+        "numberOfQuestions": 41
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698080d00271ec00cf0c374f",
+        "numberOfQuestions": 37
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "6980829610bf2ebcaf848fe0",
+        "numberOfQuestions": 53
+      }
+    ],
+    "programChapterId": "697c776d9375636efa8ff8b0",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "697c78159375636efa8ffc8c",
+    "totalPageCount": 48,
+    "pageSliceVersion": 1,
+    "slug": "sexual-reproduction-in-flowering-plant",
+    "seo": {
+      "titleTag": "Sexual Reproduction in Flowering Plant - Lakshya NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Sexual Reproduction in Flowering Plant - Lakshya NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Sexual Reproduction in Flowering Plant - Lakshya NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Sexual Reproduction in Flowering Plant from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Sexual Reproduction in Flowering Plant from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Sexual Reproduction in Flowering Plant from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/123a0f38-7b17-46e2-b60f-46dd782a3e46.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "69789cbff35b4104d2e2e158",
+    "bookId": "6978998a5cc30eabbae5e413",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Molecular Basis of Inheritance",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-27T11:08:47.057Z",
+    "updatedAt": "2026-07-22T19:35:36.968Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "6980854006a45d327e052732",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "6980871012d4ec85f1b3de97",
+        "numberOfQuestions": 142
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "6980867d6352dbd6d83578e9",
+        "numberOfQuestions": 36
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698085ef06a45d327e0529c7",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "6980899612d4ec85f1b3e31a",
+        "numberOfQuestions": 62
+      }
+    ],
+    "programChapterId": "697c776d9375636efa8ff8b0",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "697c7820e6d691ec51bbc0cb",
+    "totalPageCount": 69,
+    "pageSliceVersion": 1,
+    "slug": "molecular-basis-of-inheritance",
+    "seo": {
+      "titleTag": "Molecular Basis of Inheritance - Lakshya NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Molecular Basis of Inheritance - Lakshya NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Molecular Basis of Inheritance - Lakshya NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Molecular Basis of Inheritance from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Molecular Basis of Inheritance from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Molecular Basis of Inheritance from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/123a0f38-7b17-46e2-b60f-46dd782a3e46.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6979cdf76b7fef7106faf197",
+    "bookId": "6978998a5cc30eabbae5e413",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Principle of Inheritance and Variation",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-28T08:51:03.039Z",
+    "updatedAt": "2026-07-22T19:35:40.770Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698091216352dbd6d8384003",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698092d80271ec00cf0cb654",
+        "numberOfQuestions": 121
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "6980922e74ddd895d73e67f6",
+        "numberOfQuestions": 37
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698091a5a1290375f3ab86c9",
+        "numberOfQuestions": 35
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698093b66352dbd6d83a011a",
+        "numberOfQuestions": 56
+      }
+    ],
+    "programChapterId": "697c776d9375636efa8ff8b0",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "697c782b06cd982424229117",
+    "totalPageCount": 65,
+    "pageSliceVersion": 1,
+    "slug": "principle-of-inheritance-and-variation",
+    "seo": {
+      "titleTag": "Principle of Inheritance and Variation - Lakshya NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Principle of Inheritance and Variation - Lakshya NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Principle of Inheritance and Variation - Lakshya NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Principle of Inheritance and Variation from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Principle of Inheritance and Variation from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Principle of Inheritance and Variation from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/123a0f38-7b17-46e2-b60f-46dd782a3e46.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6979a1758c942917791e013b",
+    "bookId": "6978998a5cc30eabbae5e413",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Microbes in Human Welfare",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-28T05:41:09.370Z",
+    "updatedAt": "2026-07-22T19:35:42.279Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698094f00271ec00cf0cb932",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "6980a11406a45d327e14d0c4",
+        "numberOfQuestions": 70
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "6980a08caf0718f9ab4e581f",
+        "numberOfQuestions": 23
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "6980a01106a45d327e140b72",
+        "numberOfQuestions": 35
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "6980a212a1290375f3b82795",
+        "numberOfQuestions": 25
+      }
+    ],
+    "programChapterId": "697c776d9375636efa8ff8b0",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "697c7837e0961728f5bbdfd1",
+    "totalPageCount": 24,
+    "pageSliceVersion": 1,
+    "slug": "microbes-in-human-welfare",
+    "seo": {
+      "titleTag": "Microbes in Human Welfare - Lakshya NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Microbes in Human Welfare - Lakshya NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Microbes in Human Welfare - Lakshya NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Microbes in Human Welfare from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Microbes in Human Welfare from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Microbes in Human Welfare from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/123a0f38-7b17-46e2-b60f-46dd782a3e46.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6979a1a11e4cacdb0af67e16",
+    "bookId": "6978998a5cc30eabbae5e413",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Organisms and Population",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-28T05:41:53.222Z",
+    "updatedAt": "2026-07-22T19:35:44.662Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "6981540a2263c5c66fd40edd",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698155b41ed374a1186ee239",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698155042263c5c66fd40f87",
+        "numberOfQuestions": 19
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "6981548c1470e50869b54bf6",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698156a07ff3c627154e84e7",
+        "numberOfQuestions": 32
+      }
+    ],
+    "programChapterId": "697c776d9375636efa8ff8b0",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "697c78430e808e84e62b1a25",
+    "totalPageCount": 42,
+    "pageSliceVersion": 1,
+    "slug": "organisms-and-population",
+    "seo": {
+      "titleTag": "Organisms and Population - Lakshya NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Organisms and Population - Lakshya NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Organisms and Population - Lakshya NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Organisms and Population from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Organisms and Population from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Organisms and Population from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/123a0f38-7b17-46e2-b60f-46dd782a3e46.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6979a1d06e779e93191b26fb",
+    "bookId": "6978998a5cc30eabbae5e413",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Ecosystem",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-28T05:42:40.464Z",
+    "updatedAt": "2026-07-22T19:35:46.439Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698157422b3431a9e3b7ef87",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "6981590e7ff3c627154e8513",
+        "numberOfQuestions": 56
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "6981587e1470e50869b54ee1",
+        "numberOfQuestions": 25
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698157b71ed374a1186ee29d",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698159d12b3431a9e3b7efaf",
+        "numberOfQuestions": 19
+      }
+    ],
+    "programChapterId": "697c776d9375636efa8ff8b0",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "697c784e3cfba078bdbc884c",
+    "totalPageCount": 27,
+    "pageSliceVersion": 1,
+    "slug": "ecosystem",
+    "seo": {
+      "titleTag": "Ecosystem - Lakshya NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Ecosystem - Lakshya NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Ecosystem - Lakshya NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Ecosystem from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Ecosystem from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Ecosystem from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/123a0f38-7b17-46e2-b60f-46dd782a3e46.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "6979a1fed7e931c4da61b9f7",
+    "bookId": "6978998a5cc30eabbae5e413",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Biodiversity and Conservation",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-28T05:43:26.762Z",
+    "updatedAt": "2026-07-22T19:35:48.073Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "69815ae3ca342353575407f5",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "69815c94ee4784d56c4e7162",
+        "numberOfQuestions": 52
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "69815c057ff3c627154e8602",
+        "numberOfQuestions": 16
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "69815b75ee4784d56c4e70c7",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "69815d6dbc868b710aa68321",
+        "numberOfQuestions": 38
+      }
+    ],
+    "programChapterId": "697c776d9375636efa8ff8b0",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "697c785a516927b3c1e73ad5",
+    "totalPageCount": 25,
+    "pageSliceVersion": 1,
+    "slug": "biodiversity-and-conservation",
+    "seo": {
+      "titleTag": "Biodiversity and Conservation - Lakshya NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Biodiversity and Conservation - Lakshya NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Biodiversity and Conservation - Lakshya NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Biodiversity and Conservation from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biodiversity and Conservation from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biodiversity and Conservation from Lakshya NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/123a0f38-7b17-46e2-b60f-46dd782a3e46.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  }
+]

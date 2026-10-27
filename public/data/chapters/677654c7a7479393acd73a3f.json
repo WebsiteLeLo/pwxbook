@@ -1,0 +1,1662 @@
+[
+  {
+    "_id": "6776ba7fcf7f97b31c8b377f",
+    "bookId": "677654c7a7479393acd73a3f",
+    "status": "ACTIVE",
+    "noOfSections": "7",
+    "programChapterId": "67ac7e3c12a2fd05b9e77a66",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac7e48114416e81fd461bc",
+    "displayOrder": 9,
+    "title": "Ray Optics And Optical Instruments",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a410dfc6-3162-4190-9e75-83938f476924.zip",
+      "_id": "68d26ba3162384de48109709"
+    },
+    "entryFilePath": "/OEBPS/Text/Ch_09_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This chapter explains how light behaves when it reflects and refracts through different surfaces. It covers key topics like reflection, refraction, total internal reflection, and image formation by mirrors and lenses. The chapter also explains the working of optical instruments such as microscopes and telescopes and their practical applications. These concepts are widely used in optical devices, photography, and scientific research. Understanding this chapter helps in solving problems related to light propagation, image formation, and lens applications.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 20
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 13
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 25
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 24
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 25
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This chapter explains how light behaves when it reflects and refracts through different surfaces. It covers key topics like reflection, refraction, total internal reflection, and image formation by mirrors and lenses. The chapter also explains the working of optical instruments such as microscopes and telescopes and their practical applications. These concepts are widely used in optical devices, photography, and scientific research. Understanding this chapter helps in solving problems related to light propagation, image formation, and lens applications.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This chapter explains how light behaves when it reflects and refracts through different surfaces. It covers key topics like reflection, refraction, total internal reflection, and image formation by mirrors and lenses. The chapter also explains the working of optical instruments such as microscopes and telescopes and their practical applications. These concepts are widely used in optical devices, photography, and scientific research. Understanding this chapter helps in solving problems related to light propagation, image formation, and lens applications.</p>\n</body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 27
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 25
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 19
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682bed52f9ece6a9f09a3773",
+        "numberOfQuestions": 200,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971eaa7d92a350eb1e479d8"
+      },
+      {
+        "testId": "6886817f61dd7a843ef2cba8",
+        "numberOfQuestions": 138,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971eaa7d92a350eb1e479d9"
+      },
+      {
+        "testId": "68c7daa6751a098e78214a55",
+        "numberOfQuestions": 20,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971eaa7d92a350eb1e479da"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d84b2ba445b8571f30904",
+        "numberOfQuestions": 32,
+        "_id": "6971eaa7d92a350eb1e479d7"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "68552e0ce8f1cd507401fbd0",
+        "numberOfQuestions": 91,
+        "_id": "6971eaa7d92a350eb1e479d6"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f4c22a2da9ffe437b27e0",
+        "numberOfQuestions": 31,
+        "_id": "6971eaa7d92a350eb1e479d5"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.742Z",
+    "updatedAt": "2026-01-22T09:15:19.049Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 253.51,
+    "pageStart": 220.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 9,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "ray-optics-and-optical-instruments",
+    "seo": {
+      "titleTag": "Ray Optics And Optical Instruments - Physics Part II (Class XII) | PW Books",
+      "coverImageAltText": "Ray Optics And Optical Instruments - Physics Part II (Class XII) | PW Books",
+      "ogTitle": "Ray Optics And Optical Instruments - Physics Part II (Class XII) | PW Books",
+      "shortDescription": "Read Ray Optics And Optical Instruments from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Ray Optics And Optical Instruments from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Ray Optics And Optical Instruments from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b14e3964-5845-4ffd-ac5f-f8b4ce5b6330.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682bed52f9ece6a9f09a3773",
+        "type": "Board PYQs",
+        "numberOfQuestions": 200
+      },
+      {
+        "testId": "6886817f61dd7a843ef2cba8",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 138
+      },
+      {
+        "testId": "68c7daa6751a098e78214a55",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "682d84b2ba445b8571f30904",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 32
+      },
+      {
+        "testId": "68552e0ce8f1cd507401fbd0",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 91
+      }
+    ],
+    "pyqQuestions": 358,
+    "exemplerQuestions": 32,
+    "mcqQuestions": 91,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d84b2ba445b8571f30904",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "68552e0ce8f1cd507401fbd0",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682bed52f9ece6a9f09a3773",
+      "6886817f61dd7a843ef2cba8",
+      "68c7daa6751a098e78214a55",
+      "682d84b2ba445b8571f30904",
+      "68552e0ce8f1cd507401fbd0"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b378d",
+    "bookId": "677654c7a7479393acd73a3f",
+    "status": "ACTIVE",
+    "noOfSections": "7",
+    "programChapterId": "67ac7e8f82afc331b00ba0b4",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac7e9e8633c2203955553b",
+    "displayOrder": 10,
+    "title": "Wave Optics",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2c4e0b34-5209-4ec6-9c62-a0d3b6d840ce.zip",
+      "_id": "68c917bda588a5763e8a7eaa"
+    },
+    "entryFilePath": "/OEBPS/Text/Ch_10 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Wave Optics are important for understanding the wave nature of light. It covers key topics like Huygens’ principle, interference, diffraction, and polarization, which explain various optical phenomena. The chapter also discusses Young’s double-slit experiment, which provides strong evidence for the wave theory of light. These concepts are widely used in optical instruments, holography, and modern physics. Understanding this chapter helps in solving problems related to wave behavior, light interference, and diffraction patterns.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 12
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 12
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 12
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Wave Optics are important for understanding the wave nature of light. It covers key topics like Huygens’ principle, interference, diffraction, and polarization, which explain various optical phenomena. The chapter also discusses Young’s double-slit experiment, which provides strong evidence for the wave theory of light. These concepts are widely used in optical instruments, holography, and modern physics. Understanding this chapter helps in solving problems related to wave behavior, light interference, and diffraction patterns.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Wave Optics are important for understanding the wave nature of light. It covers key topics like Huygens’ principle, interference, diffraction, and polarization, which explain various optical phenomena. The chapter also discusses Young’s double-slit experiment, which provides strong evidence for the wave theory of light. These concepts are widely used in optical instruments, holography, and modern physics. Understanding this chapter helps in solving problems related to wave behavior, light interference, and diffraction patterns.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 20
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 15
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 22
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 14
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682beb5328de05ea0f2d73b9",
+        "numberOfQuestions": 142,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971ebe49049a139ad38f33d"
+      },
+      {
+        "testId": "6884f5fcc80eed15fbe82fb9",
+        "numberOfQuestions": 7,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971ebe49049a139ad38f33e"
+      },
+      {
+        "testId": "68868274ebf79f35d686795d",
+        "numberOfQuestions": 70,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971ebe49049a139ad38f33f"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d85ade65d5574ecc4fe42",
+        "numberOfQuestions": 23,
+        "_id": "6971ebe49049a139ad38f33c"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "68552ee9d21feeb46ac494c2",
+        "numberOfQuestions": 64,
+        "_id": "6971ebe49049a139ad38f33b"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f4c9642ad11cc622d1cf1",
+        "numberOfQuestions": 6,
+        "_id": "6971ebe49049a139ad38f33a"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.747Z",
+    "updatedAt": "2026-01-22T09:20:36.303Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 272.51,
+    "pageStart": 254.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 10,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "wave-optics",
+    "seo": {
+      "titleTag": "Wave Optics - Physics Part II (Class XII) | PW Books",
+      "coverImageAltText": "Wave Optics - Physics Part II (Class XII) | PW Books",
+      "ogTitle": "Wave Optics - Physics Part II (Class XII) | PW Books",
+      "shortDescription": "Read Wave Optics from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Wave Optics from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Wave Optics from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b14e3964-5845-4ffd-ac5f-f8b4ce5b6330.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682beb5328de05ea0f2d73b9",
+        "type": "Board PYQs",
+        "numberOfQuestions": 142
+      },
+      {
+        "testId": "6884f5fcc80eed15fbe82fb9",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 7
+      },
+      {
+        "testId": "68868274ebf79f35d686795d",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 70
+      },
+      {
+        "testId": "682d85ade65d5574ecc4fe42",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 23
+      },
+      {
+        "testId": "68552ee9d21feeb46ac494c2",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 64
+      }
+    ],
+    "pyqQuestions": 219,
+    "exemplerQuestions": 23,
+    "mcqQuestions": 64,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d85ade65d5574ecc4fe42",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "68552ee9d21feeb46ac494c2",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682beb5328de05ea0f2d73b9",
+      "6884f5fcc80eed15fbe82fb9",
+      "68868274ebf79f35d686795d",
+      "682d85ade65d5574ecc4fe42",
+      "68552ee9d21feeb46ac494c2"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3794",
+    "bookId": "677654c7a7479393acd73a3f",
+    "status": "ACTIVE",
+    "noOfSections": "8",
+    "programChapterId": "67ac80084c5372c20a669070",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac8016607417bea4909fc6",
+    "displayOrder": 11,
+    "title": "Dual Nature Of Radiation And Matter",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3d35b15f-7ea0-47c2-b7a1-4c160e1ec8ac.zip",
+      "_id": "68c918138ce9a79e33088550"
+    },
+    "entryFilePath": "/OEBPS/Text/Ch_11_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter is important for understanding how radiation and particles exhibit both wave and particle properties. It explains concepts like wave-particle duality, the photoelectric effect, and de Broglie wavelength, which are vital in modern physics. These ideas are widely used in semiconductors, electron microscopes, and advanced technologies. Learning this chapter helps in applying these principles to scientific research, electronics, and quantum mechanics.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 15
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 14
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 19
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 23
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 20
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter is important for understanding how radiation and particles exhibit both wave and particle properties. It explains concepts like wave-particle duality, the photoelectric effect, and de Broglie wavelength, which are vital in modern physics. These ideas are widely used in semiconductors, electron microscopes, and advanced technologies. Learning this chapter helps in applying these principles to scientific research, electronics, and quantum mechanics.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter is important for understanding how radiation and particles exhibit both wave and particle properties. It explains concepts like wave-particle duality, the photoelectric effect, and de Broglie wavelength, which are vital in modern physics. These ideas are widely used in semiconductors, electron microscopes, and advanced technologies. Learning this chapter helps in applying these principles to scientific research, electronics, and quantum mechanics.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 14
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 13
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 19
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 13
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682beac8523b2b5fc5d27d11",
+        "numberOfQuestions": 124,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971eabf45872e67e3712fd9"
+      },
+      {
+        "testId": "6886efa907f2ef1caa941f06",
+        "numberOfQuestions": 108,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971eabf45872e67e3712fda"
+      },
+      {
+        "testId": "6884f6ea2f01145dde691070",
+        "numberOfQuestions": 12,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971eabf45872e67e3712fdb"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d8649ce28f27f0a002160",
+        "numberOfQuestions": 29,
+        "_id": "6971eabf45872e67e3712fd8"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "685530f16b62dd2bd2996d47",
+        "numberOfQuestions": 72,
+        "_id": "6971eabf45872e67e3712fd7"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f4d2f48854edd53119a56",
+        "numberOfQuestions": 11,
+        "_id": "6971eabf45872e67e3712fd6"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.751Z",
+    "updatedAt": "2026-01-22T09:15:43.619Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 288.51,
+    "pageStart": 273.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 11,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "dual-nature-of-radiation-and-matter",
+    "seo": {
+      "titleTag": "Dual Nature Of Radiation And Matter - Physics Part II (Class XII) | PW Books",
+      "coverImageAltText": "Dual Nature Of Radiation And Matter - Physics Part II (Class XII) | PW Books",
+      "ogTitle": "Dual Nature Of Radiation And Matter - Physics Part II (Class XII) | PW Books",
+      "shortDescription": "Read Dual Nature Of Radiation And Matter from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Dual Nature Of Radiation And Matter from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Dual Nature Of Radiation And Matter from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b14e3964-5845-4ffd-ac5f-f8b4ce5b6330.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682beac8523b2b5fc5d27d11",
+        "type": "Board PYQs",
+        "numberOfQuestions": 124
+      },
+      {
+        "testId": "6886efa907f2ef1caa941f06",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 108
+      },
+      {
+        "testId": "6884f6ea2f01145dde691070",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 12
+      },
+      {
+        "testId": "682d8649ce28f27f0a002160",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 29
+      },
+      {
+        "testId": "685530f16b62dd2bd2996d47",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 72
+      }
+    ],
+    "pyqQuestions": 244,
+    "exemplerQuestions": 29,
+    "mcqQuestions": 72,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d8649ce28f27f0a002160",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "685530f16b62dd2bd2996d47",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682beac8523b2b5fc5d27d11",
+      "6886efa907f2ef1caa941f06",
+      "6884f6ea2f01145dde691070",
+      "682d8649ce28f27f0a002160",
+      "685530f16b62dd2bd2996d47"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b379b",
+    "bookId": "677654c7a7479393acd73a3f",
+    "status": "ACTIVE",
+    "noOfSections": "6",
+    "programChapterId": "67ac816a8ae6443f2684bbd3",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac81788633c220395555d4",
+    "displayOrder": 12,
+    "title": "Atoms",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c011f169-6a62-4fd6-9563-056cc8c905a7.zip",
+      "_id": "69295fa00602a9f7204d9a46"
+    },
+    "entryFilePath": "/OEBPS/Text/Ch_12_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter explains the structure of an atom and how electrons move around the nucleus. It includes Rutherford&rsquo;s model, which discovered the nucleus, and Bohr&rsquo;s model, which explains electron orbits and energy levels. The chapter also covers atomic spectra, showing how atoms emit light in specific patterns. It helps in understanding electron behavior, quantum mechanics, and the foundation of modern physics.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 14
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 18
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter explains the structure of an atom and how electrons move around the nucleus. It includes Rutherford&rsquo;s model, which discovered the nucleus, and Bohr&rsquo;s model, which explains electron orbits and energy levels. The chapter also covers atomic spectra, showing how atoms emit light in specific patterns. It helps in understanding electron behavior, quantum mechanics, and the foundation of modern physics.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2020",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The chapter explains the structure of an atom and how electrons move around the nucleus. It includes Rutherford&rsquo;s model, which discovered the nucleus, and Bohr&rsquo;s model, which explains electron orbits and energy levels. The chapter also covers atomic spectra, showing how atoms emit light in specific patterns. It helps in understanding electron behavior, quantum mechanics, and the foundation of modern physics.</p>\n</body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 15
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 14
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 8
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682be9a1f9ece6a9f09a35aa",
+        "numberOfQuestions": 104,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971eacc3c957d5f3363104c"
+      },
+      {
+        "testId": "6886f0edd71e482dafa5bcab",
+        "numberOfQuestions": 73,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971eacc3c957d5f3363104d"
+      },
+      {
+        "testId": "6886228d5ae4daf27d70689c",
+        "numberOfQuestions": 9,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971eacc3c957d5f3363104e"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d86c8e65d5574ecc4fe6d",
+        "numberOfQuestions": 29,
+        "_id": "6971eacc3c957d5f3363104b"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "685534c3fa75892c73262271",
+        "numberOfQuestions": 55,
+        "_id": "6971eacc3c957d5f3363104a"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f4da26120b9da8d8cf2b5",
+        "numberOfQuestions": 9,
+        "_id": "6971eacc3c957d5f33631049"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.757Z",
+    "updatedAt": "2026-01-22T09:15:56.229Z",
+    "__v": 0,
+    "chapterVersion": 4,
+    "isImportant": 0,
+    "pageEnd": 304.51,
+    "pageStart": 289.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 12,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "atoms",
+    "seo": {
+      "titleTag": "Atoms - Physics Part II (Class XII) | PW Books",
+      "coverImageAltText": "Atoms - Physics Part II (Class XII) | PW Books",
+      "ogTitle": "Atoms - Physics Part II (Class XII) | PW Books",
+      "shortDescription": "Read Atoms from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Atoms from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Atoms from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b14e3964-5845-4ffd-ac5f-f8b4ce5b6330.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682be9a1f9ece6a9f09a35aa",
+        "type": "Board PYQs",
+        "numberOfQuestions": 104
+      },
+      {
+        "testId": "6886f0edd71e482dafa5bcab",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 73
+      },
+      {
+        "testId": "6886228d5ae4daf27d70689c",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 9
+      },
+      {
+        "testId": "682d86c8e65d5574ecc4fe6d",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 29
+      },
+      {
+        "testId": "685534c3fa75892c73262271",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 55
+      }
+    ],
+    "pyqQuestions": 186,
+    "exemplerQuestions": 29,
+    "mcqQuestions": 55,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d86c8e65d5574ecc4fe6d",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "685534c3fa75892c73262271",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682be9a1f9ece6a9f09a35aa",
+      "6886f0edd71e482dafa5bcab",
+      "6886228d5ae4daf27d70689c",
+      "682d86c8e65d5574ecc4fe6d",
+      "685534c3fa75892c73262271"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b37a2",
+    "bookId": "677654c7a7479393acd73a3f",
+    "status": "ACTIVE",
+    "noOfSections": "7",
+    "programChapterId": "67ac823d93f6bf31a68e6d2b",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac824cab7dedd14c657aac",
+    "displayOrder": 13,
+    "title": "Nuclei",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/29bfbf06-a0ca-41c4-b468-79488f52bacc.zip",
+      "_id": "68c918cbcd2df67ccf033d66"
+    },
+    "entryFilePath": "/OEBPS/Text/Ch_13_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Nuclei explain the structure and properties of the atomic nucleus. It covers nuclear size, mass, and binding energy, helping to understand nuclear stability. The chapter also discusses radioactivity, including alpha, beta, and gamma decay, and their applications. Concepts like nuclear fission and fusion are explained, which are important for energy production. This chapter helps in learning about nuclear reactions, power generation, and medical applications of radiation.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 19
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 15
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Nuclei explain the structure and properties of the atomic nucleus. It covers nuclear size, mass, and binding energy, helping to understand nuclear stability. The chapter also discusses radioactivity, including alpha, beta, and gamma decay, and their applications. Concepts like nuclear fission and fusion are explained, which are important for energy production. This chapter helps in learning about nuclear reactions, power generation, and medical applications of radiation.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Nuclei explain the structure and properties of the atomic nucleus. It covers nuclear size, mass, and binding energy, helping to understand nuclear stability. The chapter also discusses radioactivity, including alpha, beta, and gamma decay, and their applications. Concepts like nuclear fission and fusion are explained, which are important for energy production. This chapter helps in learning about nuclear reactions, power generation, and medical applications of radiation.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 13
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 6
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682be8ddf9ece6a9f09a3594",
+        "numberOfQuestions": 74,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971ead8f69b435ce68a5899"
+      },
+      {
+        "testId": "6886f22f9499abc8630ab971",
+        "numberOfQuestions": 93,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971ead8f69b435ce68a589a"
+      },
+      {
+        "testId": "688623f361dd7a843ee159a0",
+        "numberOfQuestions": 12,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971ead8f69b435ce68a589b"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d872eba445b8571f30a28",
+        "numberOfQuestions": 26,
+        "_id": "6971ead8f69b435ce68a5898"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6855358e877fbf20941d50b6",
+        "numberOfQuestions": 71,
+        "_id": "6971ead8f69b435ce68a5897"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f4e17aefb54d168bc821a",
+        "numberOfQuestions": 10,
+        "_id": "6971ead8f69b435ce68a5896"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.762Z",
+    "updatedAt": "2026-01-22T09:16:08.849Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 321.51,
+    "pageStart": 305.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 13,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "nuclei",
+    "seo": {
+      "titleTag": "Nuclei - Physics Part II (Class XII) | PW Books",
+      "coverImageAltText": "Nuclei - Physics Part II (Class XII) | PW Books",
+      "ogTitle": "Nuclei - Physics Part II (Class XII) | PW Books",
+      "shortDescription": "Read Nuclei from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Nuclei from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Nuclei from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b14e3964-5845-4ffd-ac5f-f8b4ce5b6330.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682be8ddf9ece6a9f09a3594",
+        "type": "Board PYQs",
+        "numberOfQuestions": 74
+      },
+      {
+        "testId": "6886f22f9499abc8630ab971",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 93
+      },
+      {
+        "testId": "688623f361dd7a843ee159a0",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 12
+      },
+      {
+        "testId": "682d872eba445b8571f30a28",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 26
+      },
+      {
+        "testId": "6855358e877fbf20941d50b6",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 71
+      }
+    ],
+    "pyqQuestions": 179,
+    "exemplerQuestions": 26,
+    "mcqQuestions": 71,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d872eba445b8571f30a28",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6855358e877fbf20941d50b6",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682be8ddf9ece6a9f09a3594",
+      "6886f22f9499abc8630ab971",
+      "688623f361dd7a843ee159a0",
+      "682d872eba445b8571f30a28",
+      "6855358e877fbf20941d50b6"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b37a9",
+    "bookId": "677654c7a7479393acd73a3f",
+    "status": "ACTIVE",
+    "noOfSections": "7",
+    "programChapterId": "67ac8356064f296309e929d7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac8363806bc2a6dcd436ec",
+    "displayOrder": 14,
+    "title": "Semiconductor Electronics: Materials, Devices And Simple Circuits",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ddd9b04c-feaf-4db1-b18c-711f959b8d3b.zip",
+      "_id": "68c918f1f260f066e33af23f"
+    },
+    "entryFilePath": "/OEBPS/Text/Ch_14_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Semiconductor Electronics is important because it explains the working of devices like diodes, transistors, and logic gates that are the backbone of modern electronics. It introduces concepts like p-n junctions, rectifiers, and amplification, which are crucial for understanding communication and digital circuits. This knowledge is foundational for careers in engineering, technology, and research in electronics.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 5
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Semiconductor Electronics is important because it explains the working of devices like diodes, transistors, and logic gates that are the backbone of modern electronics. It introduces concepts like p-n junctions, rectifiers, and amplification, which are crucial for understanding communication and digital circuits. This knowledge is foundational for careers in engineering, technology, and research in electronics.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>Semiconductor Electronics is important because it explains the working of devices like diodes, transistors, and logic gates that are the backbone of modern electronics. It introduces concepts like p-n junctions, rectifiers, and amplification, which are crucial for understanding communication and digital circuits. This knowledge is foundational for careers in engineering, technology, and research in electronics.</p></body></html>",
+        "exams": "SCHOOL_PREPARATION",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for Boards",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2023",
+                "yAxis": 24
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 23
+              },
+              {
+                "xAxis": "2019",
+                "yAxis": 16
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "682be7690255280764bb870a",
+        "numberOfQuestions": 170,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "6971eae9d5718ceb425d66e2"
+      },
+      {
+        "testId": "688624aeebf79f35d6864161",
+        "numberOfQuestions": 1,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6971eae9d5718ceb425d66e3"
+      },
+      {
+        "testId": "6886f2da231f2ca23af2f585",
+        "numberOfQuestions": 110,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6971eae9d5718ceb425d66e4"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d8790cfda4a7a75623395",
+        "numberOfQuestions": 30,
+        "_id": "6971eae9d5718ceb425d66e1"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6855361d18246a5701fda7b6",
+        "numberOfQuestions": 71,
+        "_id": "6971eae9d5718ceb425d66e0"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f4ea06120b9da8d8cf2ce",
+        "numberOfQuestions": 6,
+        "_id": "6971eae9d5718ceb425d66df"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.766Z",
+    "updatedAt": "2026-01-22T09:16:25.364Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 343.5,
+    "pageStart": 322.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 14,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "semiconductor-electronics-materials-devices-and-simple-circuits",
+    "seo": {
+      "titleTag": "Semiconductor Electronics: Materials, Devices And Simple Circuits - Physics Part II (Class XII) | PW Books",
+      "coverImageAltText": "Semiconductor Electronics: Materials, Devices And Simple Circuits - Physics Part II (Class XII) | PW Books",
+      "ogTitle": "Semiconductor Electronics: Materials, Devices And Simple Circuits - Physics Part II (Class XII) | PW Books",
+      "shortDescription": "Read Semiconductor Electronics: Materials, Devices And Simple Circuits from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Semiconductor Electronics: Materials, Devices And Simple Circuits from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Semiconductor Electronics: Materials, Devices And Simple Circuits from Physics Part II (Class XII). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b14e3964-5845-4ffd-ac5f-f8b4ce5b6330.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "682be7690255280764bb870a",
+        "type": "Board PYQs",
+        "numberOfQuestions": 170
+      },
+      {
+        "testId": "688624aeebf79f35d6864161",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 1
+      },
+      {
+        "testId": "6886f2da231f2ca23af2f585",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 110
+      },
+      {
+        "testId": "682d8790cfda4a7a75623395",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 30
+      },
+      {
+        "testId": "6855361d18246a5701fda7b6",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 71
+      }
+    ],
+    "pyqQuestions": 281,
+    "exemplerQuestions": 30,
+    "mcqQuestions": 71,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d8790cfda4a7a75623395",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6855361d18246a5701fda7b6",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "682be7690255280764bb870a",
+      "688624aeebf79f35d6864161",
+      "6886f2da231f2ca23af2f585",
+      "682d8790cfda4a7a75623395",
+      "6855361d18246a5701fda7b6"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  }
+]

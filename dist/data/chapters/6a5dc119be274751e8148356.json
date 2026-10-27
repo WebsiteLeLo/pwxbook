@@ -1,0 +1,1149 @@
+[
+  {
+    "_id": "6a7aef2c4eb144a7e0db9046",
+    "bookId": "6a5dc119be274751e8148356",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Exploration Entering the World of Secondary Science",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0c2218d1-8484-4db3-886f-968cca541e90.zip",
+      "_id": "6a7aef2c4eb144a7e0db9047"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": true,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-11T09:45:16.841Z",
+    "updatedAt": "2026-08-11T09:45:16.841Z",
+    "__v": 0,
+    "slug": "exploration-entering-the-world-of-secondary-science",
+    "seo": {
+      "titleTag": "Exploration Entering the World of Secondary Science - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "coverImageAltText": "Exploration Entering the World of Secondary Science - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "ogTitle": "Exploration Entering the World of Secondary Science - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "shortDescription": "Read Exploration Entering the World of Secondary Science from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Exploration Entering the World of Secondary Science from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Exploration Entering the World of Secondary Science from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5bc6261f-1f51-43be-88e3-ca941084b98a.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a7aefce4a92c0574b6fa9e4",
+    "bookId": "6a5dc119be274751e8148356",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Cell The Building Block of Life",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/496971ae-1ad2-4c8a-9ef1-d4057553fd1e.zip",
+      "_id": "6a7aefce4a92c0574b6fa9e5"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-11T09:47:58.896Z",
+    "updatedAt": "2026-08-31T10:35:41.182Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a9537e93b1662258c97ae86",
+        "numberOfQuestions": 20
+      }
+    ],
+    "programChapterId": "6a95281f80146c4302c3b1ff",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a9530d5f34dc2bde627d6c4",
+    "slug": "cell-the-building-block-of-life",
+    "seo": {
+      "titleTag": "Cell The Building Block of Life - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "coverImageAltText": "Cell The Building Block of Life - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "ogTitle": "Cell The Building Block of Life - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "shortDescription": "Read Cell The Building Block of Life from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Cell The Building Block of Life from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Cell The Building Block of Life from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5bc6261f-1f51-43be-88e3-ca941084b98a.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a7aeffeb69f510f23cec5bd",
+    "bookId": "6a5dc119be274751e8148356",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Tissues in Action",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/33fb2acb-3fb0-41e4-bdde-3ccf5df04590.zip",
+      "_id": "6a7aeffeb69f510f23cec5be"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-11T09:48:46.233Z",
+    "updatedAt": "2026-08-31T10:36:18.746Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a95381075fa6dbd5a4d6c9b",
+        "numberOfQuestions": 20
+      }
+    ],
+    "programChapterId": "6a95281f80146c4302c3b1ff",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a9530e66680439ab98faf2b",
+    "slug": "tissues-in-action",
+    "seo": {
+      "titleTag": "Tissues in Action - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "coverImageAltText": "Tissues in Action - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "ogTitle": "Tissues in Action - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "shortDescription": "Read Tissues in Action from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Tissues in Action from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Tissues in Action from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5bc6261f-1f51-43be-88e3-ca941084b98a.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a7af02c0f4381ad2b58e795",
+    "bookId": "6a5dc119be274751e8148356",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Describing Motion Around Us",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8ec935cb-b451-4c7a-8dab-574779a689f2.zip",
+      "_id": "6a7af02c0f4381ad2b58e796"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-11T09:49:32.878Z",
+    "updatedAt": "2026-08-31T10:37:29.628Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a953832785ed43f6eb0c342",
+        "numberOfQuestions": 20
+      }
+    ],
+    "programChapterId": "6a95281f80146c4302c3b1ff",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a9530f44200383d2f180af7",
+    "slug": "describing-motion-around-us",
+    "seo": {
+      "titleTag": "Describing Motion Around Us - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "coverImageAltText": "Describing Motion Around Us - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "ogTitle": "Describing Motion Around Us - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "shortDescription": "Read Describing Motion Around Us from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Describing Motion Around Us from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Describing Motion Around Us from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5bc6261f-1f51-43be-88e3-ca941084b98a.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a7af0695e34da035f26854b",
+    "bookId": "6a5dc119be274751e8148356",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Exploring Mixtures and their Separation",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/66d3e012-a27a-4677-be12-90d048b1df85.zip",
+      "_id": "6a7af0695e34da035f26854c"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-11T09:50:33.471Z",
+    "updatedAt": "2026-08-31T10:38:01.672Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a95385b670257f910cb67ae",
+        "numberOfQuestions": 29
+      }
+    ],
+    "programChapterId": "6a95281f80146c4302c3b1ff",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a95310580146c4302c46295",
+    "slug": "exploring-mixtures-and-their-separation",
+    "seo": {
+      "titleTag": "Exploring Mixtures and their Separation - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "coverImageAltText": "Exploring Mixtures and their Separation - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "ogTitle": "Exploring Mixtures and their Separation - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "shortDescription": "Read Exploring Mixtures and their Separation from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Exploring Mixtures and their Separation from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Exploring Mixtures and their Separation from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5bc6261f-1f51-43be-88e3-ca941084b98a.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a7af0a816783d00cf640284",
+    "bookId": "6a5dc119be274751e8148356",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "How Forces Affect Motion",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3ff43a12-2efb-4ab6-a453-ea789677cbd1.zip",
+      "_id": "6a7af0a816783d00cf640285"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-11T09:51:36.666Z",
+    "updatedAt": "2026-08-31T10:53:11.719Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a95387d75fa6dbd5a4d6d2d",
+        "numberOfQuestions": 14
+      }
+    ],
+    "programChapterId": "6a95281f80146c4302c3b1ff",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a953131bc9e38c6c48d58f2",
+    "slug": "how-forces-affect-motion",
+    "seo": {
+      "titleTag": "How Forces Affect Motion - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "coverImageAltText": "How Forces Affect Motion - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "ogTitle": "How Forces Affect Motion - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "shortDescription": "Read How Forces Affect Motion from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read How Forces Affect Motion from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read How Forces Affect Motion from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5bc6261f-1f51-43be-88e3-ca941084b98a.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a7af0ebf8e6ef3fa20ad376",
+    "bookId": "6a5dc119be274751e8148356",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Work, Energy, and Simple Machines",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/285e64c3-e976-4739-b065-50f874be081f.zip",
+      "_id": "6a8be0b20bae1408253adc02"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 6,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-11T09:52:43.262Z",
+    "updatedAt": "2026-08-31T10:53:59.845Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a95421e977fbef5ac2d3e8d",
+        "numberOfQuestions": 21
+      }
+    ],
+    "programChapterId": "6a95281f80146c4302c3b1ff",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a953144359ba1661db49d7b",
+    "slug": "work-energy-and-simple-machines",
+    "seo": {
+      "titleTag": "Work, Energy, and Simple Machines - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "coverImageAltText": "Work, Energy, and Simple Machines - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "ogTitle": "Work, Energy, and Simple Machines - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "shortDescription": "Read Work, Energy, and Simple Machines from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Work, Energy, and Simple Machines from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Work, Energy, and Simple Machines from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5bc6261f-1f51-43be-88e3-ca941084b98a.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a7af125ef52086129ccc59d",
+    "bookId": "6a5dc119be274751e8148356",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Journey Inside the Atom",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ac2f79c9-b1b5-4ff5-bd1a-6a34a42f4c88.zip",
+      "_id": "6a7af125ef52086129ccc59e"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-11T09:53:41.519Z",
+    "updatedAt": "2026-08-31T10:54:32.805Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a954266f15674a52126e7d0",
+        "numberOfQuestions": 24
+      }
+    ],
+    "programChapterId": "6a95281f80146c4302c3b1ff",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a95315ece6eede01a153246",
+    "slug": "journey-inside-the-atom",
+    "seo": {
+      "titleTag": "Journey Inside the Atom - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "coverImageAltText": "Journey Inside the Atom - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "ogTitle": "Journey Inside the Atom - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "shortDescription": "Read Journey Inside the Atom from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Journey Inside the Atom from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Journey Inside the Atom from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5bc6261f-1f51-43be-88e3-ca941084b98a.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a7af16116783d00cf641526",
+    "bookId": "6a5dc119be274751e8148356",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Atomic Foundations of Matter",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7bcfb68e-3307-488d-994c-9a951e804989.zip",
+      "_id": "6a7af16116783d00cf641527"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-11T09:54:41.796Z",
+    "updatedAt": "2026-08-31T10:55:03.173Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a9542cafa704a9c760b7f7e",
+        "numberOfQuestions": 21
+      }
+    ],
+    "programChapterId": "6a95281f80146c4302c3b1ff",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a9531734bf961e31d78ecfb",
+    "slug": "atomic-foundations-of-matter",
+    "seo": {
+      "titleTag": "Atomic Foundations of Matter - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "coverImageAltText": "Atomic Foundations of Matter - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "ogTitle": "Atomic Foundations of Matter - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "shortDescription": "Read Atomic Foundations of Matter from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Atomic Foundations of Matter from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Atomic Foundations of Matter from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5bc6261f-1f51-43be-88e3-ca941084b98a.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a7af18d008fb3a985b3a658",
+    "bookId": "6a5dc119be274751e8148356",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Sound Waves Characteristics and Applications",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c8d990ec-1160-447d-8088-360d07bddf4e.zip",
+      "_id": "6a7af18d008fb3a985b3a659"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-11T09:55:25.756Z",
+    "updatedAt": "2026-08-31T10:56:07.511Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a95431ac7fc397f852bf5e4",
+        "numberOfQuestions": 15
+      }
+    ],
+    "programChapterId": "6a95281f80146c4302c3b1ff",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a95318680146c4302c4720d",
+    "slug": "sound-waves-characteristics-and-applications",
+    "seo": {
+      "titleTag": "Sound Waves Characteristics and Applications - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "coverImageAltText": "Sound Waves Characteristics and Applications - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "ogTitle": "Sound Waves Characteristics and Applications - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "shortDescription": "Read Sound Waves Characteristics and Applications from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Sound Waves Characteristics and Applications from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Sound Waves Characteristics and Applications from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5bc6261f-1f51-43be-88e3-ca941084b98a.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a7af1c48ac474586809d637",
+    "bookId": "6a5dc119be274751e8148356",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Reproduction How Life Continues",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1ac7a2a2-d34b-481c-9a20-883d6131a65c.zip",
+      "_id": "6a7af1c48ac474586809d638"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-11T09:56:20.276Z",
+    "updatedAt": "2026-08-31T10:56:57.261Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a954366e3a3de795b76e119",
+        "numberOfQuestions": 19
+      }
+    ],
+    "programChapterId": "6a95281f80146c4302c3b1ff",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a9531954b50ddd1f14f398e",
+    "slug": "reproduction-how-life-continues",
+    "seo": {
+      "titleTag": "Reproduction How Life Continues - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "coverImageAltText": "Reproduction How Life Continues - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "ogTitle": "Reproduction How Life Continues - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "shortDescription": "Read Reproduction How Life Continues from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Reproduction How Life Continues from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Reproduction How Life Continues from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5bc6261f-1f51-43be-88e3-ca941084b98a.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a7af218eab8314dff7e3698",
+    "bookId": "6a5dc119be274751e8148356",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Patterns in Life Diversity and Classification",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": true,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/01219f76-4363-4099-9140-272fd2fcc2e6.zip",
+      "_id": "6a7af218eab8314dff7e3699"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-11T09:57:44.364Z",
+    "updatedAt": "2026-08-31T10:57:28.283Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a95447cdbae0a7ee434dd2c",
+        "numberOfQuestions": 20
+      }
+    ],
+    "programChapterId": "6a95281f80146c4302c3b1ff",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a9531e69e6b607fb800e9a2",
+    "slug": "patterns-in-life-diversity-and-classification",
+    "seo": {
+      "titleTag": "Patterns in Life Diversity and Classification - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "coverImageAltText": "Patterns in Life Diversity and Classification - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "ogTitle": "Patterns in Life Diversity and Classification - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "shortDescription": "Read Patterns in Life Diversity and Classification from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Patterns in Life Diversity and Classification from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Patterns in Life Diversity and Classification from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5bc6261f-1f51-43be-88e3-ca941084b98a.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  },
+  {
+    "_id": "6a7af23f008fb3a985b3b797",
+    "bookId": "6a5dc119be274751e8148356",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Earth as a System Energy, Matter, and Life",
+    "noOfSections": "1",
+    "subject": "682ac49dc42a98eb879f940c",
+    "type": "HTML",
+    "chapterType": "CORE_CHAPTER",
+    "isAiGuruEnabled": true,
+    "isAiExplanationEnabled": false,
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a169ae11-f9d2-40d0-a2d3-512360c1935b.zip",
+      "_id": "6a7af23f008fb3a985b3b798"
+    },
+    "entryFilePath": "/index.html",
+    "pyq": [],
+    "exempler": [],
+    "readSet": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-08-11T09:58:23.724Z",
+    "updatedAt": "2026-08-31T10:57:59.754Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Question Bank Quiz",
+        "testId": "6a9544ceefd299bb97765a3f",
+        "numberOfQuestions": 27
+      }
+    ],
+    "programChapterId": "6a95281f80146c4302c3b1ff",
+    "programSectionId": "683ede9153e49f6377a2edac",
+    "programTopicId": "6a9531f318579b8ebfa25052",
+    "slug": "earth-as-a-system-energy-matter-and-life",
+    "seo": {
+      "titleTag": "Earth as a System Energy, Matter, and Life - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "coverImageAltText": "Earth as a System Energy, Matter, and Life - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "ogTitle": "Earth as a System Energy, Matter, and Life - Question and Concept Bank for Class 9 Science (Digital Book) | PW Books",
+      "shortDescription": "Read Earth as a System Energy, Matter, and Life from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Earth as a System Energy, Matter, and Life from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Earth as a System Energy, Matter, and Life from Question and Concept Bank for Class 9 Science (Digital Book). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5bc6261f-1f51-43be-88e3-ca941084b98a.png",
+      "indexable": true
+    },
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac49dc42a98eb879f940c",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "Others"
+      ],
+      "displayName": "Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:51.963Z",
+      "updatedAt": "2026-03-24T10:03:29.756Z",
+      "__v": 0,
+      "slug": "science"
+    }
+  }
+]

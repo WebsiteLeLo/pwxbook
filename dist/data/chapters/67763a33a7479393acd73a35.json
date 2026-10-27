@@ -1,0 +1,699 @@
+[
+  {
+    "_id": "6776ba7fcf7f97b31c8b37da",
+    "bookId": "67763a33a7479393acd73a35",
+    "status": "ACTIVE",
+    "noOfSections": "4",
+    "programChapterId": "67ab06292947c78638de059a",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab062f457201ac585fd39b",
+    "displayOrder": 7,
+    "title": "Redox Reactions",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4298514b-8865-445f-b475-ca886992c713.zip",
+      "_id": "68bfd0ad800a073cbf9a1c3b"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter here we get to know about redox reactions which have very vast applications in various reactions happening around us like corrosion of iron etc. This chapter will help in understanding the electrochemistry chapter. From this chapter, a very good amount of questions arise in various examinations.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 7
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important chapter here we get to know about redox reactions which have very vast applications in various reactions happening around us like corrosion of iron etc. This chapter will help in understanding the electrochemistry chapter. From this chapter, a very good amount of questions arise in various examinations.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6886ff2cdb333cecd4e681a6",
+        "numberOfQuestions": 44,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847eaf3b294590f68e39cf"
+      },
+      {
+        "testId": "68862b0e4e7a5c65f4d85972",
+        "numberOfQuestions": 6,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847eaf3b294590f68e39d0"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d9b580255280764bc4f3e",
+        "numberOfQuestions": 38,
+        "_id": "69847eaf3b294590f68e39ce"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "68519a750b9062ff944d0e6b",
+        "numberOfQuestions": 65,
+        "_id": "69847eaf3b294590f68e39cd"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f0a543ede0046be93ec19",
+        "numberOfQuestions": 4,
+        "_id": "69847eaf3b294590f68e39cc"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.792Z",
+    "updatedAt": "2026-02-05T11:27:43.262Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 254.51,
+    "pageStart": 234.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 7,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "redox-reactions",
+    "seo": {
+      "titleTag": "Redox Reactions - Chemistry Part II (Class XI) | PW Books",
+      "coverImageAltText": "Redox Reactions - Chemistry Part II (Class XI) | PW Books",
+      "ogTitle": "Redox Reactions - Chemistry Part II (Class XI) | PW Books",
+      "shortDescription": "Read Redox Reactions from Chemistry Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Redox Reactions from Chemistry Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Redox Reactions from Chemistry Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca72987a-3a7b-48e9-ada3-01ce2be70107.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6886ff2cdb333cecd4e681a6",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 44
+      },
+      {
+        "testId": "68862b0e4e7a5c65f4d85972",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 6
+      },
+      {
+        "testId": "682d9b580255280764bc4f3e",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 38
+      },
+      {
+        "testId": "68519a750b9062ff944d0e6b",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 65
+      }
+    ],
+    "pyqQuestions": 50,
+    "exemplerQuestions": 38,
+    "mcqQuestions": 65,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d9b580255280764bc4f3e",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "68519a750b9062ff944d0e6b",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6886ff2cdb333cecd4e681a6",
+      "68862b0e4e7a5c65f4d85972",
+      "682d9b580255280764bc4f3e",
+      "68519a750b9062ff944d0e6b"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b37e1",
+    "bookId": "67763a33a7479393acd73a35",
+    "status": "ACTIVE",
+    "noOfSections": "10",
+    "programChapterId": "67ab0638eb9cbb4665f9e4b3",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab063d39aa2dca9024a210",
+    "displayOrder": 8,
+    "title": "Organic Chemistry – Some Basic Principles And Techniques",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2bc1d566-168c-4c05-9395-2b5f2791c197.zip",
+      "_id": "69295db776ec82de475470f0"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-6 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter. This chapter is the building block of organic chemistry. In this chapter, we gained knowledge of how carbon makes four bonds how compounds of carbon are represented, and how they react. Here we got to know about the concepts of purification of organic compounds and estimation of elements in a compound. This is helpful throughout organic chemistry and a good amount of questions arise from this chapter in various examinations.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 16
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 35
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 37
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 22
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 70
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>This is a very important chapter. This chapter is the building block of organic chemistry. In this chapter, we gained knowledge of how carbon makes four bonds how compounds of carbon are represented,d and how they react. Here we got to know about the concepts of purification of organic compounds and estimation of elements in a compound. This is helpful throughout organic chemistry and a good amount of questions arise from this chapter in various examinations.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 6
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688700156baaa6292e1e53fa",
+        "numberOfQuestions": 189,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847eb645006ed2bab6ae57"
+      },
+      {
+        "testId": "68862ba261dd7a843ee6647c",
+        "numberOfQuestions": 11,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847eb645006ed2bab6ae58"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682da6f6ba445b8571f33236",
+        "numberOfQuestions": 66,
+        "_id": "69847eb645006ed2bab6ae56"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6854e7f2aaedf9542737aee8",
+        "numberOfQuestions": 134,
+        "_id": "69847eb645006ed2bab6ae55"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f0b859b68e1e3308a5380",
+        "numberOfQuestions": 10,
+        "_id": "69847eb645006ed2bab6ae54"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.794Z",
+    "updatedAt": "2026-02-05T11:27:50.523Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 293.51,
+    "pageStart": 255.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 8,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "organic-chemistry-some-basic-principles-and-techniques",
+    "seo": {
+      "titleTag": "Organic Chemistry – Some Basic Principles And Techniques - Chemistry Part II (Class XI) | PW Books",
+      "coverImageAltText": "Organic Chemistry – Some Basic Principles And Techniques - Chemistry Part II (Class XI) | PW Books",
+      "ogTitle": "Organic Chemistry – Some Basic Principles And Techniques - Chemistry Part II (Class XI) | PW Books",
+      "shortDescription": "Read Organic Chemistry – Some Basic Principles And Techniques from Chemistry Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Organic Chemistry – Some Basic Principles And Techniques from Chemistry Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Organic Chemistry – Some Basic Principles And Techniques from Chemistry Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca72987a-3a7b-48e9-ada3-01ce2be70107.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688700156baaa6292e1e53fa",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 189
+      },
+      {
+        "testId": "68862ba261dd7a843ee6647c",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 11
+      },
+      {
+        "testId": "682da6f6ba445b8571f33236",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 66
+      },
+      {
+        "testId": "6854e7f2aaedf9542737aee8",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 134
+      }
+    ],
+    "pyqQuestions": 200,
+    "exemplerQuestions": 66,
+    "mcqQuestions": 134,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682da6f6ba445b8571f33236",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6854e7f2aaedf9542737aee8",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688700156baaa6292e1e53fa",
+      "68862ba261dd7a843ee6647c",
+      "682da6f6ba445b8571f33236",
+      "6854e7f2aaedf9542737aee8"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b37e8",
+    "bookId": "67763a33a7479393acd73a35",
+    "status": "ACTIVE",
+    "noOfSections": "6",
+    "programChapterId": "67ab0648eb9cbb4665f9e4bb",
+    "programSectionId": "67a9cab83efcb763d1ddb7fc",
+    "programTopicId": "67ab064dcbd2ac583d1356a7",
+    "displayOrder": 9,
+    "title": "Hydrocarbons",
+    "subject": "67726ddef5afe87e4e4bc906",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cf76598b-5f21-4c7c-a069-cb58596cbfd2.zip",
+      "_id": "69295d2daa5d03704fa3debb"
+    },
+    "entryFilePath": "/OEBPS/Text/Untitled-7_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important topic here we get knowledge about hydrocarbons which are crucial compounds for our energy requirements. Here we encounter with reactions/properties of alkane, alkene, alkynes, and aromatic hydrocarbons which are helpful in upcoming chapters of organic chemistry. A very good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 12
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 26
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 9
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This is a very important topic here we get knowledge about hydrocarbons which are crucial compounds for our energy requirements. Here we encounter with reactions/properties of alkane, alkene, alkynes, and aromatic hydrocarbons which are helpful in upcoming chapters of organic chemistry. A very good amount of questions arise from this chapter in various examinations.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 4
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 3
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "67ab09d574e2fb68378ae36a",
+        "numberOfQuestions": 106,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847ebe31006c69a5021918"
+      },
+      {
+        "testId": "68862cd449e985129ff29b28",
+        "numberOfQuestions": 15,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847ebe31006c69a5021919"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682dae07ab86f46e382d85e7",
+        "numberOfQuestions": 51,
+        "_id": "69847ebe31006c69a5021917"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "6854e9311884ed6e5b614dcc",
+        "numberOfQuestions": 141,
+        "_id": "69847ebe31006c69a5021916"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682f0d7b312ea687f5dd43cb",
+        "numberOfQuestions": 6,
+        "_id": "69847ebe31006c69a5021915"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.796Z",
+    "updatedAt": "2026-02-05T11:27:58.747Z",
+    "__v": 0,
+    "chapterVersion": 3,
+    "isImportant": 0,
+    "pageEnd": 327.5,
+    "pageStart": 294.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 9,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "hydrocarbons",
+    "seo": {
+      "titleTag": "Hydrocarbons - Chemistry Part II (Class XI) | PW Books",
+      "coverImageAltText": "Hydrocarbons - Chemistry Part II (Class XI) | PW Books",
+      "ogTitle": "Hydrocarbons - Chemistry Part II (Class XI) | PW Books",
+      "shortDescription": "Read Hydrocarbons from Chemistry Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Hydrocarbons from Chemistry Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Hydrocarbons from Chemistry Part II (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ca72987a-3a7b-48e9-ada3-01ce2be70107.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "67ab09d574e2fb68378ae36a",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 106
+      },
+      {
+        "testId": "68862cd449e985129ff29b28",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "682dae07ab86f46e382d85e7",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 51
+      },
+      {
+        "testId": "6854e9311884ed6e5b614dcc",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 141
+      }
+    ],
+    "pyqQuestions": 121,
+    "exemplerQuestions": 51,
+    "mcqQuestions": 141,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682dae07ab86f46e382d85e7",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "6854e9311884ed6e5b614dcc",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "67ab09d574e2fb68378ae36a",
+      "68862cd449e985129ff29b28",
+      "682dae07ab86f46e382d85e7",
+      "6854e9311884ed6e5b614dcc"
+    ],
+    "subjectDetails": {
+      "_id": "67726ddef5afe87e4e4bc906",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Chemistry",
+      "qbgId": "67726ddef5afe87e4e4bc905",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:38.699Z",
+      "updatedAt": "2026-03-23T18:20:47.806Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b0329bcb7f114a4ed41",
+        "name": "Chemistry.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/5ea36091-b573-4240-bbc3-6a93dbb47234.PNG"
+      },
+      "slug": "chemistry"
+    }
+  }
+]

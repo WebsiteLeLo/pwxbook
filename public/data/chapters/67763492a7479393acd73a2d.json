@@ -1,0 +1,1507 @@
+[
+  {
+    "_id": "6776ba7fcf7f97b31c8b36ec",
+    "bookId": "67763492a7479393acd73a2d",
+    "status": "ACTIVE",
+    "noOfSections": "6",
+    "programChapterId": "67ac6d6025ecbd5263ad20e3",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac6d79806bc2a6dcd43204",
+    "displayOrder": 1,
+    "title": "Units And Measurement",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/9664008c-501a-451b-979e-ffbc92a747fb.zip",
+      "_id": "68d503089c4b1ba2cb380726"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter 1_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The Units and Measurements are essential as they teach the basics of how to measure physical quantities accurately. It introduces the SI units, dimensions of physical quantities, and methods of measurement. The chapter also explains errors in measurements and how to minimize them. These concepts are fundamental for conducting experiments, solving physics problems, and ensuring precision in scientific work.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 12
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 14
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 31
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 21
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 21
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 23
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The Units and Measurements are essential as they teach the basics of how to measure physical quantities accurately. It introduces the SI units, dimensions of physical quantities, and methods of measurement. The chapter also explains errors in measurements and how to minimize them. These concepts are fundamental for conducting experiments, solving physics problems, and ensuring precision in scientific work.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68864eb849e985129ff3c0da",
+        "numberOfQuestions": 122,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "6ac8c7467f86f1f9cd1f2c62"
+      },
+      {
+        "testId": "687dfc2eeebd3ae466d82b4a",
+        "numberOfQuestions": 15,
+        "type": [
+          "NEET"
+        ],
+        "_id": "6ac8c7467f86f1f9cd1f2c63"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "68270258e5d0b0b03bfc46da",
+        "numberOfQuestions": 47,
+        "_id": "6ac8c7467f86f1f9cd1f2c61"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684d26372e4f62e7c332e3aa",
+        "numberOfQuestions": 55,
+        "_id": "6ac8c7467f86f1f9cd1f2c60"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "68cd4e40a23d7b62e5c29502",
+        "numberOfQuestions": 17,
+        "_id": "6ac8c7467f86f1f9cd1f2c5f"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "6a27fe5d8a7f8976af24ceca",
+    "createdAt": "2025-01-02T16:10:39.652Z",
+    "updatedAt": "2026-10-09T10:51:50.652Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 11.51,
+    "pageStart": 0.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "units-and-measurement",
+    "seo": {
+      "titleTag": "Units And Measurement - Physics Part I (Class XI) | PW Books",
+      "coverImageAltText": "Units And Measurement - Physics Part I (Class XI) | PW Books",
+      "ogTitle": "Units And Measurement - Physics Part I (Class XI) | PW Books",
+      "shortDescription": "Read Units And Measurement from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Units And Measurement from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Units And Measurement from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/191bc8c9-4ce7-4dd0-ba36-cedddcf78e9e.jpg",
+      "indexable": true,
+      "breadcrumb": []
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68864eb849e985129ff3c0da",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 122
+      },
+      {
+        "testId": "687dfc2eeebd3ae466d82b4a",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "68270258e5d0b0b03bfc46da",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 47
+      },
+      {
+        "testId": "684d26372e4f62e7c332e3aa",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 55
+      }
+    ],
+    "pyqQuestions": 137,
+    "exemplerQuestions": 47,
+    "mcqQuestions": 55,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "68270258e5d0b0b03bfc46da",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684d26372e4f62e7c332e3aa",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68864eb849e985129ff3c0da",
+      "687dfc2eeebd3ae466d82b4a",
+      "68270258e5d0b0b03bfc46da",
+      "684d26372e4f62e7c332e3aa"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b36f3",
+    "bookId": "67763492a7479393acd73a2d",
+    "status": "ACTIVE",
+    "noOfSections": "4",
+    "programChapterId": "67ac64bc020291366c810916",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac64cdce231d1091bc5ab5",
+    "displayOrder": 2,
+    "title": "Motion In A Straight Line",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d55815c1-18a0-4452-a01f-321e560ed1f8.zip",
+      "_id": "68bab2918f2cb6ace2b56d0f"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter 2_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter is essential for understanding the basic principles of motion, which apply to many physical situations. Learning about straight-line motion lays the foundation for more advanced topics like projectile motion, circular motion, and rotational dynamics. It also introduces the three key kinematic equations that link displacement, velocity, acceleration, and time. These concepts are crucial not only for linear motion but also for understanding more complex types of motion discussed in later chapters.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "688650c661dd7a843ef14cdb",
+        "numberOfQuestions": 95,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847b942759c423464a88f6"
+      },
+      {
+        "testId": "6883a4ae5bbe6d7c0de7f3bb",
+        "numberOfQuestions": 8,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847b942759c423464a88f7"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682800aee9a30ad7dd651b2f",
+        "numberOfQuestions": 33,
+        "_id": "69847b942759c423464a88f5"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684fc9ccc159453993c9eed9",
+        "numberOfQuestions": 70,
+        "_id": "69847b942759c423464a88f4"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682ec225fefe8ed89362cf19",
+        "numberOfQuestions": 18,
+        "_id": "69847b942759c423464a88f3"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.659Z",
+    "updatedAt": "2026-02-05T11:14:28.679Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 25.51,
+    "pageStart": 12.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "motion-in-a-straight-line",
+    "seo": {
+      "titleTag": "Motion In A Straight Line - Physics Part I (Class XI) | PW Books",
+      "coverImageAltText": "Motion In A Straight Line - Physics Part I (Class XI) | PW Books",
+      "ogTitle": "Motion In A Straight Line - Physics Part I (Class XI) | PW Books",
+      "shortDescription": "Read Motion In A Straight Line from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Motion In A Straight Line from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Motion In A Straight Line from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/191bc8c9-4ce7-4dd0-ba36-cedddcf78e9e.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "688650c661dd7a843ef14cdb",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 95
+      },
+      {
+        "testId": "6883a4ae5bbe6d7c0de7f3bb",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 8
+      },
+      {
+        "testId": "682800aee9a30ad7dd651b2f",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 33
+      },
+      {
+        "testId": "684fc9ccc159453993c9eed9",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 70
+      }
+    ],
+    "pyqQuestions": 103,
+    "exemplerQuestions": 33,
+    "mcqQuestions": 70,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682800aee9a30ad7dd651b2f",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684fc9ccc159453993c9eed9",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "688650c661dd7a843ef14cdb",
+      "6883a4ae5bbe6d7c0de7f3bb",
+      "682800aee9a30ad7dd651b2f",
+      "684fc9ccc159453993c9eed9"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b36fa",
+    "bookId": "67763492a7479393acd73a2d",
+    "status": "ACTIVE",
+    "noOfSections": "10",
+    "programChapterId": "67ac6545e2c709ba17fda9b4",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac656007665620c58140fb",
+    "displayOrder": 3,
+    "title": "Motion In A Plane",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/203c94ca-c4df-451e-98e4-fa89c0715a38.zip",
+      "_id": "68bab2a0d1bd38beee46623c"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter 3 clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<style type=\"text/css\"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>\n<p><span data-sheets-root=\"1\">The \"Motion in a Plane\" chapter is important as it extends the concepts of one-dimensional motion to two dimensions, using vectors to describe displacement, velocity, and acceleration. It introduces key topics like projectile motion and circular motion, which are essential for understanding real-world phenomena. The chapter enhances problem-solving skills by teaching how to decompose motion into components.</span></p>\n</body>\n</html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "6886536debf79f35d68660bb",
+        "numberOfQuestions": 56,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847b9d8036734e0af8f2f6"
+      },
+      {
+        "testId": "6884ec1ac0347ad8414e967d",
+        "numberOfQuestions": 6,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847b9d8036734e0af8f2f7"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682802767e82628b3cc7ae78",
+        "numberOfQuestions": 37,
+        "_id": "69847b9d8036734e0af8f2f5"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684fce8fc159453993c9f376",
+        "numberOfQuestions": 27,
+        "_id": "69847b9d8036734e0af8f2f4"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682ec361ab6d6b3b3682f1ec",
+        "numberOfQuestions": 22,
+        "_id": "69847b9d8036734e0af8f2f3"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.664Z",
+    "updatedAt": "2026-02-05T11:14:37.135Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 47.51,
+    "pageStart": 26.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "motion-in-a-plane",
+    "seo": {
+      "titleTag": "Motion In A Plane - Physics Part I (Class XI) | PW Books",
+      "coverImageAltText": "Motion In A Plane - Physics Part I (Class XI) | PW Books",
+      "ogTitle": "Motion In A Plane - Physics Part I (Class XI) | PW Books",
+      "shortDescription": "Read Motion In A Plane from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Motion In A Plane from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Motion In A Plane from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/191bc8c9-4ce7-4dd0-ba36-cedddcf78e9e.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "6886536debf79f35d68660bb",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 56
+      },
+      {
+        "testId": "6884ec1ac0347ad8414e967d",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 6
+      },
+      {
+        "testId": "682802767e82628b3cc7ae78",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 37
+      },
+      {
+        "testId": "684fce8fc159453993c9f376",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 27
+      }
+    ],
+    "pyqQuestions": 62,
+    "exemplerQuestions": 37,
+    "mcqQuestions": 27,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682802767e82628b3cc7ae78",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684fce8fc159453993c9f376",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "6886536debf79f35d68660bb",
+      "6884ec1ac0347ad8414e967d",
+      "682802767e82628b3cc7ae78",
+      "684fce8fc159453993c9f376"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b371d",
+    "bookId": "67763492a7479393acd73a2d",
+    "status": "ACTIVE",
+    "noOfSections": "11",
+    "programChapterId": "67ac6c8cdaf75e010d700efc",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac6c9835cf927e352f32ac",
+    "displayOrder": 4,
+    "title": "Laws Of Motion",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a83ca10a-9fb5-47e4-a872-8d523def779e.zip",
+      "_id": "68bab22521b3c19424d51216"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter_4_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter introduces Newton's three laws of motion, which form the foundation of classical mechanics. The chapter covers concepts like force, inertia, friction, and circular motion, helping us analyze everyday phenomena like driving, walking, and flying. It is crucial for solving problems in mechanics and is widely used in engineering and real-life applications.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 6
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 14
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 22
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 20
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter introduces Newton's three laws of motion, which form the foundation of classical mechanics. The chapter covers concepts like force, inertia, friction, and circular motion, helping us analyze everyday phenomena like driving, walking, and flying. It is crucial for solving problems in mechanics and is widely used in engineering and real-life applications</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68865c17231f2ca23aefc54a",
+        "numberOfQuestions": 102,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847ba515051033a7e4c833"
+      },
+      {
+        "testId": "6884ed6240ce47b9f3e7ffcd",
+        "numberOfQuestions": 9,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847ba515051033a7e4c834"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c000e5cdca59c7ddc2d6c",
+        "numberOfQuestions": 42,
+        "_id": "69847ba515051033a7e4c832"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684fcf590dbf17e8f97125b0",
+        "numberOfQuestions": 67,
+        "_id": "69847ba515051033a7e4c831"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682ec3f642ad11cc622cb56d",
+        "numberOfQuestions": 23,
+        "_id": "69847ba515051033a7e4c830"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.685Z",
+    "updatedAt": "2026-02-05T11:14:45.691Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 69.51,
+    "pageStart": 48.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "laws-of-motion",
+    "seo": {
+      "titleTag": "Laws Of Motion - Physics Part I (Class XI) | PW Books",
+      "coverImageAltText": "Laws Of Motion - Physics Part I (Class XI) | PW Books",
+      "ogTitle": "Laws Of Motion - Physics Part I (Class XI) | PW Books",
+      "shortDescription": "Read Laws Of Motion from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Laws Of Motion from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Laws Of Motion from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/191bc8c9-4ce7-4dd0-ba36-cedddcf78e9e.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68865c17231f2ca23aefc54a",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 102
+      },
+      {
+        "testId": "6884ed6240ce47b9f3e7ffcd",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 9
+      },
+      {
+        "testId": "682c000e5cdca59c7ddc2d6c",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 42
+      },
+      {
+        "testId": "684fcf590dbf17e8f97125b0",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 67
+      }
+    ],
+    "pyqQuestions": 111,
+    "exemplerQuestions": 42,
+    "mcqQuestions": 67,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c000e5cdca59c7ddc2d6c",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684fcf590dbf17e8f97125b0",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68865c17231f2ca23aefc54a",
+      "6884ed6240ce47b9f3e7ffcd",
+      "682c000e5cdca59c7ddc2d6c",
+      "684fcf590dbf17e8f97125b0"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3701",
+    "bookId": "67763492a7479393acd73a2d",
+    "status": "ACTIVE",
+    "noOfSections": "11",
+    "programChapterId": "67ac6ce94c5372c20a668cee",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac6cf48633c22039555139",
+    "displayOrder": 5,
+    "title": "Work, Energy And Power",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/13093b38-62e9-4e88-a829-cf928a3e7b77.zip",
+      "_id": "68bab3581d717bbd2bd44f0a"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter 5_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The work, Energy, and Power chapter is essential for understanding how energy is transferred and used in physical processes. It explains concepts like work, energy, and power, along with the work-energy theorem and the law of conservation of energy. The chapter also covers practical topics like collisions and energy transformations, helping us solve real-world problems related to motion and machines. These concepts form the foundation for advanced studies in physics and engineering.</p>\n</body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 8
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 14
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 12
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 14
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 13
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body>\n<p>The work Energy, and Power chapter is essential for understanding how energy is transferred and used in physical processes. It explains concepts like work, energy, and power, along with the work-energy theorem and the law of conservation of energy. The chapter also covers practical topics like collisions and energy transformations, helping us solve real-world problems related to motion and machines. These concepts form the foundation for advanced studies in physics and engineering.</p>\n</body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 3
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68865e0e61dd7a843ef2b0e8",
+        "numberOfQuestions": 86,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847bae2badf8d9b571a4ac"
+      },
+      {
+        "testId": "6884ee7ec443f6d0cf3b57f4",
+        "numberOfQuestions": 9,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847bae2badf8d9b571a4ad"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682c02a9523b2b5fc5d28499",
+        "numberOfQuestions": 54,
+        "_id": "69847bae2badf8d9b571a4ab"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684fd048febca78b91db19e7",
+        "numberOfQuestions": 72,
+        "_id": "69847bae2badf8d9b571a4aa"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682ec50aab6d6b3b3682f29b",
+        "numberOfQuestions": 23,
+        "_id": "69847bae2badf8d9b571a4a9"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.669Z",
+    "updatedAt": "2026-02-05T11:14:54.334Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 90.51,
+    "pageStart": 70.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "work-energy-and-power",
+    "seo": {
+      "titleTag": "Work, Energy And Power - Physics Part I (Class XI) | PW Books",
+      "coverImageAltText": "Work, Energy And Power - Physics Part I (Class XI) | PW Books",
+      "ogTitle": "Work, Energy And Power - Physics Part I (Class XI) | PW Books",
+      "shortDescription": "Read Work, Energy And Power from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Work, Energy And Power from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Work, Energy And Power from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/191bc8c9-4ce7-4dd0-ba36-cedddcf78e9e.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68865e0e61dd7a843ef2b0e8",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 86
+      },
+      {
+        "testId": "6884ee7ec443f6d0cf3b57f4",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 9
+      },
+      {
+        "testId": "682c02a9523b2b5fc5d28499",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 54
+      },
+      {
+        "testId": "684fd048febca78b91db19e7",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 72
+      }
+    ],
+    "pyqQuestions": 95,
+    "exemplerQuestions": 54,
+    "mcqQuestions": 72,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682c02a9523b2b5fc5d28499",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684fd048febca78b91db19e7",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68865e0e61dd7a843ef2b0e8",
+      "6884ee7ec443f6d0cf3b57f4",
+      "682c02a9523b2b5fc5d28499",
+      "684fd048febca78b91db19e7"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b3708",
+    "bookId": "67763492a7479393acd73a2d",
+    "status": "ACTIVE",
+    "noOfSections": "12",
+    "programChapterId": "67ac6dbcab7dedd14c6576ae",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac6dc9fa9b33ea0724c6ff",
+    "displayOrder": 6,
+    "title": "Systems Of Particles And Rotational Motion",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1557b80b-bcea-4a84-b4f1-9126e076ef7a.zip",
+      "_id": "68bab367efff808326f5292e"
+    },
+    "entryFilePath": "/OEBPS/Text/Chapter 6_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>This chapter helps us understand how objects rotate and how forces affect their motion. It covers concepts like torque, angular momentum, and moment of inertia, which are essential for studying the motion of spinning objects. This chapter also explains the behavior of systems with multiple particles, like wheels or planets. It's key to understanding real-life phenomena like vehicles moving, gears working, and the Earth's rotation.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68866380ebf79f35d686641d",
+        "numberOfQuestions": 59,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847bb766678a3bc237f83e"
+      },
+      {
+        "testId": "68852098c443f6d0cf3b7898",
+        "numberOfQuestions": 8,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847bb766678a3bc237f83f"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d95702b5ff80b7818bdee",
+        "numberOfQuestions": 28,
+        "_id": "69847bb766678a3bc237f83d"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684fd0dafebca78b91db9c5c",
+        "numberOfQuestions": 112,
+        "_id": "69847bb766678a3bc237f83c"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682ec6364616dba630c0cd08",
+        "numberOfQuestions": 17,
+        "_id": "69847bb766678a3bc237f83b"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.674Z",
+    "updatedAt": "2026-02-05T11:15:03.915Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 125.51,
+    "pageStart": 91.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 6,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "systems-of-particles-and-rotational-motion",
+    "seo": {
+      "titleTag": "Systems Of Particles And Rotational Motion - Physics Part I (Class XI) | PW Books",
+      "coverImageAltText": "Systems Of Particles And Rotational Motion - Physics Part I (Class XI) | PW Books",
+      "ogTitle": "Systems Of Particles And Rotational Motion - Physics Part I (Class XI) | PW Books",
+      "shortDescription": "Read Systems Of Particles And Rotational Motion from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Systems Of Particles And Rotational Motion from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Systems Of Particles And Rotational Motion from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/191bc8c9-4ce7-4dd0-ba36-cedddcf78e9e.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68866380ebf79f35d686641d",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 59
+      },
+      {
+        "testId": "68852098c443f6d0cf3b7898",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 8
+      },
+      {
+        "testId": "682d95702b5ff80b7818bdee",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 28
+      },
+      {
+        "testId": "684fd0dafebca78b91db9c5c",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 112
+      }
+    ],
+    "pyqQuestions": 67,
+    "exemplerQuestions": 28,
+    "mcqQuestions": 112,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d95702b5ff80b7818bdee",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684fd0dafebca78b91db9c5c",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68866380ebf79f35d686641d",
+      "68852098c443f6d0cf3b7898",
+      "682d95702b5ff80b7818bdee",
+      "684fd0dafebca78b91db9c5c"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "6776ba7fcf7f97b31c8b370f",
+    "bookId": "67763492a7479393acd73a2d",
+    "status": "ACTIVE",
+    "noOfSections": "10",
+    "programChapterId": "67ac6e22114416e81fd45db4",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "67ac6e2ddaf75e010d700f38",
+    "displayOrder": 7,
+    "title": "Gravitation",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/adc7a4e6-d61d-4a50-8b4b-8ed40f6dcdb9.zip",
+      "_id": "68bab378e39b53614608b2f6"
+    },
+    "entryFilePath": "/OEBPS/Text/CHAPTER-7_clean_with_ids_with_sections.xhtml",
+    "importance": [
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The gravitation chapter explains how objects attract each other due to gravity, a force that affects everything around us. It helps us understand the motion of planets, satellites, and objects falling on Earth. This chapter also covers key ideas like gravitational force, potential energy, and escape velocity. It lays the groundwork for learning about space, Earth’s movement, and other physical concepts in future studies.</p></body></html>",
+        "exams": "IIT-JEE",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for IIT-JEE",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 11
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 10
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 23
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 17
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 30
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "<!DOCTYPE html><html><head></head><body><p>The gravitation chapter explains how objects attract each other due to gravity, a force that affects everything around us. It helps us understand the motion of planets, satellites, and objects falling on Earth. This chapter also covers key ideas like gravitational force, potential energy, and escape velocity. It lays the groundwork for learning about space, Earth’s movement, and other physical concepts in future studies.</p></body></html>",
+        "exams": "NEET",
+        "graphs": [
+          {
+            "title": "Year wise PYQs distribution for NEET",
+            "type": "YEAR_WISE_DATA",
+            "graphType": "BAR_GRAPH",
+            "xAxisLegend": "Year",
+            "yAxisLegend": "Number of PYQs",
+            "data": [
+              {
+                "xAxis": "2019",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2020",
+                "yAxis": 2
+              },
+              {
+                "xAxis": "2021",
+                "yAxis": 3
+              },
+              {
+                "xAxis": "2022",
+                "yAxis": 0
+              },
+              {
+                "xAxis": "2023",
+                "yAxis": 1
+              },
+              {
+                "xAxis": "2024",
+                "yAxis": 4
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pyq": [
+      {
+        "testId": "68866508d71e482dafa3c2d7",
+        "numberOfQuestions": 132,
+        "type": [
+          "IIT-JEE"
+        ],
+        "_id": "69847bc17ac582f22a5b2da0"
+      },
+      {
+        "testId": "688521c2c0347ad8414eaf3c",
+        "numberOfQuestions": 14,
+        "type": [
+          "NEET"
+        ],
+        "_id": "69847bc17ac582f22a5b2da1"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "682d94ac05ffdbf64744378b",
+        "numberOfQuestions": 37,
+        "_id": "69847bc17ac582f22a5b2d9f"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "684fe1b6e96567f7df4a3f44",
+        "numberOfQuestions": 42,
+        "_id": "69847bc17ac582f22a5b2d9e"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "682ec6deab6d6b3b3682f650",
+        "numberOfQuestions": 21,
+        "_id": "69847bc17ac582f22a5b2d9d"
+      }
+    ],
+    "createdBy": "60d0fe4f5311236168a109cc",
+    "updatedBy": "65af92bd92ffa900180e7e91",
+    "createdAt": "2025-01-02T16:10:39.678Z",
+    "updatedAt": "2026-02-05T11:15:13.680Z",
+    "__v": 0,
+    "chapterVersion": 2,
+    "isImportant": 0,
+    "pageEnd": 143.5,
+    "pageStart": 126.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 7,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "pyqToggle": true,
+    "isAiExplanationEnabled": true,
+    "slug": "gravitation",
+    "seo": {
+      "titleTag": "Gravitation - Physics Part I (Class XI) | PW Books",
+      "coverImageAltText": "Gravitation - Physics Part I (Class XI) | PW Books",
+      "ogTitle": "Gravitation - Physics Part I (Class XI) | PW Books",
+      "shortDescription": "Read Gravitation from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Gravitation from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Gravitation from Physics Part I (Class XI). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/191bc8c9-4ce7-4dd0-ba36-cedddcf78e9e.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "68866508d71e482dafa3c2d7",
+        "type": "JEE PYQs",
+        "numberOfQuestions": 132
+      },
+      {
+        "testId": "688521c2c0347ad8414eaf3c",
+        "type": "NEET PYQs",
+        "numberOfQuestions": 14
+      },
+      {
+        "testId": "682d94ac05ffdbf64744378b",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 37
+      },
+      {
+        "testId": "684fe1b6e96567f7df4a3f44",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 42
+      }
+    ],
+    "pyqQuestions": 146,
+    "exemplerQuestions": 37,
+    "mcqQuestions": 42,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "682d94ac05ffdbf64744378b",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "684fe1b6e96567f7df4a3f44",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "68866508d71e482dafa3c2d7",
+      "688521c2c0347ad8414eaf3c",
+      "682d94ac05ffdbf64744378b",
+      "684fe1b6e96567f7df4a3f44"
+    ],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  }
+]

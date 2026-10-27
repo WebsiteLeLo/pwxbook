@@ -1,0 +1,677 @@
+[
+  {
+    "_id": "6835b0c9bf9810593d045398",
+    "bookId": "682bf3b2042db2abc7792d4d",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "The French Revolution",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b49c6369-e027-4981-bf53-5ff6761be0b6.zip",
+      "_id": "68c3c57531e391134ac6a2c4"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf165ace3476bb676813"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "691edf165ace3476bb676812"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf165ace3476bb676811"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6854610406c4982be1530b04",
+        "numberOfQuestions": 6,
+        "_id": "691edf165ace3476bb676810"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "6854603a12c8d732ce09164f",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:25:20.815Z",
+    "updatedAt": "2025-11-20T09:27:50.076Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 23.51,
+    "pageStart": 2.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 1,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "the-french-revolution",
+    "seo": {
+      "titleTag": "The French Revolution - India and the Contemporary World Part 1 Class IX | PW Books",
+      "coverImageAltText": "The French Revolution - India and the Contemporary World Part 1 Class IX | PW Books",
+      "ogTitle": "The French Revolution - India and the Contemporary World Part 1 Class IX | PW Books",
+      "shortDescription": "Read The French Revolution from India and the Contemporary World Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The French Revolution from India and the Contemporary World Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The French Revolution from India and the Contemporary World Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/aebda887-4072-43fc-88d5-75c14999eaae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835b0c9bf9810593d04539e",
+    "bookId": "682bf3b2042db2abc7792d4d",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Socialism in Europe and Russian Revolution",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f7480010-bc93-4b89-b40d-d44780466b0d.zip",
+      "_id": "68c3c58d6a6bb19328c3fcf6"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf137cfa2d07b84326fc"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "691edf137cfa2d07b84326fb"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf137cfa2d07b84326fa"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6856ae7ab0f51d2fe3e659cb",
+        "numberOfQuestions": 6,
+        "_id": "691edf137cfa2d07b84326f9"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "68546046025bef53e7ffd497",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:25:25.410Z",
+    "updatedAt": "2025-11-20T09:27:47.606Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 47.51,
+    "pageStart": 24.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 2,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "socialism-in-europe-and-russian-revolution",
+    "seo": {
+      "titleTag": "Socialism in Europe and Russian Revolution - India and the Contemporary World Part 1 Class IX | PW Books",
+      "coverImageAltText": "Socialism in Europe and Russian Revolution - India and the Contemporary World Part 1 Class IX | PW Books",
+      "ogTitle": "Socialism in Europe and Russian Revolution - India and the Contemporary World Part 1 Class IX | PW Books",
+      "shortDescription": "Read Socialism in Europe and Russian Revolution from India and the Contemporary World Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Socialism in Europe and Russian Revolution from India and the Contemporary World Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Socialism in Europe and Russian Revolution from India and the Contemporary World Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/aebda887-4072-43fc-88d5-75c14999eaae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835b0c9bf9810593d0453a4",
+    "bookId": "682bf3b2042db2abc7792d4d",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Nazism and the rise of Hitler",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/980fe0ce-1728-48b6-b975-8f361ef90c97.zip",
+      "_id": "68c3c5a8ed470d2a22de5f0f"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf13a91b5b4293daec9a"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "691edf13a91b5b4293daec99"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf13a91b5b4293daec98"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6856af11304db36a81c37565",
+        "numberOfQuestions": 6,
+        "_id": "691edf13a91b5b4293daec97"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "6854605033405588e65eee5a",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:25:29.859Z",
+    "updatedAt": "2025-11-20T09:27:47.584Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 75.51,
+    "pageStart": 48.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 3,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "nazism-and-the-rise-of-hitler",
+    "seo": {
+      "titleTag": "Nazism and the rise of Hitler - India and the Contemporary World Part 1 Class IX | PW Books",
+      "coverImageAltText": "Nazism and the rise of Hitler - India and the Contemporary World Part 1 Class IX | PW Books",
+      "ogTitle": "Nazism and the rise of Hitler - India and the Contemporary World Part 1 Class IX | PW Books",
+      "shortDescription": "Read Nazism and the rise of Hitler from India and the Contemporary World Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Nazism and the rise of Hitler from India and the Contemporary World Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Nazism and the rise of Hitler from India and the Contemporary World Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/aebda887-4072-43fc-88d5-75c14999eaae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835b0c9bf9810593d0453aa",
+    "bookId": "682bf3b2042db2abc7792d4d",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Forest Society and Colonialism",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6ae5d7c8-3ff0-40bb-b89f-2a724218905c.zip",
+      "_id": "68c3c5df0587f3ae25edcc2c"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf162e2504b66ea926f3"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "691edf162e2504b66ea926f2"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf162e2504b66ea926f1"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6856b0150c108b9d036878d4",
+        "numberOfQuestions": 4,
+        "_id": "691edf162e2504b66ea926f0"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "68546061b3affb8196a82351",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:25:34.455Z",
+    "updatedAt": "2025-11-20T09:27:50.657Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 95.51,
+    "pageStart": 76.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 4,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "forest-society-and-colonialism",
+    "seo": {
+      "titleTag": "Forest Society and Colonialism - India and the Contemporary World Part 1 Class IX | PW Books",
+      "coverImageAltText": "Forest Society and Colonialism - India and the Contemporary World Part 1 Class IX | PW Books",
+      "ogTitle": "Forest Society and Colonialism - India and the Contemporary World Part 1 Class IX | PW Books",
+      "shortDescription": "Read Forest Society and Colonialism from India and the Contemporary World Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Forest Society and Colonialism from India and the Contemporary World Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Forest Society and Colonialism from India and the Contemporary World Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/aebda887-4072-43fc-88d5-75c14999eaae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  },
+  {
+    "_id": "6835b0c9bf9810593d0453b0",
+    "bookId": "682bf3b2042db2abc7792d4d",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Pastoralists in the Modern World",
+    "noOfSections": "15",
+    "subject": "682ac489c42a98eb879f940b",
+    "readingDetails": {
+      "bookUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1bf54e27-4555-4f41-a495-5a6acde373a0.zip",
+      "_id": "68c3c6124af5d38a2ed25c12"
+    },
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "importance": [],
+    "pyq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 20,
+        "type": [
+          "SCHOOL_PREPARATION"
+        ],
+        "_id": "691edf14b69104f54591d474"
+      }
+    ],
+    "exempler": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 15,
+        "_id": "691edf14b69104f54591d473"
+      }
+    ],
+    "ncertLineByLineMcq": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "numberOfQuestions": 10,
+        "_id": "691edf14b69104f54591d472"
+      }
+    ],
+    "ncertSolutions": [
+      {
+        "testId": "6856b0fdb0f51d2fe3e65c4e",
+        "numberOfQuestions": 4,
+        "_id": "691edf14b69104f54591d471"
+      }
+    ],
+    "createdBy": "68405475450edb732ac28b03",
+    "updatedBy": "68405475450edb732ac28b03",
+    "programSectionId": "683ede9dada918c1a57c577e",
+    "programChapterId": "683edf71e4bf24cebaa95210",
+    "programTopicId": "68546077752ad9b51e3b75e5",
+    "chapterVersion": 2,
+    "createdAt": "2025-06-20T08:25:40.097Z",
+    "updatedAt": "2025-11-20T09:27:48.079Z",
+    "__v": 0,
+    "isImportant": 0,
+    "pageEnd": 116.51,
+    "pageStart": 96.01,
+    "additionalContent": [],
+    "isAiGuruEnabled": true,
+    "pyqAttachmentConfig": true,
+    "type": "HTML",
+    "displayChapterNumber": 5,
+    "isSample": false,
+    "isVideoEnabled": true,
+    "isAiExplanationEnabled": true,
+    "slug": "pastoralists-in-the-modern-world",
+    "seo": {
+      "titleTag": "Pastoralists in the Modern World - India and the Contemporary World Part 1 Class IX | PW Books",
+      "coverImageAltText": "Pastoralists in the Modern World - India and the Contemporary World Part 1 Class IX | PW Books",
+      "ogTitle": "Pastoralists in the Modern World - India and the Contemporary World Part 1 Class IX | PW Books",
+      "shortDescription": "Read Pastoralists in the Modern World from India and the Contemporary World Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Pastoralists in the Modern World from India and the Contemporary World Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Pastoralists in the Modern World from India and the Contemporary World Part 1 Class IX. Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/aebda887-4072-43fc-88d5-75c14999eaae.jpg",
+      "indexable": true
+    },
+    "combinedTestsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "Board PYQs",
+        "numberOfQuestions": 20
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler",
+        "numberOfQuestions": 15
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ",
+        "numberOfQuestions": 10
+      }
+    ],
+    "pyqQuestions": 20,
+    "exemplerQuestions": 15,
+    "mcqQuestions": 10,
+    "nonPyqQuestionsWithType": [
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Exempler"
+      },
+      {
+        "testId": "60d0fe4f5311236168a109cb",
+        "type": "NCERT Line by Line MCQ"
+      }
+    ],
+    "testList": [
+      "60d0fe4f5311236168a109cb"
+    ],
+    "subjectDetails": {
+      "_id": "682ac489c42a98eb879f940b",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION"
+      ],
+      "displayName": "Social Science",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "676bf3d64b13857264256872",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:20:05.386Z",
+      "updatedAt": "2026-03-23T08:03:41.573Z",
+      "__v": 0,
+      "slug": "social-science"
+    }
+  }
+]

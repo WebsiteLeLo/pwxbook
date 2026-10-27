@@ -1,0 +1,1821 @@
+[
+  {
+    "_id": "699c21979992909464669731",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Cell - The Unit of Life",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:44:55.741Z",
+    "updatedAt": "2026-09-24T07:03:11.713Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698ae3a2bbcfb66e0df22bc7",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698ae497f511980dd479ffde",
+        "numberOfQuestions": 88
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698ae46c2919bee57a970149",
+        "numberOfQuestions": 36
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698ae3e12bf64ef228eaed9e",
+        "numberOfQuestions": 41
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c13220f25596225358c95",
+        "numberOfQuestions": 45
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adae622b2b74bd3223bdf",
+    "totalPageCount": 45,
+    "pageSliceVersion": 1,
+    "slug": "cell-the-unit-of-life",
+    "seo": {
+      "titleTag": "Cell - The Unit of Life - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Cell - The Unit of Life - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Cell - The Unit of Life - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Cell - The Unit of Life from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Cell - The Unit of Life from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Cell - The Unit of Life from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699c21eb5baf00b27e7ee1f6",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Cell Cycle and Cell Division",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:46:19.825Z",
+    "updatedAt": "2026-07-22T19:58:33.713Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698ae6c6d96a5ebef16e6177",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698ae82abbcfb66e0df237ad",
+        "numberOfQuestions": 48
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698ae803bbcfb66e0df237a1",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698ae7d540a02cf87026c9ba",
+        "numberOfQuestions": 51
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c13cda04fdeb3699464cd",
+        "numberOfQuestions": 50
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adb4cf7128bb416bc280d",
+    "totalPageCount": 29,
+    "pageSliceVersion": 1,
+    "slug": "cell-cycle-and-cell-division",
+    "seo": {
+      "titleTag": "Cell Cycle and Cell Division - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Cell Cycle and Cell Division - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Cell Cycle and Cell Division - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Cell Cycle and Cell Division from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Cell Cycle and Cell Division from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Cell Cycle and Cell Division from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699c2230518be7c9b4f23c05",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "The Living World",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:47:28.944Z",
+    "updatedAt": "2026-07-22T19:58:34.973Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698ae9f1a04fdeb36980fe2a",
+        "numberOfQuestions": 5
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698aea6f812dcc72300b4f3f",
+        "numberOfQuestions": 49
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698aea4acf6e724fb8e009cb",
+        "numberOfQuestions": 18
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698aea2740a02cf87026ce19",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c147526282c14dc7d9253",
+        "numberOfQuestions": 9
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adb59d2d91b7efdfe24f1",
+    "totalPageCount": 22,
+    "pageSliceVersion": 1,
+    "slug": "the-living-world",
+    "seo": {
+      "titleTag": "The Living World - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "The Living World - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "The Living World - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read The Living World from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read The Living World from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read The Living World from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699c227b9eee9baa6c7fc793",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Biological Classification",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:48:43.144Z",
+    "updatedAt": "2026-07-22T19:58:38.455Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698afdd3bbcfb66e0df27c31",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698afe6b812dcc72300c03f6",
+        "numberOfQuestions": 92
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698afe3b2919bee57a9732f6",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698afe00f511980dd47a8c70",
+        "numberOfQuestions": 63
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c164317adaa2b6b12ac92",
+        "numberOfQuestions": 36
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adb6456217472950656cd",
+    "totalPageCount": 34,
+    "pageSliceVersion": 1,
+    "slug": "biological-classification",
+    "seo": {
+      "titleTag": "Biological Classification - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Biological Classification - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Biological Classification - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Biological Classification from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biological Classification from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biological Classification from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699c22c9c65272e5a8e18634",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Plant Kingdom",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:50:01.598Z",
+    "updatedAt": "2026-07-22T19:58:40.484Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698b010240a02cf87027ab71",
+        "numberOfQuestions": 8
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698b0188d96a5ebef16f1bc4",
+        "numberOfQuestions": 63
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698b015cf511980dd47ac1c1",
+        "numberOfQuestions": 24
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698b0139f511980dd47a952f",
+        "numberOfQuestions": 34
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c16fb43c533ad2fa5dffd",
+        "numberOfQuestions": 35
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adb6f0fdc4b4e2199dc38",
+    "totalPageCount": 30,
+    "pageSliceVersion": 1,
+    "slug": "plant-kingdom",
+    "seo": {
+      "titleTag": "Plant Kingdom - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Plant Kingdom - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Plant Kingdom - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Plant Kingdom from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Plant Kingdom from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Plant Kingdom from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699c2317f9371c87345cda0e",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Morphology of Flowering Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:51:19.817Z",
+    "updatedAt": "2026-07-22T19:58:43.627Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698b044bbbcfb66e0df28783",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698b056a40e7d613c2cc0889",
+        "numberOfQuestions": 81
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698b05172919bee57a973d70",
+        "numberOfQuestions": 41
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698b04dbd96a5ebef16f9ed1",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c17c00f25596225358f49",
+        "numberOfQuestions": 42
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adb7ba0e6d97976d8e32f",
+    "totalPageCount": 41,
+    "pageSliceVersion": 1,
+    "slug": "morphology-of-flowering-plants",
+    "seo": {
+      "titleTag": "Morphology of Flowering Plants - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Morphology of Flowering Plants - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Morphology of Flowering Plants - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Morphology of Flowering Plants from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Morphology of Flowering Plants from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Morphology of Flowering Plants from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699c23668f039c6b59146702",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Anatomy of Flowering Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:52:38.400Z",
+    "updatedAt": "2026-07-22T19:58:47.004Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698b0c5b2bf64ef228ebaaad",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698b0d8c40a02cf87029b706",
+        "numberOfQuestions": 68
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698b0d6acf6e724fb8e0c26a",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698b0d3d2919bee57a974d45",
+        "numberOfQuestions": 32
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c18ebf1aefc613ca6b016",
+        "numberOfQuestions": 21
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adb885b309df8044f735b",
+    "totalPageCount": 29,
+    "pageSliceVersion": 1,
+    "slug": "anatomy-of-flowering-plants",
+    "seo": {
+      "titleTag": "Anatomy of Flowering Plants - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Anatomy of Flowering Plants - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Anatomy of Flowering Plants - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Anatomy of Flowering Plants from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Anatomy of Flowering Plants from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Anatomy of Flowering Plants from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699c23a406519a695c4f022a",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Respiration in Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:53:40.565Z",
+    "updatedAt": "2026-07-22T19:58:49.351Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698b49b32919bee57a9795d4",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698b4a5ca04fdeb36993953c",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698b4a32d96a5ebef1809dcb",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698b4a0fcf6e724fb8e10c46",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c19b6b77722029eeebe8f",
+        "numberOfQuestions": 23
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adb93136e1ccb3d42a3b3",
+    "totalPageCount": 45,
+    "pageSliceVersion": 1,
+    "slug": "respiration-in-plants",
+    "seo": {
+      "titleTag": "Respiration in Plants - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Respiration in Plants - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Respiration in Plants - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Respiration in Plants from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Respiration in Plants from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Respiration in Plants from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699c23df75f6e336e12abdeb",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Photosynthesis in Higher Plants",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:54:39.417Z",
+    "updatedAt": "2026-07-22T19:58:51.804Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698b4bebbbcfb66e0d05a9b3",
+        "numberOfQuestions": 14
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698b4c54cf6e724fb8e10d57",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698b4c30f511980dd48f8d81",
+        "numberOfQuestions": 47
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698b4c0d40e7d613c2ccc2ed",
+        "numberOfQuestions": 52
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c1a7117adaa2b6b12b04c",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adba0335c4d8d43a3a778",
+    "totalPageCount": 46,
+    "pageSliceVersion": 1,
+    "slug": "photosynthesis-in-higher-plants",
+    "seo": {
+      "titleTag": "Photosynthesis in Higher Plants - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Photosynthesis in Higher Plants - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Photosynthesis in Higher Plants - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Photosynthesis in Higher Plants from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Photosynthesis in Higher Plants from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Photosynthesis in Higher Plants from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699c24146e150d3fd919ba4e",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Plant Growth and Development",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "646b7d8cf7ec7e0018f633be",
+    "updatedBy": "646b7d8cf7ec7e0018f633be",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:55:32.007Z",
+    "updatedAt": "2026-07-22T19:58:53.675Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698b4db1bbcfb66e0d05aa7a",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698b60af40e7d613c2ccd70e",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698b608cb77722029eec8eb3",
+        "numberOfQuestions": 19
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698b60647e780f5733e2372e",
+        "numberOfQuestions": 38
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698c1c5b0f255962253591bf",
+        "numberOfQuestions": 30
+      }
+    ],
+    "programChapterId": "698adac7164744a485aa501d",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programTopicId": "698adbac164744a485aa560c",
+    "totalPageCount": 31,
+    "pageSliceVersion": 1,
+    "slug": "plant-growth-and-development",
+    "seo": {
+      "titleTag": "Plant Growth and Development - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Plant Growth and Development - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Plant Growth and Development - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Plant Growth and Development from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Plant Growth and Development from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Plant Growth and Development from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699c22348d173b1a4d853ee7",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Sexual Reproduction in Flowering Plant",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programChapterId": "697c776d9375636efa8ff8b0",
+    "programTopicId": "697c78159375636efa8ffc8c",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:47:32.671Z",
+    "updatedAt": "2026-07-22T19:58:57.776Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "6980803fa1290375f3a7fdd9",
+        "numberOfQuestions": 16
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698081e16352dbd6d834fad4",
+        "numberOfQuestions": 81
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "6980815c7ff3c627154d92dc",
+        "numberOfQuestions": 41
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698080d00271ec00cf0c374f",
+        "numberOfQuestions": 37
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "6980829610bf2ebcaf848fe0",
+        "numberOfQuestions": 53
+      }
+    ],
+    "totalPageCount": 48,
+    "pageSliceVersion": 1,
+    "slug": "sexual-reproduction-in-flowering-plant",
+    "seo": {
+      "titleTag": "Sexual Reproduction in Flowering Plant - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Sexual Reproduction in Flowering Plant - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Sexual Reproduction in Flowering Plant - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Sexual Reproduction in Flowering Plant from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Sexual Reproduction in Flowering Plant from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Sexual Reproduction in Flowering Plant from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699c225cc395e92a6c055b3e",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Molecular Basis of Inheritance",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programChapterId": "697c776d9375636efa8ff8b0",
+    "programTopicId": "697c7820e6d691ec51bbc0cb",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:48:12.230Z",
+    "updatedAt": "2026-07-22T19:59:03.437Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "6980854006a45d327e052732",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "6980871012d4ec85f1b3de97",
+        "numberOfQuestions": 142
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "6980867d6352dbd6d83578e9",
+        "numberOfQuestions": 36
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698085ef06a45d327e0529c7",
+        "numberOfQuestions": 39
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "6980899612d4ec85f1b3e31a",
+        "numberOfQuestions": 62
+      }
+    ],
+    "totalPageCount": 69,
+    "pageSliceVersion": 1,
+    "slug": "molecular-basis-of-inheritance",
+    "seo": {
+      "titleTag": "Molecular Basis of Inheritance - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Molecular Basis of Inheritance - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Molecular Basis of Inheritance - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Molecular Basis of Inheritance from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Molecular Basis of Inheritance from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Molecular Basis of Inheritance from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699c22813e577042eca00bdc",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Principle of Inheritance and Variation",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programChapterId": "697c776d9375636efa8ff8b0",
+    "programTopicId": "697c782b06cd982424229117",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:48:49.018Z",
+    "updatedAt": "2026-07-22T19:59:08.273Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698091216352dbd6d8384003",
+        "numberOfQuestions": 10
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698092d80271ec00cf0cb654",
+        "numberOfQuestions": 121
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "6980922e74ddd895d73e67f6",
+        "numberOfQuestions": 37
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698091a5a1290375f3ab86c9",
+        "numberOfQuestions": 36
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698093b66352dbd6d83a011a",
+        "numberOfQuestions": 56
+      }
+    ],
+    "totalPageCount": 65,
+    "pageSliceVersion": 1,
+    "slug": "principle-of-inheritance-and-variation",
+    "seo": {
+      "titleTag": "Principle of Inheritance and Variation - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Principle of Inheritance and Variation - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Principle of Inheritance and Variation - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Principle of Inheritance and Variation from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Principle of Inheritance and Variation from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Principle of Inheritance and Variation from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699c22acd3dbbb170c81f6ab",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Microbes in Human Welfare",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programChapterId": "697c776d9375636efa8ff8b0",
+    "programTopicId": "697c7837e0961728f5bbdfd1",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:49:32.195Z",
+    "updatedAt": "2026-07-22T19:59:10.209Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698094f00271ec00cf0cb932",
+        "numberOfQuestions": 15
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "6980a11406a45d327e14d0c4",
+        "numberOfQuestions": 70
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "6980a08caf0718f9ab4e581f",
+        "numberOfQuestions": 23
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "6980a01106a45d327e140b72",
+        "numberOfQuestions": 35
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "6980a212a1290375f3b82795",
+        "numberOfQuestions": 25
+      }
+    ],
+    "totalPageCount": 24,
+    "pageSliceVersion": 1,
+    "slug": "microbes-in-human-welfare",
+    "seo": {
+      "titleTag": "Microbes in Human Welfare - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Microbes in Human Welfare - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Microbes in Human Welfare - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Microbes in Human Welfare from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Microbes in Human Welfare from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Microbes in Human Welfare from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699c22d3f1a85379bee41ff4",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "Organisms and Population",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programChapterId": "697c776d9375636efa8ff8b0",
+    "programTopicId": "697c78430e808e84e62b1a25",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:50:11.328Z",
+    "updatedAt": "2026-07-22T19:59:12.863Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "6981540a2263c5c66fd40edd",
+        "numberOfQuestions": 11
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "698155b41ed374a1186ee239",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "698155042263c5c66fd40f87",
+        "numberOfQuestions": 19
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "6981548c1470e50869b54bf6",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698156a07ff3c627154e84e7",
+        "numberOfQuestions": 32
+      }
+    ],
+    "totalPageCount": 42,
+    "pageSliceVersion": 1,
+    "slug": "organisms-and-population",
+    "seo": {
+      "titleTag": "Organisms and Population - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Organisms and Population - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Organisms and Population - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Organisms and Population from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Organisms and Population from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Organisms and Population from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699c22f48e208767a1307e4b",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 16,
+    "title": "Ecosystem",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programChapterId": "697c776d9375636efa8ff8b0",
+    "programTopicId": "697c784e3cfba078bdbc884c",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 16,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:50:44.405Z",
+    "updatedAt": "2026-07-22T19:59:15.002Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "698157422b3431a9e3b7ef87",
+        "numberOfQuestions": 4
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "6981590e7ff3c627154e8513",
+        "numberOfQuestions": 56
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "6981587e1470e50869b54ee1",
+        "numberOfQuestions": 25
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "698157b71ed374a1186ee29d",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "698159d12b3431a9e3b7efaf",
+        "numberOfQuestions": 19
+      }
+    ],
+    "totalPageCount": 27,
+    "pageSliceVersion": 1,
+    "slug": "ecosystem",
+    "seo": {
+      "titleTag": "Ecosystem - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Ecosystem - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Ecosystem - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Ecosystem from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Ecosystem from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Ecosystem from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  },
+  {
+    "_id": "699c231881e538f5470d9221",
+    "bookId": "699c12fb44c8ec108fd50d45",
+    "status": "ACTIVE",
+    "displayOrder": 17,
+    "title": "Biodiversity and Conservation",
+    "noOfSections": "1",
+    "subject": "67726de3f5afe87e4e4bc909",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "programSectionId": "679a679ed195faefb92ddb4b",
+    "programChapterId": "697c776d9375636efa8ff8b0",
+    "programTopicId": "697c785a516927b3c1e73ad5",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 17,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-02-23T09:51:20.933Z",
+    "updatedAt": "2026-07-22T19:59:17.351Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Aarambh (Solved Examples)",
+        "testId": "69815ae3ca342353575407f5",
+        "numberOfQuestions": 9
+      },
+      {
+        "name": "Prarambh Exercise-1 (Topicwise)",
+        "testId": "69815c94ee4784d56c4e7162",
+        "numberOfQuestions": 52
+      },
+      {
+        "name": "Prabal Exercise-2 (Learning Plus)",
+        "testId": "69815c057ff3c627154e8602",
+        "numberOfQuestions": 16
+      },
+      {
+        "name": "Parikshit Exercise-3 (Multiconcept)",
+        "testId": "69815b75ee4784d56c4e70c7",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "PYQs Exercise-4 (Important NEET PYQs)",
+        "testId": "69815d6dbc868b710aa68321",
+        "numberOfQuestions": 38
+      }
+    ],
+    "totalPageCount": 25,
+    "pageSliceVersion": 1,
+    "slug": "biodiversity-and-conservation",
+    "seo": {
+      "titleTag": "Biodiversity and Conservation - Yakeen NEET Botany (Digital Module) | PW Books",
+      "coverImageAltText": "Biodiversity and Conservation - Yakeen NEET Botany (Digital Module) | PW Books",
+      "ogTitle": "Biodiversity and Conservation - Yakeen NEET Botany (Digital Module) | PW Books",
+      "shortDescription": "Read Biodiversity and Conservation from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Biodiversity and Conservation from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Biodiversity and Conservation from Yakeen NEET Botany (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/67b9eb63-56e0-4a75-8244-9175ba0685fa.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726de3f5afe87e4e4bc909",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET"
+      ],
+      "displayName": "Biology",
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:43.849Z",
+      "updatedAt": "2026-03-23T18:20:23.113Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2ab14ecd5443ac9def63",
+        "name": "Biology.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/2c5f9f83-002d-49c4-adfe-60dfd5d81eae.PNG"
+      },
+      "slug": "biology"
+    }
+  }
+]

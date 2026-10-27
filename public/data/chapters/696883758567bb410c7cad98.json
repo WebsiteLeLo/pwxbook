@@ -1,0 +1,1672 @@
+[
+  {
+    "_id": "696ba0382cf8c4b47ef9744d",
+    "bookId": "696883758567bb410c7cad98",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Determinants",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:44:08.292Z",
+    "updatedAt": "2026-07-22T19:32:51.532Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69688b8b6018d8a71985f187",
+        "numberOfQuestions": 44
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696618dee95202c1d758ce68",
+        "numberOfQuestions": 35
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696a256ae16da6a780a91eb8",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696b0e309a97e785ce42648d",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696b0fcd321b6612f8ee20f4",
+        "numberOfQuestions": 68
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696b10d5c4ee58922bc631f2",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "683edf4d404a823331204404",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "684a765066781dab70997142",
+    "totalPageCount": 23,
+    "pageSliceVersion": 1,
+    "slug": "determinants-2",
+    "seo": {
+      "titleTag": "Determinants - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Determinants - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Determinants - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Determinants from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Determinants from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Determinants from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f6cfc85-7312-4d6a-8dae-4838e4cc2b3a.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "696ba0525450aa7860b03d9e",
+    "bookId": "696883758567bb410c7cad98",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Matrices",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:44:34.319Z",
+    "updatedAt": "2026-07-22T19:32:54.517Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696a0c2d09da9fb3b737b991",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696a0e979a97e785ce417158",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696a0fc085056bbf7b75ee78",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696a10bc09da9fb3b737ca36",
+        "numberOfQuestions": 28
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696a12ac34243fb19a340e6a",
+        "numberOfQuestions": 51
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696a13e0d20ed72d971a6115",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "683edf4d404a823331204404",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "684a7633652e8d9393874802",
+    "totalPageCount": 52,
+    "pageSliceVersion": 1,
+    "slug": "matrices",
+    "seo": {
+      "titleTag": "Matrices - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Matrices - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Matrices - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Matrices from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Matrices from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Matrices from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f6cfc85-7312-4d6a-8dae-4838e4cc2b3a.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "696ba0712cf8c4b47ef975f9",
+    "bookId": "696883758567bb410c7cad98",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Relations and Functions",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:45:05.907Z",
+    "updatedAt": "2026-07-22T19:32:57.725Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696dc5b72e7bc434e76d1252",
+        "numberOfQuestions": 65
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696a175f85056bbf7b7601c2",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696c3d489e16fbe84ee8b2b5",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696c417cd0f6f5c080667c15",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696dc71a2295c53cafb7882b",
+        "numberOfQuestions": 96
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696a18429a97e785ce4185f5",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "683edf4d404a823331204404",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "684a7609a080b21f31c3d1cf",
+    "totalPageCount": 61,
+    "pageSliceVersion": 1,
+    "slug": "relations-and-functions",
+    "seo": {
+      "titleTag": "Relations and Functions - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Relations and Functions - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Relations and Functions - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Relations and Functions from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Relations and Functions from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Relations and Functions from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f6cfc85-7312-4d6a-8dae-4838e4cc2b3a.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "696ba08b1046918497844540",
+    "bookId": "696883758567bb410c7cad98",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Inverse Trigonometric Functions",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:45:31.355Z",
+    "updatedAt": "2026-07-22T19:32:59.134Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6969f8e0c4ee58922bc50c1a",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6969faf209da9fb3b7372ce1",
+        "numberOfQuestions": 35
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6969fce034243fb19a334f6c",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6969fdf760a64c5414733d6c",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696a01ff60a64c5414735f20",
+        "numberOfQuestions": 56
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6969b5c509da9fb3b736c9d3",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "683edf4d404a823331204404",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "684a761ef32a4654ca99bab3",
+    "totalPageCount": 28,
+    "pageSliceVersion": 1,
+    "slug": "inverse-trigonometric-functions",
+    "seo": {
+      "titleTag": "Inverse Trigonometric Functions - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Inverse Trigonometric Functions - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Inverse Trigonometric Functions - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Inverse Trigonometric Functions from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Inverse Trigonometric Functions from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Inverse Trigonometric Functions from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f6cfc85-7312-4d6a-8dae-4838e4cc2b3a.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "696ba0a98a59bbd0a6244f4f",
+    "bookId": "696883758567bb410c7cad98",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Limit, Continuity and Differentiability",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:46:01.802Z",
+    "updatedAt": "2026-07-22T19:33:03.153Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696b65127c5a558c361d0411",
+        "numberOfQuestions": 104
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696b65ee8c14ac7c67359b43",
+        "numberOfQuestions": 91
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696b67131c578adcf679e314",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696b7936b10472f4aef22f5f",
+        "numberOfQuestions": 68
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696b7630a911bdae56848d14",
+        "numberOfQuestions": 85
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696b77806e7e1202a4c5aa40",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "683edf4d404a823331204404",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "684bdd8bf8d1b533b8d5ff8e",
+    "totalPageCount": 68,
+    "pageSliceVersion": 1,
+    "slug": "limit-continuity-and-differentiability",
+    "seo": {
+      "titleTag": "Limit, Continuity and Differentiability - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Limit, Continuity and Differentiability - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Limit, Continuity and Differentiability - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Limit, Continuity and Differentiability from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Limit, Continuity and Differentiability from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Limit, Continuity and Differentiability from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f6cfc85-7312-4d6a-8dae-4838e4cc2b3a.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "696ba0ea5450aa7860b0406b",
+    "bookId": "696883758567bb410c7cad98",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Method of Differentiation",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:47:06.648Z",
+    "updatedAt": "2026-07-22T19:33:05.034Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696c58d91c578adcf67ac7dd",
+        "numberOfQuestions": 28
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696c59ce1c578adcf67acbb8",
+        "numberOfQuestions": 24
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696dc8bdc3ce7d33f46db351",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696c5c3b2e7bc434e729ec6f",
+        "numberOfQuestions": 54
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696c5dbc1c578adcf67adf79",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696c5e8415b6e4c8090c3b03",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "683edf4d404a823331204404",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "696c4a46f56c829c2ad88c14",
+    "totalPageCount": 31,
+    "pageSliceVersion": 1,
+    "slug": "method-of-differentiation",
+    "seo": {
+      "titleTag": "Method of Differentiation - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Method of Differentiation - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Method of Differentiation - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Method of Differentiation from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Method of Differentiation from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Method of Differentiation from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f6cfc85-7312-4d6a-8dae-4838e4cc2b3a.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "696ba1178ee242b959fbcb6a",
+    "bookId": "696883758567bb410c7cad98",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Application of Derivatives",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:47:51.459Z",
+    "updatedAt": "2026-07-22T19:33:09.083Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696c5f6a15b6e4c8090c405c",
+        "numberOfQuestions": 63
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696c5ffcec4d43042ffa9ed1",
+        "numberOfQuestions": 48
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696c60f2c3ce7d33f46bb7ca",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696c648e9e16fbe84ee8b884",
+        "numberOfQuestions": 56
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696c66e38c14ac7c673a79c9",
+        "numberOfQuestions": 61
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696c6865cfe49cc2f97224ad",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "683edf4d404a823331204404",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "684bddb6162256c2e013163d",
+    "totalPageCount": 71,
+    "pageSliceVersion": 1,
+    "slug": "application-of-derivatives",
+    "seo": {
+      "titleTag": "Application of Derivatives - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Application of Derivatives - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Application of Derivatives - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Application of Derivatives from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Application of Derivatives from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Application of Derivatives from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f6cfc85-7312-4d6a-8dae-4838e4cc2b3a.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "696ba1427e76b32c95d07f84",
+    "bookId": "696883758567bb410c7cad98",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Indefinite Integration",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:48:34.222Z",
+    "updatedAt": "2026-07-22T19:33:12.441Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69819d28e8bc6b2974eb65d9",
+        "numberOfQuestions": 42
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6981a10a1470e50869b676c4",
+        "numberOfQuestions": 48
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6989cd0f7fde0f014b67b432",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6989cd4ac8ca29e448c645e2",
+        "numberOfQuestions": 58
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "698447166def29b6765efde1",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6989cd9aa78bf25ff794e314",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "683edf4d404a823331204404",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "69819ce3a1478754f179815a",
+    "totalPageCount": 60,
+    "pageSliceVersion": 1,
+    "slug": "indefinite-integration",
+    "seo": {
+      "titleTag": "Indefinite Integration - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Indefinite Integration - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Indefinite Integration - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Indefinite Integration from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Indefinite Integration from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Indefinite Integration from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f6cfc85-7312-4d6a-8dae-4838e4cc2b3a.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "696ba162d69d4f572dbd17d5",
+    "bookId": "696883758567bb410c7cad98",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Definite Integration",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:49:06.130Z",
+    "updatedAt": "2026-07-22T19:33:14.967Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6981ac1418d4d598b0b99940",
+        "numberOfQuestions": 47
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6981ac4228cd48776749712f",
+        "numberOfQuestions": 51
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6989c45f95045e0d8f33a2b7",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6989c4dbb16ec75b93f22486",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "698449b7bb063b7e69563b8f",
+        "numberOfQuestions": 82
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6989c4a0c8ca29e448c630d5",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "683edf4d404a823331204404",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6981ab66d266f78606bfe88f",
+    "totalPageCount": 44,
+    "pageSliceVersion": 1,
+    "slug": "definite-integration",
+    "seo": {
+      "titleTag": "Definite Integration - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Definite Integration - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Definite Integration - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Definite Integration from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Definite Integration from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Definite Integration from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f6cfc85-7312-4d6a-8dae-4838e4cc2b3a.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "696ba19c766f67ff71c79590",
+    "bookId": "696883758567bb410c7cad98",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Application of integrals",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:50:04.066Z",
+    "updatedAt": "2026-07-22T19:33:16.215Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6981cd88787b30a7efe17f16",
+        "numberOfQuestions": 29
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6981ce0a18d4d598b0bbe88f",
+        "numberOfQuestions": 45
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69898accdd3ad8794cd02866",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69898b14dd3ad8794cd028b6",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "69844b8bbb063b7e6956410d",
+        "numberOfQuestions": 73
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69898b3fc29f4c7c37e02620",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "683edf4d404a823331204404",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "6981cb795f29336c3b530960",
+    "totalPageCount": 14,
+    "pageSliceVersion": 1,
+    "slug": "application-of-integrals",
+    "seo": {
+      "titleTag": "Application of integrals - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Application of integrals - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Application of integrals - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Application of integrals from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Application of integrals from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Application of integrals from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f6cfc85-7312-4d6a-8dae-4838e4cc2b3a.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "696ba24874cf46aecc782934",
+    "bookId": "696883758567bb410c7cad98",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Differential Equation",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:52:56.024Z",
+    "updatedAt": "2026-07-22T19:33:18.663Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6981d86928cd4877674c36a0",
+        "numberOfQuestions": 41
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6981d8ef7ff3c627154f0d48",
+        "numberOfQuestions": 46
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69898edf02531bfec1cf4697",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69898f1264b76687e58ced10",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "698453edbf7f6b069152d00e",
+        "numberOfQuestions": 88
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69898f40c29f4c7c37e02e75",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "683edf4d404a823331204404",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "684bde239a0aac96125cea57",
+    "totalPageCount": 35,
+    "pageSliceVersion": 1,
+    "slug": "differential-equation",
+    "seo": {
+      "titleTag": "Differential Equation - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Differential Equation - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Differential Equation - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Differential Equation from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Differential Equation from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Differential Equation from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f6cfc85-7312-4d6a-8dae-4838e4cc2b3a.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "696ba26edd2eb63d75198ded",
+    "bookId": "696883758567bb410c7cad98",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Vector Algebra",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:53:34.357Z",
+    "updatedAt": "2026-07-22T19:33:22.030Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6982fc023b179d24a43e9433",
+        "numberOfQuestions": 56
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6982fc453b179d24a43e9548",
+        "numberOfQuestions": 38
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6989956e7fde0f014b59b802",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "698995a27fde0f014b59b83c",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6984596dbb063b7e69566950",
+        "numberOfQuestions": 87
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "698995cbb16ec75b93e65158",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "683edf4d404a823331204404",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "684bde3c7af182af2c715f2e",
+    "totalPageCount": 40,
+    "pageSliceVersion": 1,
+    "slug": "vector-algebra",
+    "seo": {
+      "titleTag": "Vector Algebra - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Vector Algebra - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Vector Algebra - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Vector Algebra from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Vector Algebra from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Vector Algebra from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f6cfc85-7312-4d6a-8dae-4838e4cc2b3a.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "696ba2886cbfe680c67fb453",
+    "bookId": "696883758567bb410c7cad98",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Three Dimensional Geometry",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:54:00.756Z",
+    "updatedAt": "2026-07-22T19:33:24.842Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6982e7a2ca6dbdcdc480e0fd",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6982e7fbec66d440b34a8840",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69898466e414bdf3bcc3c481",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "698986bae5db02a913cde061",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "69845529fc91c049990504cb",
+        "numberOfQuestions": 103
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69898751850e9260de1f99f1",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "683edf4d404a823331204404",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "684bde574052b6bd42ec4e40",
+    "totalPageCount": 36,
+    "pageSliceVersion": 1,
+    "slug": "three-dimensional-geometry",
+    "seo": {
+      "titleTag": "Three Dimensional Geometry - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Three Dimensional Geometry - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Three Dimensional Geometry - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Three Dimensional Geometry from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Three Dimensional Geometry from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Three Dimensional Geometry from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f6cfc85-7312-4d6a-8dae-4838e4cc2b3a.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "696ba2a157b461c99fc11887",
+    "bookId": "696883758567bb410c7cad98",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Probability",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:54:25.828Z",
+    "updatedAt": "2026-07-22T19:33:27.659Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6982efeb9200a51571da26ac",
+        "numberOfQuestions": 44
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6982f03f539e55f62da52573",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69899a0264b76687e58cf8b9",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69899a3fdd3ad8794cd58673",
+        "numberOfQuestions": 60
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "698456a5bb063b7e69566006",
+        "numberOfQuestions": 62
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "69899a65a78bf25ff79480af",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "683edf4d404a823331204404",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "684bde8fc26b8e1e5cab651a",
+    "totalPageCount": 37,
+    "pageSliceVersion": 1,
+    "slug": "probability",
+    "seo": {
+      "titleTag": "Probability - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Probability - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Probability - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Probability from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Probability from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Probability from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f6cfc85-7312-4d6a-8dae-4838e4cc2b3a.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  },
+  {
+    "_id": "696ba2bd527fb9fc62dc3700",
+    "bookId": "696883758567bb410c7cad98",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "Linear Programming",
+    "noOfSections": "1",
+    "subject": "682ac477c42a98eb879f940a",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:54:53.035Z",
+    "updatedAt": "2026-07-22T19:33:29.414Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "6983015c539e55f62da550d4",
+        "numberOfQuestions": 37
+      }
+    ],
+    "programChapterId": "683edf4d404a823331204404",
+    "programSectionId": "683ede71af97b172e6715b89",
+    "programTopicId": "684bde730ae0eb46717fb1a4",
+    "totalPageCount": 22,
+    "pageSliceVersion": 1,
+    "slug": "linear-programming",
+    "seo": {
+      "titleTag": "Linear Programming - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "coverImageAltText": "Linear Programming - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "ogTitle": "Linear Programming - Lakshya JEE Mathematics (Digital Module) | PW Books",
+      "shortDescription": "Read Linear Programming from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Linear Programming from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Linear Programming from Lakshya JEE Mathematics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f6cfc85-7312-4d6a-8dae-4838e4cc2b3a.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "682ac477c42a98eb879f940a",
+      "classes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "IIT-JEE"
+      ],
+      "displayName": "Maths",
+      "displayImage": {
+        "_id": "67a35ea9bd43db452cd67769",
+        "name": "biology_subject",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/9fd90517-63c1-4a2f-98bc-23078e3bbabd.png",
+        "baseUrl": "https://static.pw.live/"
+      },
+      "qbgId": "67726de3f5afe87e4e4bc908",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2025-06-20T08:21:28.374Z",
+      "updatedAt": "2026-03-23T18:19:59.696Z",
+      "__v": 0,
+      "slug": "maths"
+    }
+  }
+]

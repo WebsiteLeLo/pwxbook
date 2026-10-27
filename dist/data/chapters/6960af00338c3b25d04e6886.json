@@ -1,0 +1,1677 @@
+[
+  {
+    "_id": "696b9989fef97c0e138119c4",
+    "bookId": "6960af00338c3b25d04e6886",
+    "status": "ACTIVE",
+    "displayOrder": 1,
+    "title": "Electric Charges and Field",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 1,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:15:37.858Z",
+    "updatedAt": "2026-07-22T19:30:58.713Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696872fa6ec75931eac0e961",
+        "numberOfQuestions": 51
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696b5a58671ef1638ea85d9f",
+        "numberOfQuestions": 38
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69699abf95cd1bc4bf9a1f32",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "69699cede9871a0199e341a1",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "69699fc59a97e785ce403145",
+        "numberOfQuestions": 79
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6964c42c6ec75931eaa977a2",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "67ac7229fa9b33ea0724c831",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6964c2c6d3431c4064deb664",
+    "totalPageCount": 76,
+    "pageSliceVersion": 1,
+    "slug": "electric-charges-and-field",
+    "seo": {
+      "titleTag": "Electric Charges and Field - Lakshya JEE Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Electric Charges and Field - Lakshya JEE Physics (Digital Module) | PW Books",
+      "ogTitle": "Electric Charges and Field - Lakshya JEE Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Electric Charges and Field from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electric Charges and Field from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electric Charges and Field from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3573cb69-828a-4029-83b3-0336fffa3c55.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "696b9acf2a2d47664857215c",
+    "bookId": "6960af00338c3b25d04e6886",
+    "status": "ACTIVE",
+    "displayOrder": 2,
+    "title": "Electric Potential and Dipole",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 2,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:21:03.780Z",
+    "updatedAt": "2026-07-22T19:31:01.408Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69687acd82e584b2616c641a",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "695e1901f6b42a79b8a225bc",
+        "numberOfQuestions": 25
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "695e1e951963f7f1d07a260a",
+        "numberOfQuestions": 37
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "695e2039ccbff47940660a94",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6969a34395cd1bc4bf9a204f",
+        "numberOfQuestions": 17
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6964c6576ec75931eaa99342",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "67ac73e4edf0051bb4f71286",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "695cf93f3f7f4fb35fe5705e",
+    "totalPageCount": 51,
+    "pageSliceVersion": 1,
+    "slug": "electric-potential-and-dipole",
+    "seo": {
+      "titleTag": "Electric Potential and Dipole - Lakshya JEE Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Electric Potential and Dipole - Lakshya JEE Physics (Digital Module) | PW Books",
+      "ogTitle": "Electric Potential and Dipole - Lakshya JEE Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Electric Potential and Dipole from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electric Potential and Dipole from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electric Potential and Dipole from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3573cb69-828a-4029-83b3-0336fffa3c55.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "696b9b00d16e521818b906d3",
+    "bookId": "6960af00338c3b25d04e6886",
+    "status": "ACTIVE",
+    "displayOrder": 3,
+    "title": "Current Electricity",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 3,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:21:52.978Z",
+    "updatedAt": "2026-07-22T19:31:06.056Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "69687bd955d39f5068b0daed",
+        "numberOfQuestions": 57
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "6964ca5f5464e385af2beaf5",
+        "numberOfQuestions": 48
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "6964cbdf28c8bf406e318aa5",
+        "numberOfQuestions": 37
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6964cdac46c546b931c35118",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "6969b1dce9871a0199e34a9d",
+        "numberOfQuestions": 101
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "6964ceba82e584b26153121c",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "67ac7458607417bea4909cd3",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6964c975ccbb691ad9c0a577",
+    "totalPageCount": 84,
+    "pageSliceVersion": 1,
+    "slug": "current-electricity-2",
+    "seo": {
+      "titleTag": "Current Electricity - Lakshya JEE Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Current Electricity - Lakshya JEE Physics (Digital Module) | PW Books",
+      "ogTitle": "Current Electricity - Lakshya JEE Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Current Electricity from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Current Electricity from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Current Electricity from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3573cb69-828a-4029-83b3-0336fffa3c55.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "696b9b47b3d7a71e8584a340",
+    "bookId": "6960af00338c3b25d04e6886",
+    "status": "ACTIVE",
+    "displayOrder": 4,
+    "title": "Capacitance",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 4,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:23:03.584Z",
+    "updatedAt": "2026-07-22T19:31:07.802Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696b211f9f7905cfc702d4c4",
+        "numberOfQuestions": 42
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "69688d4f326b930ba1d61fb2",
+        "numberOfQuestions": 12
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "69688faa9a4d054bdc23c1f8",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "6968935f9a97e785ce3c0f02",
+        "numberOfQuestions": 21
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696b52d2321b6612f8ef5fb3",
+        "numberOfQuestions": 47
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696893f482e584b2616c9fb2",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "69688168558642016d3977cb",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "6968818b526420d3f6fffb93",
+    "totalPageCount": 37,
+    "pageSliceVersion": 1,
+    "slug": "capacitance",
+    "seo": {
+      "titleTag": "Capacitance - Lakshya JEE Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Capacitance - Lakshya JEE Physics (Digital Module) | PW Books",
+      "ogTitle": "Capacitance - Lakshya JEE Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Capacitance from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Capacitance from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Capacitance from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3573cb69-828a-4029-83b3-0336fffa3c55.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "696b9b80a894bc94f9ed101d",
+    "bookId": "6960af00338c3b25d04e6886",
+    "status": "ACTIVE",
+    "displayOrder": 5,
+    "title": "Moving Charges and  Magnetism",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 5,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:24:00.828Z",
+    "updatedAt": "2026-07-22T19:31:11.167Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696b5404c4ee58922bc6f025",
+        "numberOfQuestions": 49
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696b54ee5dd122ea6146a562",
+        "numberOfQuestions": 36
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696b55d48684b6b6d0b2479e",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696b576ee2dd37ddb88d55fb",
+        "numberOfQuestions": 58
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696b58c89f7905cfc703b473",
+        "numberOfQuestions": 86
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696c474f8c14ac7c67399967",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "67ac74dcc80b72fc8a22bf75",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "696b5376c27377606d0adfbb",
+    "totalPageCount": 67,
+    "pageSliceVersion": 1,
+    "slug": "moving-charges-and-magnetism",
+    "seo": {
+      "titleTag": "Moving Charges and  Magnetism - Lakshya JEE Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Moving Charges and  Magnetism - Lakshya JEE Physics (Digital Module) | PW Books",
+      "ogTitle": "Moving Charges and  Magnetism - Lakshya JEE Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Moving Charges and  Magnetism from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Moving Charges and  Magnetism from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Moving Charges and  Magnetism from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3573cb69-828a-4029-83b3-0336fffa3c55.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "696b9bba4a9a2897bb034dcc",
+    "bookId": "6960af00338c3b25d04e6886",
+    "status": "ACTIVE",
+    "displayOrder": 6,
+    "title": "Magnetism and Matter",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 6,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:24:58.131Z",
+    "updatedAt": "2026-07-22T19:31:13.131Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696b609183abbb7242047f69",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696b614ecfa1d5b690d65c6e",
+        "numberOfQuestions": 46
+      },
+      {
+        "name": "Exercise-3 PYQ’s (Past Year Questions)",
+        "testId": "696b62636e7e1202a4c5334c",
+        "numberOfQuestions": 36
+      },
+      {
+        "name": "Exercise-4 (PW Challengers)",
+        "testId": "696b63a0cfa1d5b690d66d70",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "67ac766b8633c22039555316",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "696b601940ddd6a32d3ddf77",
+    "totalPageCount": 44,
+    "pageSliceVersion": 1,
+    "slug": "magnetism-and-matter",
+    "seo": {
+      "titleTag": "Magnetism and Matter - Lakshya JEE Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Magnetism and Matter - Lakshya JEE Physics (Digital Module) | PW Books",
+      "ogTitle": "Magnetism and Matter - Lakshya JEE Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Magnetism and Matter from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Magnetism and Matter from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Magnetism and Matter from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3573cb69-828a-4029-83b3-0336fffa3c55.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "696b9bf29fe1706577863f77",
+    "bookId": "6960af00338c3b25d04e6886",
+    "status": "ACTIVE",
+    "displayOrder": 7,
+    "title": "Electromagnetic Induction",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 7,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:25:54.713Z",
+    "updatedAt": "2026-07-22T19:31:15.956Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696b266c9a97e785ce428b25",
+        "numberOfQuestions": 50
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696b2756e2dd37ddb88c491a",
+        "numberOfQuestions": 37
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696b3ddf09da9fb3b738fa2a",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696b4ec15dd122ea61467e6b",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696b4ffc8684b6b6d0b2338d",
+        "numberOfQuestions": 53
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696b51119a97e785ce430c62",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "67ac79b04c5372c20a668f51",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "696b22f3015a0159e6984767",
+    "totalPageCount": 62,
+    "pageSliceVersion": 1,
+    "slug": "electromagnetic-induction",
+    "seo": {
+      "titleTag": "Electromagnetic Induction - Lakshya JEE Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Electromagnetic Induction - Lakshya JEE Physics (Digital Module) | PW Books",
+      "ogTitle": "Electromagnetic Induction - Lakshya JEE Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Electromagnetic Induction from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electromagnetic Induction from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electromagnetic Induction from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3573cb69-828a-4029-83b3-0336fffa3c55.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "696b9c24a6fa8f16e59807d5",
+    "bookId": "6960af00338c3b25d04e6886",
+    "status": "ACTIVE",
+    "displayOrder": 8,
+    "title": "Alternating Current",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 8,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:26:44.235Z",
+    "updatedAt": "2026-07-22T19:31:18.517Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696caa2815b6e4c80911e1be",
+        "numberOfQuestions": 32
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696caaf72295c53caf7c9a4f",
+        "numberOfQuestions": 24
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696f0559f45fec53a8090e80",
+        "numberOfQuestions": 35
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696f068db51ad7da6e85bbad",
+        "numberOfQuestions": 52
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696cd7101c578adcf686e4e1",
+        "numberOfQuestions": 64
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696f082c3e47309415b664c5",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "67ac7acdab7dedd14c65799b",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "696ca1aa84d77fc9c7ac27f9",
+    "totalPageCount": 52,
+    "pageSliceVersion": 1,
+    "slug": "alternating-current",
+    "seo": {
+      "titleTag": "Alternating Current - Lakshya JEE Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Alternating Current - Lakshya JEE Physics (Digital Module) | PW Books",
+      "ogTitle": "Alternating Current - Lakshya JEE Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Alternating Current from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Alternating Current from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Alternating Current from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3573cb69-828a-4029-83b3-0336fffa3c55.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "696b9c5d88c2dae81071e5da",
+    "bookId": "6960af00338c3b25d04e6886",
+    "status": "ACTIVE",
+    "displayOrder": 9,
+    "title": "Electromagnetic Waves",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 9,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:27:41.891Z",
+    "updatedAt": "2026-07-22T19:31:20.079Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696e0bead0f6f5c080e7c13f",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696e0c243e47309415b0e5cf",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696cae79c3ce7d33f46ca30e",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696cd8161c578adcf686fa44",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696cd852c3ce7d33f46cae70",
+        "numberOfQuestions": 59
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696cd8892e7bc434e7421834",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "67ac7b9e12a2fd05b9e779b0",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "696cadfe83882e26d01a0a6b",
+    "totalPageCount": 37,
+    "pageSliceVersion": 1,
+    "slug": "electromagnetic-waves",
+    "seo": {
+      "titleTag": "Electromagnetic Waves - Lakshya JEE Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Electromagnetic Waves - Lakshya JEE Physics (Digital Module) | PW Books",
+      "ogTitle": "Electromagnetic Waves - Lakshya JEE Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Electromagnetic Waves from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Electromagnetic Waves from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Electromagnetic Waves from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3573cb69-828a-4029-83b3-0336fffa3c55.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "696b9c8c732a397740911271",
+    "bookId": "6960af00338c3b25d04e6886",
+    "status": "ACTIVE",
+    "displayOrder": 10,
+    "title": "Ray Optics and Optical Instruments",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 10,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:28:28.175Z",
+    "updatedAt": "2026-07-22T19:31:26.760Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696cd9742295c53caf8eba37",
+        "numberOfQuestions": 52
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696cd9912295c53caf8eba39",
+        "numberOfQuestions": 43
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696cd9afcfe49cc2f9985a35",
+        "numberOfQuestions": 41
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696cd9d28c14ac7c675fef59",
+        "numberOfQuestions": 57
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696cda042295c53caf8f4a93",
+        "numberOfQuestions": 96
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696f199ef45fec53a8099229",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "67ac7e3c12a2fd05b9e77a66",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "696cd956608bc8296bb0bad5",
+    "totalPageCount": 127,
+    "pageSliceVersion": 1,
+    "slug": "ray-optics-and-optical-instruments",
+    "seo": {
+      "titleTag": "Ray Optics and Optical Instruments - Lakshya JEE Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Ray Optics and Optical Instruments - Lakshya JEE Physics (Digital Module) | PW Books",
+      "ogTitle": "Ray Optics and Optical Instruments - Lakshya JEE Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Ray Optics and Optical Instruments from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Ray Optics and Optical Instruments from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Ray Optics and Optical Instruments from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3573cb69-828a-4029-83b3-0336fffa3c55.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "696b9cb67f560d2e00478203",
+    "bookId": "6960af00338c3b25d04e6886",
+    "status": "ACTIVE",
+    "displayOrder": 11,
+    "title": "Wave Optics",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 11,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:29:10.478Z",
+    "updatedAt": "2026-07-22T19:31:30.644Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696cda7e2295c53caf8ffaa1",
+        "numberOfQuestions": 36
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696cda9fcfe49cc2f998f2e3",
+        "numberOfQuestions": 32
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696cdaca3e9f3dba5c45808e",
+        "numberOfQuestions": 40
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696cdae81c578adcf68734cb",
+        "numberOfQuestions": 55
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696cdb08d0f6f5c0808ed27a",
+        "numberOfQuestions": 70
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696cdb372295c53caf90add1",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "67ac7e8f82afc331b00ba0b4",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "696cda5b665845bd363e43e1",
+    "totalPageCount": 75,
+    "pageSliceVersion": 1,
+    "slug": "wave-optics",
+    "seo": {
+      "titleTag": "Wave Optics - Lakshya JEE Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Wave Optics - Lakshya JEE Physics (Digital Module) | PW Books",
+      "ogTitle": "Wave Optics - Lakshya JEE Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Wave Optics from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Wave Optics from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Wave Optics from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3573cb69-828a-4029-83b3-0336fffa3c55.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "696b9ce1a894bc94f9ed2165",
+    "bookId": "6960af00338c3b25d04e6886",
+    "status": "ACTIVE",
+    "displayOrder": 12,
+    "title": "Dual Nature of radiation and Matter",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 12,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:29:53.990Z",
+    "updatedAt": "2026-07-22T19:31:32.555Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696cdbda8c14ac7c676135a8",
+        "numberOfQuestions": 33
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696cdc042295c53caf9193f4",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696cdc239e16fbe84ee8eb4f",
+        "numberOfQuestions": 32
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696cdc46c3ce7d33f46caee9",
+        "numberOfQuestions": 43
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696cdc67c3ce7d33f46caeeb",
+        "numberOfQuestions": 73
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696cdc862295c53caf93f99a",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "67ac80084c5372c20a669070",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "696cdbba69e9f1fc81493656",
+    "totalPageCount": 39,
+    "pageSliceVersion": 1,
+    "slug": "dual-nature-of-radiation-and-matter",
+    "seo": {
+      "titleTag": "Dual Nature of radiation and Matter - Lakshya JEE Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Dual Nature of radiation and Matter - Lakshya JEE Physics (Digital Module) | PW Books",
+      "ogTitle": "Dual Nature of radiation and Matter - Lakshya JEE Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Dual Nature of radiation and Matter from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Dual Nature of radiation and Matter from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Dual Nature of radiation and Matter from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3573cb69-828a-4029-83b3-0336fffa3c55.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "696b9d10a6fa8f16e5980cc9",
+    "bookId": "6960af00338c3b25d04e6886",
+    "status": "ACTIVE",
+    "displayOrder": 13,
+    "title": "Atoms",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 13,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:30:40.283Z",
+    "updatedAt": "2026-07-22T19:31:35.268Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696cdce4d0f6f5c080931c32",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696cdd038c14ac7c6764a22f",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696f730c2e7bc434e78d7997",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696cdd419e16fbe84ee8ebae",
+        "numberOfQuestions": 49
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696cdd621c578adcf68767d9",
+        "numberOfQuestions": 62
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696cdd8515b6e4c80918a843",
+        "numberOfQuestions": 11
+      }
+    ],
+    "programChapterId": "67ac816a8ae6443f2684bbd3",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "696cdcc4c2c8b9ddb3f995ed",
+    "totalPageCount": 62,
+    "pageSliceVersion": 1,
+    "slug": "atoms",
+    "seo": {
+      "titleTag": "Atoms - Lakshya JEE Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Atoms - Lakshya JEE Physics (Digital Module) | PW Books",
+      "ogTitle": "Atoms - Lakshya JEE Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Atoms from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Atoms from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Atoms from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3573cb69-828a-4029-83b3-0336fffa3c55.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "696b9d38732a3977409116ce",
+    "bookId": "6960af00338c3b25d04e6886",
+    "status": "ACTIVE",
+    "displayOrder": 14,
+    "title": "Nuclei",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 14,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:31:20.415Z",
+    "updatedAt": "2026-07-22T19:31:37.141Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696cdea12295c53caf978f5d",
+        "numberOfQuestions": 33
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696cdec015b6e4c80918c2e4",
+        "numberOfQuestions": 27
+      },
+      {
+        "name": "Exercise-3 Setu (Bridge)",
+        "testId": "696cdee59e16fbe84ee8ec1c",
+        "numberOfQuestions": 30
+      },
+      {
+        "name": "Exercise-4 Parikshit (JEE Advanced Level)",
+        "testId": "696cdf03ec4d43042ffaf064",
+        "numberOfQuestions": 44
+      },
+      {
+        "name": "Exercise-5 PYQ’s (Past Year Questions)",
+        "testId": "696cdf221c578adcf6878b78",
+        "numberOfQuestions": 57
+      },
+      {
+        "name": "Exercise-6 (PW Challengers)",
+        "testId": "696cdf412e7bc434e74e0be5",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "67ac823d93f6bf31a68e6d2b",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "696cde857613a8e3202f1d27",
+    "totalPageCount": 41,
+    "pageSliceVersion": 1,
+    "slug": "nuclei",
+    "seo": {
+      "titleTag": "Nuclei - Lakshya JEE Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Nuclei - Lakshya JEE Physics (Digital Module) | PW Books",
+      "ogTitle": "Nuclei - Lakshya JEE Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Nuclei from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Nuclei from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Nuclei from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3573cb69-828a-4029-83b3-0336fffa3c55.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  },
+  {
+    "_id": "696b9d7e7e76b32c95d06a79",
+    "bookId": "6960af00338c3b25d04e6886",
+    "status": "ACTIVE",
+    "displayOrder": 15,
+    "title": "Semiconductor Electronics Materials, Devices and Simple Circuits",
+    "noOfSections": "1",
+    "subject": "67726dcaf5afe87e4e4bc903",
+    "type": "PDF",
+    "isAiGuruEnabled": true,
+    "entryFilePath": "/final_output_with_ids_with_sections.html",
+    "pyq": [],
+    "exempler": [],
+    "ncertLineByLineMcq": [],
+    "ncertSolutions": [],
+    "createdBy": "645b3c844d35cb0018d79c4b",
+    "updatedBy": "645b3c844d35cb0018d79c4b",
+    "chapterVersion": 1,
+    "isImportant": 0,
+    "additionalContent": [],
+    "pyqAttachmentConfig": false,
+    "isSample": false,
+    "displayChapterNumber": 15,
+    "isVideoEnabled": false,
+    "importance": [],
+    "createdAt": "2026-01-17T14:32:30.198Z",
+    "updatedAt": "2026-07-22T19:31:39.408Z",
+    "__v": 0,
+    "customPracticeSet": [
+      {
+        "name": "Exercise-1 Prarambh (Topicwise)",
+        "testId": "696f2bd51cf2e604dc8e4c4f",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "Exercise-2 Prabal (JEE Main level)",
+        "testId": "696f2bfa7b9c119a243e237f",
+        "numberOfQuestions": 31
+      },
+      {
+        "name": "Exercise-3 PYQ’s (Past Year Questions)",
+        "testId": "696f2c212e7bc434e78afb7d",
+        "numberOfQuestions": 42
+      },
+      {
+        "name": "Exercise-4 (PW Challengers)",
+        "testId": "696f2c482e7bc434e78afb8a",
+        "numberOfQuestions": 10
+      }
+    ],
+    "programChapterId": "67ac8356064f296309e929d7",
+    "programSectionId": "67a9cac4e73cf9d300caba97",
+    "programTopicId": "696f2b98a190619684256899",
+    "totalPageCount": 50,
+    "pageSliceVersion": 1,
+    "slug": "semiconductor-electronics-materials-devices-and-simple-circuits",
+    "seo": {
+      "titleTag": "Semiconductor Electronics Materials, Devices and Simple Circuits - Lakshya JEE Physics (Digital Module) | PW Books",
+      "coverImageAltText": "Semiconductor Electronics Materials, Devices and Simple Circuits - Lakshya JEE Physics (Digital Module) | PW Books",
+      "ogTitle": "Semiconductor Electronics Materials, Devices and Simple Circuits - Lakshya JEE Physics (Digital Module) | PW Books",
+      "shortDescription": "Read Semiconductor Electronics Materials, Devices and Simple Circuits from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "metaDescription": "Read Semiconductor Electronics Materials, Devices and Simple Circuits from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogDescription": "Read Semiconductor Electronics Materials, Devices and Simple Circuits from Lakshya JEE Physics (Digital Module). Access full PDF chapter reader, notes, and solutions on PW Books.",
+      "ogImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3573cb69-828a-4029-83b3-0336fffa3c55.png",
+      "indexable": true
+    },
+    "dualPageView": null,
+    "combinedTestsWithType": [],
+    "pyqQuestions": 0,
+    "exemplerQuestions": 0,
+    "mcqQuestions": 0,
+    "nonPyqQuestionsWithType": [],
+    "testList": [],
+    "subjectDetails": {
+      "_id": "67726dcaf5afe87e4e4bc903",
+      "classes": [
+        "11",
+        "12",
+        "12+"
+      ],
+      "exams": [
+        "SCHOOL_PREPARATION",
+        "NEET",
+        "IIT-JEE"
+      ],
+      "displayName": "Physics",
+      "qbgId": "67726dcaf5afe87e4e4bc902",
+      "createdBy": "67726d8ad52affb37ff08aa2",
+      "updatedBy": "695ce6d1b8a4be0a001cf93b",
+      "status": "ACTIVE",
+      "createdAt": "2024-12-30T09:54:18.273Z",
+      "updatedAt": "2026-03-23T18:21:02.942Z",
+      "__v": 0,
+      "displayImage": {
+        "_id": "67ba2b8529bcb7f114a4ed43",
+        "name": "Physics.png",
+        "key": "5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG",
+        "baseUrl": "https://static.pw.live/",
+        "fullUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/AI_NCERT/06f66931-55b1-41c8-86be-e21603a2da96.PNG"
+      },
+      "slug": "physics"
+    }
+  }
+]
