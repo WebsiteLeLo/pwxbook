@@ -1,0 +1,16 @@
+{
+  "name": "PW Books & Tests",
+  "short_name": "PW Practice",
+  "description": "Universal exam practice and learning platform",
+  "theme_color": "#10b981",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/pwx-logo.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png"
+    }
+  ]
+}
